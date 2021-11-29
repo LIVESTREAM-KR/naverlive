@@ -37,6 +37,26 @@ linkSelector = "a.lnk-channel"
 imageSelector = "div.mask img._lazyImage"
 waitUntil = "networkidle"
 
+[store]
+title = "네이버 공연 live beta ─ 후원유료"
+url = "https://live.naver.com/store"
+entrySelector = "ul.list-item li.item"
+titleSelector = "a.detail-title"
+linkSelector = "a.detail-title"
+contentSelector = "p.date.ico-before"
+imageSelector = "img._lazyImage"
+waitUntil = "networkidle"
+
+[vod]
+title = "네이버 공연 live beta ─ 다시보기"
+url = "https://live.naver.com/vod"
+entrySelector = "ul.list-item li.item"
+titleSelector = "a.detail-title"
+linkSelector = "a.detail-title"
+contentSelector = "p.sub-info"
+imageSelector = "img._lazyImage"
+waitUntil = "networkidle"
+
 [schedule]
 title = "네이버 공연 live beta ─ 전체일정"
 url = "https://live.naver.com/schedule"
