@@ -17,3 +17,12 @@ linkSelector = "a.video"
 contentSelector = "span.badge_middle.badge_bg--00ca7b"
 imageSelector = "img._lazyImage"
 waitUntil = "networkidle"
+
+[channel]
+title = "네이버 공연 live beta ─ 채널"
+url = "https://live.naver.com/"
+entrySelector = "div.channel-list-box div.channel-list div div div.channel-item"
+titleSelector = "div.info-txt p.txt"
+linkSelector = "a.lnk-channel"
+imageSelector = "div.mask img._lazyImage"
+waitUntil = "networkidle"
