@@ -53,7 +53,7 @@ url = "https://live.naver.com/vod"
 entrySelector = "ul.list-item li.item"
 titleSelector = "a.detail-title"
 linkSelector = "a.detail-title"
-contentSelector = "p.sub-info"
+contentSelector = "p.sub-info span.txt:nth-child(2)"
 imageSelector = "img._lazyImage"
 waitUntil = "networkidle"
 
