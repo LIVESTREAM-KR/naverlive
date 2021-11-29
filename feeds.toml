@@ -8,7 +8,8 @@ contentSelector = "p.date.ico-before"
 imageSelector = "div.mask-box img._lazyImage"
 waitUntil = "networkidle"
 
-[live_top]
+
+[top]
 title = "네이버 공연 live beta ─ 하이라이트"
 url = "https://live.naver.com/"
 entrySelector = "div.eg-flick-camera div.video-box.eg-flick-panel"
@@ -16,6 +17,16 @@ titleSelector = "p.sub-title.ellipsis2"
 linkSelector = "a.video"
 contentSelector = "span.badge_middle.badge_bg--00ca7b"
 imageSelector = "img._lazyImage"
+waitUntil = "networkidle"
+
+[hot]
+title = "네이버 공연 live beta ─ HOT"
+url = "https://live.naver.com/hot"
+entrySelector = "ul.list-item li.item"
+titleSelector = "div.detail-info a"
+linkSelector = "div.detail-info a"
+contentSelector = "p.date.ico-before"
+imageSelector = "div.mask-box img._lazyImage"
 waitUntil = "networkidle"
 
 [channel]
@@ -26,3 +37,13 @@ titleSelector = "div.info-txt p.txt"
 linkSelector = "a.lnk-channel"
 imageSelector = "div.mask img._lazyImage"
 waitUntil = "networkidle"
+
+[schedule]
+title = "네이버 공연 live beta ─ 전체일정"
+url = "https://live.naver.com/schedule"
+entrySelector = "ul.list-item.schedule_list li.item.schedule_item"
+titleSelector = "a.detail-title"
+linkSelector = "a.detail-title"
+contentSelector = "p.date.ico-before"
+waitUntil = "networkidle"
+
