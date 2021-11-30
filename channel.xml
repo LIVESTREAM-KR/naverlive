@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 09:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 10:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
+            <link>https://tv.naver.com/dimf</link>
+            <guid>https://tv.naver.com/dimf</guid>
+            <pubDate>Tue, 30 Nov 2021 10:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트앤아티스트]]></title>
+            <link>https://tv.naver.com/artsnartists</link>
+            <guid>https://tv.naver.com/artsnartists</guid>
+            <pubDate>Tue, 30 Nov 2021 10:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트앤아티스트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한예종 예술극장]]></title>
             <link>https://tv.naver.com/karts</link>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은평문화재단]]></title>
-            <link>https://tv.naver.com/efac</link>
-            <guid>https://tv.naver.com/efac</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/efac" onclick="nclk(this, 'channel.img', 'efac', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_300/AqHjr_1592978704158bls5C_JPEG/1592978704134.jpg" alt="은평문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">은평문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_300/AqHjr_1592978704158bls5C_JPEG/1592978704134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문학번역원(LTI Korea)]]></title>
-            <link>https://tv.naver.com/ltikorea</link>
-            <guid>https://tv.naver.com/ltikorea</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/ltikorea" onclick="nclk(this, 'channel.img', 'ltikorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" alt="한국문학번역원(LTI Korea) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문학번역원(LTI Korea)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
