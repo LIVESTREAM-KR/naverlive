@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-11-30T15:46:54.434Z</updated>
+    <updated>2021-11-30T17:03:11.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <명동로망스> 11월 30일(화) 20시 온라인 상영회]]></title>
-        <id>https://tv.naver.com/l/89297</id>
-        <link href="https://tv.naver.com/l/89297"/>
-        <updated>2021-11-29T21:17:43.793Z</updated>
-        <content type="html"><![CDATA[11월 30일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[무령왕릉 발굴 50주년 기념 특별전 소개]]></title>
         <id>https://tv.naver.com/l/92626</id>
