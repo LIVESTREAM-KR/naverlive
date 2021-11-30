@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 11:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 12:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
             <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_46/iiNEl_1634288289761cV8ul_PNG/1634288289664.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <이광수의 꿈 그리고 꽃> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222504101747</link>
-            <guid>https://blog.naver.com/jump_arko/222504101747</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_153/j8VS3_1635146659066NITGQ_PNG/1635146659031.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -91,6 +83,15 @@
             <pubDate>Tue, 30 Nov 2021 11:38:30 GMT</pubDate>
             <content:encoded><![CDATA[12월 02일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_159/LRSHs_1634793891707cFEgR_PNG/1634793891686.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 - French Night]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 02일(목) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_278/1637677134892vOPms_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

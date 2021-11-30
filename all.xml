@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 11:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 12:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
             <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_46/iiNEl_1634288289761cV8ul_PNG/1634288289664.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <이광수의 꿈 그리고 꽃> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222504101747</link>
-            <guid>https://blog.naver.com/jump_arko/222504101747</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_153/j8VS3_1635146659066NITGQ_PNG/1635146659031.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -91,6 +83,15 @@
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 02일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_159/LRSHs_1634793891707cFEgR_PNG/1634793891686.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 - French Night (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 02일(목) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_278/1637677134892vOPms_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -207,14 +208,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_46/iiNEl_1634288289761cV8ul_PNG/1634288289664.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[연극 <이광수의 꿈 그리고 꽃> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/jump_arko/222504101747</link>
-            <guid>https://blog.naver.com/jump_arko/222504101747</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_153/j8VS3_1635146659066NITGQ_PNG/1635146659031.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - Swiss Night (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
@@ -272,6 +265,51 @@
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 02일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_159/LRSHs_1634793891707cFEgR_PNG/1634793891686.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 - French Night (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 02일(목) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_278/1637677134892vOPms_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Tue, 30 Nov 2021 12:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
@@ -580,24 +618,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/sumatv</link>
             <guid>https://tv.naver.com/sumatv</guid>
@@ -614,24 +634,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/rangtv</link>
-            <guid>https://tv.naver.com/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/rangtv" onclick="nclk(this, 'channel.img', 'rangtv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" alt="랑TV (COMPANY RANG) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">랑TV (COMPANY RANG)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -816,13 +818,6 @@
 										뮤지컬 <명동로망스> 11월 30일(화) 20시 온라인 상영회 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/89297</link>
             <guid>https://tv.naver.com/l/89297</guid>
-            <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <이광수의 꿈 그리고 꽃> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/90160</link>
-            <guid>https://tv.naver.com/l/90160</guid>
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[11월 30일(화) 20:00]]></content:encoded>
         </item>
