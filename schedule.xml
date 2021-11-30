@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-11-30T07:39:02.423Z</updated>
+    <updated>2021-11-30T08:40:12.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -293,11 +293,27 @@
         <content type="html"><![CDATA[12월 28일(화) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
+        <id>https://tv.naver.com/l/93140</id>
+        <link href="https://tv.naver.com/l/93140"/>
+        <updated>2021-11-30T08:40:11.976Z</updated>
+        <content type="html"><![CDATA[12월 30일(목) 18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[랩X씨어터 <헌책방 래퍼> 녹화중계]]></title>
         <id>https://tv.naver.com/l/91685</id>
         <link href="https://tv.naver.com/l/91685"/>
         <updated>2021-11-29T21:17:43.827Z</updated>
         <content type="html"><![CDATA[12월 30일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
+        <id>https://tv.naver.com/l/93142</id>
+        <link href="https://tv.naver.com/l/93142"/>
+        <updated>2021-11-30T08:40:11.977Z</updated>
+        <content type="html"><![CDATA[12월 31일(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원

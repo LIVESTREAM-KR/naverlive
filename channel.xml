@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울돈화문국악당]]></title>
+            <link>https://tv.naver.com/sdtt</link>
+            <guid>https://tv.naver.com/sdtt</guid>
+            <pubDate>Tue, 30 Nov 2021 08:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sdtt" onclick="nclk(this, 'channel.img', 'sdtt', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" alt="서울돈화문국악당 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울돈화문국악당</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV]]></title>
             <link>https://tv.naver.com/gongzindan</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여주세종문화재단]]></title>
-            <link>https://tv.naver.com/yjcf</link>
-            <guid>https://tv.naver.com/yjcf</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/yjcf" onclick="nclk(this, 'channel.img', 'yjcf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" alt="여주세종문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">여주세종문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
