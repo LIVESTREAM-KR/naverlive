@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 04:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LIVE 360]]></title>
+            <link>https://tv.naver.com/audioguy</link>
+            <guid>https://tv.naver.com/audioguy</guid>
+            <pubDate>Tue, 30 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/audioguy" onclick="nclk(this, 'channel.img', 'audioguy', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" alt="LIVE 360 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">LIVE 360</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Tue, 30 Nov 2021 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[천안예술의전당]]></title>
             <link>https://tv.naver.com/cnac</link>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200618_8/qpg7L_15924603793185BqVq_JPEG/1592460379294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시뮤지컬단]]></title>
-            <link>https://tv.naver.com/smmt</link>
-            <guid>https://tv.naver.com/smmt</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200625_293/ULHV2_1593047023302ck2WT_JPEG/1593047023280.jpg" alt="서울시뮤지컬단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시뮤지컬단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200625_293/ULHV2_1593047023302ck2WT_JPEG/1593047023280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화원연합회 TV]]></title>
-            <link>https://tv.naver.com/kccf</link>
-            <guid>https://tv.naver.com/kccf</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화원연합회 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
