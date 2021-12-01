@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,24 @@
             <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PlusHitch (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/plushitch</link>
+            <guid>https://tv.naver.com/plushitch</guid>
+            <pubDate>Wed, 01 Dec 2021 04:53:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/plushitch" onclick="nclk(this, 'channel.img', 'plushitch', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" alt="PlusHitch 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PlusHitch</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -598,24 +616,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sumatv</link>
-            <guid>https://tv.naver.com/sumatv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">수원시립미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
