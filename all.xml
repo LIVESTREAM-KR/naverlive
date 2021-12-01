@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1007,11 +1007,35 @@
         </item>
         <item>
             <title><![CDATA[후원
+										연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/91786</link>
+            <guid>https://tv.naver.com/l/91786</guid>
+            <pubDate>Wed, 01 Dec 2021 06:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/91788</link>
+            <guid>https://tv.naver.com/l/91788</guid>
+            <pubDate>Wed, 01 Dec 2021 06:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
 										뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93106</link>
             <guid>https://tv.naver.com/l/93106</guid>
             <pubDate>Tue, 30 Nov 2021 06:43:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/91789</link>
+            <guid>https://tv.naver.com/l/91789</guid>
+            <pubDate>Wed, 01 Dec 2021 06:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 26일(일) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
