@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-01T06:50:14.343Z</updated>
+    <updated>2021-12-01T07:39:17.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -164,6 +164,14 @@
         <link href="https://tv.naver.com/l/90527"/>
         <updated>2021-11-29T21:17:43.815Z</updated>
         <content type="html"><![CDATA[12월 07일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑
+										프랑스 국립자연사박물관 특별전]]></title>
+        <id>https://shoppinglive.naver.com/livebridge/337128</id>
+        <link href="https://shoppinglive.naver.com/livebridge/337128"/>
+        <updated>2021-12-01T07:39:17.145Z</updated>
+        <content type="html"><![CDATA[12월 09일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 서울국제공연예술제(SPAF) <디스토피아> 녹화중계]]></title>
