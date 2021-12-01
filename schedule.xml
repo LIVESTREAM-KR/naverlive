@@ -2,24 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-01T11:39:18.617Z</updated>
+    <updated>2021-12-01T13:02:32.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										뮤지컬 팬레터 시츠프로브 쇼핑라이브]]></title>
-        <id>https://shoppinglive.naver.com/lives/329348</id>
-        <link href="https://shoppinglive.naver.com/lives/329348"/>
-        <updated>2021-11-29T21:17:43.793Z</updated>
-        <content type="html"><![CDATA[12월 01일(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 뮤지컬 팬레터 시츠프로브 중계]]></title>
-        <id>https://tv.naver.com/l/92855</id>
-        <link href="https://tv.naver.com/l/92855"/>
-        <updated>2021-11-29T21:17:43.793Z</updated>
-        <content type="html"><![CDATA[12월 01일(수) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										유러피안 재즈 페스티벌 2021 - Dutch Night]]></title>
