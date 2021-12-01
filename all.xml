@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 09:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 10:44:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,6 +256,24 @@
             <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오차드 뮤지컬 TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/orchardmusical</link>
+            <guid>https://tv.naver.com/orchardmusical</guid>
+            <pubDate>Wed, 01 Dec 2021 10:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/orchardmusical" onclick="nclk(this, 'channel.img', 'orchardmusical', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" alt="오차드 뮤지컬 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">오차드 뮤지컬 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대림미술관ㅣ디뮤지엄 (네이버 공연 live beta ─ 채널)]]></title>
@@ -598,24 +616,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[천안예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/cnac</link>
-            <guid>https://tv.naver.com/cnac</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/cnac" onclick="nclk(this, 'channel.img', 'cnac', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" alt="천안예술의전당 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">천안예술의전당</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
