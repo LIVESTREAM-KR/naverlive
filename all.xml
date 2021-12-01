@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,60 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[대림미술관ㅣ디뮤지엄 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/daelimmuseum</link>
+            <guid>https://tv.naver.com/daelimmuseum</guid>
+            <pubDate>Wed, 01 Dec 2021 09:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대림미술관ㅣ디뮤지엄</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정서진 피크닉 클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/jcpf</link>
+            <guid>https://tv.naver.com/jcpf</guid>
+            <pubDate>Wed, 01 Dec 2021 09:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/jcpf" onclick="nclk(this, 'channel.img', 'jcpf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210715_280/5DEnx_1626313702876wkuWB_JPEG/1626313702859.jpg" alt="정서진 피크닉 클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">정서진 피크닉 클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_280/5DEnx_1626313702876wkuWB_JPEG/1626313702859.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/livecorp</link>
             <guid>https://tv.naver.com/livecorp</guid>
@@ -492,24 +546,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국문화원연합회 TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/kccf</link>
             <guid>https://tv.naver.com/kccf</guid>
@@ -580,42 +616,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/concertkim</link>
-            <guid>https://tv.naver.com/concertkim</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">concertkim</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
