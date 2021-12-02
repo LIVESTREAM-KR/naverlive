@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립중앙박물관]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Tue, 30 Nov 2021 01:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한화 TV [Hanwha TV]]]></title>
+            <link>https://tv.naver.com/hanwha</link>
+            <guid>https://tv.naver.com/hanwha</guid>
+            <pubDate>Thu, 02 Dec 2021 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanwha" onclick="nclk(this, 'channel.img', 'hanwha', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" alt="한화 TV [Hanwha TV] 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한화 TV [Hanwha TV]</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
             <link>https://tv.naver.com/mmca</link>
@@ -96,24 +132,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오차드 뮤지컬 TV]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Tue, 30 Nov 2021 09:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
