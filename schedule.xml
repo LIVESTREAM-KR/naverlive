@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-02T11:39:22.891Z</updated>
+    <updated>2021-12-02T13:00:45.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[종로고음악제 2021 DAY1. <클라라의 사랑과 생애>]]></title>
-        <id>https://tv.naver.com/l/92794</id>
-        <link href="https://tv.naver.com/l/92794"/>
-        <updated>2021-11-29T21:17:43.795Z</updated>
-        <content type="html"><![CDATA[12월 02일(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 SPAF <오버더떼창 : 문전본풀이> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/89820</id>
-        <link href="https://tv.naver.com/l/89820"/>
-        <updated>2021-11-29T21:17:43.795Z</updated>
-        <content type="html"><![CDATA[12월 02일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										유러피안 재즈 페스티벌 - French Night]]></title>
