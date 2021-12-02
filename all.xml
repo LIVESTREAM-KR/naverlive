@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 01:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:53:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,42 @@
             <pubDate>Wed, 01 Dec 2021 15:45:00 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_69/ihU2G_16376503491664pWyt_JPEG/1637650349148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Thu, 02 Dec 2021 02:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 02 Dec 2021 02:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국문화원연합회 TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -582,42 +618,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울돈화문국악당 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sdtt</link>
-            <guid>https://tv.naver.com/sdtt</guid>
-            <pubDate>Tue, 30 Nov 2021 08:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sdtt" onclick="nclk(this, 'channel.img', 'sdtt', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" alt="서울돈화문국악당 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울돈화문국악당</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE 360 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/audioguy</link>
-            <guid>https://tv.naver.com/audioguy</guid>
-            <pubDate>Tue, 30 Nov 2021 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/audioguy" onclick="nclk(this, 'channel.img', 'audioguy', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" alt="LIVE 360 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LIVE 360</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[후원
