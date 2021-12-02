@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-01T23:42:52.370Z</updated>
+    <updated>2021-12-02T01:41:09.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -129,11 +129,25 @@
         <content type="html"><![CDATA[12월 06일(월) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트]]></title>
+        <id>https://tv.naver.com/l/92824</id>
+        <link href="https://tv.naver.com/l/92824"/>
+        <updated>2021-12-02T01:41:09.278Z</updated>
+        <content type="html"><![CDATA[12월 07일(화) 19:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021 서울국제공연예술제 <놀이터> 녹화중계]]></title>
         <id>https://tv.naver.com/l/90527</id>
         <link href="https://tv.naver.com/l/90527"/>
         <updated>2021-11-29T21:17:43.815Z</updated>
         <content type="html"><![CDATA[12월 07일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트]]></title>
+        <id>https://tv.naver.com/l/93288</id>
+        <link href="https://tv.naver.com/l/93288"/>
+        <updated>2021-12-02T01:41:09.282Z</updated>
+        <content type="html"><![CDATA[12월 08일(수) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑

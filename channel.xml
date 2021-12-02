@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국문화원연합회 TV]]></title>
+            <link>https://tv.naver.com/kccf</link>
+            <guid>https://tv.naver.com/kccf</guid>
+            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화원연합회 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관]]></title>
+            <link>https://tv.naver.com/sejongcenter</link>
+            <guid>https://tv.naver.com/sejongcenter</guid>
+            <pubDate>Thu, 02 Dec 2021 01:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211105_270/EDMcL_1636101320062UCGVM_JPEG/1636101320043.jpg" alt="세종문화회관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">세종문화회관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_270/EDMcL_1636101320062UCGVM_JPEG/1636101320043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이브(주)]]></title>
             <link>https://tv.naver.com/livecorp</link>
@@ -314,24 +350,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국문화원연합회 TV]]></title>
-            <link>https://tv.naver.com/kccf</link>
-            <guid>https://tv.naver.com/kccf</guid>
-            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화원연합회 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[LIVE 360]]></title>
             <link>https://tv.naver.com/audioguy</link>
             <guid>https://tv.naver.com/audioguy</guid>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Tue, 30 Nov 2021 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 23:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,42 @@
             <pubDate>Wed, 01 Dec 2021 15:45:00 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_69/ihU2G_16376503491664pWyt_JPEG/1637650349148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화원연합회 TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kccf</link>
+            <guid>https://tv.naver.com/kccf</guid>
+            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화원연합회 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sejongcenter</link>
+            <guid>https://tv.naver.com/sejongcenter</guid>
+            <pubDate>Thu, 02 Dec 2021 01:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211105_270/EDMcL_1636101320062UCGVM_JPEG/1636101320043.jpg" alt="세종문화회관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">세종문화회관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_270/EDMcL_1636101320062UCGVM_JPEG/1636101320043.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
@@ -566,24 +602,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200416_256/JYpFw_1587009849030lLth2_JPEG/1587009849008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국문화원연합회 TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kccf</link>
-            <guid>https://tv.naver.com/kccf</guid>
-            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화원연합회 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[LIVE 360 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/audioguy</link>
             <guid>https://tv.naver.com/audioguy</guid>
@@ -600,24 +618,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Tue, 30 Nov 2021 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -913,11 +913,25 @@
             <content:encoded><![CDATA[12월 06일(월) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/92824</link>
+            <guid>https://tv.naver.com/l/92824</guid>
+            <pubDate>Thu, 02 Dec 2021 01:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 07일(화) 19:30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 서울국제공연예술제 <놀이터> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/90527</link>
             <guid>https://tv.naver.com/l/90527</guid>
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 07일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93288</link>
+            <guid>https://tv.naver.com/l/93288</guid>
+            <pubDate>Thu, 02 Dec 2021 01:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑
