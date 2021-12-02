@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 14:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 15:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 - French Night]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[12월 02일(목) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_278/1637677134892vOPms_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 201 - 박진영 트리오]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Mon, 29 Nov 2021 21:24:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(일) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_164/1637677557281Qs6Ja_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Thu, 02 Dec 2021 15:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[12월 06일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_187/rnBHb_1637310644103zOCN8_JPEG/1637310644046.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
