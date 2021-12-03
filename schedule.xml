@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-03T04:53:23.823Z</updated>
+    <updated>2021-12-03T05:39:28.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -207,6 +207,14 @@
         <link href="https://tv.naver.com/l/90890"/>
         <updated>2021-11-29T21:17:43.823Z</updated>
         <content type="html"><![CDATA[12월 21일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										ART-9세종 뮤지컬<조선삼총사>]]></title>
+        <id>https://tv.naver.com/l/92936</id>
+        <link href="https://tv.naver.com/l/92936"/>
+        <updated>2021-12-03T05:39:27.896Z</updated>
+        <content type="html"><![CDATA[12월 22일(수) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족음악극 <나무의 아이> 녹화중계]]></title>
