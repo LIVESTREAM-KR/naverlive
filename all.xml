@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 23:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 01:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,21 +78,21 @@
         </item>
         <item>
             <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
             <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
             <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_269/82Fea_1636007630352eJaA9_PNG/1636007630328.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -245,6 +245,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_269/82Fea_1636007630352eJaA9_PNG/1636007630328.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
             <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
@@ -253,13 +262,22 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_269/82Fea_1636007630352eJaA9_PNG/1636007630328.png" length="0" type="image/png"/>
+            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -296,24 +314,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자라섬재즈페스티벌 (네이버 공연 live beta ─ 채널)]]></title>
@@ -668,21 +668,21 @@
         </item>
         <item>
             <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
             <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
             <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_269/82Fea_1636007630352eJaA9_PNG/1636007630328.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -854,17 +854,17 @@
         </item>
         <item>
             <title><![CDATA[후원
-										유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/91431</link>
-            <guid>https://tv.naver.com/l/91431</guid>
+										[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/91063</link>
+            <guid>https://tv.naver.com/l/91063</guid>
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
-										[막주금라이브Festa : SNL] YEYEBEEN / Starry Nightt Music (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/91063</link>
-            <guid>https://tv.naver.com/l/91063</guid>
+										유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/91431</link>
+            <guid>https://tv.naver.com/l/91431</guid>
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
         </item>
