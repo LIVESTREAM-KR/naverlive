@@ -2,25 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-03T14:40:37.360Z</updated>
+    <updated>2021-12-03T15:45:03.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										유러피안 재즈 페스티벌 201 - 박진영 트리오]]></title>
-        <id>https://tv.naver.com/l/91428</id>
-        <link href="https://tv.naver.com/l/91428"/>
-        <updated>2021-11-29T21:17:43.798Z</updated>
-        <content type="html"><![CDATA[12월 03일(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[막주금라이브Festa : FNL] Junguk(정욱) / 이혜민]]></title>
-        <id>https://tv.naver.com/l/91061</id>
-        <link href="https://tv.naver.com/l/91061"/>
-        <updated>2021-11-29T21:17:43.801Z</updated>
-        <content type="html"><![CDATA[12월 03일(금) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester]]></title>
