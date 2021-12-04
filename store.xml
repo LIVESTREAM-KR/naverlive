@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 07:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 08:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Mon, 29 Nov 2021 21:24:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											오페라 <라 트라비아타>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_244/y9SM0_16366162936567b8wD_JPEG/1636616293637.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -96,6 +87,15 @@
             <pubDate>Fri, 03 Dec 2021 15:44:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211201_151/1638342034129JC2dJ_PNG/246x138.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Sat, 04 Dec 2021 08:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
