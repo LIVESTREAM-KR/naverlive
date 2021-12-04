@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 13:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 14:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - 마틴 야콥센 쿼텟]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_199/W1U76_1638332072060hBu8r_JPEG/1638332071851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 <작은 아씨들> 공연 실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
