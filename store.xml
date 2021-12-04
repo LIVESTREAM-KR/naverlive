@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 08:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 09:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - Tribute to ECM Pt,2]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Sat, 04 Dec 2021 08:47:01 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Thu, 02 Dec 2021 15:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

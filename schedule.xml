@@ -2,30 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-04T08:47:14.540Z</updated>
+    <updated>2021-12-04T09:43:46.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester]]></title>
-        <id>https://tv.naver.com/l/91429</id>
-        <link href="https://tv.naver.com/l/91429"/>
-        <updated>2021-11-29T21:17:43.802Z</updated>
-        <content type="html"><![CDATA[12월 04일(토) 14:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										유러피안 재즈 페스티벌 2021 - Tribute to ECM Pt,2]]></title>
         <id>https://tv.naver.com/l/91430</id>
         <link href="https://tv.naver.com/l/91430"/>
         <updated>2021-11-29T21:17:43.805Z</updated>
-        <content type="html"><![CDATA[12월 04일(토) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰비규어스댄스컴퍼니 ‘얼이섞다’]]></title>
-        <id>https://tv.naver.com/l/92639</id>
-        <link href="https://tv.naver.com/l/92639"/>
-        <updated>2021-11-29T21:17:43.806Z</updated>
         <content type="html"><![CDATA[12월 04일(토) 17:00]]></content>
     </entry>
     <entry>

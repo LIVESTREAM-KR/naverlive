@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 08:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 09:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - Tribute to ECM Pt,2 (네이버 공연 live beta)]]></title>
@@ -24,14 +15,6 @@
             <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_145/1637677401076WXMl1_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앰비규어스댄스컴퍼니 ‘얼이섞다’ (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/caactalk/222563226087</link>
-            <guid>https://blog.naver.com/caactalk/222563226087</guid>
-            <pubDate>Wed, 01 Dec 2021 15:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_69/ihU2G_16376503491664pWyt_JPEG/1637650349148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주국제관악제(겨울시즌) 박물관 관악제 (네이버 공연 live beta)]]></title>
@@ -94,93 +77,101 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_164/1637677557281Qs6Ja_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막주금 라이브 Festa ( FNL / SNL ) (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막주금 라이브 Festa ( FNL / SNL ) (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93530</link>
+            <guid>https://tv.naver.com/l/93530</guid>
+            <pubDate>Fri, 03 Dec 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[12월 06일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_218/t1okd_1638517785298BUzNl_PNG/1638517785234.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 06일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_187/rnBHb_1637310644103zOCN8_JPEG/1637310644046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막주금 라이브 Festa ( FNL / SNL ) (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막주금 라이브 Festa ( FNL / SNL ) (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211116_30/1637069303460RzQX7_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -190,14 +181,6 @@
             <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_145/1637677401076WXMl1_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앰비규어스댄스컴퍼니 ‘얼이섞다’ (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/caactalk/222563226087</link>
-            <guid>https://blog.naver.com/caactalk/222563226087</guid>
-            <pubDate>Wed, 01 Dec 2021 15:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_69/ihU2G_16376503491664pWyt_JPEG/1637650349148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주국제관악제(겨울시즌) 박물관 관악제 (네이버 공연 live beta ─ HOT)]]></title>
@@ -258,6 +241,23 @@
             <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(일) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_164/1637677557281Qs6Ja_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/93530</link>
+            <guid>https://tv.naver.com/l/93530</guid>
+            <pubDate>Fri, 03 Dec 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[12월 06일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_218/t1okd_1638517785298BUzNl_PNG/1638517785234.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 06일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_187/rnBHb_1637310644103zOCN8_JPEG/1637310644046.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[춘천문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -621,15 +621,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											유러피안 재즈 페스티벌 2021 - Tribute to ECM Pt,2 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
             <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
@@ -708,6 +699,15 @@
             <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -791,24 +791,9 @@
         </item>
         <item>
             <title><![CDATA[후원
-										유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/91429</link>
-            <guid>https://tv.naver.com/l/91429</guid>
-            <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
 										유러피안 재즈 페스티벌 2021 - Tribute to ECM Pt,2 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/91430</link>
             <guid>https://tv.naver.com/l/91430</guid>
-            <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앰비규어스댄스컴퍼니 ‘얼이섞다’ (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/92639</link>
-            <guid>https://tv.naver.com/l/92639</guid>
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
         </item>
