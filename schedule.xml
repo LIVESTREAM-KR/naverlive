@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-05T07:39:17.352Z</updated>
+    <updated>2021-12-05T08:45:35.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										유러피안 재즈 페스티벌 2021 - 마틴 야콥센 쿼텟]]></title>
-        <id>https://tv.naver.com/l/91432</id>
-        <link href="https://tv.naver.com/l/91432"/>
-        <updated>2021-11-29T21:17:43.811Z</updated>
-        <content type="html"><![CDATA[12월 05일(일) 15:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[제주국제관악제(겨울시즌)]]></title>
         <id>https://tv.naver.com/l/93528</id>
