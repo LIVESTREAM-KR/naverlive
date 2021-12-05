@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 03:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 04:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											창작 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Sun, 05 Dec 2021 04:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_177/0mZ1Z_1638173044005y3PN7_JPEG/1638173043948.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
@@ -87,15 +96,6 @@
             <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_199/W1U76_1638332072060hBu8r_JPEG/1638332071851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

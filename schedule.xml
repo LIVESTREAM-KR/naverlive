@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-05T03:44:24.489Z</updated>
+    <updated>2021-12-05T04:53:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -107,6 +107,14 @@
         <link href="https://tv.naver.com/l/93333"/>
         <updated>2021-12-02T08:45:50.382Z</updated>
         <content type="html"><![CDATA[12월 13일(월) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										창작 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>
+        <id>https://tv.naver.com/l/93064</id>
+        <link href="https://tv.naver.com/l/93064"/>
+        <updated>2021-12-05T04:53:45.363Z</updated>
+        <content type="html"><![CDATA[12월 13일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
