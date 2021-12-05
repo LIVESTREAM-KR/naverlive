@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-05T11:38:48.572Z</updated>
+    <updated>2021-12-05T13:00:29.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										유러피안 재즈 페스티벌 2021 - 원격 솔로 피아노]]></title>
-        <id>https://tv.naver.com/l/91433</id>
-        <link href="https://tv.naver.com/l/91433"/>
-        <updated>2021-11-29T21:17:43.812Z</updated>
-        <content type="html"><![CDATA[12월 05일(일) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선]]></title>
         <id>https://tv.naver.com/l/93530</id>
