@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 04:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 05:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -665,7 +665,7 @@
 											창작 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 05 Dec 2021 04:53:33 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 04:53:15 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_177/0mZ1Z_1638173044005y3PN7_JPEG/1638173043948.jpg" length="0" type="image/jpg"/>
         </item>
