@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 06:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스팍TV]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Mon, 06 Dec 2021 06:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화원연합회 TV]]></title>
+            <link>https://tv.naver.com/kccf</link>
+            <guid>https://tv.naver.com/kccf</guid>
+            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화원연합회 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[연우무대]]></title>
             <link>https://tv.naver.com/iyeonwoo</link>
@@ -314,24 +350,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국문화원연합회 TV]]></title>
-            <link>https://tv.naver.com/kccf</link>
-            <guid>https://tv.naver.com/kccf</guid>
-            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화원연합회 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[세종문화회관]]></title>
             <link>https://tv.naver.com/sejongcenter</link>
             <guid>https://tv.naver.com/sejongcenter</guid>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_270/EDMcL_1636101320062UCGVM_JPEG/1636101320043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오차드 뮤지컬 TV]]></title>
-            <link>https://tv.naver.com/orchardmusical</link>
-            <guid>https://tv.naver.com/orchardmusical</guid>
-            <pubDate>Wed, 01 Dec 2021 10:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/orchardmusical" onclick="nclk(this, 'channel.img', 'orchardmusical', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" alt="오차드 뮤지컬 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">오차드 뮤지컬 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
