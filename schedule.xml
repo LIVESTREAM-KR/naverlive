@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-06T10:45:09.821Z</updated>
+    <updated>2021-12-06T11:38:58.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선]]></title>
-        <id>https://tv.naver.com/l/93530</id>
-        <link href="https://tv.naver.com/l/93530"/>
-        <updated>2021-12-03T09:43:32.531Z</updated>
-        <content type="html"><![CDATA[12월 06일(월) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										창작 뮤지컬 <브라더스 까라마조프>]]></title>
