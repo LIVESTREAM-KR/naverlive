@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:40:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,24 @@
             <pubDate>Thu, 02 Dec 2021 08:45:50 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_149/AEBIA_1638425684236qdxvW_JPEG/1638425684214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연우무대 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/iyeonwoo</link>
+            <guid>https://tv.naver.com/iyeonwoo</guid>
+            <pubDate>Mon, 06 Dec 2021 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/iyeonwoo" onclick="nclk(this, 'channel.img', 'iyeonwoo', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" alt="연우무대 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">연우무대</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -596,24 +614,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210709_271/hk7Oq_1625813873701LiNTT_JPEG/1625813873678.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대림미술관ㅣ디뮤지엄 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/daelimmuseum</link>
-            <guid>https://tv.naver.com/daelimmuseum</guid>
-            <pubDate>Wed, 01 Dec 2021 09:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대림미술관ㅣ디뮤지엄</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
@@ -687,21 +687,21 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
+											국립오페라단 크리스마스 오페라 <라 트라비아타> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
+											국립오페라단 크리스마스 오페라 <라 보엠> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -937,6 +937,22 @@
             <guid>https://tv.naver.com/l/91786</guid>
             <pubDate>Wed, 01 Dec 2021 06:50:13 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										국립오페라단 크리스마스 오페라 <라 트라비아타> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93588</link>
+            <guid>https://tv.naver.com/l/93588</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										국립오페라단 크리스마스 오페라 <라 보엠> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93587</link>
+            <guid>https://tv.naver.com/l/93587</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
