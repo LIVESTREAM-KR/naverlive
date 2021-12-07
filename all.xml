@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 07:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:48:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,6 +284,24 @@
             <pubDate>Sun, 05 Dec 2021 04:53:15 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_177/0mZ1Z_1638173044005y3PN7_JPEG/1638173043948.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강북문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gbcf2019</link>
+            <guid>https://tv.naver.com/gbcf2019</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gbcf2019" onclick="nclk(this, 'channel.img', 'gbcf2019', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200629_257/zsSrZ_15933900695471eCWC_JPEG/1593390069517.jpg" alt="강북문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강북문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200629_257/zsSrZ_15933900695471eCWC_JPEG/1593390069517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -608,24 +626,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강북문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gbcf2019</link>
-            <guid>https://tv.naver.com/gbcf2019</guid>
-            <pubDate>Fri, 03 Dec 2021 05:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gbcf2019" onclick="nclk(this, 'channel.img', 'gbcf2019', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200629_257/zsSrZ_15933900695471eCWC_JPEG/1593390069517.jpg" alt="강북문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강북문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200629_257/zsSrZ_15933900695471eCWC_JPEG/1593390069517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자라섬재즈페스티벌 (네이버 공연 live beta ─ 채널)]]></title>
