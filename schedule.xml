@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-07T09:46:08.008Z</updated>
+    <updated>2021-12-07T10:47:05.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -91,6 +91,13 @@
         <link href="https://tv.naver.com/l/93155"/>
         <updated>2021-11-30T06:43:24.056Z</updated>
         <content type="html"><![CDATA[12월 16일(목) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부>]]></title>
+        <id>https://tv.naver.com/l/93818</id>
+        <link href="https://tv.naver.com/l/93818"/>
+        <updated>2021-12-07T10:47:05.147Z</updated>
+        <content type="html"><![CDATA[12월 16일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무용 <안간힘> 녹화중계]]></title>
