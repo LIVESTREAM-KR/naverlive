@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 13:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 13:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,7 +281,7 @@
             <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/art_cbs/222589172507</link>
             <guid>https://blog.naver.com/art_cbs/222589172507</guid>
-            <pubDate>Tue, 07 Dec 2021 13:05:19 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 13:05:08 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
