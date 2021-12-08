@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아시테지코리아 네이버TV]]></title>
+            <link>https://tv.naver.com/assitejkorea</link>
+            <guid>https://tv.naver.com/assitejkorea</guid>
+            <pubDate>Wed, 08 Dec 2021 06:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아시테지코리아 네이버TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온라인극장] 아트컴퍼니 행복자]]></title>
             <link>https://tv.naver.com/theblessedplus</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210203_247/ZrcGM_1612319472214VpcLM_JPEG/1612319472198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 공연]]></title>
-            <link>https://tv.naver.com/theater</link>
-            <guid>https://tv.naver.com/theater</guid>
-            <pubDate>Thu, 02 Dec 2021 17:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">네이버 공연</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
