@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-08T13:02:48.838Z</updated>
+    <updated>2021-12-08T13:43:41.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										김장훈의 Christmas Concert 부스터샷]]></title>
-        <id>https://shoppinglive.naver.com/lives/339476</id>
-        <link href="https://shoppinglive.naver.com/lives/339476"/>
-        <updated>2021-12-08T13:02:48.058Z</updated>
-        <content type="html"><![CDATA[12월 08일(수) 21:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑
 										프랑스 국립자연사박물관 특별전]]></title>
@@ -84,6 +76,13 @@
         <link href="https://tv.naver.com/l/90873"/>
         <updated>2021-11-29T21:17:43.818Z</updated>
         <content type="html"><![CDATA[12월 16일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 세종꿈나무오케스트라 정기연주회]]></title>
+        <id>https://tv.naver.com/l/92845</id>
+        <link href="https://tv.naver.com/l/92845"/>
+        <updated>2021-12-08T13:43:40.427Z</updated>
+        <content type="html"><![CDATA[12월 17일(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원

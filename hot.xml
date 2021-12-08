@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 13:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 13:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											김장훈의 Christmas Concert 부스터샷]]></title>
-            <link>https://shoppinglive.naver.com/lives/339476</link>
-            <guid>https://shoppinglive.naver.com/lives/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 13:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[쇼핑
 											프랑스 국립자연사박물관 특별전]]></title>
@@ -89,6 +80,14 @@
             <pubDate>Wed, 08 Dec 2021 13:02:17 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <안간힘> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222542714494</link>
+            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
+            <pubDate>Wed, 08 Dec 2021 13:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
