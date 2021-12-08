@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-08T13:43:41.067Z</updated>
+    <updated>2021-12-08T14:41:21.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[쇼핑
 										프랑스 국립자연사박물관 특별전]]></title>
-        <id>https://shoppinglive.naver.com/livebridge/337128</id>
-        <link href="https://shoppinglive.naver.com/livebridge/337128"/>
-        <updated>2021-12-01T07:39:17.145Z</updated>
+        <id>https://shoppinglive.naver.com/lives/337128</id>
+        <link href="https://shoppinglive.naver.com/lives/337128"/>
+        <updated>2021-12-08T14:41:20.709Z</updated>
         <content type="html"><![CDATA[12월 09일(목) 20:00]]></content>
     </entry>
     <entry>
@@ -48,6 +48,14 @@
         <link href="https://tv.naver.com/l/90872"/>
         <updated>2021-11-29T21:17:43.817Z</updated>
         <content type="html"><![CDATA[12월 14일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑
+										국내 최초 대규모 <살바도르 달리전> 타임한정 50%]]></title>
+        <id>https://view.shoppinglive.naver.com/lives/339938</id>
+        <link href="https://view.shoppinglive.naver.com/lives/339938"/>
+        <updated>2021-12-08T14:41:20.711Z</updated>
+        <content type="html"><![CDATA[12월 14일(화) 20:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울]]></title>
