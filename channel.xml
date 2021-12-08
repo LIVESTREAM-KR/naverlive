@@ -4,9 +4,99 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 23:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 01:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수원시립미술관]]></title>
+            <link>https://tv.naver.com/sumatv</link>
+            <guid>https://tv.naver.com/sumatv</guid>
+            <pubDate>Wed, 08 Dec 2021 01:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">수원시립미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Tue, 30 Nov 2021 01:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Thu, 02 Dec 2021 02:53:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화원연합회 TV]]></title>
+            <link>https://tv.naver.com/kccf</link>
+            <guid>https://tv.naver.com/kccf</guid>
+            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화원연합회 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한화 TV [Hanwha TV]]]></title>
+            <link>https://tv.naver.com/hanwha</link>
+            <guid>https://tv.naver.com/hanwha</guid>
+            <pubDate>Wed, 08 Dec 2021 01:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanwha" onclick="nclk(this, 'channel.img', 'hanwha', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" alt="한화 TV [Hanwha TV] 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한화 TV [Hanwha TV]</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -80,42 +170,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립중앙박물관]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Thu, 02 Dec 2021 02:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[대림미술관ㅣ디뮤지엄]]></title>
             <link>https://tv.naver.com/daelimmuseum</link>
             <guid>https://tv.naver.com/daelimmuseum</guid>
@@ -186,24 +240,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화원연합회 TV]]></title>
-            <link>https://tv.naver.com/kccf</link>
-            <guid>https://tv.naver.com/kccf</guid>
-            <pubDate>Tue, 30 Nov 2021 07:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화원연합회 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연우무대]]></title>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE 360]]></title>
-            <link>https://tv.naver.com/audioguy</link>
-            <guid>https://tv.naver.com/audioguy</guid>
-            <pubDate>Thu, 02 Dec 2021 09:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/audioguy" onclick="nclk(this, 'channel.img', 'audioguy', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" alt="LIVE 360 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LIVE 360</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Cantabile 칸타빌레]]></title>
-            <link>https://tv.naver.com/cbsartnmusic</link>
-            <guid>https://tv.naver.com/cbsartnmusic</guid>
-            <pubDate>Fri, 03 Dec 2021 07:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/cbsartnmusic" onclick="nclk(this, 'channel.img', 'cbsartnmusic', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" alt="Cantabile 칸타빌레 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">Cantabile 칸타빌레</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
