@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,20 +74,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[베토벤의 시간 - 김다솔 Piano]]></title>
+            <link>https://tv.naver.com/l/93436</link>
+            <guid>https://tv.naver.com/l/93436</guid>
+            <pubDate>Wed, 08 Dec 2021 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부>]]></title>
             <link>https://blog.naver.com/art_cbs/222589172507</link>
             <guid>https://blog.naver.com/art_cbs/222589172507</guid>
             <pubDate>Tue, 07 Dec 2021 13:05:19 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <안간힘> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222542714494</link>
-            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
-            <pubDate>Wed, 08 Dec 2021 04:53:17 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
