@@ -4,23 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 11:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 13:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/hanwhadays/222578435885</link>
-            <guid>https://blog.naver.com/hanwhadays/222578435885</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/vYg4O_16378292555038dNyC_JPEG/1637829255467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쇼핑
 											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 06:50:04 GMT</pubDate>
+            <link>https://shoppinglive.naver.com/lives/339476</link>
+            <guid>https://shoppinglive.naver.com/lives/339476</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:05 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -91,60 +83,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 05 Dec 2021 04:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211205_272/1638679632841KqBNC_JPEG/364X180_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
-            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/art_cbs/222589172507</link>
+            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -203,19 +147,67 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/hanwhadays/222578435885</link>
-            <guid>https://blog.naver.com/hanwhadays/222578435885</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/vYg4O_16378292555038dNyC_JPEG/1637829255467.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Sun, 05 Dec 2021 04:53:15 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211205_272/1638679632841KqBNC_JPEG/364X180_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작 뮤지컬 <브라더스 까라마조프>도스토예프스키 탄생 200주년 기념 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
 											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 06:50:04 GMT</pubDate>
+            <link>https://shoppinglive.naver.com/lives/339476</link>
+            <guid>https://shoppinglive.naver.com/lives/339476</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:17 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -284,6 +276,14 @@
             <pubDate>Wed, 08 Dec 2021 05:39:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/art_cbs/222589172507</link>
+            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울남산국악당 (네이버 공연 live beta ─ 채널)]]></title>
@@ -648,9 +648,9 @@
         <item>
             <title><![CDATA[쇼핑
 											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 06:50:04 GMT</pubDate>
+            <link>https://shoppinglive.naver.com/lives/339476</link>
+            <guid>https://shoppinglive.naver.com/lives/339476</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:34 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -816,18 +816,11 @@
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/93288</link>
-            <guid>https://tv.naver.com/l/93288</guid>
-            <pubDate>Thu, 02 Dec 2021 01:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[쇼핑
 										김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Wed, 08 Dec 2021 06:50:04 GMT</pubDate>
+            <link>https://shoppinglive.naver.com/lives/339476</link>
+            <guid>https://shoppinglive.naver.com/lives/339476</guid>
+            <pubDate>Wed, 08 Dec 2021 13:02:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
         </item>
         <item>

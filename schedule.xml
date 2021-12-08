@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-08T11:39:14.812Z</updated>
+    <updated>2021-12-08T13:02:48.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[<한화클래식 2021> 소프라노 서예리와 바로크 프로젝트]]></title>
-        <id>https://tv.naver.com/l/93288</id>
-        <link href="https://tv.naver.com/l/93288"/>
-        <updated>2021-12-02T01:41:09.282Z</updated>
-        <content type="html"><![CDATA[12월 08일(수) 19:30]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[쇼핑
 										김장훈의 Christmas Concert 부스터샷]]></title>
-        <id>https://shoppinglive.naver.com/livebridge/339476</id>
-        <link href="https://shoppinglive.naver.com/livebridge/339476"/>
-        <updated>2021-12-08T06:50:38.640Z</updated>
+        <id>https://shoppinglive.naver.com/lives/339476</id>
+        <link href="https://shoppinglive.naver.com/lives/339476"/>
+        <updated>2021-12-08T13:02:48.058Z</updated>
         <content type="html"><![CDATA[12월 08일(수) 21:00]]></content>
     </entry>
     <entry>
