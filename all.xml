@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 03:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 04:53:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,15 +14,6 @@
             <pubDate>Sat, 04 Dec 2021 11:38:20 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_132/vYg4O_16378292555038dNyC_JPEG/1637829255467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Thu, 02 Dec 2021 04:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -89,6 +80,14 @@
             <pubDate>Tue, 07 Dec 2021 13:05:08 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <안간힘> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222542714494</link>
+            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
+            <pubDate>Wed, 08 Dec 2021 04:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -212,15 +211,6 @@
         </item>
         <item>
             <title><![CDATA[쇼핑
-											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Thu, 02 Dec 2021 04:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
 											프랑스 국립자연사박물관 특별전 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/337128</link>
             <guid>https://shoppinglive.naver.com/livebridge/337128</guid>
@@ -284,6 +274,32 @@
             <pubDate>Tue, 07 Dec 2021 13:05:08 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <안간힘> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/jump_arko/222542714494</link>
+            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
+            <pubDate>Wed, 08 Dec 2021 04:53:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -538,24 +554,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ArteTV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/artetv</link>
             <guid>https://tv.naver.com/artetv</guid>
@@ -647,15 +645,6 @@
         </item>
         <item>
             <title><![CDATA[쇼핑
-											김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Thu, 02 Dec 2021 04:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
 											프랑스 국립자연사박물관 특별전 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/337128</link>
             <guid>https://shoppinglive.naver.com/livebridge/337128</guid>
@@ -734,6 +723,15 @@
             <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -821,14 +819,6 @@
             <guid>https://tv.naver.com/l/93288</guid>
             <pubDate>Thu, 02 Dec 2021 01:41:09 GMT</pubDate>
             <content:encoded><![CDATA[12월 08일(수) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										김장훈의 Christmas Concert 부스터샷 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/339476</link>
-            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
-            <pubDate>Thu, 02 Dec 2021 04:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑
