@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-09T05:40:19.660Z</updated>
+    <updated>2021-12-09T06:50:33.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -21,24 +21,10 @@
         <content type="html"><![CDATA[12월 09일(목) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
-        <id>https://tv.naver.com/l/93332</id>
-        <link href="https://tv.naver.com/l/93332"/>
-        <updated>2021-12-02T08:45:50.382Z</updated>
-        <content type="html"><![CDATA[12월 12일(일) 17:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021 서울국제음악제 '연결,만남']]></title>
         <id>https://tv.naver.com/l/93868</id>
         <link href="https://tv.naver.com/l/93868"/>
         <updated>2021-12-09T02:54:37.101Z</updated>
-        <content type="html"><![CDATA[12월 13일(월) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<동행, 다시 함께> DIMF The Concert (딤프 더 콘서트)]]></title>
-        <id>https://tv.naver.com/l/93333</id>
-        <link href="https://tv.naver.com/l/93333"/>
-        <updated>2021-12-02T08:45:50.382Z</updated>
         <content type="html"><![CDATA[12월 13일(월) 19:30]]></content>
     </entry>
     <entry>
