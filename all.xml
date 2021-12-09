@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 03:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,7 +263,7 @@
             <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/93868</link>
             <guid>https://tv.naver.com/l/93868</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:15 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
         </item>
@@ -288,7 +288,7 @@
             <title><![CDATA[2021 서울국제음악제 실내악 시리즈 2 '시냇물' (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/93870</link>
             <guid>https://tv.naver.com/l/93870</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:15 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_111/dZlFb_16389295597547hPJB_JPEG/1638929559678.jpg" length="0" type="image/jpg"/>
         </item>
@@ -873,7 +873,7 @@
             <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93868</link>
             <guid>https://tv.naver.com/l/93868</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:37 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
         </item>
         <item>
@@ -895,7 +895,7 @@
             <title><![CDATA[2021 서울국제음악제 실내악 시리즈 2 '시냇물' (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93870</link>
             <guid>https://tv.naver.com/l/93870</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:37 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(화) 19:30]]></content:encoded>
         </item>
         <item>
