@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 01:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스테이지]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 09 Dec 2021 02:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[천안예술의전당]]></title>
             <link>https://tv.naver.com/cnac</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ArteTV]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Sun, 05 Dec 2021 09:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200514_257/VvF9M_1589424066499F4tDR_PNG/1589424066482.png" alt="ArteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">ArteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200514_257/VvF9M_1589424066499F4tDR_PNG/1589424066482.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
