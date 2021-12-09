@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 15:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[concertkim]]></title>
+            <link>https://tv.naver.com/concertkim</link>
+            <guid>https://tv.naver.com/concertkim</guid>
+            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">concertkim</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오차드 TV]]></title>
             <link>https://tv.naver.com/orchard</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200629_257/zsSrZ_15933900695471eCWC_JPEG/1593390069517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대림미술관ㅣ디뮤지엄]]></title>
-            <link>https://tv.naver.com/daelimmuseum</link>
-            <guid>https://tv.naver.com/daelimmuseum</guid>
-            <pubDate>Mon, 06 Dec 2021 09:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대림미술관ㅣ디뮤지엄</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
