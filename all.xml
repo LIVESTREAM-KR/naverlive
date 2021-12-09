@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 06:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 07:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -313,9 +313,27 @@
             <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/art_cbs/222589172507</link>
             <guid>https://blog.naver.com/art_cbs/222589172507</guid>
-            <pubDate>Thu, 09 Dec 2021 06:50:09 GMT</pubDate>
+            <pubDate>Thu, 09 Dec 2021 06:49:58 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[busanmuseumofart (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/busanmuseumofart</link>
+            <guid>https://tv.naver.com/busanmuseumofart</guid>
+            <pubDate>Thu, 09 Dec 2021 07:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">busanmuseumofart</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -658,24 +676,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Mon, 06 Dec 2021 06:50:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
