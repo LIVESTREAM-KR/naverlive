@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 09:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 10:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,24 @@
             <pubDate>Fri, 03 Dec 2021 15:44:48 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211201_151/1638342034129JC2dJ_PNG/246x138.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/338023</link>
+            <guid>https://shoppinglive.naver.com/livebridge/338023</guid>
+            <pubDate>Thu, 09 Dec 2021 10:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211209_64/1639046211191lGGel_JPEG/364x180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											<동행, 다시 함께> DIMF The Concert]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/338051</link>
+            <guid>https://shoppinglive.naver.com/livebridge/338051</guid>
+            <pubDate>Thu, 09 Dec 2021 10:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -78,24 +96,6 @@
             <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											국립오페라단 크리스마스 오페라 <라 보엠>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
