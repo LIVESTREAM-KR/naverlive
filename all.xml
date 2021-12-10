@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 13:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 13:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,42 @@
             <pubDate>Tue, 30 Nov 2021 06:43:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[과천시립교향악단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gwacheonsymphony</link>
+            <guid>https://tv.naver.com/gwacheonsymphony</guid>
+            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">과천시립교향악단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -642,42 +678,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200618_8/qpg7L_15924603793185BqVq_JPEG/1592460379294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/assitejkorea</link>
-            <guid>https://tv.naver.com/assitejkorea</guid>
-            <pubDate>Wed, 08 Dec 2021 06:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아시테지코리아 네이버TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온라인극장] 아트컴퍼니 행복자 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/theblessedplus</link>
-            <guid>https://tv.naver.com/theblessedplus</guid>
-            <pubDate>Wed, 08 Dec 2021 05:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/theblessedplus" onclick="nclk(this, 'channel.img', 'theblessedplus', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201225_142/QSl6r_1608876671639Gp7JV_JPEG/1608876671622.jpg" alt="[온라인극장] 아트컴퍼니 행복자 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">[온라인극장] 아트컴퍼니 행복자</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201225_142/QSl6r_1608876671639Gp7JV_JPEG/1608876671622.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
