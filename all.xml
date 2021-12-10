@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 07:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 08:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211208_81/1638971992029uc31E_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -154,14 +162,6 @@
             <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50% (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -188,6 +188,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211208_81/1638971992029uc31E_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[후원]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -226,14 +234,6 @@
             <pubDate>Tue, 30 Nov 2021 08:39:45 GMT</pubDate>
             <content:encoded><![CDATA[후원]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[후원]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -744,6 +744,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 13:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_216/rY4Up_1638507837427JhStV_JPEG/1638507837395.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
             <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
@@ -759,15 +768,6 @@
             <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											국립오페라단 크리스마스 오페라 <라 보엠> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -991,6 +991,14 @@
         </item>
         <item>
             <title><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93496</link>
+            <guid>https://tv.naver.com/l/93496</guid>
+            <pubDate>Fri, 10 Dec 2021 08:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
 										연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/91786</link>
             <guid>https://tv.naver.com/l/91786</guid>
@@ -1004,6 +1012,14 @@
             <guid>https://tv.naver.com/l/93588</guid>
             <pubDate>Mon, 06 Dec 2021 05:40:18 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93497</link>
+            <guid>https://tv.naver.com/l/93497</guid>
+            <pubDate>Fri, 10 Dec 2021 08:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
@@ -1077,11 +1093,27 @@
         </item>
         <item>
             <title><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93498</link>
+            <guid>https://tv.naver.com/l/93498</guid>
+            <pubDate>Fri, 10 Dec 2021 08:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 31일(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
 										뮤지컬1976할란카운티 공연실황 후원LIVE (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93142</link>
             <guid>https://tv.naver.com/l/93142</guid>
             <pubDate>Tue, 30 Nov 2021 08:40:11 GMT</pubDate>
             <content:encoded><![CDATA[12월 31일(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93499</link>
+            <guid>https://tv.naver.com/l/93499</guid>
+            <pubDate>Fri, 10 Dec 2021 08:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[01월 01일(토) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

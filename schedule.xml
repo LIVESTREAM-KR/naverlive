@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-10T07:39:48.527Z</updated>
+    <updated>2021-12-10T08:46:18.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -147,6 +147,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
+        <id>https://tv.naver.com/l/93496</id>
+        <link href="https://tv.naver.com/l/93496"/>
+        <updated>2021-12-10T08:46:17.892Z</updated>
+        <content type="html"><![CDATA[12월 24일(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										연극 <작은 아씨들> 공연 실황]]></title>
         <id>https://tv.naver.com/l/91786</id>
         <link href="https://tv.naver.com/l/91786"/>
@@ -160,6 +168,14 @@
         <link href="https://tv.naver.com/l/93588"/>
         <updated>2021-12-06T05:40:18.312Z</updated>
         <content type="html"><![CDATA[12월 24일(금) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
+        <id>https://tv.naver.com/l/93497</id>
+        <link href="https://tv.naver.com/l/93497"/>
+        <updated>2021-12-10T08:46:17.897Z</updated>
+        <content type="html"><![CDATA[12월 25일(토) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
@@ -233,11 +249,27 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
+        <id>https://tv.naver.com/l/93498</id>
+        <link href="https://tv.naver.com/l/93498"/>
+        <updated>2021-12-10T08:46:17.911Z</updated>
+        <content type="html"><![CDATA[12월 31일(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
         <id>https://tv.naver.com/l/93142</id>
         <link href="https://tv.naver.com/l/93142"/>
         <updated>2021-11-30T08:40:11.977Z</updated>
         <content type="html"><![CDATA[12월 31일(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
+        <id>https://tv.naver.com/l/93499</id>
+        <link href="https://tv.naver.com/l/93499"/>
+        <updated>2021-12-10T08:46:17.912Z</updated>
+        <content type="html"><![CDATA[01월 01일(토) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
