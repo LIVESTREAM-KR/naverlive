@@ -11,10 +11,10 @@ waitUntil = "networkidle"
 [top]
 title = "네이버 공연 live beta ─ 하이라이트"
 url = "https://live.naver.com/"
-entrySelector = "div.spot div.inner div.video-box-area div.video-list div.eg-flick-viewport div.eg-flick-camera div.video-box.eg-flick-panel"
+entrySelector = "div.eg-flick-camera div.video-box.eg-flick-panel:nth-child(1),div.eg-flick-camera div.video-box.eg-flick-panel:nth-child(2),div.eg-flick-camera div.video-box.eg-flick-panel:nth-child(3),div.eg-flick-camera div.video-box.eg-flick-panel:nth-child(1),div.eg-flick-camera div.video-box.eg-flick-panel:nth-child(2),div.eg-flick-camera div.video-box.eg-flick-panel:nth-child(4)"
 titleSelector = "p.sub-title.ellipsis2"
 linkSelector = "a.video"
-contentSelector = "span.badge_middle.badge_bg--00ca7b"
+contentSelector = "p.date.ellipsis"
 imageSelector = "img._lazyImage"
 waitUntil = "networkidle"
 
