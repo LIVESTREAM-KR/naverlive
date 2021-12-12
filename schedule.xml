@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-12T08:45:39.318Z</updated>
+    <updated>2021-12-12T09:42:57.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트]]></title>
-        <id>https://shoppinglive.naver.com/lives/338023</id>
-        <link href="https://shoppinglive.naver.com/lives/338023"/>
-        <updated>2021-12-09T10:45:07.151Z</updated>
-        <content type="html"><![CDATA[12월 12일(일) 17:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑
 										<동행, 다시 함께> DIMF The Concert]]></title>
