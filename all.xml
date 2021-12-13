@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 23:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 01:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gugak1951</link>
+            <guid>https://tv.naver.com/gugak1951</guid>
+            <pubDate>Tue, 07 Dec 2021 07:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립국악원TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문학번역원(LTI Korea) (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/ltikorea</link>
+            <guid>https://tv.naver.com/ltikorea</guid>
+            <pubDate>Mon, 13 Dec 2021 01:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/ltikorea" onclick="nclk(this, 'channel.img', 'ltikorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" alt="한국문학번역원(LTI Korea) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문학번역원(LTI Korea)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/concertkim</link>
             <guid>https://tv.naver.com/concertkim</guid>
@@ -302,24 +338,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gugak1951</link>
-            <guid>https://tv.naver.com/gugak1951</guid>
-            <pubDate>Tue, 07 Dec 2021 07:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립국악원TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -554,24 +572,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울남산국악당 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulnamsangukakdang</link>
-            <guid>https://tv.naver.com/seoulnamsangukakdang</guid>
-            <pubDate>Wed, 08 Dec 2021 08:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulnamsangukakdang" onclick="nclk(this, 'channel.img', 'seoulnamsangukakdang', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200618_8/qpg7L_15924603793185BqVq_JPEG/1592460379294.jpg" alt="서울남산국악당 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울남산국악당</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200618_8/qpg7L_15924603793185BqVq_JPEG/1592460379294.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
