@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 02:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 03:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,24 @@
             <pubDate>Sun, 12 Dec 2021 09:42:22 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화원연합회 TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kccf</link>
+            <guid>https://tv.naver.com/kccf</guid>
+            <pubDate>Mon, 13 Dec 2021 03:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kccf" onclick="nclk(this, 'channel.img', 'kccf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" alt="한국문화원연합회 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화원연합회 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211122_9/L98Sz_1637589634729wukCV_PNG/1637589634702.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -554,24 +572,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한화 TV [Hanwha TV] (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/hanwha</link>
-            <guid>https://tv.naver.com/hanwha</guid>
-            <pubDate>Wed, 08 Dec 2021 01:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanwha" onclick="nclk(this, 'channel.img', 'hanwha', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" alt="한화 TV [Hanwha TV] 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한화 TV [Hanwha TV]</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180208_168/qSC4h_1518056421770SD7YE_PNG/1518056421750.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
