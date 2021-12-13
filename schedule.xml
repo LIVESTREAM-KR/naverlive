@@ -2,24 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-13T11:38:54.035Z</updated>
+    <updated>2021-12-13T13:02:10.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										<동행, 다시 함께> DIMF The Concert]]></title>
-        <id>https://shoppinglive.naver.com/lives/338051</id>
-        <link href="https://shoppinglive.naver.com/lives/338051"/>
-        <updated>2021-12-09T10:45:07.153Z</updated>
-        <content type="html"><![CDATA[12월 13일(월) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 서울국제음악제 '연결,만남']]></title>
-        <id>https://tv.naver.com/l/93868</id>
-        <link href="https://tv.naver.com/l/93868"/>
-        <updated>2021-12-09T02:54:37.101Z</updated>
-        <content type="html"><![CDATA[12월 13일(월) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										창작 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>

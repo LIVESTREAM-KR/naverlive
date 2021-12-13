@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 13:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 12 Dec 2021 16:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[12/13(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211205_272/1638679632841KqBNC_JPEG/364X180_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Mon, 13 Dec 2021 13:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[12/22(수) 오후 7시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

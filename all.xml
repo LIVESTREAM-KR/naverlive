@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 11:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 13:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/338051</link>
-            <guid>https://shoppinglive.naver.com/livebridge/338051</guid>
-            <pubDate>Thu, 09 Dec 2021 10:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/93868</link>
-            <guid>https://tv.naver.com/l/93868</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta)]]></title>
@@ -91,6 +74,23 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/92845</link>
+            <guid>https://tv.naver.com/l/92845</guid>
+            <pubDate>Wed, 08 Dec 2021 13:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[12월 17일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_187/61umc_16387761900901pXre_JPEG/1638776190062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국내 최초 대규모 <살바도르 달리전>타임한정 50% (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/339938</link>
             <guid>https://shoppinglive.naver.com/livebridge/339938</guid>
@@ -123,29 +123,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베토벤 탄생일 기념 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Sun, 05 Dec 2021 04:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[12/13(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211205_272/1638679632841KqBNC_JPEG/364X180_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/338051</link>
-            <guid>https://shoppinglive.naver.com/livebridge/338051</guid>
-            <pubDate>Thu, 09 Dec 2021 10:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/93868</link>
-            <guid>https://tv.naver.com/l/93868</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_92/SNXcd_1638927316404uo3Hs_JPEG/1638927316317.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[12/22(수) 오후 7시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211203_31/1638507875326qxdY6_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -212,6 +195,41 @@
             <pubDate>Mon, 13 Dec 2021 10:44:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/92845</link>
+            <guid>https://tv.naver.com/l/92845</guid>
+            <pubDate>Wed, 08 Dec 2021 13:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[12월 17일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_187/61umc_16387761900901pXre_JPEG/1638776190062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_273/1wEdR_1638161301439Y6qjR_JPEG/1638161301345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -320,24 +338,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -574,15 +574,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/338051</link>
-            <guid>https://shoppinglive.naver.com/livebridge/338051</guid>
-            <pubDate>Thu, 09 Dec 2021 10:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211209_48/1639046424654jQjbg_JPEG/246X138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
@@ -664,6 +655,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_135/yGFYr_1638508252690RPjOR_JPEG/1638508252668.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											국립오페라단 크리스마스 오페라 <라 보엠> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://blog.naver.com/prmadame/222566234081</link>
             <guid>https://blog.naver.com/prmadame/222566234081</guid>
@@ -742,21 +742,6 @@
             <pubDate>Mon, 29 Nov 2021 21:24:43 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										<동행, 다시 함께> DIMF The Concert (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://shoppinglive.naver.com/lives/338051</link>
-            <guid>https://shoppinglive.naver.com/lives/338051</guid>
-            <pubDate>Thu, 09 Dec 2021 10:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울국제음악제 '연결,만남' (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/93868</link>
-            <guid>https://tv.naver.com/l/93868</guid>
-            <pubDate>Thu, 09 Dec 2021 02:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일(월) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
