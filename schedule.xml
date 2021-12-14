@@ -2,31 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-14T11:38:49.533Z</updated>
+    <updated>2021-12-14T13:01:32.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2021 서울국제음악제 실내악 시리즈 2 '시냇물']]></title>
-        <id>https://tv.naver.com/l/93870</id>
-        <link href="https://tv.naver.com/l/93870"/>
-        <updated>2021-12-09T02:54:37.104Z</updated>
-        <content type="html"><![CDATA[12월 14일(화) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/90872</id>
-        <link href="https://tv.naver.com/l/90872"/>
-        <updated>2021-11-29T21:17:43.817Z</updated>
-        <content type="html"><![CDATA[12월 14일(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										국내 최초 대규모 <살바도르 달리전> 타임한정 50%]]></title>
-        <id>https://view.shoppinglive.naver.com/lives/339938</id>
-        <link href="https://view.shoppinglive.naver.com/lives/339938"/>
-        <updated>2021-12-08T14:41:20.711Z</updated>
-        <content type="html"><![CDATA[12월 14일(화) 20:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울]]></title>
         <id>https://tv.naver.com/l/93155</id>
