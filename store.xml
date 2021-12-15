@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 01:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 02:54:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,15 @@
             <pubDate>Thu, 02 Dec 2021 15:45:31 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/352471</link>
+            <guid>https://shoppinglive.naver.com/livebridge/352471</guid>
+            <pubDate>Wed, 15 Dec 2021 02:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -87,15 +96,6 @@
             <pubDate>Fri, 10 Dec 2021 08:46:05 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 13:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_135/yGFYr_1638508252690RPjOR_JPEG/1638508252668.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											국립오페라단 크리스마스 오페라 <라 보엠>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_144/CXL2d_1638606374262kPM9E_JPEG/1638606374143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
