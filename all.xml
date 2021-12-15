@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,60 @@
             <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_55/3G9Mc_16389532962126oNmn_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/concertkim</link>
+            <guid>https://tv.naver.com/concertkim</guid>
+            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">concertkim</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Wed, 15 Dec 2021 06:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -448,42 +502,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/concertkim</link>
-            <guid>https://tv.naver.com/concertkim</guid>
-            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">concertkim</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과천시립교향악단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/gwacheonsymphony</link>
             <guid>https://tv.naver.com/gwacheonsymphony</guid>
@@ -554,24 +572,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오차드 TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/orchard</link>
-            <guid>https://tv.naver.com/orchard</guid>
-            <pubDate>Thu, 09 Dec 2021 13:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/orchard" onclick="nclk(this, 'channel.img', 'orchard', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210723_116/1FJ7O_1627009032174xK2ie_JPEG/1627009032150.jpg" alt="오차드 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">오차드 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210723_116/1FJ7O_1627009032174xK2ie_JPEG/1627009032150.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
