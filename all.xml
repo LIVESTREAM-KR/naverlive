@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 13:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 14:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,24 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PlusHitch (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/plushitch</link>
+            <guid>https://tv.naver.com/plushitch</guid>
+            <pubDate>Tue, 14 Dec 2021 02:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/plushitch" onclick="nclk(this, 'channel.img', 'plushitch', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" alt="PlusHitch 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PlusHitch</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마포문화재단 마포아트센터 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/themac</link>
             <guid>https://tv.naver.com/themac</guid>
@@ -414,24 +432,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PlusHitch (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/plushitch</link>
-            <guid>https://tv.naver.com/plushitch</guid>
-            <pubDate>Tue, 14 Dec 2021 02:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/plushitch" onclick="nclk(this, 'channel.img', 'plushitch', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" alt="PlusHitch 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">PlusHitch</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
