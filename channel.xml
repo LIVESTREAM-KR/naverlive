@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 03:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[credia tv]]></title>
+            <link>https://tv.naver.com/klassica</link>
+            <guid>https://tv.naver.com/klassica</guid>
+            <pubDate>Tue, 14 Dec 2021 06:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">credia tv</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[온스테이지]]></title>
             <link>https://tv.naver.com/onstage</link>
@@ -258,24 +276,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[credia tv]]></title>
-            <link>https://tv.naver.com/klassica</link>
-            <guid>https://tv.naver.com/klassica</guid>
-            <pubDate>Tue, 14 Dec 2021 06:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">credia tv</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단]]></title>
