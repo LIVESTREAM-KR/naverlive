@@ -4,9 +4,63 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 08:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 09:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립오페라단]]></title>
+            <link>https://tv.naver.com/koreanationalopera</link>
+            <guid>https://tv.naver.com/koreanationalopera</guid>
+            <pubDate>Thu, 16 Dec 2021 09:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" alt="국립오페라단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립오페라단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[concertkim]]></title>
+            <link>https://tv.naver.com/concertkim</link>
+            <guid>https://tv.naver.com/concertkim</guid>
+            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">concertkim</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랑TV (COMPANY RANG)]]></title>
             <link>https://tv.naver.com/rangtv</link>
@@ -150,42 +204,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[concertkim]]></title>
-            <link>https://tv.naver.com/concertkim</link>
-            <guid>https://tv.naver.com/concertkim</guid>
-            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">concertkim</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과천시립교향악단]]></title>
-            <link>https://tv.naver.com/gwacheonsymphony</link>
-            <guid>https://tv.naver.com/gwacheonsymphony</guid>
-            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">과천시립교향악단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
