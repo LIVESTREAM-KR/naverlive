@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-16T10:42:10.892Z</updated>
+    <updated>2021-12-16T11:38:49.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울]]></title>
-        <id>https://tv.naver.com/l/93155</id>
-        <link href="https://tv.naver.com/l/93155"/>
-        <updated>2021-11-30T06:43:24.056Z</updated>
-        <content type="html"><![CDATA[12월 16일(목) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[베토벤의 시간 - 김다솔 Piano]]></title>
         <id>https://tv.naver.com/l/93436</id>
