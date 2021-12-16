@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 11:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 13:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토마토클래식]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립오페라단]]></title>
             <link>https://tv.naver.com/koreanationalopera</link>
@@ -186,24 +204,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200908_64/IvPzO_1599495940660EpTmd_JPEG/1599495940638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토클래식]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Fri, 10 Dec 2021 13:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV]]></title>
