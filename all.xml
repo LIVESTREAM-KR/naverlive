@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 13:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 13:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,7 +196,7 @@
             <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222550118322</link>
             <guid>https://blog.naver.com/jump_arko/222550118322</guid>
-            <pubDate>Thu, 16 Dec 2021 13:01:35 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 13:01:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
         </item>
@@ -204,7 +204,7 @@
             <title><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/caactalk/222580170740</link>
             <guid>https://blog.naver.com/caactalk/222580170740</guid>
-            <pubDate>Thu, 16 Dec 2021 13:01:35 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 13:01:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 11:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_272/YYTyR_16393941254218NHI5_JPEG/1639394125381.jpg" length="0" type="image/jpg"/>
         </item>
@@ -216,6 +216,24 @@
             <pubDate>Wed, 15 Dec 2021 02:54:30 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마포문화재단 마포아트센터 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/themac</link>
+            <guid>https://tv.naver.com/themac</guid>
+            <pubDate>Thu, 16 Dec 2021 13:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/themac" onclick="nclk(this, 'channel.img', 'themac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" alt="마포문화재단 마포아트센터 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">마포문화재단 마포아트센터</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -558,24 +576,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문학번역원(LTI Korea) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/ltikorea</link>
-            <guid>https://tv.naver.com/ltikorea</guid>
-            <pubDate>Mon, 13 Dec 2021 01:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/ltikorea" onclick="nclk(this, 'channel.img', 'ltikorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" alt="한국문학번역원(LTI Korea) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문학번역원(LTI Korea)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원

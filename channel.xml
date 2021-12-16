@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 13:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 13:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마포문화재단 마포아트센터]]></title>
+            <link>https://tv.naver.com/themac</link>
+            <guid>https://tv.naver.com/themac</guid>
+            <pubDate>Thu, 16 Dec 2021 13:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/themac" onclick="nclk(this, 'channel.img', 'themac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" alt="마포문화재단 마포아트센터 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">마포문화재단 마포아트센터</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[토마토클래식]]></title>
             <link>https://tv.naver.com/tomatoclassictv</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문학번역원(LTI Korea)]]></title>
-            <link>https://tv.naver.com/ltikorea</link>
-            <guid>https://tv.naver.com/ltikorea</guid>
-            <pubDate>Mon, 13 Dec 2021 01:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/ltikorea" onclick="nclk(this, 'channel.img', 'ltikorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" alt="한국문학번역원(LTI Korea) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문학번역원(LTI Korea)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200910_110/LqRNr_1599704659254j6GpO_JPEG/1599704659232.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
