@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 10:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 11:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Great Adios 2021with Letteamor]]></title>
+            <link>https://tv.naver.com/l/94502</link>
+            <guid>https://tv.naver.com/l/94502</guid>
+            <pubDate>Fri, 17 Dec 2021 11:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[12/31(금) 오후 7시 30분]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211217_262/1639738402947RKDjG_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[X-mas at HOME조수미 & 이 무지치]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 14 Dec 2021 17:03:03 GMT</pubDate>
             <content:encoded><![CDATA[12/20(월) 오후 6시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211215_83/16394989986389hoql_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Original 행복자의 가족 뮤지컬<넌 특별하단다>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Fri, 10 Dec 2021 08:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[12/24(금), 12/25(토), 12/31(금), 1/1(토) 오후 1시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

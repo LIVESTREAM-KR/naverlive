@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-17T10:44:41.161Z</updated>
+    <updated>2021-12-17T11:39:20.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -242,6 +242,14 @@
         <link href="https://tv.naver.com/l/93142"/>
         <updated>2021-11-30T08:40:11.977Z</updated>
         <content type="html"><![CDATA[12월 31일(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										Great Adios 2021 with Letteamor]]></title>
+        <id>https://tv.naver.com/l/94502</id>
+        <link href="https://tv.naver.com/l/94502"/>
+        <updated>2021-12-17T11:39:19.244Z</updated>
+        <content type="html"><![CDATA[12월 31일(금) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
