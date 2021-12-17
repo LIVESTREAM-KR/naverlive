@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 07:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 08:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,60 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Fri, 17 Dec 2021 08:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대림미술관ㅣ디뮤지엄 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/daelimmuseum</link>
+            <guid>https://tv.naver.com/daelimmuseum</guid>
+            <pubDate>Fri, 17 Dec 2021 02:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대림미술관ㅣ디뮤지엄</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[busanmuseumofart (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/busanmuseumofart</link>
+            <guid>https://tv.naver.com/busanmuseumofart</guid>
+            <pubDate>Thu, 16 Dec 2021 07:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">busanmuseumofart</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
             <guid>https://tv.naver.com/kumhoarthall</guid>
@@ -288,24 +342,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대림미술관ㅣ디뮤지엄 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/daelimmuseum</link>
-            <guid>https://tv.naver.com/daelimmuseum</guid>
-            <pubDate>Fri, 17 Dec 2021 02:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대림미술관ㅣ디뮤지엄</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -470,24 +506,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[busanmuseumofart (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/busanmuseumofart</link>
-            <guid>https://tv.naver.com/busanmuseumofart</guid>
-            <pubDate>Thu, 16 Dec 2021 07:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">busanmuseumofart</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/karts</link>
             <guid>https://tv.naver.com/karts</guid>
@@ -558,24 +576,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[여주세종문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/yjcf</link>
-            <guid>https://tv.naver.com/yjcf</guid>
-            <pubDate>Tue, 14 Dec 2021 09:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/yjcf" onclick="nclk(this, 'channel.img', 'yjcf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" alt="여주세종문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">여주세종문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
