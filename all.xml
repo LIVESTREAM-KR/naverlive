@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 11:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 13:01:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/92845</link>
-            <guid>https://tv.naver.com/l/92845</guid>
-            <pubDate>Wed, 08 Dec 2021 13:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 17일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_187/61umc_16387761900901pXre_JPEG/1638776190062.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차 (네이버 공연 live beta)]]></title>
@@ -93,6 +85,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_196/QCusQ_16379238729887RAXq_JPEG/1637923872977.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://tv.naver.com/l/94502</link>
             <guid>https://tv.naver.com/l/94502</guid>
@@ -131,14 +132,6 @@
             <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
             <content:encoded><![CDATA[12/20(월) 오후 6시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211215_83/16394989986389hoql_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/92845</link>
-            <guid>https://tv.naver.com/l/92845</guid>
-            <pubDate>Wed, 08 Dec 2021 13:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 17일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_187/61umc_16387761900901pXre_JPEG/1638776190062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -216,6 +209,15 @@
             <pubDate>Wed, 15 Dec 2021 02:54:30 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211215_149/1639536724309Bz3Ng_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											ART-9세종 뮤지컬<조선삼총사> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sejongcenter</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sejongcenter</guid>
+            <pubDate>Fri, 03 Dec 2021 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211126_196/QCusQ_16379238729887RAXq_JPEG/1637923872977.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -748,13 +750,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 세종꿈나무오케스트라 정기연주회 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/92845</link>
-            <guid>https://tv.naver.com/l/92845</guid>
-            <pubDate>Wed, 08 Dec 2021 13:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 17일(금) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[후원
 										12/19 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 1회차 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93105</link>
@@ -990,7 +985,7 @@
 										Great Adios 2021 with Letteamor (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/94502</link>
             <guid>https://tv.naver.com/l/94502</guid>
-            <pubDate>Fri, 17 Dec 2021 11:39:19 GMT</pubDate>
+            <pubDate>Fri, 17 Dec 2021 11:38:50 GMT</pubDate>
             <content:encoded><![CDATA[12월 31일(금) 19:30]]></content:encoded>
         </item>
         <item>
