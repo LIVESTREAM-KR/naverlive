@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 06:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 07:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공연기획 MCT]]></title>
+            <link>https://tv.naver.com/mctdacne</link>
+            <guid>https://tv.naver.com/mctdacne</guid>
+            <pubDate>Mon, 20 Dec 2021 07:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연기획 MCT</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정서진 피크닉 클래식]]></title>
             <link>https://tv.naver.com/jcpf</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Mon, 13 Dec 2021 06:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
