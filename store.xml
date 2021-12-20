@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 11:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 13:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											리움미술관 산책(현대미술) with 조수빈 아나운서]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/349915</link>
-            <guid>https://shoppinglive.naver.com/livebridge/349915</guid>
-            <pubDate>Tue, 14 Dec 2021 17:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211215_270/16395000257684CSkq_JPEG/1638953296169.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프>]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Mon, 20 Dec 2021 11:39:04 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_216/q0fac_1639375020193N4Su3_JPEG/1639375020163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 <작은 아씨들> 공연 실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
