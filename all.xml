@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211215_219/1639500091786MhNWH_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <썸씽로튼> 시츠프로브 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/94084</link>
-            <guid>https://tv.naver.com/l/94084</guid>
-            <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_292/Eu206_1639110854095IemLI_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -93,6 +85,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_142/EyhaG_16397311426847m28J_PNG/1639731142601.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[가족음악극 <나무의 아이> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222557097685</link>
+            <guid>https://blog.naver.com/jump_arko/222557097685</guid>
+            <pubDate>Mon, 20 Dec 2021 09:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 23일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_195/ehJ10_1636006706230TAm9R_PNG/1636006706164.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
             <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
@@ -140,14 +140,6 @@
             <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211215_219/1639500091786MhNWH_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <썸씽로튼> 시츠프로브 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/94084</link>
-            <guid>https://tv.naver.com/l/94084</guid>
-            <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_292/Eu206_1639110854095IemLI_JPEG/1639110854062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -216,6 +208,14 @@
             <pubDate>Fri, 17 Dec 2021 09:43:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 23일(목) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_142/EyhaG_16397311426847m28J_PNG/1639731142601.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족음악극 <나무의 아이> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/jump_arko/222557097685</link>
+            <guid>https://blog.naver.com/jump_arko/222557097685</guid>
+            <pubDate>Mon, 20 Dec 2021 09:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[12월 23일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_195/ehJ10_1636006706230TAm9R_PNG/1636006706164.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공연기획 MCT (네이버 공연 live beta ─ 채널)]]></title>
@@ -753,13 +753,6 @@
             <link>https://shoppinglive.naver.com/lives/345022</link>
             <guid>https://shoppinglive.naver.com/lives/345022</guid>
             <pubDate>Tue, 14 Dec 2021 17:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <썸씽로튼> 시츠프로브 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/94084</link>
-            <guid>https://tv.naver.com/l/94084</guid>
-            <pubDate>Tue, 14 Dec 2021 17:02:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일(월) 18:00]]></content:encoded>
         </item>
         <item>
