@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 14:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 15:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222550118322</link>
@@ -93,6 +84,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_199/W1U76_1638332072060hBu8r_JPEG/1638332071851.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											국립오페라단 크리스마스 오페라 <라 트라비아타> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
             <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
@@ -133,15 +133,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222550118322</link>
             <guid>https://blog.naver.com/jump_arko/222550118322</guid>
@@ -161,7 +152,7 @@
             <title><![CDATA[2021 K-Arts 오디션 전통원 본선 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/94908</link>
             <guid>https://tv.naver.com/l/94908</guid>
-            <pubDate>Mon, 20 Dec 2021 14:40:47 GMT</pubDate>
+            <pubDate>Mon, 20 Dec 2021 14:40:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_268/2OrwN_1640008167178y8lAy_JPEG/1640008167164.jpg" length="0" type="image/jpg"/>
         </item>
@@ -216,6 +207,15 @@
             <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_199/W1U76_1638332072060hBu8r_JPEG/1638332071851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											국립오페라단 크리스마스 오페라 <라 트라비아타> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
@@ -578,15 +578,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 29 Nov 2021 20:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211121_160/Ct9L0_16375024108604XEvF_JPEG/1637502410822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쇼핑
 											초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/352471</link>
@@ -666,6 +657,15 @@
             <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Mon, 20 Dec 2021 15:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -748,14 +748,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-										창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/92490</link>
-            <guid>https://tv.naver.com/l/92490</guid>
-            <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(월) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/90890</link>
             <guid>https://tv.naver.com/l/90890</guid>
@@ -773,7 +765,7 @@
             <title><![CDATA[2021 K-Arts 오디션 전통원 본선 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/94908</link>
             <guid>https://tv.naver.com/l/94908</guid>
-            <pubDate>Mon, 20 Dec 2021 14:41:11 GMT</pubDate>
+            <pubDate>Mon, 20 Dec 2021 14:40:36 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(수) 19:00]]></content:encoded>
         </item>
         <item>
