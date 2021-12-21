@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 11:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 13:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222550118322</link>
-            <guid>https://blog.naver.com/jump_arko/222550118322</guid>
-            <pubDate>Thu, 16 Dec 2021 13:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/caactalk/222580170740</link>
@@ -93,6 +85,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 13:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_135/yGFYr_1638508252690RPjOR_JPEG/1638508252668.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
             <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
@@ -131,14 +132,6 @@
             <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[12/24(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/jump_arko/222550118322</link>
-            <guid>https://blog.naver.com/jump_arko/222550118322</guid>
-            <pubDate>Thu, 16 Dec 2021 13:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_19/UNY0n_1635843645346bBFyg_PNG/1635843645298.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토 (네이버 공연 live beta ─ HOT)]]></title>
@@ -216,6 +209,33 @@
             <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211204_147/2AHlo_1638607027601FnRW9_JPEG/1638607027520.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[12월 25일(토) 13:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_135/yGFYr_1638508252690RPjOR_JPEG/1638508252668.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/concertkim</link>
+            <guid>https://tv.naver.com/concertkim</guid>
+            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">concertkim</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -342,24 +362,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/concertkim</link>
-            <guid>https://tv.naver.com/concertkim</guid>
-            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">concertkim</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리움미술관 Leeum Museum of Art (네이버 공연 live beta ─ 채널)]]></title>
@@ -748,13 +750,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <슈미> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/90890</link>
-            <guid>https://tv.naver.com/l/90890</guid>
-            <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(화) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/94334</link>
             <guid>https://tv.naver.com/l/94334</guid>
@@ -971,6 +966,13 @@
             <content:encoded><![CDATA[01월 04일(화) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/92248</link>
+            <guid>https://tv.naver.com/l/92248</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[후원
 										1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93108</link>
@@ -987,12 +989,54 @@
             <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/92250</link>
+            <guid>https://tv.naver.com/l/92250</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전통 <마음의 노래14> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/92261</link>
+            <guid>https://tv.naver.com/l/92261</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 13일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[후원
 										1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/93111</link>
             <guid>https://tv.naver.com/l/93111</guid>
             <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
             <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/92742</link>
+            <guid>https://tv.naver.com/l/92742</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93225</link>
+            <guid>https://tv.naver.com/l/93225</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/94276</link>
+            <guid>https://tv.naver.com/l/94276</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93433</link>
+            <guid>https://tv.naver.com/l/93433</guid>
+            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
         </item>
     </channel>
 </rss>

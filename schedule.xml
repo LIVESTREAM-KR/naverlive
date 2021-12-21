@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-21T11:39:07.145Z</updated>
+    <updated>2021-12-21T13:03:34.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <슈미> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/90890</id>
-        <link href="https://tv.naver.com/l/90890"/>
-        <updated>2021-11-29T21:17:43.823Z</updated>
-        <content type="html"><![CDATA[12월 21일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[해설이 있는 11시콘서트 - 남성 팝페라그룹 아파쇼나토]]></title>
         <id>https://tv.naver.com/l/94334</id>
@@ -229,6 +222,13 @@
         <content type="html"><![CDATA[01월 04일(화) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/92248</id>
+        <link href="https://tv.naver.com/l/92248"/>
+        <updated>2021-12-21T13:03:33.393Z</updated>
+        <content type="html"><![CDATA[01월 06일(목) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차]]></title>
         <id>https://tv.naver.com/l/93108</id>
@@ -245,11 +245,53 @@
         <content type="html"><![CDATA[01월 10일(월) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만>]]></title>
+        <id>https://tv.naver.com/l/92250</id>
+        <link href="https://tv.naver.com/l/92250"/>
+        <updated>2021-12-21T13:03:33.398Z</updated>
+        <content type="html"><![CDATA[01월 11일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전통 <마음의 노래14> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/92261</id>
+        <link href="https://tv.naver.com/l/92261"/>
+        <updated>2021-12-21T13:03:33.398Z</updated>
+        <content type="html"><![CDATA[01월 13일(목) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차]]></title>
         <id>https://tv.naver.com/l/93111</id>
         <link href="https://tv.naver.com/l/93111"/>
         <updated>2021-11-29T21:17:43.833Z</updated>
         <content type="html"><![CDATA[01월 16일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/92742</id>
+        <link href="https://tv.naver.com/l/92742"/>
+        <updated>2021-12-21T13:03:33.399Z</updated>
+        <content type="html"><![CDATA[01월 18일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무용 <3rd Altimeets> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/93225</id>
+        <link href="https://tv.naver.com/l/93225"/>
+        <updated>2021-12-21T13:03:33.400Z</updated>
+        <content type="html"><![CDATA[01월 20일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <월드다방> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/94276</id>
+        <link href="https://tv.naver.com/l/94276"/>
+        <updated>2021-12-21T13:03:33.400Z</updated>
+        <content type="html"><![CDATA[01월 25일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/93433</id>
+        <link href="https://tv.naver.com/l/93433"/>
+        <updated>2021-12-21T13:03:33.401Z</updated>
+        <content type="html"><![CDATA[01월 27일(목) 20:00]]></content>
     </entry>
 </feed>
