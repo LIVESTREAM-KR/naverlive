@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-22T14:41:09.665Z</updated>
+    <updated>2021-12-22T15:47:33.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										ART-9세종 뮤지컬<조선삼총사>]]></title>
-        <id>https://tv.naver.com/l/92936</id>
-        <link href="https://tv.naver.com/l/92936"/>
-        <updated>2021-12-03T05:39:27.896Z</updated>
-        <content type="html"><![CDATA[12월 22일(수) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[《대지의 시간》 국립현대미술관 큐레이터 전시투어]]></title>
         <id>https://tv.naver.com/l/94694</id>
