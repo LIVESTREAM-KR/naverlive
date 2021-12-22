@@ -2,24 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-22T10:45:16.042Z</updated>
+    <updated>2021-12-22T11:39:24.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2021 K-Arts 오디션 전통원 본선]]></title>
-        <id>https://tv.naver.com/l/94908</id>
-        <link href="https://tv.naver.com/l/94908"/>
-        <updated>2021-12-20T14:41:11.537Z</updated>
-        <content type="html"><![CDATA[12월 22일(수) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										초보 콜렉터를 위한 오정연의 아트 라이브(G-아트페어)]]></title>
-        <id>https://view.shoppinglive.naver.com/lives/352471</id>
-        <link href="https://view.shoppinglive.naver.com/lives/352471"/>
-        <updated>2021-12-15T02:54:42.556Z</updated>
-        <content type="html"><![CDATA[12월 22일(수) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										ART-9세종 뮤지컬<조선삼총사>]]></title>
