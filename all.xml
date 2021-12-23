@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 13:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 13:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,7 +211,7 @@
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/95057</link>
             <guid>https://tv.naver.com/l/95057</guid>
-            <pubDate>Thu, 23 Dec 2021 13:03:01 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 13:02:47 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(일) 12:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_194/dJ8a6_1640159918119Ehp4p_PNG/1640159918085.png" length="0" type="image/png"/>
         </item>
@@ -219,9 +219,45 @@
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 2부 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/95058</link>
             <guid>https://tv.naver.com/l/95058</guid>
-            <pubDate>Thu, 23 Dec 2021 13:03:01 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 13:02:47 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(일) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_241/w7fRC_1640160235690dbatr_PNG/1640160235646.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[과천시립교향악단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gwacheonsymphony</link>
+            <guid>https://tv.naver.com/gwacheonsymphony</guid>
+            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">과천시립교향악단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연우무대 (네이버 공연 live beta ─ 채널)]]></title>
@@ -548,42 +584,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kncdc</link>
-            <guid>https://tv.naver.com/kncdc</guid>
-            <pubDate>Mon, 20 Dec 2021 08:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대무용단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정서진 피크닉 클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/jcpf</link>
-            <guid>https://tv.naver.com/jcpf</guid>
-            <pubDate>Mon, 20 Dec 2021 02:57:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/jcpf" onclick="nclk(this, 'channel.img', 'jcpf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210715_280/5DEnx_1626313702876wkuWB_JPEG/1626313702859.jpg" alt="정서진 피크닉 클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">정서진 피크닉 클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210715_280/5DEnx_1626313702876wkuWB_JPEG/1626313702859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
@@ -821,14 +821,14 @@
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/95057</link>
             <guid>https://tv.naver.com/l/95057</guid>
-            <pubDate>Thu, 23 Dec 2021 13:03:28 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 13:02:47 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(일) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 2부 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/95058</link>
             <guid>https://tv.naver.com/l/95058</guid>
-            <pubDate>Thu, 23 Dec 2021 13:03:28 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 13:02:47 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(일) 16:00]]></content:encoded>
         </item>
         <item>
