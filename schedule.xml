@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-23T06:51:12.008Z</updated>
+    <updated>2021-12-23T07:40:36.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[《대지의 시간》 국립현대미술관 큐레이터 전시투어]]></title>
-        <id>https://tv.naver.com/l/94694</id>
-        <link href="https://tv.naver.com/l/94694"/>
-        <updated>2021-12-17T09:43:39.451Z</updated>
-        <content type="html"><![CDATA[12월 23일(목) 16:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[가족음악극 <나무의 아이> 녹화중계]]></title>
         <id>https://tv.naver.com/l/91052</id>
