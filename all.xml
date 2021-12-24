@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 11:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 13:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211210_207/163912346947110zVP_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <라 트라비아타>황홀한 밤, 술잔 속에서 더욱 뜨거운 입맞춤을! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[12/24(금) 오후 7시 30분]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211206_145/1638769450672TaESu_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사랑에 빠지는 마법 같은 순간국립오페라단 <라 보엠> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Mon, 06 Dec 2021 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[12/25(토) 오후 3시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211206_17/1638769398538U92u9_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 모차르트! 10주년 기념 공연 스페셜 에디션 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
+            <pubDate>Mon, 20 Dec 2021 15:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[12/25, 26, 27 오후 7시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211130_115/1638258222360L7s9H_PNG/688x386_.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
