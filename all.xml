@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 01:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <pubDate>Thu, 23 Dec 2021 13:02:47 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(일) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_241/w7fRC_1640160235690dbatr_PNG/1640160235646.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 24 Dec 2021 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,24 +582,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_220/qTAft_1636951932162dw612_PNG/1636951932152.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[공연기획 MCT (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mctdacne</link>
-            <guid>https://tv.naver.com/mctdacne</guid>
-            <pubDate>Mon, 20 Dec 2021 07:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연기획 MCT</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
