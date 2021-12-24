@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-24T14:40:43.546Z</updated>
+    <updated>2021-12-24T15:46:45.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										연극 <작은 아씨들> 공연 실황]]></title>
-        <id>https://tv.naver.com/l/91786</id>
-        <link href="https://tv.naver.com/l/91786"/>
-        <updated>2021-12-01T06:50:13.569Z</updated>
-        <content type="html"><![CDATA[12월 24일(금) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										국립오페라단 크리스마스 오페라 <라 트라비아타>]]></title>
