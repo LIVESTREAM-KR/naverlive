@@ -4,27 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 14:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 15:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Mon, 20 Dec 2021 15:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/95057</link>
@@ -94,6 +76,23 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_72/rwOu3_1636523446999GFDkG_PNG/1636523446957.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[영마스터즈 9. 클라리네티스트 조성호 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/95146</link>
+            <guid>https://tv.naver.com/l/95146</guid>
+            <pubDate>Thu, 23 Dec 2021 13:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_33/nXRjx_1640244520177At2tJ_PNG/1640244520107.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬1976할란카운티 공연실황 후원LIVE (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
+            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
+            <pubDate>Fri, 24 Dec 2021 17:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일(목) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_271/gkBNs_16381699976592K9oX_JPEG/1638169997618.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Great Adios 2021with Letteamor (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/potluck7</link>
             <guid>https://patron.naver.com/ntv/c/intro/potluck7</guid>
@@ -132,24 +131,6 @@
             <pubDate>Sat, 25 Dec 2021 14:39:31 GMT</pubDate>
             <content:encoded><![CDATA[12/6, 12/20, 1/3, 1/10 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Mon, 20 Dec 2021 15:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부 (네이버 공연 live beta ─ HOT)]]></title>
@@ -215,9 +196,26 @@
             <title><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222561685350</link>
             <guid>https://blog.naver.com/jump_arko/222561685350</guid>
-            <pubDate>Sat, 25 Dec 2021 14:39:37 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 14:39:25 GMT</pubDate>
             <content:encoded><![CDATA[12월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_72/rwOu3_1636523446999GFDkG_PNG/1636523446957.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영마스터즈 9. 클라리네티스트 조성호 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/95146</link>
+            <guid>https://tv.naver.com/l/95146</guid>
+            <pubDate>Thu, 23 Dec 2021 13:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211223_33/nXRjx_1640244520177At2tJ_PNG/1640244520107.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬1976할란카운티 공연실황 후원LIVE (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
+            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
+            <pubDate>Fri, 24 Dec 2021 17:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일(목) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_271/gkBNs_16381699976592K9oX_JPEG/1638169997618.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광주시문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -585,24 +583,6 @@
             <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
             <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
             <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_129/tcIiX_1638332045247CsCaz_JPEG/1638332045040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
-            <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
-            <pubDate>Mon, 20 Dec 2021 15:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_67/jbxWm_1638164239089YVENj_JPEG/1638164239070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sat, 04 Dec 2021 11:38:42 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_112/wQ0H7_1638332104340IGX6K_JPEG/1638332104255.jpg" length="0" type="image/jpg"/>
         </item>
@@ -668,6 +648,24 @@
             <pubDate>Mon, 20 Dec 2021 07:40:00 GMT</pubDate>
             <content:encoded><![CDATA[12월 31일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_5/gSdH0_1639547655973b8mpY_JPEG/1639547655926.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
+            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
+            <pubDate>Fri, 10 Dec 2021 08:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[01월 01일(토) 13:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_252/DWWxx_1638508560733E5lk3_JPEG/1638508560664.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Sat, 25 Dec 2021 14:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[01월 03일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211120_265/4Vj8u_1637387924371IbttB_JPEG/1637387924352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -748,22 +746,6 @@
             <pubDate>Mon, 29 Nov 2021 21:24:43 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										연극 <작은 아씨들> 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/91788</link>
-            <guid>https://tv.naver.com/l/91788</guid>
-            <pubDate>Wed, 01 Dec 2021 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <모차르트!> 실황공연 스페셜 에디션 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/93106</link>
-            <guid>https://tv.naver.com/l/93106</guid>
-            <pubDate>Tue, 30 Nov 2021 06:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(토) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부 (네이버 공연 live beta ─ 전체일정)]]></title>

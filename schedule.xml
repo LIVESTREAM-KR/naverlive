@@ -2,25 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-25T14:40:02.279Z</updated>
+    <updated>2021-12-25T15:46:04.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										연극 <작은 아씨들> 공연 실황]]></title>
-        <id>https://tv.naver.com/l/91788</id>
-        <link href="https://tv.naver.com/l/91788"/>
-        <updated>2021-12-01T06:50:13.569Z</updated>
-        <content type="html"><![CDATA[12월 25일(토) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <모차르트!> 실황공연 스페셜 에디션]]></title>
-        <id>https://tv.naver.com/l/93106</id>
-        <link href="https://tv.naver.com/l/93106"/>
-        <updated>2021-11-30T06:43:24.066Z</updated>
-        <content type="html"><![CDATA[12월 25일(토) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[김장훈 '자선냄비콘서트'  8시간의 기적 1부]]></title>
         <id>https://tv.naver.com/l/95057</id>
