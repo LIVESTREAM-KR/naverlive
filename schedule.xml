@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-25T13:42:42.726Z</updated>
+    <updated>2021-12-25T14:40:02.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[생중계] X-mas at HOME : 조수미 & 이 무지치]]></title>
-        <id>https://tv.naver.com/l/94302</id>
-        <link href="https://tv.naver.com/l/94302"/>
-        <updated>2021-12-25T10:44:12.352Z</updated>
-        <content type="html"><![CDATA[12월 25일(토) 17:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										연극 <작은 아씨들> 공연 실황]]></title>
