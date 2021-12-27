@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-27T13:54:07.092Z</updated>
+    <updated>2021-12-27T15:56:52.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <모차르트!> 실황공연 스페셜 에디션]]></title>
-        <id>https://tv.naver.com/l/93113</id>
-        <link href="https://tv.naver.com/l/93113"/>
-        <updated>2021-11-30T06:43:24.067Z</updated>
-        <content type="html"><![CDATA[12월 27일(월) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계]]></title>
         <id>https://tv.naver.com/l/91575</id>
