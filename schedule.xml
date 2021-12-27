@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-27T10:45:10.054Z</updated>
+    <updated>2021-12-27T13:54:07.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -12,21 +12,6 @@
         <link href="https://tv.naver.com/l/93113"/>
         <updated>2021-11-30T06:43:24.067Z</updated>
         <content type="html"><![CDATA[12월 27일(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										리움미술관 산책(고미술) with 조수빈 아나운서]]></title>
-        <id>https://shoppinglive.naver.com/lives/349907</id>
-        <link href="https://shoppinglive.naver.com/lives/349907"/>
-        <updated>2021-12-14T17:03:32.873Z</updated>
-        <content type="html"><![CDATA[12월 27일(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리움미술관 산책(고미술) with 조수빈 아나운서]]></title>
-        <id>https://tv.naver.com/l/93910</id>
-        <link href="https://tv.naver.com/l/93910"/>
-        <updated>2021-12-14T17:03:32.874Z</updated>
-        <content type="html"><![CDATA[12월 27일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계]]></title>
