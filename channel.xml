@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 06:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금호아트홀]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Tue, 28 Dec 2021 06:50:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천안예술의전당]]></title>
+            <link>https://tv.naver.com/cnac</link>
+            <guid>https://tv.naver.com/cnac</guid>
+            <pubDate>Tue, 28 Dec 2021 06:50:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/cnac" onclick="nclk(this, 'channel.img', 'cnac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" alt="천안예술의전당 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">천안예술의전당</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[하남문화재단]]></title>
             <link>https://tv.naver.com/hanamartcent</link>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[busanmuseumofart]]></title>
-            <link>https://tv.naver.com/busanmuseumofart</link>
-            <guid>https://tv.naver.com/busanmuseumofart</guid>
-            <pubDate>Thu, 16 Dec 2021 07:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">busanmuseumofart</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OPUS TV]]></title>
-            <link>https://tv.naver.com/eopus</link>
-            <guid>https://tv.naver.com/eopus</guid>
-            <pubDate>Wed, 22 Dec 2021 02:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/eopus" onclick="nclk(this, 'channel.img', 'eopus', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180824_177/27rgO_1535073974156OG2oU_JPEG/1535073974135.jpg" alt="OPUS TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">OPUS TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180824_177/27rgO_1535073974156OG2oU_JPEG/1535073974135.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
