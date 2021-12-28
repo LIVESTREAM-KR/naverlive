@@ -4,25 +4,9 @@
         <title>네이버 공연 live beta ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 01:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 유회승 Ver. (11/15~12/14)]]></title>
-            <link>https://blog.naver.com/prmadame/222566234081</link>
-            <guid>https://blog.naver.com/prmadame/222566234081</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[원더티켓(Wonder Ticket)]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_228/CGIoy_1636600091703tKkyI_JPEG/1636599538580.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <원더티켓 – 수호나무가 있는 마을> 윤도현 Ver. (11/15~12/14)]]></title>
-            <link>https://blog.naver.com/prmadame/222566234081</link>
-            <guid>https://blog.naver.com/prmadame/222566234081</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[원더티켓(Wonder Ticket)]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_152/EZgy7_1636599807887iebxj_JPEG/1636599365010.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 인디열전 :: 터치드 :  We are touched]]></title>
             <link>https://tv.naver.com/v/23374592</link>
@@ -86,6 +70,22 @@
             <pubDate>Mon, 29 Nov 2021 21:24:43 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제3회 서울 탭댄스 페스티벌 : 블랙댄스 버라이어티 part.1]]></title>
+            <link>https://blog.naver.com/arthallmac/222438501565</link>
+            <guid>https://blog.naver.com/arthallmac/222438501565</guid>
+            <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제3회 서울 탭댄스 페스티벌 :: 탭댄스 클럽 스윙46 Part.2]]></title>
+            <link>https://blog.naver.com/arthallmac/222428542984</link>
+            <guid>https://blog.naver.com/arthallmac/222428542984</guid>
+            <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
