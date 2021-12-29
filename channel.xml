@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 09:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 10:45:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마포문화재단 마포아트센터]]></title>
+            <link>https://tv.naver.com/themac</link>
+            <guid>https://tv.naver.com/themac</guid>
+            <pubDate>Wed, 29 Dec 2021 10:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/themac" onclick="nclk(this, 'channel.img', 'themac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" alt="마포문화재단 마포아트센터 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">마포문화재단 마포아트센터</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[하남문화재단]]></title>
+            <link>https://tv.naver.com/hanamartcent</link>
+            <guid>https://tv.naver.com/hanamartcent</guid>
+            <pubDate>Tue, 28 Dec 2021 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">하남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이희문컴퍼니]]></title>
             <link>https://tv.naver.com/leeheemooncompany</link>
@@ -206,24 +242,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하남문화재단]]></title>
-            <link>https://tv.naver.com/hanamartcent</link>
-            <guid>https://tv.naver.com/hanamartcent</guid>
-            <pubDate>Tue, 28 Dec 2021 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">하남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성남문화재단]]></title>
             <link>https://tv.naver.com/snart</link>
             <guid>https://tv.naver.com/snart</guid>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Tue, 21 Dec 2021 06:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
