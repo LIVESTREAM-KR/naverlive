@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-29T10:45:14.586Z</updated>
+    <updated>2021-12-29T11:39:07.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[영마스터즈 9. 클라리네티스트 조성호]]></title>
-        <id>https://tv.naver.com/l/95146</id>
-        <link href="https://tv.naver.com/l/95146"/>
-        <updated>2021-12-23T13:03:28.459Z</updated>
-        <content type="html"><![CDATA[12월 29일(수) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
