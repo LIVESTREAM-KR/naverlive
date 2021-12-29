@@ -4,9 +4,63 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한경 글로벌마켓]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온라인극장] 아트컴퍼니 행복자]]></title>
+            <link>https://tv.naver.com/theblessedplus</link>
+            <guid>https://tv.naver.com/theblessedplus</guid>
+            <pubDate>Wed, 29 Dec 2021 03:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theblessedplus" onclick="nclk(this, 'channel.img', 'theblessedplus', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211224_86/8rAAp_1640321328729LxmjX_PNG/1640321328700.png" alt="[온라인극장] 아트컴퍼니 행복자 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">[온라인극장] 아트컴퍼니 행복자</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_86/8rAAp_1640321328729LxmjX_PNG/1640321328700.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
             <link>https://tv.naver.com/mmca</link>
@@ -60,24 +114,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀]]></title>
@@ -168,24 +204,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_220/qTAft_1636951932162dw612_PNG/1636951932152.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토클래식]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[concertkim]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립국악원TV]]></title>
-            <link>https://tv.naver.com/gugak1951</link>
-            <guid>https://tv.naver.com/gugak1951</guid>
-            <pubDate>Tue, 07 Dec 2021 07:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립국악원TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
