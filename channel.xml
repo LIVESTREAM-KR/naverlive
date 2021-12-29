@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 23:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 01:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전통공연예술진흥재단TV]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Wed, 29 Dec 2021 01:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여주세종문화재단]]></title>
-            <link>https://tv.naver.com/yjcf</link>
-            <guid>https://tv.naver.com/yjcf</guid>
-            <pubDate>Wed, 22 Dec 2021 08:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/yjcf" onclick="nclk(this, 'channel.img', 'yjcf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" alt="여주세종문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">여주세종문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
