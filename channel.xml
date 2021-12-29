@@ -4,26 +4,26 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[대림미술관ㅣ디뮤지엄]]></title>
-            <link>https://tv.naver.com/daelimmuseum</link>
-            <guid>https://tv.naver.com/daelimmuseum</guid>
-            <pubDate>Wed, 29 Dec 2021 08:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
+            <title><![CDATA[이희문컴퍼니]]></title>
+            <link>https://tv.naver.com/leeheemooncompany</link>
+            <guid>https://tv.naver.com/leeheemooncompany</guid>
+            <pubDate>Wed, 29 Dec 2021 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/leeheemooncompany" onclick="nclk(this, 'channel.img', 'leeheemooncompany', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" alt="이희문컴퍼니 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">대림미술관ㅣ디뮤지엄</p>
+										<p class="txt">이희문컴퍼니</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코리안심포니오케스트라]]></title>
@@ -44,22 +44,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이희문컴퍼니]]></title>
-            <link>https://tv.naver.com/leeheemooncompany</link>
-            <guid>https://tv.naver.com/leeheemooncompany</guid>
-            <pubDate>Wed, 29 Dec 2021 07:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/leeheemooncompany" onclick="nclk(this, 'channel.img', 'leeheemooncompany', '');" class="lnk-channel">
+            <title><![CDATA[대림미술관ㅣ디뮤지엄]]></title>
+            <link>https://tv.naver.com/daelimmuseum</link>
+            <guid>https://tv.naver.com/daelimmuseum</guid>
+            <pubDate>Wed, 29 Dec 2021 08:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" alt="이희문컴퍼니 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">이희문컴퍼니</p>
+										<p class="txt">대림미술관ㅣ디뮤지엄</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
