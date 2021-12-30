@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 08:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 09:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,6 +220,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artsnartists</link>
+            <guid>https://tv.naver.com/artsnartists</guid>
+            <pubDate>Thu, 30 Dec 2021 09:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트앤아티스트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/kncdc</link>
             <guid>https://tv.naver.com/kncdc</guid>
@@ -418,24 +454,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[온라인극장] 아트컴퍼니 행복자 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/theblessedplus</link>
             <guid>https://tv.naver.com/theblessedplus</guid>
@@ -560,24 +578,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_220/qTAft_1636951932162dw612_PNG/1636951932152.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[concertkim (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/concertkim</link>
-            <guid>https://tv.naver.com/concertkim</guid>
-            <pubDate>Thu, 09 Dec 2021 17:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/concertkim" onclick="nclk(this, 'channel.img', 'concertkim', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" alt="concertkim 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">concertkim</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_156/UnXRw_16346359831348STa8_JPEG/1634635983113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
