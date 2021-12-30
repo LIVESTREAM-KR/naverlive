@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마포문화재단 마포아트센터]]></title>
+            <link>https://tv.naver.com/themac</link>
+            <guid>https://tv.naver.com/themac</guid>
+            <pubDate>Wed, 29 Dec 2021 10:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/themac" onclick="nclk(this, 'channel.img', 'themac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" alt="마포문화재단 마포아트센터 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">마포문화재단 마포아트센터</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코리안심포니오케스트라]]></title>
             <link>https://tv.naver.com/koreansymphony</link>
@@ -132,24 +150,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210908_263/oI6b4_1631090347300VijQm_JPEG/1631090347288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마포문화재단 마포아트센터]]></title>
-            <link>https://tv.naver.com/themac</link>
-            <guid>https://tv.naver.com/themac</guid>
-            <pubDate>Wed, 29 Dec 2021 10:44:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/themac" onclick="nclk(this, 'channel.img', 'themac', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" alt="마포문화재단 마포아트센터 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">마포문화재단 마포아트센터</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200803_5/s6Qfl_1596435721222T4Wrr_PNG/1596435721203.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하남문화재단]]></title>
