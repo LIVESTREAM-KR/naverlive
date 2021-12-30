@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 01:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 02:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
+            <link>https://tv.naver.com/dimf</link>
+            <guid>https://tv.naver.com/dimf</guid>
+            <pubDate>Thu, 30 Dec 2021 02:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 30 Dec 2021 02:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MUSICAL 1976 HARLAN COUNTY]]></title>
             <link>https://tv.naver.com/eternaljourney</link>
@@ -24,24 +60,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210908_263/oI6b4_1631090347300VijQm_JPEG/1631090347288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토클래식]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마포문화재단 마포아트센터]]></title>
@@ -150,6 +168,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_86/8rAAp_1640321328729LxmjX_PNG/1640321328700.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연우무대]]></title>
-            <link>https://tv.naver.com/iyeonwoo</link>
-            <guid>https://tv.naver.com/iyeonwoo</guid>
-            <pubDate>Wed, 22 Dec 2021 10:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/iyeonwoo" onclick="nclk(this, 'channel.img', 'iyeonwoo', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" alt="연우무대 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">연우무대</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과천시립교향악단]]></title>
-            <link>https://tv.naver.com/gwacheonsymphony</link>
-            <guid>https://tv.naver.com/gwacheonsymphony</guid>
-            <pubDate>Thu, 23 Dec 2021 13:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">과천시립교향악단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
