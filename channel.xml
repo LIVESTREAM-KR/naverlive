@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 23:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 01:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MUSICAL 1976 HARLAN COUNTY]]></title>
+            <link>https://tv.naver.com/eternaljourney</link>
+            <guid>https://tv.naver.com/eternaljourney</guid>
+            <pubDate>Thu, 30 Dec 2021 01:44:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/eternaljourney" onclick="nclk(this, 'channel.img', 'eternaljourney', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210908_263/oI6b4_1631090347300VijQm_JPEG/1631090347288.jpg" alt="MUSICAL 1976 HARLAN COUNTY 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">MUSICAL 1976 HARLAN COUNTY</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_263/oI6b4_1631090347300VijQm_JPEG/1631090347288.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토마토클래식]]></title>
             <link>https://tv.naver.com/tomatoclassictv</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Wed, 29 Dec 2021 15:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
