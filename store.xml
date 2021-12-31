@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 01:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 02:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,15 @@
             <pubDate>Sat, 25 Dec 2021 15:45:51 GMT</pubDate>
             <content:encoded><![CDATA[01월 03일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211120_265/4Vj8u_1637387924371IbttB_JPEG/1637387924352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/373205</link>
+            <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
+            <pubDate>Fri, 31 Dec 2021 02:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
