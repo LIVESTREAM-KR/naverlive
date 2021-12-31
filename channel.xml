@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더에이치컬쳐스]]></title>
+            <link>https://tv.naver.com/thehcultures</link>
+            <guid>https://tv.naver.com/thehcultures</guid>
+            <pubDate>Fri, 31 Dec 2021 07:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/thehcultures" onclick="nclk(this, 'channel.img', 'thehcultures', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210817_295/RiCQ2_1629192029415l0HNj_JPEG/1629192029391.jpg" alt="더에이치컬쳐스 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">더에이치컬쳐스</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210817_295/RiCQ2_1629192029415l0HNj_JPEG/1629192029391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
             <link>https://tv.naver.com/mmca</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Wed, 29 Dec 2021 01:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
