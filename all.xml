@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 02:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 03:44:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,7 +198,7 @@
             <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/95642</link>
             <guid>https://tv.naver.com/l/95642</guid>
-            <pubDate>Fri, 31 Dec 2021 02:58:08 GMT</pubDate>
+            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
             <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_25/1mAVe_1640843282697iQgd8_JPEG/1640843282667.jpg" length="0" type="image/jpg"/>
         </item>
@@ -207,7 +207,7 @@
 											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/373205</link>
             <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 02:58:08 GMT</pubDate>
+            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
             <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
         </item>
@@ -218,6 +218,24 @@
             <pubDate>Thu, 30 Dec 2021 13:02:14 GMT</pubDate>
             <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Tue, 28 Dec 2021 06:50:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코리안심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
@@ -562,24 +580,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Tue, 28 Dec 2021 06:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
@@ -629,7 +629,7 @@
 											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/373205</link>
             <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 02:58:21 GMT</pubDate>
+            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
             <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
         </item>
@@ -798,7 +798,7 @@
             <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/95642</link>
             <guid>https://tv.naver.com/l/95642</guid>
-            <pubDate>Fri, 31 Dec 2021 02:58:33 GMT</pubDate>
+            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
             <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
         </item>
         <item>
