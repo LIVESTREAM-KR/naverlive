@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2021-12-31T14:40:27.216Z</updated>
+    <updated>2021-12-31T15:47:05.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬1976할란카운티 공연실황 후원LIVE]]></title>
-        <id>https://tv.naver.com/l/93142</id>
-        <link href="https://tv.naver.com/l/93142"/>
-        <updated>2021-11-30T08:40:11.977Z</updated>
-        <content type="html"><![CDATA[12월 31일(금) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
