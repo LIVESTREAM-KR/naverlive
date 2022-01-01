@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-01T06:50:27.059Z</updated>
+    <updated>2022-01-01T07:39:47.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										Original 행복자의 가족 뮤지컬 <넌 특별하단다>]]></title>
-        <id>https://tv.naver.com/l/93499</id>
-        <link href="https://tv.naver.com/l/93499"/>
-        <updated>2021-12-10T08:46:17.912Z</updated>
-        <content type="html"><![CDATA[01월 01일(토) 13:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										창작 뮤지컬 <브라더스 까라마조프>]]></title>
