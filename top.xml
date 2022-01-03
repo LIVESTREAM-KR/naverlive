@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 06:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 07:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
             <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[1/9(일), 1/16(일) 오후 8시]]></content:encoded>
+            <content:encoded><![CDATA[1/9(일), 1/16(일), 1/17(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
             <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[1/9(일), 1/16(일) 오후 8시]]></content:encoded>
+            <content:encoded><![CDATA[1/9(일), 1/16(일), 1/17(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
