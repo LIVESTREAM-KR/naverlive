@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 13:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 13:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,7 +195,7 @@
             <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222579094754</link>
             <guid>https://blog.naver.com/jump_arko/222579094754</guid>
-            <pubDate>Wed, 05 Jan 2022 13:03:48 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
             <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211130_70/uoLWJ_1638255547601GgQc5_PNG/1638255547576.png" length="0" type="image/png"/>
         </item>
@@ -203,9 +203,45 @@
             <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222595437263</link>
             <guid>https://blog.naver.com/jump_arko/222595437263</guid>
-            <pubDate>Wed, 05 Jan 2022 13:03:48 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
             <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/weclassic</link>
+            <guid>https://tv.naver.com/weclassic</guid>
+            <pubDate>Wed, 05 Jan 2022 13:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/weclassic" onclick="nclk(this, 'channel.img', 'weclassic', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" alt="위클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">위클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국뮤지컬어워즈 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kmusicalawards</link>
+            <guid>https://tv.naver.com/kmusicalawards</guid>
+            <pubDate>Tue, 04 Jan 2022 06:50:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kmusicalawards" onclick="nclk(this, 'channel.img', 'kmusicalawards', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220104_182/Xch6F_1641276255739Hxeer_JPEG/1641276255720.jpg" alt="한국뮤지컬어워즈 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국뮤지컬어워즈</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_182/Xch6F_1641276255739Hxeer_JPEG/1641276255720.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -242,24 +278,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국뮤지컬어워즈 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kmusicalawards</link>
-            <guid>https://tv.naver.com/kmusicalawards</guid>
-            <pubDate>Tue, 04 Jan 2022 06:50:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kmusicalawards" onclick="nclk(this, 'channel.img', 'kmusicalawards', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220104_182/Xch6F_1641276255739Hxeer_JPEG/1641276255720.jpg" alt="한국뮤지컬어워즈 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국뮤지컬어워즈</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_182/Xch6F_1641276255739Hxeer_JPEG/1641276255720.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ArteTV (네이버 공연 live beta ─ 채널)]]></title>
@@ -548,24 +566,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코리안심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreansymphony</link>
-            <guid>https://tv.naver.com/koreansymphony</guid>
-            <pubDate>Wed, 29 Dec 2021 08:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" alt="코리안심포니오케스트라 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">코리안심포니오케스트라</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
