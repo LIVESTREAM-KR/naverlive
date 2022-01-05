@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 11:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 13:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/95642</link>
-            <guid>https://tv.naver.com/l/95642</guid>
-            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_25/1mAVe_1640843282697iQgd8_JPEG/1640843282667.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/373205</link>
-            <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222551382493</link>
@@ -93,6 +76,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
+            <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222579094754</link>
+            <guid>https://blog.naver.com/jump_arko/222579094754</guid>
+            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_70/uoLWJ_1638255547601GgQc5_PNG/1638255547576.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222595437263</link>
+            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
+            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
@@ -123,23 +122,6 @@
             <pubDate>Sat, 25 Dec 2021 14:39:31 GMT</pubDate>
             <content:encoded><![CDATA[12/6, 12/20, 1/3, 1/10 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211123_237/1637676313398z3ROJ_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/95642</link>
-            <guid>https://tv.naver.com/l/95642</guid>
-            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_25/1mAVe_1640843282697iQgd8_JPEG/1640843282667.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/373205</link>
-            <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -205,9 +187,25 @@
             <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222563827577</link>
             <guid>https://blog.naver.com/jump_arko/222563827577</guid>
-            <pubDate>Wed, 05 Jan 2022 11:39:01 GMT</pubDate>
+            <pubDate>Wed, 05 Jan 2022 11:38:50 GMT</pubDate>
             <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/jump_arko/222579094754</link>
+            <guid>https://blog.naver.com/jump_arko/222579094754</guid>
+            <pubDate>Wed, 05 Jan 2022 13:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_70/uoLWJ_1638255547601GgQc5_PNG/1638255547576.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/jump_arko/222595437263</link>
+            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
+            <pubDate>Wed, 05 Jan 2022 13:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -570,15 +568,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/373205</link>
-            <guid>https://shoppinglive.naver.com/livebridge/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211231_281/1640917219128jpWF9_JPEG/700X400_PC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -693,21 +682,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <곤 투모로우> 전막 실황 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/95642</link>
-            <guid>https://tv.naver.com/l/95642</guid>
-            <pubDate>Fri, 31 Dec 2021 02:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										뮤지컬 <곤 투모로우> 전막 실황 생중계 & 특별 할인 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://view.shoppinglive.naver.com/lives/373205</link>
-            <guid>https://view.shoppinglive.naver.com/lives/373205</guid>
-            <pubDate>Fri, 31 Dec 2021 02:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[01월 05일(수) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
