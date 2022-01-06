@@ -4,23 +4,15 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 11:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 13:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222551382493</link>
-            <guid>https://blog.naver.com/jump_arko/222551382493</guid>
-            <pubDate>Thu, 30 Dec 2021 13:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[01월 06일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_115/SELWU_1637219676789sdcr6_PNG/1637219676736.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											1/9 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 2회차]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Fri, 31 Dec 2021 07:39:46 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
         </item>
@@ -29,7 +21,7 @@
 											제 6회 한국뮤지컬어워즈 시상식 생중계]]></title>
             <link>https://shoppinglive.naver.com/livebridge/363237</link>
             <guid>https://shoppinglive.naver.com/livebridge/363237</guid>
-            <pubDate>Thu, 06 Jan 2022 09:44:07 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220106_299/16414598762823MQQN_JPEG/246X138.jpg" length="0" type="image/jpg"/>
         </item>
@@ -37,7 +29,7 @@
             <title><![CDATA[제 6회 한국뮤지컬어워즈 시상식 생중계]]></title>
             <link>https://tv.naver.com/l/93700</link>
             <guid>https://tv.naver.com/l/93700</guid>
-            <pubDate>Thu, 06 Jan 2022 09:44:07 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_295/oznrA_1640925707572igMkA_JPEG/1640925707555.jpg" length="0" type="image/jpg"/>
         </item>
@@ -46,7 +38,7 @@
 											창작 뮤지컬 <브라더스 까라마조프>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
-            <pubDate>Mon, 27 Dec 2021 13:53:33 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 10일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211121_9/oUCJC_1637502479544yrdhp_JPEG/1637502479533.jpg" length="0" type="image/jpg"/>
         </item>
@@ -54,7 +46,7 @@
             <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만>]]></title>
             <link>https://blog.naver.com/jump_arko/222531036695</link>
             <guid>https://blog.naver.com/jump_arko/222531036695</guid>
-            <pubDate>Fri, 31 Dec 2021 15:46:28 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/fyu1w_1638436949725HGUdb_PNG/1638436949649.png" length="0" type="image/png"/>
         </item>
@@ -62,7 +54,7 @@
             <title><![CDATA[전통 <마음의 노래14> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222544688919</link>
             <guid>https://blog.naver.com/jump_arko/222544688919</guid>
-            <pubDate>Sat, 01 Jan 2022 07:39:16 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 13일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_41/tWF0Y_1637226316531z4t1d_PNG/1637226316502.png" length="0" type="image/png"/>
         </item>
@@ -70,7 +62,7 @@
             <title><![CDATA[<월드 클래식 오페라 시리즈Ⅰ> 하이라이트]]></title>
             <link>https://blog.naver.com/gmopera2019/222614661509</link>
             <guid>https://blog.naver.com/gmopera2019/222614661509</guid>
-            <pubDate>Thu, 06 Jan 2022 09:44:07 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 14일(금) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_156/EWPeY_1641452599674EV0zh_JPEG/1641452599659.jpg" length="0" type="image/jpg"/>
         </item>
@@ -79,7 +71,7 @@
 											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Fri, 31 Dec 2021 07:39:46 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_272/uNXZF_1638161377890thYFx_JPEG/1638161377857.jpg" length="0" type="image/jpg"/>
         </item>
@@ -88,9 +80,17 @@
 											1/17 8PM 뮤지컬 <풍월주> 녹화중계 LIVE!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Fri, 31 Dec 2021 07:39:46 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 17일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_117/jT7ws_1641191923585hdt4V_JPEG/1641191923515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222563827577</link>
+            <guid>https://blog.naver.com/jump_arko/222563827577</guid>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
