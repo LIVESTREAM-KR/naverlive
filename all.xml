@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 13:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 13:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222563827577</link>
             <guid>https://blog.naver.com/jump_arko/222563827577</guid>
-            <pubDate>Thu, 06 Jan 2022 13:04:20 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 13:04:09 GMT</pubDate>
             <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
         </item>
