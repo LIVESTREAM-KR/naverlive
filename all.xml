@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 08:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,23 @@
             <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/363237</link>
+            <guid>https://shoppinglive.naver.com/livebridge/363237</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220106_299/16414598762823MQQN_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/93700</link>
+            <guid>https://tv.naver.com/l/93700</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_295/oznrA_1640925707572igMkA_JPEG/1640925707555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -50,6 +67,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_41/tWF0Y_1637226316531z4t1d_PNG/1637226316502.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<월드 클래식 오페라 시리즈Ⅰ> 하이라이트 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/gmopera2019/222614661509</link>
+            <guid>https://blog.naver.com/gmopera2019/222614661509</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[01월 14일(금) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_156/EWPeY_1641452599674EV0zh_JPEG/1641452599659.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -66,30 +91,6 @@
             <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
             <content:encoded><![CDATA[01월 17일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_117/jT7ws_1641191923585hdt4V_JPEG/1641191923515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222563827577</link>
-            <guid>https://blog.naver.com/jump_arko/222563827577</guid>
-            <pubDate>Wed, 05 Jan 2022 11:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222579094754</link>
-            <guid>https://blog.naver.com/jump_arko/222579094754</guid>
-            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_70/uoLWJ_1638255547601GgQc5_PNG/1638255547576.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222595437263</link>
-            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
-            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -141,6 +142,23 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/363237</link>
+            <guid>https://shoppinglive.naver.com/livebridge/363237</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220106_299/16414598762823MQQN_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/93700</link>
+            <guid>https://tv.naver.com/l/93700</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_295/oznrA_1640925707572igMkA_JPEG/1640925707555.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
@@ -166,6 +184,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_41/tWF0Y_1637226316531z4t1d_PNG/1637226316502.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<월드 클래식 오페라 시리즈Ⅰ> 하이라이트 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/gmopera2019/222614661509</link>
+            <guid>https://blog.naver.com/gmopera2019/222614661509</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[01월 14일(금) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_156/EWPeY_1641452599674EV0zh_JPEG/1641452599659.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -182,30 +208,6 @@
             <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
             <content:encoded><![CDATA[01월 17일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_117/jT7ws_1641191923585hdt4V_JPEG/1641191923515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/jump_arko/222563827577</link>
-            <guid>https://blog.naver.com/jump_arko/222563827577</guid>
-            <pubDate>Wed, 05 Jan 2022 11:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_230/ESaHb_1638436824200dRf3f_PNG/1638436824167.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/jump_arko/222579094754</link>
-            <guid>https://blog.naver.com/jump_arko/222579094754</guid>
-            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211130_70/uoLWJ_1638255547601GgQc5_PNG/1638255547576.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/jump_arko/222595437263</link>
-            <guid>https://blog.naver.com/jump_arko/222595437263</guid>
-            <pubDate>Wed, 05 Jan 2022 13:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[01월 25일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국뮤지컬어워즈 (네이버 공연 live beta ─ 채널)]]></title>
@@ -577,6 +579,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_7/sLMgU_16381579792155Awb8_JPEG/1638157979195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/363237</link>
+            <guid>https://shoppinglive.naver.com/livebridge/363237</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220106_299/16414598762823MQQN_JPEG/246X138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
@@ -699,6 +710,21 @@
             <content:encoded><![CDATA[01월 09일(일) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+										제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://shoppinglive.naver.com/lives/363237</link>
+            <guid>https://shoppinglive.naver.com/lives/363237</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제 6회 한국뮤지컬어워즈 시상식 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/93700</link>
+            <guid>https://tv.naver.com/l/93700</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[01월 10일(월) 19:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[후원
 										창작 뮤지컬 <브라더스 까라마조프> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/92491</link>
@@ -719,6 +745,13 @@
             <guid>https://tv.naver.com/l/92261</guid>
             <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
             <content:encoded><![CDATA[01월 13일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<월드 클래식 오페라 시리즈Ⅰ> 하이라이트 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/96150</link>
+            <guid>https://tv.naver.com/l/96150</guid>
+            <pubDate>Thu, 06 Jan 2022 09:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[01월 14일(금) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
