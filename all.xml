@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 06:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 07:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -558,7 +558,7 @@
             <pubDate>Fri, 31 Dec 2021 08:47:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161104_273/3hGT4_1478242472867QAQ7t_JPEG/1478242472831.jpg" alt="예술의전당 이미지">
 										</div>
@@ -768,6 +768,13 @@
             <guid>https://tv.naver.com/l/92742</guid>
             <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
             <content:encoded><![CDATA[01월 18일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<금호라이징스타 - 아레테 콰르텟 String Quartet> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/96211</link>
+            <guid>https://tv.naver.com/l/96211</guid>
+            <pubDate>Fri, 07 Jan 2022 07:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
