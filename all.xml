@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 23:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 01:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,7 +560,7 @@
             <pubDate>Sat, 01 Jan 2022 01:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
 										</div>
