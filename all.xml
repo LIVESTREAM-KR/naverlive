@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -763,6 +763,13 @@
             <guid>https://tv.naver.com/l/93225</guid>
             <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
             <content:encoded><![CDATA[01월 20일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다비트 라일란트 ‘빛을 향해’ (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/96212</link>
+            <guid>https://tv.naver.com/l/96212</guid>
+            <pubDate>Mon, 10 Jan 2022 09:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[01월 23일(일) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <월드다방> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
