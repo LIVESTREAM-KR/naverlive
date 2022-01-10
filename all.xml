@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,42 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220107_71/1641541193443vGUPQ_JPEG/1641533357335.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Mon, 03 Jan 2022 02:57:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 24 Dec 2021 01:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/hanamartcent</link>
             <guid>https://tv.naver.com/hanamartcent</guid>
@@ -352,24 +388,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Fri, 24 Dec 2021 01:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/onstage</link>
             <guid>https://tv.naver.com/onstage</guid>
@@ -404,24 +422,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Mon, 03 Jan 2022 02:57:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연희컴퍼니 유희 (네이버 공연 live beta ─ 채널)]]></title>
