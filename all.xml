@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 13:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 13:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -183,7 +183,7 @@
             <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222554896496</link>
             <guid>https://blog.naver.com/jump_arko/222554896496</guid>
-            <pubDate>Tue, 11 Jan 2022 13:02:41 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 13:02:30 GMT</pubDate>
             <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_236/Pfx5F_1638438358816iaavy_PNG/1638438358750.png" length="0" type="image/png"/>
         </item>
