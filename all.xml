@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 11:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 13:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만> (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/jump_arko/222531036695</link>
-            <guid>https://blog.naver.com/jump_arko/222531036695</guid>
-            <pubDate>Fri, 31 Dec 2021 15:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/fyu1w_1638436949725HGUdb_PNG/1638436949649.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[전통 <마음의 노래14> 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222544688919</link>
@@ -90,12 +82,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[1/9(일), 1/16(일), 1/17(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/jump_arko/222554896496</link>
+            <guid>https://blog.naver.com/jump_arko/222554896496</guid>
+            <pubDate>Tue, 11 Jan 2022 13:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_236/Pfx5F_1638438358816iaavy_PNG/1638438358750.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -106,12 +98,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/jump_arko/222531036695</link>
-            <guid>https://blog.naver.com/jump_arko/222531036695</guid>
-            <pubDate>Fri, 31 Dec 2021 15:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_18/fyu1w_1638436949725HGUdb_PNG/1638436949649.png" length="0" type="image/png"/>
+            <title><![CDATA[뮤지컬 <풍월주>바람과 달의 주인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
+            <content:encoded><![CDATA[1/9(일), 1/16(일), 1/17(월) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통 <마음의 노래14> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -188,22 +180,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_112/Yn9DP_1639359965346mQ9en_PNG/1639359965322.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Mon, 03 Jan 2022 02:57:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/jump_arko/222554896496</link>
+            <guid>https://blog.naver.com/jump_arko/222554896496</guid>
+            <pubDate>Tue, 11 Jan 2022 13:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[01월 27일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_236/Pfx5F_1638438358816iaavy_PNG/1638438358750.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -222,6 +204,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Mon, 03 Jan 2022 02:57:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -644,13 +644,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통 <인당수의 우렁총각, 용궁출신입니다만> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/92250</link>
-            <guid>https://tv.naver.com/l/92250</guid>
-            <pubDate>Tue, 21 Dec 2021 13:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[01월 11일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전통 <마음의 노래14> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
