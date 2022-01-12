@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,7 +284,7 @@
             <pubDate>Fri, 07 Jan 2022 13:03:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/uhee" onclick="nclk(this, 'channel.img', 'uhee', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211220_13/8avNp_1639983076111lh6U1_PNG/1639983076099.png" alt="연희컴퍼니 유희 이미지">
 										</div>
@@ -302,7 +302,7 @@
             <pubDate>Wed, 05 Jan 2022 06:51:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200514_257/VvF9M_1589424066499F4tDR_PNG/1589424066482.png" alt="ArteTV 이미지">
 										</div>
