@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-13T11:39:44.868Z</updated>
+    <updated>2022-01-13T13:04:32.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[전통 <마음의 노래14> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/92261</id>
-        <link href="https://tv.naver.com/l/92261"/>
-        <updated>2021-12-21T13:03:33.398Z</updated>
-        <content type="html"><![CDATA[01월 13일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[<월드 클래식 오페라 시리즈Ⅰ> 하이라이트]]></title>
         <id>https://tv.naver.com/l/96150</id>
