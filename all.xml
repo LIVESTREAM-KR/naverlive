@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -482,7 +482,7 @@
             <pubDate>Fri, 07 Jan 2022 09:45:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
 										</div>
