@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 07:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 08:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,24 @@
             <pubDate>Thu, 13 Jan 2022 13:03:58 GMT</pubDate>
             <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_203/vj0gP_163843864628030jHp_PNG/1638438646241.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/rangtv</link>
+            <guid>https://tv.naver.com/rangtv</guid>
+            <pubDate>Wed, 05 Jan 2022 08:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/rangtv" onclick="nclk(this, 'channel.img', 'rangtv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" alt="랑TV (COMPANY RANG) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">랑TV (COMPANY RANG)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -440,24 +458,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220104_182/Xch6F_1641276255739Hxeer_JPEG/1641276255720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/rangtv</link>
-            <guid>https://tv.naver.com/rangtv</guid>
-            <pubDate>Wed, 05 Jan 2022 08:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/rangtv" onclick="nclk(this, 'channel.img', 'rangtv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" alt="랑TV (COMPANY RANG) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">랑TV (COMPANY RANG)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
