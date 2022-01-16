@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 23:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 01:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,24 @@
             <pubDate>Thu, 13 Jan 2022 13:03:58 GMT</pubDate>
             <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_203/vj0gP_163843864628030jHp_PNG/1638438646241.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sumatv</link>
+            <guid>https://tv.naver.com/sumatv</guid>
+            <pubDate>Sun, 16 Jan 2022 01:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">수원시립미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
@@ -512,24 +530,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_13/8avNp_1639983076111lh6U1_PNG/1639983076099.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ArteTV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Wed, 05 Jan 2022 06:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200514_257/VvF9M_1589424066499F4tDR_PNG/1589424066482.png" alt="ArteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">ArteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200514_257/VvF9M_1589424066499F4tDR_PNG/1589424066482.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
