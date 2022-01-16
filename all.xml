@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 14:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 15:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_272/uNXZF_1638161377890thYFx_JPEG/1638161377857.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											1/17 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! (네이버 공연 live beta)]]></title>
@@ -96,15 +87,6 @@
             <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
             <content:encoded><![CDATA[1/9(일), 1/16(일), 1/17(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211129_113/1638163035340tFeiL_JPEG/688X386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_272/uNXZF_1638161377890thYFx_JPEG/1638161377857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -533,15 +515,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Sat, 25 Dec 2021 08:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_272/uNXZF_1638161377890thYFx_JPEG/1638161377857.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											1/17 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
@@ -628,14 +601,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										1/16 8PM 뮤지컬 <풍월주> 녹화중계 LIVE! | 3회차 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/93111</link>
-            <guid>https://tv.naver.com/l/93111</guid>
-            <pubDate>Mon, 29 Nov 2021 21:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[01월 16일(일) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
