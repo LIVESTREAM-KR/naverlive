@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-17T15:48:19.050Z</updated>
+    <updated>2022-01-17T17:06:11.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										1/17 8PM 뮤지컬 <풍월주> 녹화중계 LIVE!]]></title>
-        <id>https://tv.naver.com/l/95885</id>
-        <link href="https://tv.naver.com/l/95885"/>
-        <updated>2022-01-03T07:40:47.748Z</updated>
-        <content type="html"><![CDATA[01월 17일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <친절한 에이미 선생님의 하루> 녹화중계]]></title>
         <id>https://tv.naver.com/l/92742</id>

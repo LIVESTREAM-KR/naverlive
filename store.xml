@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>네이버 공연 live beta ─ 후원유료</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 15:48:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											1/17 8PM 뮤지컬 <풍월주> 녹화중계 LIVE!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Sun, 26 Dec 2021 15:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[01월 17일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_117/jT7ws_1641191923585hdt4V_JPEG/1641191923515.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://live.naver.com/store</id>
+    <title>네이버 공연 live beta ─ 후원유료</title>
+    <updated>2022-01-17T17:06:11.298Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://live.naver.com/favicon.ico</icon>
+</feed>
