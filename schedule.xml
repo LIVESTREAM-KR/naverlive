@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-18T23:39:18.264Z</updated>
+    <updated>2022-01-19T01:38:43.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://tv.naver.com/l/93225"/>
         <updated>2021-12-21T13:03:33.400Z</updated>
         <content type="html"><![CDATA[01월 20일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한-러 상호 문화교류의 해 폐막공연 <문화로 잇는 미래>]]></title>
+        <id>https://tv.naver.com/l/97093</id>
+        <link href="https://tv.naver.com/l/97093"/>
+        <updated>2022-01-19T01:38:43.233Z</updated>
+        <content type="html"><![CDATA[01월 21일(금) 21:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다비트 라일란트 ‘빛을 향해’]]></title>
