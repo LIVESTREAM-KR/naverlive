@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-20T11:38:40.500Z</updated>
+    <updated>2022-01-20T12:58:14.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[<금호라이징스타 - 아레테 콰르텟 String Quartet>]]></title>
-        <id>https://tv.naver.com/l/96211</id>
-        <link href="https://tv.naver.com/l/96211"/>
-        <updated>2022-01-07T07:40:50.145Z</updated>
-        <content type="html"><![CDATA[01월 20일(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무용 <3rd Altimeets> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/93225</id>
-        <link href="https://tv.naver.com/l/93225"/>
-        <updated>2021-12-21T13:03:33.400Z</updated>
-        <content type="html"><![CDATA[01월 20일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[한-러 상호 문화교류의 해 폐막공연 <문화로 잇는 미래>]]></title>
         <id>https://tv.naver.com/l/97093</id>
