@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 23:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 01:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이희문컴퍼니]]></title>
+            <link>https://tv.naver.com/leeheemooncompany</link>
+            <guid>https://tv.naver.com/leeheemooncompany</guid>
+            <pubDate>Fri, 21 Jan 2022 01:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/leeheemooncompany" onclick="nclk(this, 'channel.img', 'leeheemooncompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" alt="이희문컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">이희문컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[credia tv]]></title>
-            <link>https://tv.naver.com/klassica</link>
-            <guid>https://tv.naver.com/klassica</guid>
-            <pubDate>Mon, 10 Jan 2022 14:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">credia tv</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
