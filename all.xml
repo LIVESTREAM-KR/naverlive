@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 12:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 13:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,24 @@
             <pubDate>Wed, 19 Jan 2022 03:40:49 GMT</pubDate>
             <content:encoded><![CDATA[02월 10일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_62/kmCJD_1638438876424kS46N_PNG/1638438876365.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[과천시립교향악단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gwacheonsymphony</link>
+            <guid>https://tv.naver.com/gwacheonsymphony</guid>
+            <pubDate>Fri, 21 Jan 2022 13:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">과천시립교향악단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -492,24 +510,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[광주시립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gmopera</link>
-            <guid>https://tv.naver.com/gmopera</guid>
-            <pubDate>Thu, 13 Jan 2022 03:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gmopera" onclick="nclk(this, 'channel.img', 'gmopera', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201225_170/gRHjX_1608865675659kNVaC_JPEG/1608865675644.jpg" alt="광주시립오페라단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">광주시립오페라단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201225_170/gRHjX_1608865675659kNVaC_JPEG/1608865675644.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 인디열전 :: 터치드 :  We are touched (네이버 공연 live beta ─ 다시보기)]]></title>
