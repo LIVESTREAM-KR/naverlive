@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 13:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 14:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한-러 상호 문화교류의 해]]></title>
+            <link>https://tv.naver.com/korrusculture</link>
+            <guid>https://tv.naver.com/korrusculture</guid>
+            <pubDate>Thu, 20 Jan 2022 08:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/korrusculture" onclick="nclk(this, 'channel.img', 'korrusculture', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200805_243/mkomd_1596592827333ASSbU_JPEG/1596592827312.jpg" alt="한-러 상호 문화교류의 해 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한-러 상호 문화교류의 해</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200805_243/mkomd_1596592827333ASSbU_JPEG/1596592827312.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과천시립교향악단]]></title>
             <link>https://tv.naver.com/gwacheonsymphony</link>
@@ -150,24 +168,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한-러 상호 문화교류의 해]]></title>
-            <link>https://tv.naver.com/korrusculture</link>
-            <guid>https://tv.naver.com/korrusculture</guid>
-            <pubDate>Thu, 20 Jan 2022 08:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/korrusculture" onclick="nclk(this, 'channel.img', 'korrusculture', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200805_243/mkomd_1596592827333ASSbU_JPEG/1596592827312.jpg" alt="한-러 상호 문화교류의 해 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한-러 상호 문화교류의 해</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200805_243/mkomd_1596592827333ASSbU_JPEG/1596592827312.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV]]></title>
