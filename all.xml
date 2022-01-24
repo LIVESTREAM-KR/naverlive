@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,24 @@
             <pubDate>Wed, 19 Jan 2022 03:40:49 GMT</pubDate>
             <content:encoded><![CDATA[02월 10일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_62/kmCJD_1638438876424kS46N_PNG/1638438876365.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -352,24 +370,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
