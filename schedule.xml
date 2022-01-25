@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-25T11:38:54.269Z</updated>
+    <updated>2022-01-25T12:58:47.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <월드다방> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/94276</id>
-        <link href="https://tv.naver.com/l/94276"/>
-        <updated>2021-12-21T13:03:33.400Z</updated>
-        <content type="html"><![CDATA[01월 25일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
         <id>https://tv.naver.com/l/93433</id>
         <link href="https://tv.naver.com/l/93433"/>
         <updated>2021-12-21T13:03:33.401Z</updated>
         <content type="html"><![CDATA[01월 27일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인']]></title>
+        <id>https://tv.naver.com/l/97646</id>
+        <link href="https://tv.naver.com/l/97646"/>
+        <updated>2022-01-25T12:58:46.438Z</updated>
+        <content type="html"><![CDATA[01월 28일(금) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <데미안 비더게부르트> 녹화중계]]></title>
