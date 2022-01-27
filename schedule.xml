@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-01-27T11:38:45.779Z</updated>
+    <updated>2022-01-27T12:59:34.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/93433</id>
-        <link href="https://tv.naver.com/l/93433"/>
-        <updated>2021-12-21T13:03:33.401Z</updated>
-        <content type="html"><![CDATA[01월 27일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인']]></title>
         <id>https://tv.naver.com/l/97646</id>
