@@ -4,9 +4,63 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 01:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스팍TV]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Mon, 24 Jan 2022 02:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시뮤지컬단]]></title>
+            <link>https://tv.naver.com/smmt</link>
+            <guid>https://tv.naver.com/smmt</guid>
+            <pubDate>Thu, 27 Jan 2022 02:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200625_293/ULHV2_1593047023302ck2WT_JPEG/1593047023280.jpg" alt="서울시뮤지컬단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울시뮤지컬단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200625_293/ULHV2_1593047023302ck2WT_JPEG/1593047023280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 27 Jan 2022 02:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[성남문화재단]]></title>
             <link>https://tv.naver.com/snart</link>
@@ -150,24 +204,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Mon, 24 Jan 2022 02:55:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립중앙박물관]]></title>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하남문화재단]]></title>
-            <link>https://tv.naver.com/hanamartcent</link>
-            <guid>https://tv.naver.com/hanamartcent</guid>
-            <pubDate>Thu, 06 Jan 2022 10:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">하남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Thu, 13 Jan 2022 04:55:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
