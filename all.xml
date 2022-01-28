@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 10:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 11:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인' (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/100museum/222630950440</link>
-            <guid>https://blog.naver.com/100museum/222630950440</guid>
-            <pubDate>Tue, 25 Jan 2022 12:58:08 GMT</pubDate>
-            <content:encoded><![CDATA[01월 28일(금) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_103/Hz3Ve_1643085855727zI25R_JPEG/1643085855700.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/jump_arko/222556047943</link>
@@ -97,14 +89,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220117_281/16423982481100N1KM_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인' (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/100museum/222630950440</link>
-            <guid>https://blog.naver.com/100museum/222630950440</guid>
-            <pubDate>Tue, 25 Jan 2022 12:58:08 GMT</pubDate>
-            <content:encoded><![CDATA[01월 28일(금) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_103/Hz3Ve_1643085855727zI25R_JPEG/1643085855700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/jump_arko/222556047943</link>
             <guid>https://blog.naver.com/jump_arko/222556047943</guid>
@@ -152,6 +136,24 @@
             <pubDate>Tue, 25 Jan 2022 13:38:43 GMT</pubDate>
             <content:encoded><![CDATA[02월 15일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_294/IY5eb_1642557053816MIVk0_PNG/1642557053755.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Tue, 25 Jan 2022 05:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -296,24 +298,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Tue, 25 Jan 2022 05:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -601,13 +585,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관 홍보대사 정일우 X  '조선의 승려 장인' (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/97646</link>
-            <guid>https://tv.naver.com/l/97646</guid>
-            <pubDate>Tue, 25 Jan 2022 12:58:46 GMT</pubDate>
-            <content:encoded><![CDATA[01월 28일(금) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
