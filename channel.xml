@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 13:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 14:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@
             <pubDate>Thu, 20 Jan 2022 08:43:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/korrusculture" onclick="nclk(this, 'channel.img', 'korrusculture', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200805_243/mkomd_1596592827333ASSbU_JPEG/1596592827312.jpg" alt="한-러 상호 문화교류의 해 이미지">
 										</div>
