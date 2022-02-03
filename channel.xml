@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 공연]]></title>
+            <link>https://tv.naver.com/theater</link>
+            <guid>https://tv.naver.com/theater</guid>
+            <pubDate>Thu, 03 Feb 2022 07:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">네이버 공연</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파크컴퍼니TV]]></title>
             <link>https://tv.naver.com/parkcompany</link>
@@ -212,7 +230,7 @@
             <pubDate>Thu, 27 Jan 2022 07:43:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Tue, 28 Dec 2021 06:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
