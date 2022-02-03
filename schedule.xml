@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-02-03T12:57:55.073Z</updated>
+    <updated>2022-02-03T13:38:59.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <데미안 비더게부르트> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/93434</id>
-        <link href="https://tv.naver.com/l/93434"/>
-        <updated>2022-01-07T11:39:28.098Z</updated>
-        <content type="html"><![CDATA[02월 03일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황]]></title>
         <id>https://tv.naver.com/l/98338</id>
