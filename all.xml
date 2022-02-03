@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 09:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 10:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 13 Jan 2022 13:03:58 GMT</pubDate>
             <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_203/vj0gP_163843864628030jHp_PNG/1638438646241.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/98338</link>
+            <guid>https://tv.naver.com/l/98338</guid>
+            <pubDate>Thu, 03 Feb 2022 10:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[02월 06일(일) 16:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220203_265/1643883433627O1Qxm_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <터키행진곡> 녹화중계 (네이버 공연 live beta)]]></title>
@@ -95,6 +103,14 @@
             <pubDate>Thu, 13 Jan 2022 13:03:58 GMT</pubDate>
             <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_203/vj0gP_163843864628030jHp_PNG/1638438646241.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/98338</link>
+            <guid>https://tv.naver.com/l/98338</guid>
+            <pubDate>Thu, 03 Feb 2022 10:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[02월 06일(일) 16:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220203_265/1643883433627O1Qxm_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <터키행진곡> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -592,6 +608,13 @@
             <guid>https://tv.naver.com/l/93434</guid>
             <pubDate>Fri, 07 Jan 2022 11:39:28 GMT</pubDate>
             <content:encoded><![CDATA[02월 03일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/98338</link>
+            <guid>https://tv.naver.com/l/98338</guid>
+            <pubDate>Thu, 03 Feb 2022 10:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[02월 06일(일) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <터키행진곡> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
