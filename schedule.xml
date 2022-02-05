@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-02-05T08:38:46.793Z</updated>
+    <updated>2022-02-05T09:38:56.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황]]></title>
+        <title type="html"><![CDATA[후원
+										무용 senseless violence (부제: 이해할 수 없는 폭력) 공연 실황]]></title>
         <id>https://tv.naver.com/l/98338</id>
         <link href="https://tv.naver.com/l/98338"/>
         <updated>2022-02-03T10:41:47.373Z</updated>
