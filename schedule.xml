@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-02-08T11:39:03.197Z</updated>
+    <updated>2022-02-08T12:56:27.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <터키행진곡> 녹화중계]]></title>
-        <id>https://tv.naver.com/l/94990</id>
-        <link href="https://tv.naver.com/l/94990"/>
-        <updated>2022-01-18T13:04:39.995Z</updated>
-        <content type="html"><![CDATA[02월 08일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[제13회 ARKO 한국창작음악제_양악부문]]></title>
         <id>https://tv.naver.com/l/97268</id>
