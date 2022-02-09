@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 23:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 01:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <pubDate>Fri, 04 Feb 2022 06:39:58 GMT</pubDate>
             <content:encoded><![CDATA[02월 18일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_145/qZvUv_16439033616019sHcI_JPEG/1643903361572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제13회 ARKO 한국창작음악제_국악부문 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/98330</link>
+            <guid>https://tv.naver.com/l/98330</guid>
+            <pubDate>Wed, 09 Feb 2022 01:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[02월 24일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/mGGup_1643872773239tnYLa_PNG/1643872773182.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -146,6 +154,14 @@
             <pubDate>Fri, 04 Feb 2022 06:39:58 GMT</pubDate>
             <content:encoded><![CDATA[02월 18일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_145/qZvUv_16439033616019sHcI_JPEG/1643903361572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제13회 ARKO 한국창작음악제_국악부문 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/98330</link>
+            <guid>https://tv.naver.com/l/98330</guid>
+            <pubDate>Wed, 09 Feb 2022 01:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[02월 24일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/mGGup_1643872773239tnYLa_PNG/1643872773182.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -648,6 +664,13 @@
             <guid>https://tv.naver.com/l/98365</guid>
             <pubDate>Fri, 04 Feb 2022 06:40:30 GMT</pubDate>
             <content:encoded><![CDATA[02월 18일(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제13회 ARKO 한국창작음악제_국악부문 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/98330</link>
+            <guid>https://tv.naver.com/l/98330</guid>
+            <pubDate>Wed, 09 Feb 2022 01:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[02월 24일(목) 19:30]]></content:encoded>
         </item>
     </channel>
 </rss>
