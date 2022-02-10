@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-02-10T10:41:46.825Z</updated>
+    <updated>2022-02-10T11:38:53.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[무용 LEADING SPIRIT 녹화중계]]></title>
-        <id>https://tv.naver.com/l/93435</id>
-        <link href="https://tv.naver.com/l/93435"/>
-        <updated>2022-01-19T03:41:28.664Z</updated>
-        <content type="html"><![CDATA[02월 10일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										[후원전용] 뮤지컬 <이토록 보통의> 녹화중계 LIVE]]></title>
