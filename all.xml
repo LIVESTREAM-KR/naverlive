@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 06:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,6 +146,24 @@
             <pubDate>Wed, 09 Feb 2022 01:47:43 GMT</pubDate>
             <content:encoded><![CDATA[02월 24일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/mGGup_1643872773239tnYLa_PNG/1643872773182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sumatv</link>
+            <guid>https://tv.naver.com/sumatv</guid>
+            <pubDate>Thu, 10 Feb 2022 07:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">수원시립미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -488,24 +506,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/weclassic</link>
-            <guid>https://tv.naver.com/weclassic</guid>
-            <pubDate>Fri, 04 Feb 2022 03:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/weclassic" onclick="nclk(this, 'channel.img', 'weclassic', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" alt="위클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">위클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
