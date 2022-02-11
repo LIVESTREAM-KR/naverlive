@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 01:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -130,6 +130,42 @@
             <pubDate>Wed, 09 Feb 2022 01:47:43 GMT</pubDate>
             <content:encoded><![CDATA[02월 24일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/mGGup_1643872773239tnYLa_PNG/1643872773182.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알앤디웍스 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/rndworks</link>
+            <guid>https://tv.naver.com/rndworks</guid>
+            <pubDate>Fri, 11 Feb 2022 02:50:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">알앤디웍스</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Mon, 07 Feb 2022 01:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
@@ -402,24 +438,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Mon, 07 Feb 2022 01:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/snart</link>
             <guid>https://tv.naver.com/snart</guid>
@@ -472,24 +490,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주시문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nsarthall</link>
-            <guid>https://tv.naver.com/nsarthall</guid>
-            <pubDate>Fri, 21 Jan 2022 15:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">광주시문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
