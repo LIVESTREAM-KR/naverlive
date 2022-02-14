@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 06:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,6 +17,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_152/M1pgp_1642681882881jtvEV_JPEG/1642681882848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											창작뮤지컬 <심청>  전막 무료 중계]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/412644</link>
+            <guid>https://shoppinglive.naver.com/livebridge/412644</guid>
+            <pubDate>Mon, 14 Feb 2022 06:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[02월 16일(수) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220214_3/1644818893779u3F36_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											2/18 8시 뮤지컬 쿠로이 저택엔 누가 살고  있을까?]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -24,6 +33,15 @@
             <pubDate>Fri, 04 Feb 2022 06:40:19 GMT</pubDate>
             <content:encoded><![CDATA[02월 18일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_145/qZvUv_16439033616019sHcI_JPEG/1643903361572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											달리에서 마그리트까지]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/412312</link>
+            <guid>https://shoppinglive.naver.com/livebridge/412312</guid>
+            <pubDate>Mon, 14 Feb 2022 06:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
