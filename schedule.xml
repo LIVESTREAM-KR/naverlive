@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-02-14T10:41:42.908Z</updated>
+    <updated>2022-02-14T11:38:48.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[후원전용] 뮤지컬 <이토록 보통의> 녹화중계 LIVE]]></title>
-        <id>https://tv.naver.com/l/97278</id>
-        <link href="https://tv.naver.com/l/97278"/>
-        <updated>2022-01-24T09:40:14.278Z</updated>
-        <content type="html"><![CDATA[02월 14일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <욕망의 불가능한 대상> 녹화중계]]></title>
         <id>https://tv.naver.com/l/97109</id>
