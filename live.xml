@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 12:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 13:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작뮤지컬 <심청> 전막 무료 중계]]></title>
-            <link>https://tv.naver.com/l/99173</link>
-            <guid>https://tv.naver.com/l/99173</guid>
-            <pubDate>Sat, 12 Feb 2022 08:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[02월 16일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_72/oOtRx_1644555821246YpTQQ_JPEG/1644555821196.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[코리안심포니오케스트라 '해방']]></title>
             <link>https://blog.naver.com/ksoblog/222637860410</link>

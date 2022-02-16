@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 12:56:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 13:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[창작뮤지컬 <심청> 전막 무료 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/99173</link>
-            <guid>https://tv.naver.com/l/99173</guid>
-            <pubDate>Sat, 12 Feb 2022 08:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[02월 16일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_72/oOtRx_1644555821246YpTQQ_JPEG/1644555821196.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/ksoblog/222637860410</link>
@@ -74,14 +66,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작뮤지컬 <심청> 전막 무료 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/99173</link>
-            <guid>https://tv.naver.com/l/99173</guid>
-            <pubDate>Sat, 12 Feb 2022 08:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[02월 16일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_72/oOtRx_1644555821246YpTQQ_JPEG/1644555821196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/ksoblog/222637860410</link>
             <guid>https://blog.naver.com/ksoblog/222637860410</guid>
@@ -111,7 +95,7 @@
             <title><![CDATA[판타지 퍼포먼스 <구미호> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/99640</link>
             <guid>https://tv.naver.com/l/99640</guid>
-            <pubDate>Wed, 16 Feb 2022 12:56:07 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 12:55:56 GMT</pubDate>
             <content:encoded><![CDATA[02월 23일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220215_30/KOuWy_1644899149185AueMA_JPEG/1644899149092.jpg" length="0" type="image/jpg"/>
         </item>
@@ -582,13 +566,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작뮤지컬 <심청> 전막 무료 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/99173</link>
-            <guid>https://tv.naver.com/l/99173</guid>
-            <pubDate>Sat, 12 Feb 2022 08:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[02월 16일(수) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/97900</link>
             <guid>https://tv.naver.com/l/97900</guid>
@@ -615,7 +592,7 @@
             <title><![CDATA[판타지 퍼포먼스 <구미호> 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/99640</link>
             <guid>https://tv.naver.com/l/99640</guid>
-            <pubDate>Wed, 16 Feb 2022 12:56:28 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 12:55:56 GMT</pubDate>
             <content:encoded><![CDATA[02월 23일(수) 20:00]]></content:encoded>
         </item>
         <item>
