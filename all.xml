@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,6 +108,60 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/mGGup_1643872773239tnYLa_PNG/1643872773182.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mindblowingent</link>
+            <guid>https://tv.naver.com/mindblowingent</guid>
+            <pubDate>Thu, 17 Feb 2022 03:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mindblowingent" onclick="nclk(this, 'channel.img', 'mindblowingent', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220216_297/hqOoi_16449769093713cvi1_JPEG/1644976909358.jpg" alt="뮤지컬 프렌쥬 신비의 손전등 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">뮤지컬 프렌쥬 신비의 손전등</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_297/hqOoi_16449769093713cvi1_JPEG/1644976909358.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여주세종문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/yjcf</link>
+            <guid>https://tv.naver.com/yjcf</guid>
+            <pubDate>Thu, 17 Feb 2022 03:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/yjcf" onclick="nclk(this, 'channel.img', 'yjcf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" alt="여주세종문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">여주세종문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나인스토리 TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/ninestory</link>
             <guid>https://tv.naver.com/ninestory</guid>
@@ -196,24 +250,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -430,42 +466,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Thu, 10 Feb 2022 01:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Wed, 09 Feb 2022 02:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
