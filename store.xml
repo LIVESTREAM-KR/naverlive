@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <pubDate>Mon, 14 Feb 2022 06:46:43 GMT</pubDate>
             <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 프렌쥬 신비의 손전등]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
+            <pubDate>Thu, 17 Feb 2022 09:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[02월 26일(토) 11:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_290/dh5HM_164499687025609XSA_JPEG/1644996870205.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
