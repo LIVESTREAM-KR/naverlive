@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 11:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 12:57:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/ksoblog/222637860410</link>
-            <guid>https://blog.naver.com/ksoblog/222637860410</guid>
-            <pubDate>Mon, 07 Feb 2022 09:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[02월 17일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_85/tSSUc_1643271906857IHd7C_JPEG/1643271906816.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											2/18 8시 뮤지컬 쿠로이 저택엔 누가 살고  있을까? (네이버 공연 live beta)]]></title>
@@ -68,12 +60,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Fri, 04 Feb 2022 06:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[2/18(금) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/onstage</link>
+            <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
+            <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[3/3(목) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -84,12 +76,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/ksoblog/222637860410</link>
-            <guid>https://blog.naver.com/ksoblog/222637860410</guid>
-            <pubDate>Mon, 07 Feb 2022 09:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[02월 17일(목) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_85/tSSUc_1643271906857IHd7C_JPEG/1643271906816.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/onstage</link>
+            <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
+            <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[3/3(목) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Fri, 04 Feb 2022 06:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[2/18(금) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220204_191/1643955101044UarK8_JPEG/688X386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -139,7 +139,7 @@
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
-            <pubDate>Thu, 17 Feb 2022 11:38:25 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,7 +535,7 @@
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
-            <pubDate>Thu, 17 Feb 2022 11:38:35 GMT</pubDate>
+            <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
         </item>
@@ -618,13 +618,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코리안심포니오케스트라 '해방' (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/97900</link>
-            <guid>https://tv.naver.com/l/97900</guid>
-            <pubDate>Mon, 07 Feb 2022 09:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[02월 17일(목) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
