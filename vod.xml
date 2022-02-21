@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 11:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 12:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달리에서 마그리트까지]]></title>
+            <link>https://view.shoppinglive.naver.com/replays/412312</link>
+            <guid>https://view.shoppinglive.naver.com/replays/412312</guid>
+            <pubDate>Mon, 21 Feb 2022 12:58:01 GMT</pubDate>
+            <content:encoded><![CDATA[초현실주의 거장전]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220221_276/1645445466378N1pvR_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 인디열전 :: 터치드 :  We are touched]]></title>
             <link>https://tv.naver.com/v/23374592</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제3회 서울 탭댄스 페스티벌 :: 탭댄스 클럽 스윙46 Part.2]]></title>
-            <link>https://blog.naver.com/arthallmac/222428542984</link>
-            <guid>https://blog.naver.com/arthallmac/222428542984</guid>
-            <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

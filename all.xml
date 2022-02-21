@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 11:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 12:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											달리에서 마그리트까지 (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/412312</link>
-            <guid>https://shoppinglive.naver.com/livebridge/412312</guid>
-            <pubDate>Mon, 14 Feb 2022 06:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[판타지 퍼포먼스 <구미호> 녹화 중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/99640</link>
@@ -67,15 +58,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											달리에서 마그리트까지 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/412312</link>
-            <guid>https://shoppinglive.naver.com/livebridge/412312</guid>
-            <pubDate>Mon, 14 Feb 2022 06:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[판타지 퍼포먼스 <구미호> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/99640</link>
             <guid>https://tv.naver.com/l/99640</guid>
@@ -108,6 +90,24 @@
             <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Mon, 24 Jan 2022 12:58:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">토마토클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -398,24 +398,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Mon, 24 Jan 2022 12:58:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/mmca</link>
             <guid>https://tv.naver.com/mmca</guid>
@@ -470,15 +452,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											달리에서 마그리트까지 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/412312</link>
-            <guid>https://shoppinglive.naver.com/livebridge/412312</guid>
-            <pubDate>Mon, 14 Feb 2022 06:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220214_62/1644821042812NRhKd_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
@@ -495,6 +468,14 @@
             <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달리에서 마그리트까지 (네이버 공연 live beta ─ 다시보기)]]></title>
+            <link>https://view.shoppinglive.naver.com/replays/412312</link>
+            <guid>https://view.shoppinglive.naver.com/replays/412312</guid>
+            <pubDate>Mon, 21 Feb 2022 12:58:01 GMT</pubDate>
+            <content:encoded><![CDATA[초현실주의 거장전]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220221_276/1645445466378N1pvR_JPEG/700x700px.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 인디열전 :: 터치드 :  We are touched (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -567,22 +548,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제3회 서울 탭댄스 페스티벌 :: 탭댄스 클럽 스윙46 Part.2 (네이버 공연 live beta ─ 다시보기)]]></title>
-            <link>https://blog.naver.com/arthallmac/222428542984</link>
-            <guid>https://blog.naver.com/arthallmac/222428542984</guid>
-            <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210714_201/Tl1Ce_1626260475141CFL0t_JPEG/aa6732a7-e492-11eb-b393-505dac8c3721_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										달리에서 마그리트까지 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://shoppinglive.naver.com/lives/412312</link>
-            <guid>https://shoppinglive.naver.com/lives/412312</guid>
-            <pubDate>Mon, 14 Feb 2022 06:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[02월 21일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[판타지 퍼포먼스 <구미호> 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
