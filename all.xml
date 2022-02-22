@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 08:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,12 +42,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
+            <pubDate>Thu, 17 Feb 2022 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2/26(토) 오전 11시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220222_150/1645516538633HL2fK_JPEG/688_386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
             <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
             <content:encoded><![CDATA[3/3(목) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
+            <pubDate>Thu, 17 Feb 2022 09:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2/26(토) 오전 11시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220222_150/1645516538633HL2fK_JPEG/688_386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 온스테이지 '아도이' 온라인 공연 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -90,6 +106,24 @@
             <pubDate>Thu, 17 Feb 2022 11:38:15 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Mon, 07 Feb 2022 01:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -386,7 +420,7 @@
             <pubDate>Fri, 21 Jan 2022 01:39:21 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/leeheemooncompany" onclick="nclk(this, 'channel.img', 'leeheemooncompany', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" alt="이희문컴퍼니 이미지">
 										</div>
@@ -396,24 +430,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210113_152/ZYLPU_1610516556515b4LWN_JPEG/1610516556488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Mon, 07 Feb 2022 01:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
