@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 02:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 03:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
-            <pubDate>Thu, 17 Feb 2022 09:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[02월 26일(토) 11:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_290/dh5HM_164499687025609XSA_JPEG/1644996870205.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta)]]></title>
@@ -67,15 +58,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
-            <pubDate>Thu, 17 Feb 2022 09:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[02월 26일(토) 11:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_290/dh5HM_164499687025609XSA_JPEG/1644996870205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
@@ -90,24 +72,6 @@
             <pubDate>Wed, 23 Feb 2022 10:41:45 GMT</pubDate>
             <content:encoded><![CDATA[03월 04일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_113/l5kbP_1645600991308wwfeu_JPEG/1645600991268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sumatv</link>
-            <guid>https://tv.naver.com/sumatv</guid>
-            <pubDate>Sat, 26 Feb 2022 01:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">수원시립미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -126,6 +90,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sumatv</link>
+            <guid>https://tv.naver.com/sumatv</guid>
+            <pubDate>Sat, 26 Feb 2022 01:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">수원시립미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -453,15 +435,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mindblowingent</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mindblowingent</guid>
-            <pubDate>Thu, 17 Feb 2022 09:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[02월 26일(토) 11:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_290/dh5HM_164499687025609XSA_JPEG/1644996870205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
             <guid>https://patron.naver.com/ntv/c/intro/onstage</guid>
@@ -548,14 +521,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/99754</link>
-            <guid>https://tv.naver.com/l/99754</guid>
-            <pubDate>Thu, 17 Feb 2022 09:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[02월 26일(토) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
