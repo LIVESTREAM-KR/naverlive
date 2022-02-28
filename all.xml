@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 03:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 04:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,14 +336,14 @@
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200625_293/ULHV2_1593047023302ck2WT_JPEG/1593047023280.jpg" alt="서울시뮤지컬단 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
 										<p class="txt">서울시뮤지컬단</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200625_293/ULHV2_1593047023302ck2WT_JPEG/1593047023280.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등 (네이버 공연 live beta ─ 채널)]]></title>
