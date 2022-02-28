@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Thu, 17 Feb 2022 11:38:35 GMT</pubDate>
             <content:encoded><![CDATA[03월 03일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_138/KDX8g_1645078486872Vhk3l_JPEG/1645078486800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <레드북>]]></title>
+            <link>https://tv.naver.com/l/100902</link>
+            <guid>https://tv.naver.com/l/100902</guid>
+            <pubDate>Mon, 28 Feb 2022 10:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[03월 16일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_105/sq0yw_1646040093898T8RVX_JPEG/1646040093848.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
