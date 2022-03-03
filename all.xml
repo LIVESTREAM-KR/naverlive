@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제142회 클래식품격콘서트 - 강남심포니오케스트라 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/100634</link>
-            <guid>https://tv.naver.com/l/100634</guid>
-            <pubDate>Wed, 02 Mar 2022 10:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[03월 03일(목) 11:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220302_268/1646215524768sx8Ou_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta)]]></title>
@@ -74,14 +66,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220217_8/1645098513474dgNjP_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제142회 클래식품격콘서트 - 강남심포니오케스트라 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/100634</link>
-            <guid>https://tv.naver.com/l/100634</guid>
-            <pubDate>Wed, 02 Mar 2022 10:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[03월 03일(목) 11:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220302_268/1646215524768sx8Ou_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											네이버 온스테이지 후원 라이브 '아도이' 온라인 공연 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/onstage</link>
@@ -108,24 +92,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_105/sq0yw_1646040093898T8RVX_JPEG/1646040093848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 27 Jan 2022 02:49:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -142,6 +108,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 27 Jan 2022 02:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,13 +548,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제142회 클래식품격콘서트 - 강남심포니오케스트라 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/100634</link>
-            <guid>https://tv.naver.com/l/100634</guid>
-            <pubDate>Wed, 02 Mar 2022 10:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[03월 03일(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
