@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-03T11:39:40.284Z</updated>
+    <updated>2022-03-03T12:59:18.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										네이버 온스테이지 후원 라이브 '아도이' 온라인 공연]]></title>
-        <id>https://tv.naver.com/l/99843</id>
-        <link href="https://tv.naver.com/l/99843"/>
-        <updated>2022-02-17T11:38:46.850Z</updated>
-        <content type="html"><![CDATA[03월 03일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[실내악 시리즈 <카르멘 판타지>]]></title>
         <id>https://tv.naver.com/l/100439</id>
