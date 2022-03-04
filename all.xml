@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 11:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 12:59:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[실내악 시리즈 <카르멘 판타지> (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/ksoblog/222649310125</link>
-            <guid>https://blog.naver.com/ksoblog/222649310125</guid>
-            <pubDate>Wed, 23 Feb 2022 10:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[03월 04일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_113/l5kbP_1645600991308wwfeu_JPEG/1645600991268.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <레드북> (네이버 공연 live beta)]]></title>
@@ -39,14 +31,6 @@
             <pubDate>Wed, 02 Mar 2022 07:38:42 GMT</pubDate>
             <content:encoded><![CDATA[3/16(수) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220302_174/16462070221497lHxx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실내악 시리즈 <카르멘 판타지> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/ksoblog/222649310125</link>
-            <guid>https://blog.naver.com/ksoblog/222649310125</guid>
-            <pubDate>Wed, 23 Feb 2022 10:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[03월 04일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_113/l5kbP_1645600991308wwfeu_JPEG/1645600991268.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -505,13 +489,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실내악 시리즈 <카르멘 판타지> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/100439</link>
-            <guid>https://tv.naver.com/l/100439</guid>
-            <pubDate>Wed, 23 Feb 2022 10:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[03월 04일(금) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
