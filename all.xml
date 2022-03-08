@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <title><![CDATA[신중현 주크박스 뮤지컬 <미인> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Tue, 08 Mar 2022 06:47:22 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 06:47:17 GMT</pubDate>
             <content:encoded><![CDATA[3/21(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220308_193/1646720762224j70Pd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -53,7 +53,7 @@
             <title><![CDATA[신중현 주크박스 뮤지컬 <미인> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Tue, 08 Mar 2022 06:47:22 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 06:47:17 GMT</pubDate>
             <content:encoded><![CDATA[3/21(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220308_193/1646720762224j70Pd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -71,9 +71,45 @@
 											신중현 주크박스 뮤지컬 <미인> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Tue, 08 Mar 2022 06:47:27 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 06:47:17 GMT</pubDate>
             <content:encoded><![CDATA[03월 21일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_158/c80Wl_1646660807006MRoEs_JPEG/1646660806955.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Mon, 07 Feb 2022 03:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코리안심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreansymphony</link>
+            <guid>https://tv.naver.com/koreansymphony</guid>
+            <pubDate>Tue, 08 Mar 2022 07:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" alt="코리안심포니오케스트라 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">코리안심포니오케스트라</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울돈화문국악당 (네이버 공연 live beta ─ 채널)]]></title>
@@ -400,42 +436,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Mon, 07 Feb 2022 03:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Mon, 21 Feb 2022 09:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <레드북> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
@@ -449,7 +449,7 @@
 											신중현 주크박스 뮤지컬 <미인> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Tue, 08 Mar 2022 06:47:39 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 06:47:17 GMT</pubDate>
             <content:encoded><![CDATA[03월 21일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_158/c80Wl_1646660807006MRoEs_JPEG/1646660806955.jpg" length="0" type="image/jpg"/>
         </item>
