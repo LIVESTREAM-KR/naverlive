@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 04:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립현대무용단]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Tue, 08 Mar 2022 05:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 프렌쥬 신비의 손전등]]></title>
-            <link>https://tv.naver.com/mindblowingent</link>
-            <guid>https://tv.naver.com/mindblowingent</guid>
-            <pubDate>Thu, 17 Feb 2022 03:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mindblowingent" onclick="nclk(this, 'channel.img', 'mindblowingent', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220216_297/hqOoi_16449769093713cvi1_JPEG/1644976909358.jpg" alt="뮤지컬 프렌쥬 신비의 손전등 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">뮤지컬 프렌쥬 신비의 손전등</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_297/hqOoi_16449769093713cvi1_JPEG/1644976909358.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
