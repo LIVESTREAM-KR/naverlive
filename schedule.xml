@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-16T08:44:06.332Z</updated>
+    <updated>2022-03-16T09:41:27.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -55,6 +55,14 @@
         <link href="https://tv.naver.com/l/101788"/>
         <updated>2022-03-10T11:38:53.339Z</updated>
         <content type="html"><![CDATA[03월 24일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										저스트 절크 토크 콘서트 Lets get together]]></title>
+        <id>https://tv.naver.com/l/101338</id>
+        <link href="https://tv.naver.com/l/101338"/>
+        <updated>2022-03-16T09:41:26.725Z</updated>
+        <content type="html"><![CDATA[03월 26일(토) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 3월 천원의 행복 <고잉 온 콘서트>]]></title>
