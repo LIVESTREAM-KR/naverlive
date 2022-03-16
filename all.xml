@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,42 @@
             <pubDate>Fri, 11 Mar 2022 12:59:35 GMT</pubDate>
             <content:encoded><![CDATA[03월 31일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220311_170/1647001257040HuShM_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/hanamartcent</link>
+            <guid>https://tv.naver.com/hanamartcent</guid>
+            <pubDate>Thu, 10 Feb 2022 10:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">하남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Wed, 16 Mar 2022 03:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여주세종문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -504,24 +540,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/hanamartcent</link>
-            <guid>https://tv.naver.com/hanamartcent</guid>
-            <pubDate>Thu, 10 Feb 2022 10:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">하남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/tomatoclassictv</link>
             <guid>https://tv.naver.com/tomatoclassictv</guid>
@@ -538,24 +556,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/weclassic</link>
-            <guid>https://tv.naver.com/weclassic</guid>
-            <pubDate>Wed, 02 Mar 2022 11:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/weclassic" onclick="nclk(this, 'channel.img', 'weclassic', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" alt="위클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">위클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
