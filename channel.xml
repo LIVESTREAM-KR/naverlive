@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 03:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 04:49:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,7 +350,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코리안심포니오케스트라]]></title>
+            <title><![CDATA[국립심포니오케스트라]]></title>
             <link>https://tv.naver.com/koreansymphony</link>
             <guid>https://tv.naver.com/koreansymphony</guid>
             <pubDate>Tue, 08 Mar 2022 07:38:51 GMT</pubDate>
@@ -358,14 +358,14 @@
 									
 									<div class="img-mask">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" alt="코리안심포니오케스트라 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220318_59/T5trY_16475757458387tuaT_JPEG/1647575745814.jpg" alt="국립심포니오케스트라 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">코리안심포니오케스트라</p>
+										<p class="txt">국립심포니오케스트라</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_300/zikhX_1640680347588Qv6a1_JPEG/1640680347563.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_59/T5trY_16475757458387tuaT_JPEG/1647575745814.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
