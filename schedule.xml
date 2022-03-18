@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-18T04:49:53.404Z</updated>
+    <updated>2022-03-18T05:38:59.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 또!오해영 온라인 쇼케이스 생중계]]></title>
-        <id>https://tv.naver.com/l/101963</id>
-        <link href="https://tv.naver.com/l/101963"/>
-        <updated>2022-03-13T15:43:05.604Z</updated>
-        <content type="html"><![CDATA[03월 18일(금) 14:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										신중현 주크박스 뮤지컬 <미인>]]></title>
