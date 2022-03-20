@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-20T12:57:54.134Z</updated>
+    <updated>2022-03-20T13:40:30.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -87,5 +87,13 @@
         <link href="https://tv.naver.com/l/102138"/>
         <updated>2022-03-17T10:44:39.686Z</updated>
         <content type="html"><![CDATA[04월 11일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										[후원전용] 뮤지컬 <곤 투모로우>]]></title>
+        <id>https://tv.naver.com/l/102303</id>
+        <link href="https://tv.naver.com/l/102303"/>
+        <updated>2022-03-20T13:40:30.176Z</updated>
+        <content type="html"><![CDATA[04월 18일(월) 19:00]]></content>
     </entry>
 </feed>
