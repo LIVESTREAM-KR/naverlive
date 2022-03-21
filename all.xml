@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 19:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 20:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,24 @@
             <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
             <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIVE 360 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/audioguy</link>
+            <guid>https://tv.naver.com/audioguy</guid>
+            <pubDate>Mon, 21 Mar 2022 20:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/audioguy" onclick="nclk(this, 'channel.img', 'audioguy', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" alt="LIVE 360 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">LIVE 360</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -550,24 +568,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Thu, 10 Mar 2022 10:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
