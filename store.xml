@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <pubDate>Fri, 11 Mar 2022 12:59:56 GMT</pubDate>
             <content:encoded><![CDATA[03월 31일(목) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220311_170/1647001257040HuShM_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작뮤지컬 <브라더스 까라마조프>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchardmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchardmusical</guid>
+            <pubDate>Tue, 22 Mar 2022 07:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[04월 03일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_12/q0qyH_1647837304859afc1I_JPEG/1647837304805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
