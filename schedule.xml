@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-22T11:38:44.628Z</updated>
+    <updated>2022-03-22T13:03:27.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[가이 브라운슈타인의 '환희로']]></title>
-        <id>https://tv.naver.com/l/101793</id>
-        <link href="https://tv.naver.com/l/101793"/>
-        <updated>2022-03-10T08:44:12.974Z</updated>
-        <content type="html"><![CDATA[03월 22일(화) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<정가악회 콘서트 - 탈춤은 탈춤> 공연 실황]]></title>
-        <id>https://tv.naver.com/l/101785</id>
-        <link href="https://tv.naver.com/l/101785"/>
-        <updated>2022-03-10T11:38:53.338Z</updated>
-        <content type="html"><![CDATA[03월 22일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 열정 <오페라 클라이맥스>]]></title>
         <id>https://tv.naver.com/l/102028</id>
