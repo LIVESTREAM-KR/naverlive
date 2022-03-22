@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,12 +85,12 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
+											오페라 <아틸라> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 22 Mar 2022 02:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[04월 09일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_143/aIzUE_1647827109075bIPmU_JPEG/1647827109060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스트 절크의 토크 콘서트 "LET'S GET TOGETHER" (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -202,12 +202,30 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[04월 11일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
+											오페라 <아틸라> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 22 Mar 2022 02:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[04월 09일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_143/aIzUE_1647827109075bIPmU_JPEG/1647827109060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[busanmuseumofart (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/busanmuseumofart</link>
+            <guid>https://tv.naver.com/busanmuseumofart</guid>
+            <pubDate>Tue, 22 Mar 2022 02:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">busanmuseumofart</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LIVE 360 (네이버 공연 live beta ─ 채널)]]></title>
@@ -540,7 +558,7 @@
             <pubDate>Thu, 10 Mar 2022 07:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" alt="공연예술 창작산실 이미지">
 										</div>
@@ -550,24 +568,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Thu, 17 Feb 2022 06:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -604,6 +604,15 @@
             <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <아틸라> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 22 Mar 2022 02:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[04월 09일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_143/aIzUE_1647827109075bIPmU_JPEG/1647827109060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -769,6 +778,14 @@
             <guid>https://tv.naver.com/l/102136</guid>
             <pubDate>Thu, 17 Mar 2022 10:44:39 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										오페라 <아틸라> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/102546</link>
+            <guid>https://tv.naver.com/l/102546</guid>
+            <pubDate>Tue, 22 Mar 2022 02:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[04월 09일(토) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
