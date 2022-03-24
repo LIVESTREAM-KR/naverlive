@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,24 +222,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_124/Av0V4_1647343031740eO6Qe_JPEG/1647343031713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울시뮤지컬단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/smmt</link>
-            <guid>https://tv.naver.com/smmt</guid>
-            <pubDate>Thu, 24 Mar 2022 07:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시뮤지컬단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -256,6 +238,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시뮤지컬단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/smmt</link>
+            <guid>https://tv.naver.com/smmt</guid>
+            <pubDate>Thu, 24 Mar 2022 07:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울시뮤지컬단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
