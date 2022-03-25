@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,7 +302,7 @@
             <pubDate>Fri, 18 Mar 2022 07:38:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/ateod" onclick="nclk(this, 'channel.img', 'ateod', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220313_61/4PF4U_1647161720333ix1Vo_JPEG/1647161720306.jpg" alt="아떼오드 이미지">
 										</div>
