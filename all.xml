@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 09:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <pubDate>Tue, 22 Mar 2022 05:39:57 GMT</pubDate>
             <content:encoded><![CDATA[04월 18일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_231/vHuOC_1647507988995FHqwk_JPEG/1647507988967.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과천시립교향악단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gwacheonsymphony</link>
+            <guid>https://tv.naver.com/gwacheonsymphony</guid>
+            <pubDate>Sat, 26 Mar 2022 10:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">과천시립교향악단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,24 +582,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_61/4PF4U_1647161720333ix1Vo_JPEG/1647161720306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Thu, 17 Mar 2022 08:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
