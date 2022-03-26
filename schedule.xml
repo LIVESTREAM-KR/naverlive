@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-26T10:42:43.652Z</updated>
+    <updated>2022-03-26T11:39:43.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										저스트 절크 토크 콘서트 Lets get together]]></title>
-        <id>https://tv.naver.com/l/101338</id>
-        <link href="https://tv.naver.com/l/101338"/>
-        <updated>2022-03-16T09:41:26.725Z</updated>
-        <content type="html"><![CDATA[03월 26일(토) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <와일드 그레이>]]></title>
