@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-03-29T11:48:09.737Z</updated>
+    <updated>2022-03-29T13:04:57.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 3월 천원의 행복 <고잉 온 콘서트>]]></title>
-        <id>https://tv.naver.com/l/102126</id>
-        <link href="https://tv.naver.com/l/102126"/>
-        <updated>2022-03-15T09:42:19.559Z</updated>
-        <content type="html"><![CDATA[03월 29일(화) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제73회 크누아심포니오케스트라 정기연주회]]></title>
-        <id>https://tv.naver.com/l/103169</id>
-        <link href="https://tv.naver.com/l/103169"/>
-        <updated>2022-03-29T05:39:55.893Z</updated>
-        <content type="html"><![CDATA[03월 29일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[창작음악극 비손(Two Hands)]]></title>
         <id>https://tv.naver.com/l/102900</id>
@@ -72,6 +58,14 @@
         <link href="https://tv.naver.com/l/102138"/>
         <updated>2022-03-17T10:44:39.686Z</updated>
         <content type="html"><![CDATA[04월 11일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										<낮은 칼바람> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/103203</id>
+        <link href="https://tv.naver.com/l/103203"/>
+        <updated>2022-03-29T13:04:56.586Z</updated>
+        <content type="html"><![CDATA[04월 12일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<2022 금호아트홀 상주음악가> 김동현 Violin]]></title>
