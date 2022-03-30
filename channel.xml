@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시뮤지컬단]]></title>
+            <link>https://tv.naver.com/smmt</link>
+            <guid>https://tv.naver.com/smmt</guid>
+            <pubDate>Thu, 24 Mar 2022 07:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울시뮤지컬단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[광주시문화재단]]></title>
             <link>https://tv.naver.com/nsarthall</link>
@@ -260,24 +278,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울시뮤지컬단]]></title>
-            <link>https://tv.naver.com/smmt</link>
-            <guid>https://tv.naver.com/smmt</guid>
-            <pubDate>Thu, 24 Mar 2022 07:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시뮤지컬단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[국립오페라단]]></title>
             <link>https://tv.naver.com/koreanationalopera</link>
             <guid>https://tv.naver.com/koreanationalopera</guid>
@@ -350,22 +350,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Cantabile 칸타빌레]]></title>
-            <link>https://tv.naver.com/cbsartnmusic</link>
-            <guid>https://tv.naver.com/cbsartnmusic</guid>
-            <pubDate>Wed, 23 Mar 2022 14:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/cbsartnmusic" onclick="nclk(this, 'channel.img', 'cbsartnmusic', '');" class="lnk-channel">
+            <title><![CDATA[토마토클래식]]></title>
+            <link>https://tv.naver.com/tomatoclassictv</link>
+            <guid>https://tv.naver.com/tomatoclassictv</guid>
+            <pubDate>Wed, 30 Mar 2022 07:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" alt="Cantabile 칸타빌레 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">Cantabile 칸타빌레</p>
+										<p class="txt">토마토클래식</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
