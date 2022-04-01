@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-01T14:41:35.145Z</updated>
+    <updated>2022-04-01T15:45:55.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -29,7 +29,7 @@
         <content type="html"><![CDATA[04월 04일(월) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공연 실황 녹화 중계]]></title>
+        <title type="html"><![CDATA[전통예술 TIMER 공연 실황]]></title>
         <id>https://tv.naver.com/l/103370</id>
         <link href="https://tv.naver.com/l/103370"/>
         <updated>2022-04-01T14:41:34.490Z</updated>
