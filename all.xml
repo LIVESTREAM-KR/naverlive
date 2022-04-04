@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[전통예술 TIMER 공연 실황 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/103370</link>
@@ -115,15 +106,6 @@
             <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
             <content:encoded><![CDATA[3/28, 4/4, 4/11(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220323_282/1648027271797ebkeb_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통예술 TIMER 공연 실황 (네이버 공연 live beta ─ HOT)]]></title>
@@ -547,15 +529,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Thu, 17 Mar 2022 10:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_132/wYYuY_164734260874627R6l_JPEG/1647342608729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											오페라 <아틸라> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -660,14 +633,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <와일드 그레이> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/102136</link>
-            <guid>https://tv.naver.com/l/102136</guid>
-            <pubDate>Thu, 17 Mar 2022 10:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[04월 04일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전통예술 TIMER 공연 실황 (네이버 공연 live beta ─ 전체일정)]]></title>
