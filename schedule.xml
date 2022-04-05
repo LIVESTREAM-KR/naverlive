@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-05T11:40:45.787Z</updated>
+    <updated>2022-04-05T13:03:20.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[전통예술 TIMER 공연 실황]]></title>
-        <id>https://tv.naver.com/l/103370</id>
-        <link href="https://tv.naver.com/l/103370"/>
-        <updated>2022-04-01T14:41:34.490Z</updated>
-        <content type="html"><![CDATA[04월 05일(화) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[<굿(Exorcism)_사도> 공연 실황]]></title>
         <id>https://tv.naver.com/l/103386</id>
