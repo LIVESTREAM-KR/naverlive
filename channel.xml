@@ -4,26 +4,26 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 06:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 07:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[라이브(주)]]></title>
-            <link>https://tv.naver.com/livecorp</link>
-            <guid>https://tv.naver.com/livecorp</guid>
-            <pubDate>Mon, 28 Mar 2022 03:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
+            <title><![CDATA[국립국악원TV]]></title>
+            <link>https://tv.naver.com/gugak1951</link>
+            <guid>https://tv.naver.com/gugak1951</guid>
+            <pubDate>Tue, 05 Apr 2022 07:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">라이브(주)</p>
+										<p class="txt">국립국악원TV</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀]]></title>
@@ -42,6 +42,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이브(주)]]></title>
+            <link>https://tv.naver.com/livecorp</link>
+            <guid>https://tv.naver.com/livecorp</guid>
+            <pubDate>Mon, 28 Mar 2022 03:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">라이브(주)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공연예술 창작산실]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온스테이지]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 27 Jan 2022 02:49:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
