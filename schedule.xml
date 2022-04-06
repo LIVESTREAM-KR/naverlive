@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-06T05:40:22.589Z</updated>
+    <updated>2022-04-06T06:49:13.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -37,6 +37,13 @@
         <content type="html"><![CDATA[04월 12일(화) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<광대가 리골레토> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/103635</id>
+        <link href="https://tv.naver.com/l/103635"/>
+        <updated>2022-04-06T06:49:13.211Z</updated>
+        <content type="html"><![CDATA[04월 14일(목) 19:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<2022 금호아트홀 상주음악가> 김동현 Violin]]></title>
         <id>https://tv.naver.com/l/103093</id>
         <link href="https://tv.naver.com/l/103093"/>
@@ -50,5 +57,21 @@
         <link href="https://tv.naver.com/l/102303"/>
         <updated>2022-03-20T13:40:30.176Z</updated>
         <content type="html"><![CDATA[04월 18일(월) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										IMMERSIVE BLIND CONCERT (1) 김지호, 이아름]]></title>
+        <id>https://tv.naver.com/l/103792</id>
+        <link href="https://tv.naver.com/l/103792"/>
+        <updated>2022-04-06T06:49:13.215Z</updated>
+        <content type="html"><![CDATA[04월 22일(금) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										IMMERSIVE BLIND CONCERT (2) 한빛챔버오케스트라]]></title>
+        <id>https://tv.naver.com/l/103793</id>
+        <link href="https://tv.naver.com/l/103793"/>
+        <updated>2022-04-06T06:49:13.216Z</updated>
+        <content type="html"><![CDATA[04월 23일(토) 19:00]]></content>
     </entry>
 </feed>
