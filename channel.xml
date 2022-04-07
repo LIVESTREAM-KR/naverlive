@@ -4,9 +4,63 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 03:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한경 글로벌마켓]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트앤아티스트]]></title>
+            <link>https://tv.naver.com/artsnartists</link>
+            <guid>https://tv.naver.com/artsnartists</guid>
+            <pubDate>Fri, 01 Apr 2022 10:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트앤아티스트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[busanmuseumofart]]></title>
+            <link>https://tv.naver.com/busanmuseumofart</link>
+            <guid>https://tv.naver.com/busanmuseumofart</guid>
+            <pubDate>Wed, 06 Apr 2022 07:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">busanmuseumofart</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[온스테이지]]></title>
             <link>https://tv.naver.com/onstage</link>
@@ -78,42 +132,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[busanmuseumofart]]></title>
-            <link>https://tv.naver.com/busanmuseumofart</link>
-            <guid>https://tv.naver.com/busanmuseumofart</guid>
-            <pubDate>Wed, 06 Apr 2022 07:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">busanmuseumofart</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LIVE 360]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아트앤아티스트]]></title>
-            <link>https://tv.naver.com/artsnartists</link>
-            <guid>https://tv.naver.com/artsnartists</guid>
-            <pubDate>Fri, 01 Apr 2022 10:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트앤아티스트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
