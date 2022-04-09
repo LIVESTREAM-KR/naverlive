@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 13:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,24 +114,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남문화재단]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Thu, 07 Apr 2022 10:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
@@ -366,6 +348,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신시컴퍼니]]></title>
+            <link>https://tv.naver.com/seenseecom</link>
+            <guid>https://tv.naver.com/seenseecom</guid>
+            <pubDate>Sat, 09 Apr 2022 13:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seenseecom" onclick="nclk(this, 'channel.img', 'seenseecom', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190708_121/Atp35_1562576218061SzMYF_PNG/1562576218042.png" alt="신시컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">신시컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190708_121/Atp35_1562576218061SzMYF_PNG/1562576218042.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
