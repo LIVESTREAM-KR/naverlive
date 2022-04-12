@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,6 +146,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_212/udCMB_1649207439100yuKCK_JPEG/1649207439044.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Tue, 05 Apr 2022 06:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시뮤지컬단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/smmt</link>
+            <guid>https://tv.naver.com/smmt</guid>
+            <pubDate>Thu, 07 Apr 2022 08:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울시뮤지컬단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/kncdc</link>
             <guid>https://tv.naver.com/kncdc</guid>
@@ -180,24 +216,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시뮤지컬단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/smmt</link>
-            <guid>https://tv.naver.com/smmt</guid>
-            <pubDate>Thu, 07 Apr 2022 08:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시뮤지컬단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -486,24 +504,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Tue, 05 Apr 2022 06:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
