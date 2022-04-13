@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 10:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 11:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,24 @@
             <pubDate>Wed, 13 Apr 2022 08:46:20 GMT</pubDate>
             <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_109/7qNCe_1649825601305CnEEN_JPEG/1649825601269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/weclassic</link>
+            <guid>https://tv.naver.com/weclassic</guid>
+            <pubDate>Wed, 13 Apr 2022 11:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/weclassic" onclick="nclk(this, 'channel.img', 'weclassic', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" alt="위클래식 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">위클래식</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
@@ -518,24 +536,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE 360 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/audioguy</link>
-            <guid>https://tv.naver.com/audioguy</guid>
-            <pubDate>Wed, 06 Apr 2022 03:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/audioguy" onclick="nclk(this, 'channel.img', 'audioguy', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" alt="LIVE 360 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LIVE 360</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[후원
