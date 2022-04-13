@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,9 +173,27 @@
             <title><![CDATA[현대합창의 밤 모던 사운드(Modern Sound) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/nachorus1973/222676230683</link>
             <guid>https://blog.naver.com/nachorus1973/222676230683</guid>
-            <pubDate>Wed, 13 Apr 2022 08:46:30 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 08:46:20 GMT</pubDate>
             <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_109/7qNCe_1649825601305CnEEN_JPEG/1649825601269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreansymphony</link>
+            <guid>https://tv.naver.com/koreansymphony</guid>
+            <pubDate>Wed, 13 Apr 2022 09:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220318_59/T5trY_16475757458387tuaT_JPEG/1647575745814.jpg" alt="국립심포니오케스트라 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립심포니오케스트라</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_59/T5trY_16475757458387tuaT_JPEG/1647575745814.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울시뮤지컬단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -518,24 +536,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤디웍스 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/rndworks</link>
-            <guid>https://tv.naver.com/rndworks</guid>
-            <pubDate>Wed, 06 Apr 2022 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">알앤디웍스</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
