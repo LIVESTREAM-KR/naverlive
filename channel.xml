@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍컴퍼니]]></title>
+            <link>https://tv.naver.com/hongcompany</link>
+            <guid>https://tv.naver.com/hongcompany</guid>
+            <pubDate>Fri, 15 Apr 2022 05:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hongcompany" onclick="nclk(this, 'channel.img', 'hongcompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" alt="홍컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">홍컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[금호아트홀]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Wed, 16 Mar 2022 03:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
