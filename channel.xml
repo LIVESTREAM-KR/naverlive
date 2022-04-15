@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 13:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 13:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과천시립교향악단]]></title>
+            <link>https://tv.naver.com/gwacheonsymphony</link>
+            <guid>https://tv.naver.com/gwacheonsymphony</guid>
+            <pubDate>Fri, 15 Apr 2022 13:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">과천시립교향악단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트앤아티스트]]></title>
             <link>https://tv.naver.com/artsnartists</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200624_300/AqHjr_1592978704158bls5C_JPEG/1592978704134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남문화재단]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Thu, 31 Mar 2022 02:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
