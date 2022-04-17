@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 22:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 23:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_35/MHabQ_1649846996593dllOo_JPEG/1649846996517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/page1</link>
+            <guid>https://tv.naver.com/page1</guid>
+            <pubDate>Thu, 14 Apr 2022 11:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PAGE1</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -370,24 +388,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/page1</link>
-            <guid>https://tv.naver.com/page1</guid>
-            <pubDate>Thu, 14 Apr 2022 11:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">PAGE1</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
