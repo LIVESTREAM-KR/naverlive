@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 02:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 04:00:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스트엔터테인먼트]]></title>
+            <link>https://tv.naver.com/mastentertainment</link>
+            <guid>https://tv.naver.com/mastentertainment</guid>
+            <pubDate>Mon, 18 Apr 2022 04:00:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mastentertainment" onclick="nclk(this, 'channel.img', 'mastentertainment', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180227_10/SvGb0_1519693241251dejaV_JPEG/1519693241202.jpg" alt="마스트엔터테인먼트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">마스트엔터테인먼트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180227_10/SvGb0_1519693241251dejaV_JPEG/1519693241202.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
             <link>https://tv.naver.com/mmca</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[은평문화재단]]></title>
-            <link>https://tv.naver.com/efac</link>
-            <guid>https://tv.naver.com/efac</guid>
-            <pubDate>Fri, 08 Apr 2022 07:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/efac" onclick="nclk(this, 'channel.img', 'efac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_300/AqHjr_1592978704158bls5C_JPEG/1592978704134.jpg" alt="은평문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">은평문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_300/AqHjr_1592978704158bls5C_JPEG/1592978704134.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
