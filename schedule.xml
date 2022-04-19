@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-19T08:47:32.465Z</updated>
+    <updated>2022-04-19T09:43:49.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -134,5 +134,29 @@
         <link href="https://tv.naver.com/l/104366"/>
         <updated>2022-04-13T14:41:58.671Z</updated>
         <content type="html"><![CDATA[05월 01일(일) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <풍월주> 앵콜 중계]]></title>
+        <id>https://tv.naver.com/l/104248</id>
+        <link href="https://tv.naver.com/l/104248"/>
+        <updated>2022-04-19T09:43:49.074Z</updated>
+        <content type="html"><![CDATA[05월 02일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <풍월주> 앵콜 중계]]></title>
+        <id>https://tv.naver.com/l/104251</id>
+        <link href="https://tv.naver.com/l/104251"/>
+        <updated>2022-04-19T09:43:49.077Z</updated>
+        <content type="html"><![CDATA[05월 09일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <풍월주> 앵콜 중계]]></title>
+        <id>https://tv.naver.com/l/104252</id>
+        <link href="https://tv.naver.com/l/104252"/>
+        <updated>2022-04-19T09:43:49.078Z</updated>
+        <content type="html"><![CDATA[05월 16일(월) 20:00]]></content>
     </entry>
 </feed>
