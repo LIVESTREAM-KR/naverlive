@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -520,7 +520,7 @@
             <pubDate>Wed, 13 Apr 2022 11:39:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/weclassic" onclick="nclk(this, 'channel.img', 'weclassic', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" alt="위클래식 이미지">
 										</div>
