@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-22T11:39:51.662Z</updated>
+    <updated>2022-04-22T13:11:32.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										IMMERSIVE BLIND CONCERT (1) 김지호, 이아름]]></title>
-        <id>https://tv.naver.com/l/103792</id>
-        <link href="https://tv.naver.com/l/103792"/>
-        <updated>2022-04-06T06:49:13.215Z</updated>
-        <content type="html"><![CDATA[04월 22일(금) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										IMMERSIVE BLIND CONCERT (2) 한빛챔버오케스트라]]></title>

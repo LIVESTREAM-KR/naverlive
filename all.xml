@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 13:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											IMMERSIVE BLIND CONCERT (1) 김지호, 이아름 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/103792</link>
-            <guid>https://tv.naver.com/l/103792</guid>
-            <pubDate>Wed, 06 Apr 2022 06:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[04월 22일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_117/VkS6R_1649207273198da082_JPEG/1649207273154.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											IMMERSIVE BLIND CONCERT (2) 한빛챔버오케스트라 (네이버 공연 live beta)]]></title>
@@ -91,12 +82,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_184/MN8pf_16498471416546COAq_JPEG/1649847141624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <태양의 노래> 2차 티켓 선오픈 & 시츠프로브 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/483185</link>
-            <guid>https://shoppinglive.naver.com/livebridge/483185</guid>
-            <pubDate>Tue, 12 Apr 2022 15:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[4/25(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220413_33/1649778319803unVVU_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+            <title><![CDATA[[2022서울재즈페스타] 성기문 Trio + 박재홍 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104359</link>
+            <guid>https://tv.naver.com/l/104359</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[04월 29일(금) 20:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_239/ptGrD_1649847433050iCoTx_JPEG/1649847433022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <태양의 노래> 2차 티켓 선오픈 & 시츠프로브 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -107,13 +98,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220413_33/1649778319803unVVU_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											IMMERSIVE BLIND CONCERT (1) 김지호, 이아름 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/103792</link>
-            <guid>https://tv.naver.com/l/103792</guid>
-            <pubDate>Wed, 06 Apr 2022 06:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[04월 22일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_117/VkS6R_1649207273198da082_JPEG/1649207273154.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <태양의 노래> 2차 티켓 선오픈 & 시츠프로브 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/483185</link>
+            <guid>https://shoppinglive.naver.com/livebridge/483185</guid>
+            <pubDate>Tue, 12 Apr 2022 15:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[4/25(월) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220413_33/1649778319803unVVU_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -188,6 +178,14 @@
             <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(금) 18:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_184/MN8pf_16498471416546COAq_JPEG/1649847141624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] 성기문 Trio + 박재홍 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/104359</link>
+            <guid>https://tv.naver.com/l/104359</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[04월 29일(금) 20:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_239/ptGrD_1649847433050iCoTx_JPEG/1649847433022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -520,7 +518,7 @@
             <pubDate>Fri, 15 Apr 2022 13:44:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
 										</div>
@@ -548,15 +546,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											IMMERSIVE BLIND CONCERT (1) 김지호, 이아름 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/103792</link>
-            <guid>https://tv.naver.com/l/103792</guid>
-            <pubDate>Wed, 06 Apr 2022 06:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[04월 22일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_117/VkS6R_1649207273198da082_JPEG/1649207273154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -682,14 +671,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										IMMERSIVE BLIND CONCERT (1) 김지호, 이아름 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/103792</link>
-            <guid>https://tv.naver.com/l/103792</guid>
-            <pubDate>Wed, 06 Apr 2022 06:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[04월 22일(금) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
