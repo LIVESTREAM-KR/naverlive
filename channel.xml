@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 03:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 03:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주시문화재단]]></title>
+            <link>https://tv.naver.com/nsarthall</link>
+            <guid>https://tv.naver.com/nsarthall</guid>
+            <pubDate>Sat, 23 Apr 2022 03:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">광주시문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트앤아티스트]]></title>
             <link>https://tv.naver.com/artsnartists</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE 360]]></title>
-            <link>https://tv.naver.com/audioguy</link>
-            <guid>https://tv.naver.com/audioguy</guid>
-            <pubDate>Fri, 15 Apr 2022 07:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/audioguy" onclick="nclk(this, 'channel.img', 'audioguy', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" alt="LIVE 360 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LIVE 360</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
