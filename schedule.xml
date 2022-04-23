@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-23T11:39:48.999Z</updated>
+    <updated>2022-04-23T13:01:58.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										IMMERSIVE BLIND CONCERT (2) 한빛챔버오케스트라]]></title>
-        <id>https://tv.naver.com/l/103793</id>
-        <link href="https://tv.naver.com/l/103793"/>
-        <updated>2022-04-06T06:49:13.216Z</updated>
-        <content type="html"><![CDATA[04월 23일(토) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑
 										뮤지컬 <태양의 노래> 2차 티켓 선오픈 & 시츠프로브]]></title>
