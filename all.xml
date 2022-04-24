@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 21:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 22:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -534,7 +534,7 @@
             <pubDate>Thu, 14 Apr 2022 11:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
 										</div>
