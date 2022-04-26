@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 02:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,7 +302,7 @@
             <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
 										</div>
@@ -320,7 +320,7 @@
             <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
 										</div>
@@ -338,7 +338,7 @@
             <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
 										</div>
