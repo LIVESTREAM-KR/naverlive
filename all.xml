@@ -4,33 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 13:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 1 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104354</link>
-            <guid>https://tv.naver.com/l/104354</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_253/9nZn2_1649846130041oQjzw_JPEG/1649846129992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 4월 천원의행복 수어연극 사라지는 사람들 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104745</link>
-            <guid>https://tv.naver.com/l/104745</guid>
-            <pubDate>Tue, 19 Apr 2022 04:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_49/pWoPN_1650335572828ANFCC_JPEG/1650335572793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대합창의 밤 모던 사운드(Modern Sound) (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/nachorus1973/222676230683</link>
-            <guid>https://blog.naver.com/nachorus1973/222676230683</guid>
-            <pubDate>Tue, 26 Apr 2022 11:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_109/7qNCe_1649825601305CnEEN_JPEG/1649825601269.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 2 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/104355</link>
@@ -88,6 +64,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_26/OFa8u_1649847820650O53Rn_JPEG/1649847820573.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2022서울재즈페스타] JAZZ all Stars (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104362</link>
+            <guid>https://tv.naver.com/l/104362</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[04월 30일(토) 18:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_130/16508951462263gMbL_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (3) (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104363</link>
+            <guid>https://tv.naver.com/l/104363</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(일) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_73/Bx32Z_1649848069857SpJGk_JPEG/1649848069836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] 강태환 Trio (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104364</link>
+            <guid>https://tv.naver.com/l/104364</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_266/ew1r2_1649848122837k06sh_JPEG/1649848122787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 서울재즈페스타 개막공연 SAZA와 친구들의 블루스 축제 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://m.tv.naver.com/l/104357</link>
             <guid>https://m.tv.naver.com/l/104357</guid>
@@ -126,30 +126,6 @@
             <pubDate>Mon, 25 Apr 2022 13:50:22 GMT</pubDate>
             <content:encoded><![CDATA[4/28(목) 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_43/1650893655712vrhj4_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 1 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/104354</link>
-            <guid>https://tv.naver.com/l/104354</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_253/9nZn2_1649846130041oQjzw_JPEG/1649846129992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 4월 천원의행복 수어연극 사라지는 사람들 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/104745</link>
-            <guid>https://tv.naver.com/l/104745</guid>
-            <pubDate>Tue, 19 Apr 2022 04:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_49/pWoPN_1650335572828ANFCC_JPEG/1650335572793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대합창의 밤 모던 사운드(Modern Sound) (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/nachorus1973/222676230683</link>
-            <guid>https://blog.naver.com/nachorus1973/222676230683</guid>
-            <pubDate>Tue, 26 Apr 2022 11:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_109/7qNCe_1649825601305CnEEN_JPEG/1649825601269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 2 (네이버 공연 live beta ─ HOT)]]></title>
@@ -206,6 +182,48 @@
             <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
             <content:encoded><![CDATA[04월 30일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_26/OFa8u_1649847820650O53Rn_JPEG/1649847820573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] JAZZ all Stars (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/104362</link>
+            <guid>https://tv.naver.com/l/104362</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[04월 30일(토) 18:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_130/16508951462263gMbL_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (3) (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/104363</link>
+            <guid>https://tv.naver.com/l/104363</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(일) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_73/Bx32Z_1649848069857SpJGk_JPEG/1649848069836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022서울재즈페스타] 강태환 Trio (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/104364</link>
+            <guid>https://tv.naver.com/l/104364</guid>
+            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[05월 01일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_266/ew1r2_1649848122837k06sh_JPEG/1649848122787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sejongcenter</link>
+            <guid>https://tv.naver.com/sejongcenter</guid>
+            <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">세종문화회관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -514,24 +532,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sejongcenter</link>
-            <guid>https://tv.naver.com/sejongcenter</guid>
-            <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">세종문화회관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[알앤디웍스 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/rndworks</link>
             <guid>https://tv.naver.com/rndworks</guid>
@@ -673,27 +673,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 1 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104354</link>
-            <guid>https://tv.naver.com/l/104354</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 4월 천원의행복 수어연극 사라지는 사람들 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104745</link>
-            <guid>https://tv.naver.com/l/104745</guid>
-            <pubDate>Tue, 19 Apr 2022 04:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현대합창의 밤 모던 사운드(Modern Sound) (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104311</link>
-            <guid>https://tv.naver.com/l/104311</guid>
-            <pubDate>Tue, 26 Apr 2022 11:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[04월 26일(화) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 2 (네이버 공연 live beta ─ 전체일정)]]></title>
