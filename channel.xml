@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 11:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 13:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국재즈 협회]]></title>
+            <link>https://tv.naver.com/koreajazz</link>
+            <guid>https://tv.naver.com/koreajazz</guid>
+            <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국재즈 협회</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공연예술 창작산실]]></title>
             <link>https://tv.naver.com/arkocreate</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤디웍스]]></title>
-            <link>https://tv.naver.com/rndworks</link>
-            <guid>https://tv.naver.com/rndworks</guid>
-            <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">알앤디웍스</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
