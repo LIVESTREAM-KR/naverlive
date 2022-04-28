@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-28T11:39:59.439Z</updated>
+    <updated>2022-04-28T13:14:45.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[2022서울재즈페스타] SAZA's Blues Night(개막공연)]]></title>
-        <id>https://tv.naver.com/l/104357</id>
-        <link href="https://tv.naver.com/l/104357"/>
-        <updated>2022-04-13T14:41:58.663Z</updated>
-        <content type="html"><![CDATA[04월 28일(목) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (1)]]></title>
         <id>https://tv.naver.com/l/104358</id>
