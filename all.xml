@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 09:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 3 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104356</link>
-            <guid>https://tv.naver.com/l/104356</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[04월 28일(목) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_60/nVsQ4_16498468330468NxSy_JPEG/1649846832995.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] SAZA's Blues Night(개막공연) (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/104357</link>
@@ -88,6 +80,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_15/7Cjsq_1649848251580IqcCs_JPEG/1649848251550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[05월 02일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_61/o9wqb_1649750380303EghyP_JPEG/1649750380256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 서울재즈페스타 개막공연 SAZA와 친구들의 블루스 축제 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://m.tv.naver.com/l/104357</link>
             <guid>https://m.tv.naver.com/l/104357</guid>
@@ -126,14 +127,6 @@
             <pubDate>Mon, 25 Apr 2022 13:50:22 GMT</pubDate>
             <content:encoded><![CDATA[4/28(목) 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_43/1650893655712vrhj4_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 3 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/104356</link>
-            <guid>https://tv.naver.com/l/104356</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[04월 28일(목) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_60/nVsQ4_16498468330468NxSy_JPEG/1649846832995.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] SAZA's Blues Night(개막공연) (네이버 공연 live beta ─ HOT)]]></title>
@@ -208,6 +201,33 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_15/7Cjsq_1649848251580IqcCs_JPEG/1649848251550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[05월 02일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_61/o9wqb_1649750380303EghyP_JPEG/1649750380256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국재즈 협회 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreajazz</link>
+            <guid>https://tv.naver.com/koreajazz</guid>
+            <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국재즈 협회</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/museumofkorea</link>
             <guid>https://tv.naver.com/museumofkorea</guid>
@@ -242,24 +262,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국재즈 협회 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreajazz</link>
-            <guid>https://tv.naver.com/koreajazz</guid>
-            <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국재즈 협회</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공연예술 창작산실 (네이버 공연 live beta ─ 채널)]]></title>
@@ -673,13 +675,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] LECTURE CONCERT 3 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104356</link>
-            <guid>https://tv.naver.com/l/104356</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[04월 28일(목) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] SAZA's Blues Night(개막공연) (네이버 공연 live beta ─ 전체일정)]]></title>
