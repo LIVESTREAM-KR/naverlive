@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 서울재즈페스타 개막공연 SAZA와 친구들의 블루스 축제]]></title>
-            <link>https://m.tv.naver.com/l/104357</link>
-            <guid>https://m.tv.naver.com/l/104357</guid>
-            <pubDate>Mon, 25 Apr 2022 13:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[4/28(목) 오후 7시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_43/1650893655712vrhj4_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 세계재즈의날 기념공연한국을 대표하는 재즈 뮤지션들의 향연]]></title>
             <link>https://m.tv.naver.com/l/104362</link>
@@ -40,12 +32,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 서울재즈페스타 개막공연 SAZA와 친구들의 블루스 축제]]></title>
-            <link>https://m.tv.naver.com/l/104357</link>
-            <guid>https://m.tv.naver.com/l/104357</guid>
+            <title><![CDATA[2022 세계재즈의날 기념공연한국을 대표하는 재즈 뮤지션들의 향연]]></title>
+            <link>https://m.tv.naver.com/l/104362</link>
+            <guid>https://m.tv.naver.com/l/104362</guid>
             <pubDate>Mon, 25 Apr 2022 13:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[4/28(목) 오후 7시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_43/1650893655712vrhj4_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[4/30(토) 오후 6시 30분]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_280/1650893300419bH1Mk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울재즈페스타 폐막공연40개 황금손가락에 말로의 색이 더해지다]]></title>
+            <link>https://m.tv.naver.com/l/104366</link>
+            <guid>https://m.tv.naver.com/l/104366</guid>
+            <pubDate>Mon, 25 Apr 2022 14:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[5/1(일) 오후 7시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
