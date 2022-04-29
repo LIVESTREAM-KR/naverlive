@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국재즈 협회]]></title>
+            <link>https://tv.naver.com/koreajazz</link>
+            <guid>https://tv.naver.com/koreajazz</guid>
+            <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국재즈 협회</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍컴퍼니]]></title>
+            <link>https://tv.naver.com/hongcompany</link>
+            <guid>https://tv.naver.com/hongcompany</guid>
+            <pubDate>Fri, 15 Apr 2022 05:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hongcompany" onclick="nclk(this, 'channel.img', 'hongcompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" alt="홍컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">홍컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립중앙박물관]]></title>
             <link>https://tv.naver.com/museumofkorea</link>
@@ -98,24 +134,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국재즈 협회]]></title>
-            <link>https://tv.naver.com/koreajazz</link>
-            <guid>https://tv.naver.com/koreajazz</guid>
-            <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국재즈 협회</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[온스테이지]]></title>
             <link>https://tv.naver.com/onstage</link>
             <guid>https://tv.naver.com/onstage</guid>
@@ -150,24 +168,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍컴퍼니]]></title>
-            <link>https://tv.naver.com/hongcompany</link>
-            <guid>https://tv.naver.com/hongcompany</guid>
-            <pubDate>Fri, 15 Apr 2022 05:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hongcompany" onclick="nclk(this, 'channel.img', 'hongcompany', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" alt="홍컴퍼니 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">홍컴퍼니</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
