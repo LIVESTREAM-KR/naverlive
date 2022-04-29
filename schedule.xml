@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-04-29T10:44:14.230Z</updated>
+    <updated>2022-04-29T11:41:48.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (1)]]></title>
-        <id>https://tv.naver.com/l/104358</id>
-        <link href="https://tv.naver.com/l/104358"/>
-        <updated>2022-04-13T14:41:58.664Z</updated>
-        <content type="html"><![CDATA[04월 29일(금) 18:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[2022서울재즈페스타] 성기문 Trio + 박재홍]]></title>
         <id>https://tv.naver.com/l/104359</id>
