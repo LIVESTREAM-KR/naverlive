@@ -4,17 +4,9 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 11:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 13:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 세계재즈의날 기념공연한국을 대표하는 재즈 뮤지션들의 향연]]></title>
-            <link>https://m.tv.naver.com/l/104362</link>
-            <guid>https://m.tv.naver.com/l/104362</guid>
-            <pubDate>Mon, 25 Apr 2022 13:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[4/30(토) 오후 6시 30분]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_280/1650893300419bH1Mk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 서울재즈페스타 폐막공연40개 황금손가락에 말로의 색이 더해지다]]></title>
             <link>https://m.tv.naver.com/l/104366</link>
@@ -32,20 +24,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 세계재즈의날 기념공연한국을 대표하는 재즈 뮤지션들의 향연]]></title>
-            <link>https://m.tv.naver.com/l/104362</link>
-            <guid>https://m.tv.naver.com/l/104362</guid>
-            <pubDate>Mon, 25 Apr 2022 13:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[4/30(토) 오후 6시 30분]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_280/1650893300419bH1Mk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 서울재즈페스타 폐막공연40개 황금손가락에 말로의 색이 더해지다]]></title>
             <link>https://m.tv.naver.com/l/104366</link>
             <guid>https://m.tv.naver.com/l/104366</guid>
             <pubDate>Mon, 25 Apr 2022 14:41:18 GMT</pubDate>
             <content:encoded><![CDATA[5/1(일) 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다.]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
+            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
+            <pubDate>Mon, 25 Apr 2022 13:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[5/2(월), 5/9(월), 5/16(월) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
