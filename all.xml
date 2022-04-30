@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 07:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 08:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (2) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104360</link>
-            <guid>https://tv.naver.com/l/104360</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[04월 30일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_76/TM780_1649847726861DMjux_JPEG/1649847726789.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] 재즈파크빅밴드 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/104361</link>
@@ -91,6 +83,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립심포니오케스트라 '전람회의 그림' (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/ksoblog/222707182555</link>
+            <guid>https://blog.naver.com/ksoblog/222707182555</guid>
+            <pubDate>Sat, 30 Apr 2022 08:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_254/zUFbs_1651022629562SJKu3_JPEG/1651022629510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 세계재즈의날 기념공연한국을 대표하는 재즈 뮤지션들의 향연 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://m.tv.naver.com/l/104362</link>
             <guid>https://m.tv.naver.com/l/104362</guid>
@@ -129,14 +129,6 @@
             <pubDate>Mon, 25 Apr 2022 14:41:18 GMT</pubDate>
             <content:encoded><![CDATA[5/1(일) 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_203/1650894839187GCSmC_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (2) (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/104360</link>
-            <guid>https://tv.naver.com/l/104360</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[04월 30일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_76/TM780_1649847726861DMjux_JPEG/1649847726789.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] 재즈파크빅밴드 (네이버 공연 live beta ─ HOT)]]></title>
@@ -214,22 +206,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알앤디웍스 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/rndworks</link>
-            <guid>https://tv.naver.com/rndworks</guid>
-            <pubDate>Sat, 30 Apr 2022 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">알앤디웍스</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립심포니오케스트라 '전람회의 그림' (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/ksoblog/222707182555</link>
+            <guid>https://blog.naver.com/ksoblog/222707182555</guid>
+            <pubDate>Sat, 30 Apr 2022 08:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_254/zUFbs_1651022629562SJKu3_JPEG/1651022629510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국재즈 협회 (네이버 공연 live beta ─ 채널)]]></title>
@@ -248,6 +230,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알앤디웍스 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/rndworks</link>
+            <guid>https://tv.naver.com/rndworks</guid>
+            <pubDate>Sat, 30 Apr 2022 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">알앤디웍스</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍컴퍼니 (네이버 공연 live beta ─ 채널)]]></title>
@@ -679,13 +679,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022서울재즈페스타] DIVA'S CONCERT (2) (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104360</link>
-            <guid>https://tv.naver.com/l/104360</guid>
-            <pubDate>Wed, 13 Apr 2022 14:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[04월 30일(토) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022서울재즈페스타] 재즈파크빅밴드 (네이버 공연 live beta ─ 전체일정)]]></title>
