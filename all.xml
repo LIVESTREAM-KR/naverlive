@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 06:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 07:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -544,7 +544,7 @@
             <pubDate>Sat, 23 Apr 2022 07:39:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/smmt" onclick="nclk(this, 'channel.img', 'smmt', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" alt="서울시뮤지컬단 이미지">
 										</div>
