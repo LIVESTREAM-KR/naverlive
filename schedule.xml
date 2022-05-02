@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-02T14:42:20.701Z</updated>
+    <updated>2022-05-02T15:48:36.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <풍월주> 앵콜 중계]]></title>
-        <id>https://tv.naver.com/l/104248</id>
-        <link href="https://tv.naver.com/l/104248"/>
-        <updated>2022-04-19T09:43:49.074Z</updated>
-        <content type="html"><![CDATA[05월 02일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑
 										디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑!]]></title>

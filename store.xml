@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 14:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 15:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <풍월주> 앵콜 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[05월 02일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_61/o9wqb_1649750380303EghyP_JPEG/1649750380256.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[쇼핑
 											디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑!]]></title>
