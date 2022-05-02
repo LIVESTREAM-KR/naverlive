@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-02T13:14:52.939Z</updated>
+    <updated>2022-05-02T13:56:29.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -59,6 +59,13 @@
         <content type="html"><![CDATA[05월 10일(화) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<김소라 LANDSCAPE> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/105774</id>
+        <link href="https://tv.naver.com/l/105774"/>
+        <updated>2022-05-02T13:56:28.583Z</updated>
+        <content type="html"><![CDATA[05월 12일(목) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <풍월주> 앵콜 중계]]></title>
         <id>https://tv.naver.com/l/104252</id>
@@ -67,11 +74,26 @@
         <content type="html"><![CDATA[05월 16일(월) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후원
+										<보더라인> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/105775</id>
+        <link href="https://tv.naver.com/l/105775"/>
+        <updated>2022-05-02T13:56:28.588Z</updated>
+        <content type="html"><![CDATA[05월 17일(화) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <광주>, 5·18민주화운동 42주년 기념 대작!]]></title>
         <id>https://tv.naver.com/l/105824</id>
         <link href="https://tv.naver.com/l/105824"/>
         <updated>2022-05-02T13:14:52.320Z</updated>
         <content type="html"><![CDATA[05월 18일(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<윤회매십전> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/105768</id>
+        <link href="https://tv.naver.com/l/105768"/>
+        <updated>2022-05-02T13:56:28.589Z</updated>
+        <content type="html"><![CDATA[05월 19일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
