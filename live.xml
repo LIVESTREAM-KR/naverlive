@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Thu, 28 Apr 2022 10:45:56 GMT</pubDate>
             <content:encoded><![CDATA[05월 02일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_61/o9wqb_1649750380303EghyP_JPEG/1649750380256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑!]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/502123</link>
+            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
+            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_255/16514812063286YfXq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<화로> 공연 실황 녹화 중계]]></title>
@@ -51,12 +60,30 @@
         </item>
         <item>
             <title><![CDATA[후원
+											<콜비츠와의 대화> 공연 실황 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 10일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_298/1651480755417m8ocA_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <풍월주> 앵콜 중계]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
             <pubDate>Thu, 28 Apr 2022 10:45:56 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_80/ANepI_16500075047591eU5P_JPEG/1650007504728.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘]]></title>
+            <link>https://tv.naver.com/l/104149</link>
+            <guid>https://tv.naver.com/l/104149</guid>
+            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 '전람회의 그림']]></title>

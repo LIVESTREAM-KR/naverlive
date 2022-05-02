@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-02T07:41:38.228Z</updated>
+    <updated>2022-05-02T08:49:01.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -12,6 +12,14 @@
         <link href="https://tv.naver.com/l/104248"/>
         <updated>2022-04-19T09:43:49.074Z</updated>
         <content type="html"><![CDATA[05월 02일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑
+										디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑!]]></title>
+        <id>https://shoppinglive.naver.com/lives/502123</id>
+        <link href="https://shoppinglive.naver.com/lives/502123"/>
+        <updated>2022-05-02T08:49:01.144Z</updated>
+        <content type="html"><![CDATA[05월 03일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<화로> 공연 실황 녹화 중계]]></title>
@@ -44,6 +52,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										<콜비츠와의 대화> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/105391</id>
+        <link href="https://tv.naver.com/l/105391"/>
+        <updated>2022-05-02T08:49:01.150Z</updated>
+        <content type="html"><![CDATA[05월 10일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <풍월주> 앵콜 중계]]></title>
         <id>https://tv.naver.com/l/104252</id>
         <link href="https://tv.naver.com/l/104252"/>
@@ -51,10 +67,26 @@
         <content type="html"><![CDATA[05월 16일(월) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[후원
+										[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘]]></title>
+        <id>https://tv.naver.com/l/104149</id>
+        <link href="https://tv.naver.com/l/104149"/>
+        <updated>2022-05-02T08:49:01.151Z</updated>
+        <content type="html"><![CDATA[05월 23일(월) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국립심포니오케스트라 '전람회의 그림']]></title>
         <id>https://tv.naver.com/l/105381</id>
         <link href="https://tv.naver.com/l/105381"/>
         <updated>2022-04-27T02:55:41.852Z</updated>
         <content type="html"><![CDATA[05월 29일(일) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										[후원전용] 음악극<올드 위키드 송> 5/30 남경읍&이재균]]></title>
+        <id>https://tv.naver.com/l/104153</id>
+        <link href="https://tv.naver.com/l/104153"/>
+        <updated>2022-05-02T08:49:01.153Z</updated>
+        <content type="html"><![CDATA[05월 30일(월) 20:00]]></content>
     </entry>
 </feed>
