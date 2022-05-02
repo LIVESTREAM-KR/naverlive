@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-01T23:42:31.902Z</updated>
+    <updated>2022-05-02T03:02:24.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -14,11 +14,25 @@
         <content type="html"><![CDATA[05월 02일(월) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<화로> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/105399</id>
+        <link href="https://tv.naver.com/l/105399"/>
+        <updated>2022-05-02T03:02:24.062Z</updated>
+        <content type="html"><![CDATA[05월 03일(화) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[디뮤지엄] ≪어쨌든, 사랑: Romantic Days≫ 라이브]]></title>
         <id>https://tv.naver.com/l/105389</id>
         <link href="https://tv.naver.com/l/105389"/>
         <updated>2022-04-28T05:56:57.607Z</updated>
         <content type="html"><![CDATA[05월 03일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<모빌리티> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/104959</id>
+        <link href="https://tv.naver.com/l/104959"/>
+        <updated>2022-05-02T03:02:24.065Z</updated>
+        <content type="html"><![CDATA[05월 05일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
