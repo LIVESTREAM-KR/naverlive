@@ -4,34 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 11:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 13:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑! (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/502123</link>
-            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
-            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_255/16514812063286YfXq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<화로> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/105399</link>
-            <guid>https://tv.naver.com/l/105399</guid>
-            <pubDate>Mon, 02 May 2022 03:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_14/1651451343502whg37_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디뮤지엄] ≪어쨌든, 사랑: Romantic Days≫ 라이브 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/105389</link>
-            <guid>https://tv.naver.com/l/105389</guid>
-            <pubDate>Thu, 28 Apr 2022 05:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_234/21whH_1651026112599Rp5Ed_JPEG/1651026112559.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<모빌리티> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/104959</link>
@@ -93,12 +68,29 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_258/oXTZV_1651493238529KbIjK_JPEG/1651493238473.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디뮤지엄 서울숲 개관 특별전 <어쨋든, 사랑> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/502123</link>
-            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
-            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[5/3(화) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_16/16514810285742kOqv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<윤회매십전> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/105768</link>
+            <guid>https://tv.naver.com/l/105768</guid>
+            <pubDate>Mon, 02 May 2022 13:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[05월 19일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_193/1651499184916oaUdw_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 '전람회의 그림' (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/ksoblog/222707182555</link>
+            <guid>https://blog.naver.com/ksoblog/222707182555</guid>
+            <pubDate>Tue, 03 May 2022 13:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_254/zUFbs_1651022629562SJKu3_JPEG/1651022629510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다. (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -109,45 +101,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디뮤지엄 서울숲 개관 특별전 <어쨋든, 사랑> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/502123</link>
-            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
-            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[5/3(화) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_16/16514810285742kOqv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다. (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
             <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
             <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
             <content:encoded><![CDATA[5/2(월), 5/9(월), 5/16(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑! (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/502123</link>
-            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
-            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_255/16514812063286YfXq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<화로> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/105399</link>
-            <guid>https://tv.naver.com/l/105399</guid>
-            <pubDate>Mon, 02 May 2022 03:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_14/1651451343502whg37_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디뮤지엄] ≪어쨌든, 사랑: Romantic Days≫ 라이브 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/105389</link>
-            <guid>https://tv.naver.com/l/105389</guid>
-            <pubDate>Thu, 28 Apr 2022 05:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_234/21whH_1651026112599Rp5Ed_JPEG/1651026112559.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<모빌리티> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -208,6 +167,31 @@
             <pubDate>Mon, 02 May 2022 13:14:20 GMT</pubDate>
             <content:encoded><![CDATA[05월 18일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_258/oXTZV_1651493238529KbIjK_JPEG/1651493238473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<윤회매십전> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/105768</link>
+            <guid>https://tv.naver.com/l/105768</guid>
+            <pubDate>Mon, 02 May 2022 13:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[05월 19일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_193/1651499184916oaUdw_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220502_249/1651479439875FExhT_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 '전람회의 그림' (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/ksoblog/222707182555</link>
+            <guid>https://blog.naver.com/ksoblog/222707182555</guid>
+            <pubDate>Tue, 03 May 2022 13:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[05월 29일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_254/zUFbs_1651022629562SJKu3_JPEG/1651022629510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -570,15 +554,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑! (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/502123</link>
-            <guid>https://shoppinglive.naver.com/livebridge/502123</guid>
-            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220502_255/16514812063286YfXq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
@@ -722,28 +697,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-										디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑! (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://shoppinglive.naver.com/lives/502123</link>
-            <guid>https://shoppinglive.naver.com/lives/502123</guid>
-            <pubDate>Mon, 02 May 2022 08:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<화로> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/105399</link>
-            <guid>https://tv.naver.com/l/105399</guid>
-            <pubDate>Mon, 02 May 2022 03:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[디뮤지엄] ≪어쨌든, 사랑: Romantic Days≫ 라이브 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/105389</link>
-            <guid>https://tv.naver.com/l/105389</guid>
-            <pubDate>Thu, 28 Apr 2022 05:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[05월 03일(화) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[<모빌리티> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/104959</link>
             <guid>https://tv.naver.com/l/104959</guid>
@@ -831,7 +784,7 @@
 										오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/104739</link>
             <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:38 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
             <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
         </item>
     </channel>

@@ -2,31 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-03T11:41:39.068Z</updated>
+    <updated>2022-05-03T13:20:02.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쇼핑
-										디뮤지엄 서울숲 개관 특별전 어쨌든, 사랑!]]></title>
-        <id>https://shoppinglive.naver.com/lives/502123</id>
-        <link href="https://shoppinglive.naver.com/lives/502123"/>
-        <updated>2022-05-02T08:49:01.144Z</updated>
-        <content type="html"><![CDATA[05월 03일(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<화로> 공연 실황 녹화 중계]]></title>
-        <id>https://tv.naver.com/l/105399</id>
-        <link href="https://tv.naver.com/l/105399"/>
-        <updated>2022-05-02T03:02:24.062Z</updated>
-        <content type="html"><![CDATA[05월 03일(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디뮤지엄] ≪어쨌든, 사랑: Romantic Days≫ 라이브]]></title>
-        <id>https://tv.naver.com/l/105389</id>
-        <link href="https://tv.naver.com/l/105389"/>
-        <updated>2022-04-28T05:56:57.607Z</updated>
-        <content type="html"><![CDATA[05월 03일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[<모빌리티> 공연 실황 녹화 중계]]></title>
         <id>https://tv.naver.com/l/104959</id>
