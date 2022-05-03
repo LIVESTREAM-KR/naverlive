@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 05:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,24 @@
             <pubDate>Mon, 02 May 2022 13:14:20 GMT</pubDate>
             <content:encoded><![CDATA[05월 18일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_258/oXTZV_1651493238529KbIjK_JPEG/1651493238473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연예술 창작산실 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arkocreate</link>
+            <guid>https://tv.naver.com/arkocreate</guid>
+            <pubDate>Tue, 26 Apr 2022 06:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" alt="공연예술 창작산실 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연예술 창작산실</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -496,24 +514,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공연예술 창작산실 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arkocreate</link>
-            <guid>https://tv.naver.com/arkocreate</guid>
-            <pubDate>Tue, 26 Apr 2022 06:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" alt="공연예술 창작산실 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연예술 창작산실</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
