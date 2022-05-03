@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 10:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 11:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_258/oXTZV_1651493238529KbIjK_JPEG/1651493238473.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공연예술 창작산실 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/arkocreate</link>
             <guid>https://tv.naver.com/arkocreate</guid>
@@ -406,24 +424,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국재즈 협회 (네이버 공연 live beta ─ 채널)]]></title>
@@ -637,7 +637,7 @@
 											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/104739</link>
             <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 10:48:15 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
             <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
@@ -831,7 +831,7 @@
 										오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/104739</link>
             <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 10:48:28 GMT</pubDate>
+            <pubDate>Tue, 03 May 2022 11:41:38 GMT</pubDate>
             <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
         </item>
     </channel>
