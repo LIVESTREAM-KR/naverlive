@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종문화회관]]></title>
+            <link>https://tv.naver.com/sejongcenter</link>
+            <guid>https://tv.naver.com/sejongcenter</guid>
+            <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">세종문화회관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Tue, 05 Apr 2022 06:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공연예술 창작산실]]></title>
             <link>https://tv.naver.com/arkocreate</link>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관]]></title>
-            <link>https://tv.naver.com/sejongcenter</link>
-            <guid>https://tv.naver.com/sejongcenter</guid>
-            <pubDate>Tue, 19 Apr 2022 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">세종문화회관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Tue, 05 Apr 2022 06:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
