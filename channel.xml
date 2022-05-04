@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 05:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 06:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립심포니오케스트라]]></title>
+            <link>https://tv.naver.com/koreansymphony</link>
+            <guid>https://tv.naver.com/koreansymphony</guid>
+            <pubDate>Wed, 04 May 2022 06:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립심포니오케스트라</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
             <link>https://tv.naver.com/mmca</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나인스토리 TV]]></title>
-            <link>https://tv.naver.com/ninestory</link>
-            <guid>https://tv.naver.com/ninestory</guid>
-            <pubDate>Fri, 29 Apr 2022 02:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/ninestory" onclick="nclk(this, 'channel.img', 'ninestory', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" alt="나인스토리 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">나인스토리 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
