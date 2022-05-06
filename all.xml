@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 03:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 04:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,24 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/livecorp</link>
+            <guid>https://tv.naver.com/livecorp</guid>
+            <pubDate>Mon, 02 May 2022 13:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">라이브(주)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -446,24 +464,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/livecorp</link>
-            <guid>https://tv.naver.com/livecorp</guid>
-            <pubDate>Mon, 02 May 2022 13:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">라이브(주)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
