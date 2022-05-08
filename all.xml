@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 11:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 13:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,7 +526,7 @@
             <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
 										</div>
