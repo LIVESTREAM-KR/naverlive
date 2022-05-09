@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 22:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 23:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -532,7 +532,7 @@
             <pubDate>Mon, 02 May 2022 23:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
 										</div>
