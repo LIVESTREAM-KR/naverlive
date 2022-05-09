@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 04:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,12 +94,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <풍월주> 앵콜 공연2022년 봄, 풍월주가 다시 한번 찾아갑니다. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[5/2(월), 5/9(월), 5/16(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[(전통예술) 콜비츠와의 대화 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[5/10(화) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220509_104/1652070275223Usulx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -116,6 +116,14 @@
             <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
             <content:encoded><![CDATA[5/2(월), 5/9(월), 5/16(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220425_16/1650888991915hbQcf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(전통예술) 콜비츠와의 대화 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 02 May 2022 08:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[5/10(화) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220509_104/1652070275223Usulx_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -210,6 +218,24 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자라섬재즈페스티벌 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/jarasumjazz</link>
+            <guid>https://tv.naver.com/jarasumjazz</guid>
+            <pubDate>Mon, 09 May 2022 04:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/jarasumjazz" onclick="nclk(this, 'channel.img', 'jarasumjazz', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220428_273/Jzzjt_1651133529163HG0oX_JPEG/1651133529068.jpg" alt="자라섬재즈페스티벌 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">자라섬재즈페스티벌</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_273/Jzzjt_1651133529163HG0oX_JPEG/1651133529068.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강북문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -524,7 +550,7 @@
             <pubDate>Tue, 03 May 2022 04:59:59 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
 										</div>
@@ -542,7 +568,7 @@
             <pubDate>Mon, 02 May 2022 04:35:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/weclassic" onclick="nclk(this, 'channel.img', 'weclassic', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" alt="위클래식 이미지">
 										</div>
@@ -552,24 +578,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210527_155/22wM8_1622082062871hDRxC_JPEG/1622082062855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국재즈 협회 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreajazz</link>
-            <guid>https://tv.naver.com/koreajazz</guid>
-            <pubDate>Wed, 27 Apr 2022 13:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreajazz" onclick="nclk(this, 'channel.img', 'koreajazz', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" alt="한국재즈 협회 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국재즈 협회</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210420_229/uxbuB_1618927079905C3h3g_JPEG/1618927079890.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
