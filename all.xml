@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 14:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 15:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_285/HIbm6_1649750926319pGKJQ_JPEG/1649750926266.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											<콜비츠와의 대화> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
@@ -94,6 +85,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/104739</link>
+            <guid>https://tv.naver.com/l/104739</guid>
+            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[(전통예술) 콜비츠와의 대화 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -132,15 +132,6 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[5/23(월), 5/30(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_285/HIbm6_1649750926319pGKJQ_JPEG/1649750926266.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -218,6 +209,15 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/104739</link>
+            <guid>https://tv.naver.com/l/104739</guid>
+            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -581,15 +581,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/rangtv</link>
-            <guid>https://patron.naver.com/ntv/c/intro/rangtv</guid>
-            <pubDate>Tue, 19 Apr 2022 09:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_285/HIbm6_1649750926319pGKJQ_JPEG/1649750926266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											<콜비츠와의 대화> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -721,14 +712,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <풍월주> 앵콜 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104251</link>
-            <guid>https://tv.naver.com/l/104251</guid>
-            <pubDate>Tue, 19 Apr 2022 09:43:49 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
