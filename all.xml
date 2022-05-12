@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,13 +84,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세종문화회관 5월 천원의 행복 <동요, 클래식이 되다> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/106580</link>
+            <guid>https://tv.naver.com/l/106580</guid>
+            <pubDate>Thu, 12 May 2022 08:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[05월 31일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220512_238/16523452269774lsWN_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[음악극 <올드 위키드 송> (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -201,13 +200,30 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220502_265/1651479597365D8dJN_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세종문화회관 5월 천원의 행복 <동요, 클래식이 되다> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/106580</link>
+            <guid>https://tv.naver.com/l/106580</guid>
+            <pubDate>Thu, 12 May 2022 08:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[05월 31일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220512_238/16523452269774lsWN_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
@@ -316,24 +332,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
@@ -760,6 +758,13 @@
             <guid>https://tv.naver.com/l/104153</guid>
             <pubDate>Mon, 02 May 2022 08:48:49 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 5월 천원의 행복 <동요, 클래식이 되다> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/106580</link>
+            <guid>https://tv.naver.com/l/106580</guid>
+            <pubDate>Thu, 12 May 2022 08:49:39 GMT</pubDate>
+            <content:encoded><![CDATA[05월 31일(화) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
