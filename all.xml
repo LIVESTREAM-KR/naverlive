@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 02:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 04:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,7 +179,7 @@
             <title><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/art_cbs/222728539802</link>
             <guid>https://blog.naver.com/art_cbs/222728539802</guid>
-            <pubDate>Thu, 12 May 2022 02:32:05 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 02:31:55 GMT</pubDate>
             <content:encoded><![CDATA[05월 24일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_76/c0PGH_1652236926123aUdOH_PNG/1652236926091.png" length="0" type="image/png"/>
         </item>
@@ -208,6 +208,24 @@
             <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
             <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gfac</link>
+            <guid>https://tv.naver.com/gfac</guid>
+            <pubDate>Thu, 12 May 2022 04:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
@@ -550,24 +568,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreansymphony</link>
-            <guid>https://tv.naver.com/koreansymphony</guid>
-            <pubDate>Wed, 04 May 2022 06:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립심포니오케스트라</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
