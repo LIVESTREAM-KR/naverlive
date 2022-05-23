@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 11:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 13:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트앤아티스트]]></title>
+            <link>https://tv.naver.com/artsnartists</link>
+            <guid>https://tv.naver.com/artsnartists</guid>
+            <pubDate>Mon, 23 May 2022 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트앤아티스트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
             <link>https://tv.naver.com/dimf</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[busanmuseumofart]]></title>
-            <link>https://tv.naver.com/busanmuseumofart</link>
-            <guid>https://tv.naver.com/busanmuseumofart</guid>
-            <pubDate>Tue, 03 May 2022 04:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">busanmuseumofart</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
