@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-23T15:48:24.328Z</updated>
+    <updated>2022-05-23T17:00:27.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[후원전용] 음악극<올드 위키드 송> 5/23 남명렬&정휘]]></title>
-        <id>https://tv.naver.com/l/104149</id>
-        <link href="https://tv.naver.com/l/104149"/>
-        <updated>2022-05-02T08:49:01.151Z</updated>
-        <content type="html"><![CDATA[05월 23일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜]]></title>
         <id>https://tv.naver.com/l/106542</id>
