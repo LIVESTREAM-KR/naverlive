@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 06:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 07:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,6 +140,24 @@
             <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
             <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Mon, 23 May 2022 07:44:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -482,24 +500,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자라섬재즈페스티벌 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/jarasumjazz</link>
-            <guid>https://tv.naver.com/jarasumjazz</guid>
-            <pubDate>Mon, 09 May 2022 04:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/jarasumjazz" onclick="nclk(this, 'channel.img', 'jarasumjazz', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220428_273/Jzzjt_1651133529163HG0oX_JPEG/1651133529068.jpg" alt="자라섬재즈페스티벌 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">자라섬재즈페스티벌</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_273/Jzzjt_1651133529163HG0oX_JPEG/1651133529068.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
