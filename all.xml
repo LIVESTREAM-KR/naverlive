@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[NOW] 뮤지컬 <아이다(AIDA> 프레스콜 (네이버 공연 live beta)]]></title>
-            <link>https://now.naver.com/player/15375</link>
-            <guid>https://now.naver.com/player/15375</guid>
-            <pubDate>Tue, 24 May 2022 04:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220524_169/1653363418806T6SBU_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/106542</link>
-            <guid>https://tv.naver.com/l/106542</guid>
-            <pubDate>Sun, 22 May 2022 15:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220517_219/16527631941102NYbc_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/art_cbs/222728539802</link>
@@ -98,22 +82,6 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[5/23(월), 5/30(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220509_250/16520605920976rwlN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NOW] 뮤지컬 <아이다(AIDA> 프레스콜 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://now.naver.com/player/15375</link>
-            <guid>https://now.naver.com/player/15375</guid>
-            <pubDate>Tue, 24 May 2022 04:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220524_169/1653363418806T6SBU_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/106542</link>
-            <guid>https://tv.naver.com/l/106542</guid>
-            <pubDate>Sun, 22 May 2022 15:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220517_219/16527631941102NYbc_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra (네이버 공연 live beta ─ HOT)]]></title>
@@ -650,20 +618,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NOW] 뮤지컬 <아이다(AIDA> 프레스콜 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://now.naver.com/player/15375</link>
-            <guid>https://now.naver.com/player/15375</guid>
-            <pubDate>Tue, 24 May 2022 04:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/106542</link>
-            <guid>https://tv.naver.com/l/106542</guid>
-            <pubDate>Sun, 22 May 2022 15:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[05월 24일(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra (네이버 공연 live beta ─ 전체일정)]]></title>

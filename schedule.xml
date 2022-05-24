@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-24T07:42:39.082Z</updated>
+    <updated>2022-05-24T08:50:11.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[NOW] 뮤지컬 <아이다(AIDA> 프레스콜]]></title>
-        <id>https://now.naver.com/player/15375</id>
-        <link href="https://now.naver.com/player/15375"/>
-        <updated>2022-05-24T04:09:25.593Z</updated>
-        <content type="html"><![CDATA[05월 24일(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <아이다(AIDA)> 프레스 콜]]></title>
-        <id>https://tv.naver.com/l/106542</id>
-        <link href="https://tv.naver.com/l/106542"/>
-        <updated>2022-05-22T15:55:53.361Z</updated>
-        <content type="html"><![CDATA[05월 24일(화) 16:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[비엔나바로크오케스트라 내한공연 Vienna Baroque Orchestra]]></title>
         <id>https://tv.naver.com/l/106446</id>
