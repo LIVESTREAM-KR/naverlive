@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cantabile 칸타빌레]]></title>
+            <link>https://tv.naver.com/cbsartnmusic</link>
+            <guid>https://tv.naver.com/cbsartnmusic</guid>
+            <pubDate>Wed, 25 May 2022 06:52:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/cbsartnmusic" onclick="nclk(this, 'channel.img', 'cbsartnmusic', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" alt="Cantabile 칸타빌레 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">Cantabile 칸타빌레</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200902_147/3f7VX_15990137120974WlRY_PNG/1599013712079.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홍컴퍼니]]></title>
+            <link>https://tv.naver.com/hongcompany</link>
+            <guid>https://tv.naver.com/hongcompany</guid>
+            <pubDate>Tue, 24 May 2022 06:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hongcompany" onclick="nclk(this, 'channel.img', 'hongcompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" alt="홍컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">홍컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립중앙박물관]]></title>
             <link>https://tv.naver.com/museumofkorea</link>
@@ -132,24 +168,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홍컴퍼니]]></title>
-            <link>https://tv.naver.com/hongcompany</link>
-            <guid>https://tv.naver.com/hongcompany</guid>
-            <pubDate>Tue, 24 May 2022 06:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hongcompany" onclick="nclk(this, 'channel.img', 'hongcompany', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" alt="홍컴퍼니 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">홍컴퍼니</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정서진 피크닉 클래식]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190708_121/Atp35_1562576218061SzMYF_PNG/1562576218042.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[광주시문화재단]]></title>
-            <link>https://tv.naver.com/nsarthall</link>
-            <guid>https://tv.naver.com/nsarthall</guid>
-            <pubDate>Sun, 22 May 2022 15:55:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">광주시문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
