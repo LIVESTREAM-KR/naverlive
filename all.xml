@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 15:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 17:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,7 +144,7 @@
             <title><![CDATA[뮤지컬 <차미> 전막 실황 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/107715</link>
             <guid>https://tv.naver.com/l/107715</guid>
-            <pubDate>Thu, 26 May 2022 15:49:10 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 15:49:00 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_235/CGwQ5_1653576399800ne3Ei_JPEG/1653576399748.jpg" length="0" type="image/jpg"/>
         </item>
@@ -216,6 +216,24 @@
             <pubDate>Wed, 25 May 2022 02:38:15 GMT</pubDate>
             <content:encoded><![CDATA[06월 16일(목) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220525_279/16534409701442UciM_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/page1</link>
+            <guid>https://tv.naver.com/page1</guid>
+            <pubDate>Thu, 26 May 2022 17:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PAGE1</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -560,24 +578,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Wed, 04 May 2022 02:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											[후원전용] 음악극<올드 위키드 송> 5/30 남경읍&이재균 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
@@ -740,7 +740,7 @@
             <title><![CDATA[뮤지컬 <차미> 전막 실황 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/107715</link>
             <guid>https://tv.naver.com/l/107715</guid>
-            <pubDate>Thu, 26 May 2022 15:49:31 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 15:49:00 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(월) 20:00]]></content:encoded>
         </item>
         <item>
