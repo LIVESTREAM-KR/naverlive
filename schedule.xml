@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-05-27T07:46:37.530Z</updated>
+    <updated>2022-05-27T08:49:00.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,14 @@
         <link href="https://tv.naver.com/l/104739"/>
         <updated>2022-05-03T11:41:38.448Z</updated>
         <content type="html"><![CDATA[06월 04일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										<라흐마니노프> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/107557</id>
+        <link href="https://tv.naver.com/l/107557"/>
+        <updated>2022-05-27T08:49:00.199Z</updated>
+        <content type="html"><![CDATA[06월 07일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
