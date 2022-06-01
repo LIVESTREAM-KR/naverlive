@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 03:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알앤디웍스]]></title>
+            <link>https://tv.naver.com/rndworks</link>
+            <guid>https://tv.naver.com/rndworks</guid>
+            <pubDate>Wed, 01 Jun 2022 03:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/rndworks" onclick="nclk(this, 'channel.img', 'rndworks', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" alt="알앤디웍스 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">알앤디웍스</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200716_139/CG7Qc_15948736622591KtVp_JPEG/1594873662240.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성남문화재단]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Thu, 21 Apr 2022 05:56:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세종문화회관]]></title>
             <link>https://tv.naver.com/sejongcenter</link>
@@ -96,24 +132,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성남문화재단]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Thu, 21 Apr 2022 05:56:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
@@ -284,7 +302,7 @@
             <pubDate>Wed, 25 May 2022 02:38:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" alt="공연예술 창작산실 이미지">
 										</div>
@@ -302,7 +320,7 @@
             <pubDate>Wed, 11 May 2022 05:47:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
 										</div>
@@ -320,7 +338,7 @@
             <pubDate>Wed, 11 May 2022 06:55:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_268/jat5w_1652850274760mPzdF_JPEG/1652850274712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트엠콘서트]]></title>
-            <link>https://tv.naver.com/artmconcert</link>
-            <guid>https://tv.naver.com/artmconcert</guid>
-            <pubDate>Tue, 24 May 2022 02:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" alt="아트엠콘서트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트엠콘서트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
