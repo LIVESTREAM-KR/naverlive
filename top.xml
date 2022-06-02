@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:54:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Mon, 30 May 2022 13:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[6/7(화) 오후 8시]]></content:encoded>
+            <content:encoded><![CDATA[6/7(화), 6/21(화), 6/28(화) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220530_106/1653913098907KVMBR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Mon, 30 May 2022 13:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[6/7(화) 오후 8시]]></content:encoded>
+            <content:encoded><![CDATA[6/7(화), 6/21(화), 6/28(화) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220530_106/1653913098907KVMBR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
