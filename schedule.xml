@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-02T08:51:01.447Z</updated>
+    <updated>2022-06-02T09:47:30.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://tv.naver.com/l/107599"/>
         <updated>2022-05-26T05:44:26.065Z</updated>
         <content type="html"><![CDATA[06월 18일(토) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립심포니오케스트라 Dr's PICK1 '바그너와 브루크너']]></title>
+        <id>https://tv.naver.com/l/107903</id>
+        <link href="https://tv.naver.com/l/107903"/>
+        <updated>2022-06-02T09:47:29.381Z</updated>
+        <content type="html"><![CDATA[06월 19일(일) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원

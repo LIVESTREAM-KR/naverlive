@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 08:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 09:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,13 +87,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_19/D1tsV_1653467053043UQBAg_JPEG/1653467052980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립심포니오케스트라 Dr's PICK1 '바그너와 브루크너' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/107903</link>
+            <guid>https://tv.naver.com/l/107903</guid>
+            <pubDate>Thu, 02 Jun 2022 09:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황  정욱진, 정민 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -215,13 +214,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_19/D1tsV_1653467053043UQBAg_JPEG/1653467052980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
-            <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립심포니오케스트라 Dr's PICK1 '바그너와 브루크너' (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/107903</link>
+            <guid>https://tv.naver.com/l/107903</guid>
+            <pubDate>Thu, 02 Jun 2022 09:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/hanamartcent</link>
+            <guid>https://tv.naver.com/hanamartcent</guid>
+            <pubDate>Thu, 02 Jun 2022 09:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">하남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -464,7 +480,7 @@
             <pubDate>Thu, 26 May 2022 09:45:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
 										</div>
@@ -564,24 +580,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Wed, 11 May 2022 05:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -822,6 +820,13 @@
             <guid>https://tv.naver.com/l/107599</guid>
             <pubDate>Thu, 26 May 2022 05:44:26 GMT</pubDate>
             <content:encoded><![CDATA[06월 18일(토) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 Dr's PICK1 '바그너와 브루크너' (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/107903</link>
+            <guid>https://tv.naver.com/l/107903</guid>
+            <pubDate>Thu, 02 Jun 2022 09:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
