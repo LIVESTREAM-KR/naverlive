@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 02:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[busanmuseumofart]]></title>
+            <link>https://tv.naver.com/busanmuseumofart</link>
+            <guid>https://tv.naver.com/busanmuseumofart</guid>
+            <pubDate>Thu, 02 Jun 2022 02:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">busanmuseumofart</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 05 May 2022 03:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -224,31 +260,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온스테이지]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 05 May 2022 03:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[온라인극장] 아트컴퍼니 행복자]]></title>
             <link>https://tv.naver.com/theblessedplus</link>
             <guid>https://tv.naver.com/theblessedplus</guid>
             <pubDate>Thu, 26 May 2022 02:42:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/theblessedplus" onclick="nclk(this, 'channel.img', 'theblessedplus', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211224_86/8rAAp_1640321328729LxmjX_PNG/1640321328700.png" alt="[온라인극장] 아트컴퍼니 행복자 이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[정서진 피크닉 클래식]]></title>
-            <link>https://tv.naver.com/jcpf</link>
-            <guid>https://tv.naver.com/jcpf</guid>
-            <pubDate>Tue, 24 May 2022 04:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/jcpf" onclick="nclk(this, 'channel.img', 'jcpf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220518_268/jat5w_1652850274760mPzdF_JPEG/1652850274712.jpg" alt="정서진 피크닉 클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">정서진 피크닉 클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_268/jat5w_1652850274760mPzdF_JPEG/1652850274712.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
