@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 정욱진 정민 (네이버 공연 live beta)]]></title>
@@ -96,6 +87,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황  정욱진, 정민 ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -134,15 +134,6 @@
             <pubDate>Tue, 24 May 2022 05:44:52 GMT</pubDate>
             <content:encoded><![CDATA[6/14(화), 6/15(수) , 6/17(금) 6/18(토) 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220525_186/1653455954768tnmnL_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -222,6 +213,15 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -585,15 +585,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 정욱진 정민 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -752,14 +743,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										오페라 <시칠리아 섬의 저녁기도> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Tue, 03 May 2022 11:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
