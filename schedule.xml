@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-09T09:43:07.608Z</updated>
+    <updated>2022-06-09T10:45:19.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 2]]></title>
+        <id>https://tv.naver.com/l/108520</id>
+        <link href="https://tv.naver.com/l/108520"/>
+        <updated>2022-06-09T10:45:18.645Z</updated>
+        <content type="html"><![CDATA[06월 10일(금) 04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 1]]></title>
+        <id>https://tv.naver.com/l/108589</id>
+        <link href="https://tv.naver.com/l/108589"/>
+        <updated>2022-06-09T10:45:18.646Z</updated>
+        <content type="html"><![CDATA[06월 10일(금) 09:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 3]]></title>
+        <id>https://tv.naver.com/l/108526</id>
+        <link href="https://tv.naver.com/l/108526"/>
+        <updated>2022-06-09T10:45:18.647Z</updated>
+        <content type="html"><![CDATA[06월 11일(토) 04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 2]]></title>
+        <id>https://tv.naver.com/l/108588</id>
+        <link href="https://tv.naver.com/l/108588"/>
+        <updated>2022-06-09T10:45:18.648Z</updated>
+        <content type="html"><![CDATA[06월 11일(토) 09:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NOW]뮤지컬 <번지점프를 하다> 시츠프로브]]></title>
+        <id>https://now.naver.com/player/15787</id>
+        <link href="https://now.naver.com/player/15787"/>
+        <updated>2022-06-09T10:45:18.650Z</updated>
+        <content type="html"><![CDATA[06월 13일(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑
 										뮤지컬 <번지점프를 하다> 40% 티켓 할인X시츠프로브]]></title>
@@ -23,7 +58,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) - [06/14일]]]></title>
+										2022 엑스칼리버 서울 앙코르 공연 (김준수ver.)]]></title>
         <id>https://tv.naver.com/l/107408</id>
         <link href="https://tv.naver.com/l/107408"/>
         <updated>2022-05-24T05:45:27.384Z</updated>
@@ -39,7 +74,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										2022 엑스칼리버 서울 앙코르 공연 (김준수ver.) - [06/15일]]]></title>
+										2022 엑스칼리버 서울 앙코르 공연 (김준수ver.)]]></title>
         <id>https://tv.naver.com/l/107409</id>
         <link href="https://tv.naver.com/l/107409"/>
         <updated>2022-05-24T05:45:27.385Z</updated>
