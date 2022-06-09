@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-09T10:45:19.237Z</updated>
+    <updated>2022-06-09T11:38:59.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,34 @@
         <link href="https://tv.naver.com/l/108588"/>
         <updated>2022-06-09T10:45:18.648Z</updated>
         <content type="html"><![CDATA[06월 11일(토) 09:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 4]]></title>
+        <id>https://tv.naver.com/l/108590</id>
+        <link href="https://tv.naver.com/l/108590"/>
+        <updated>2022-06-09T11:38:58.877Z</updated>
+        <content type="html"><![CDATA[06월 12일(일) 04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 협주곡 3]]></title>
+        <id>https://tv.naver.com/l/108593</id>
+        <link href="https://tv.naver.com/l/108593"/>
+        <updated>2022-06-09T11:38:58.878Z</updated>
+        <content type="html"><![CDATA[06월 12일(일) 09:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 5]]></title>
+        <id>https://tv.naver.com/l/108591</id>
+        <link href="https://tv.naver.com/l/108591"/>
+        <updated>2022-06-09T11:38:58.889Z</updated>
+        <content type="html"><![CDATA[06월 13일(월) 04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 6]]></title>
+        <id>https://tv.naver.com/l/108592</id>
+        <link href="https://tv.naver.com/l/108592"/>
+        <updated>2022-06-09T11:38:58.890Z</updated>
+        <content type="html"><![CDATA[06월 13일(월) 09:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[NOW]뮤지컬 <번지점프를 하다> 시츠프로브]]></title>
