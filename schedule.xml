@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-12T21:39:41.008Z</updated>
+    <updated>2022-06-12T22:41:24.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 5]]></title>
-        <id>https://tv.naver.com/l/108591</id>
-        <link href="https://tv.naver.com/l/108591"/>
-        <updated>2022-06-09T11:38:58.889Z</updated>
-        <content type="html"><![CDATA[06월 13일(월) 04:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 콩쿠르 세미 파이널 - 리사이틀 6]]></title>
         <id>https://tv.naver.com/l/108592</id>
