@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 11:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 13:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,7 +209,7 @@
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://now.naver.com/show/5928</link>
             <guid>https://now.naver.com/show/5928</guid>
-            <pubDate>Mon, 13 Jun 2022 11:39:07 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 11:38:55 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
