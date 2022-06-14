@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-14T02:54:19.033Z</updated>
+    <updated>2022-06-14T04:34:40.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -66,6 +66,13 @@
         <link href="https://tv.naver.com/l/106445"/>
         <updated>2022-05-25T06:52:48.251Z</updated>
         <content type="html"><![CDATA[06월 20일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계!]]></title>
+        <id>https://tv.naver.com/l/108986</id>
+        <link href="https://tv.naver.com/l/108986"/>
+        <updated>2022-06-14T04:34:40.270Z</updated>
+        <content type="html"><![CDATA[06월 21일(화) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브]]></title>

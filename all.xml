@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 02:54:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 04:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,21 +78,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계! (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/108986</link>
+            <guid>https://tv.naver.com/l/108986</guid>
+            <pubDate>Tue, 14 Jun 2022 04:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta)]]></title>
             <link>https://now.naver.com/show/5928</link>
             <guid>https://now.naver.com/show/5928</guid>
             <pubDate>Mon, 13 Jun 2022 11:38:55 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 엑스칼리버 앙코르 공연 김준수ver  새로운 시대를 위한 위대한 여정 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -197,21 +196,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계! (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/108986</link>
+            <guid>https://tv.naver.com/l/108986</guid>
+            <pubDate>Tue, 14 Jun 2022 04:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://now.naver.com/show/5928</link>
             <guid>https://now.naver.com/show/5928</guid>
             <pubDate>Mon, 13 Jun 2022 11:38:55 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
@@ -526,7 +524,7 @@
             <pubDate>Mon, 23 May 2022 13:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
 										</div>
@@ -786,6 +784,13 @@
             <guid>https://tv.naver.com/l/106445</guid>
             <pubDate>Wed, 25 May 2022 06:52:48 GMT</pubDate>
             <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계! (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/108986</link>
+            <guid>https://tv.naver.com/l/108986</guid>
+            <pubDate>Tue, 14 Jun 2022 04:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta ─ 전체일정)]]></title>
