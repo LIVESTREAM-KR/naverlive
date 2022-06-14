@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,7 +199,7 @@
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계! (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/108986</link>
             <guid>https://tv.naver.com/l/108986</guid>
-            <pubDate>Tue, 14 Jun 2022 04:34:14 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2022 04:34:02 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
         </item>
@@ -506,7 +506,7 @@
             <pubDate>Fri, 03 Jun 2022 09:42:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
 										</div>
@@ -789,7 +789,7 @@
             <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계! (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/108986</link>
             <guid>https://tv.naver.com/l/108986</guid>
-            <pubDate>Tue, 14 Jun 2022 04:34:40 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2022 04:34:02 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
         </item>
         <item>
