@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-14T23:41:22.259Z</updated>
+    <updated>2022-06-15T02:54:19.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -12,6 +12,13 @@
         <link href="https://tv.naver.com/l/107409"/>
         <updated>2022-05-24T05:45:27.385Z</updated>
         <content type="html"><![CDATA[06월 15일(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 2]]></title>
+        <id>https://tv.naver.com/l/109037</id>
+        <link href="https://tv.naver.com/l/109037"/>
+        <updated>2022-06-15T02:54:19.127Z</updated>
+        <content type="html"><![CDATA[06월 16일(목) 09:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
@@ -36,6 +43,13 @@
         <content type="html"><![CDATA[06월 17일(금) 19:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 3]]></title>
+        <id>https://tv.naver.com/l/109038</id>
+        <link href="https://tv.naver.com/l/109038"/>
+        <updated>2022-06-15T02:54:19.135Z</updated>
+        <content type="html"><![CDATA[06월 18일(토) 09:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										2022 엑스칼리버 서울 앙코르 공연 (김준수ver.)]]></title>
         <id>https://tv.naver.com/l/107599</id>
@@ -49,6 +63,13 @@
         <link href="https://tv.naver.com/l/108989"/>
         <updated>2022-06-14T08:46:53.772Z</updated>
         <content type="html"><![CDATA[06월 18일(토) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 4]]></title>
+        <id>https://tv.naver.com/l/109039</id>
+        <link href="https://tv.naver.com/l/109039"/>
+        <updated>2022-06-15T02:54:19.147Z</updated>
+        <content type="html"><![CDATA[06월 19일(일) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국립심포니오케스트라 Dr's PICK l '바그너와 브루크너']]></title>
