@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 02:54:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,7 +135,7 @@
             <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 2 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109037</link>
             <guid>https://tv.naver.com/l/109037</guid>
-            <pubDate>Wed, 15 Jun 2022 02:53:56 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[06월 16일(목) 09:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220615_150/1655256167045EQoi1_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
@@ -168,7 +168,7 @@
             <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 3 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109038</link>
             <guid>https://tv.naver.com/l/109038</guid>
-            <pubDate>Wed, 15 Jun 2022 02:53:56 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[06월 18일(토) 09:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220615_275/16552562019819KxgG_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
@@ -193,7 +193,7 @@
             <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 4 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109039</link>
             <guid>https://tv.naver.com/l/109039</guid>
-            <pubDate>Wed, 15 Jun 2022 02:53:56 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[06월 19일(일) 05:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220615_66/1655256259344K1VcM_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
@@ -204,6 +204,42 @@
             <pubDate>Thu, 02 Jun 2022 09:46:55 GMT</pubDate>
             <content:encoded><![CDATA[06월 19일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_24/eNnfH_1654155390080rDr6y_JPEG/1654155390046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/wfimc</link>
+            <guid>https://tv.naver.com/wfimc</guid>
+            <pubDate>Thu, 09 Jun 2022 10:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" alt="클라이번 TV The Cliburn TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">클라이번 TV The Cliburn TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -258,42 +294,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/wfimc</link>
-            <guid>https://tv.naver.com/wfimc</guid>
-            <pubDate>Thu, 09 Jun 2022 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" alt="클라이번 TV The Cliburn TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">클라이번 TV The Cliburn TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Mon, 29 Nov 2021 20:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
@@ -711,7 +711,7 @@
             <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 2 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109037</link>
             <guid>https://tv.naver.com/l/109037</guid>
-            <pubDate>Wed, 15 Jun 2022 02:54:19 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[06월 16일(목) 09:30]]></content:encoded>
         </item>
         <item>
@@ -740,7 +740,7 @@
             <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 3 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109038</link>
             <guid>https://tv.naver.com/l/109038</guid>
-            <pubDate>Wed, 15 Jun 2022 02:54:19 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[06월 18일(토) 09:30]]></content:encoded>
         </item>
         <item>
@@ -762,7 +762,7 @@
             <title><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 4 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109039</link>
             <guid>https://tv.naver.com/l/109039</guid>
-            <pubDate>Wed, 15 Jun 2022 02:54:19 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 02:53:44 GMT</pubDate>
             <content:encoded><![CDATA[06월 19일(일) 05:00]]></content:encoded>
         </item>
         <item>
