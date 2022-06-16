@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,24 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/wfimc</link>
+            <guid>https://tv.naver.com/wfimc</guid>
+            <pubDate>Thu, 09 Jun 2022 10:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" alt="클라이번 TV The Cliburn TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">클라이번 TV The Cliburn TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -284,24 +302,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/wfimc</link>
-            <guid>https://tv.naver.com/wfimc</guid>
-            <pubDate>Thu, 09 Jun 2022 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" alt="클라이번 TV The Cliburn TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">클라이번 TV The Cliburn TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
