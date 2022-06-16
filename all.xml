@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 11:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 13:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/artmplus/222744022353</link>
-            <guid>https://blog.naver.com/artmplus/222744022353</guid>
-            <pubDate>Sat, 11 Jun 2022 22:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[06월 16일(목) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220525_279/16534409701442UciM_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 제24회 서울드럼페스티벌 1일차 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/108988</link>
@@ -91,6 +83,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta)]]></title>
+            <link>https://now.naver.com/show/5928</link>
+            <guid>https://now.naver.com/show/5928</guid>
+            <pubDate>Thu, 16 Jun 2022 13:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 뮤지컬 <엑스칼리버> 앙코르 공연 김준수ver. (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/emkmusical</link>
             <guid>https://patron.naver.com/ntv/c/intro/emkmusical</guid>
@@ -129,14 +129,6 @@
             <pubDate>Tue, 03 May 2022 07:41:25 GMT</pubDate>
             <content:encoded><![CDATA[6/13(월), 6/20(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220525_91/1653460731319t49yz_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/artmplus/222744022353</link>
-            <guid>https://blog.naver.com/artmplus/222744022353</guid>
-            <pubDate>Sat, 11 Jun 2022 22:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[06월 16일(목) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220525_279/16534409701442UciM_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 제24회 서울드럼페스티벌 1일차 (네이버 공연 live beta ─ HOT)]]></title>
@@ -212,6 +204,14 @@
             <pubDate>Tue, 14 Jun 2022 04:34:02 GMT</pubDate>
             <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_193/Hogz0_1655179858008bIcU3_JPEG/1655179857990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://now.naver.com/show/5928</link>
+            <guid>https://now.naver.com/show/5928</guid>
+            <pubDate>Thu, 16 Jun 2022 13:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -706,13 +706,6 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://www.vlive.tv/post/1-29261713</link>
-            <guid>https://www.vlive.tv/post/1-29261713</guid>
-            <pubDate>Wed, 25 May 2022 02:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[06월 16일(목) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 제24회 서울드럼페스티벌 1일차 (네이버 공연 live beta ─ 전체일정)]]></title>

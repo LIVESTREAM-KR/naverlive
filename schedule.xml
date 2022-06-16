@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-16T11:39:35.323Z</updated>
+    <updated>2022-06-16T13:14:38.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
-        <id>https://www.vlive.tv/post/1-29261713</id>
-        <link href="https://www.vlive.tv/post/1-29261713"/>
-        <updated>2022-05-25T02:38:53.159Z</updated>
-        <content type="html"><![CDATA[06월 16일(목) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2022 제24회 서울드럼페스티벌 1일차]]></title>
         <id>https://tv.naver.com/l/108988</id>
