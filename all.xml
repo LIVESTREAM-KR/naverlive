@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,24 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220609_40/1654762562079CY9pz_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artsnartists</link>
+            <guid>https://tv.naver.com/artsnartists</guid>
+            <pubDate>Mon, 23 May 2022 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트앤아티스트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/livecorp</link>
             <guid>https://tv.naver.com/livecorp</guid>
@@ -302,24 +320,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artsnartists</link>
-            <guid>https://tv.naver.com/artsnartists</guid>
-            <pubDate>Mon, 23 May 2022 13:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트앤아티스트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
