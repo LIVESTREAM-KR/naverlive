@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-17T02:44:32.699Z</updated>
+    <updated>2022-06-17T04:08:20.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -87,6 +87,13 @@
         <content type="html"><![CDATA[06월 21일(화) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<메이드 인 세운상가> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/108718</id>
+        <link href="https://tv.naver.com/l/108718"/>
+        <updated>2022-06-17T04:08:19.560Z</updated>
+        <content type="html"><![CDATA[06월 23일(목) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <인비저블> 제16회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/108846</id>
         <link href="https://tv.naver.com/l/108846"/>
@@ -114,6 +121,14 @@
         <link href="https://tv.naver.com/l/108847"/>
         <updated>2022-06-16T04:09:27.052Z</updated>
         <content type="html"><![CDATA[06월 29일(수) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										<해시태그> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/109010</id>
+        <link href="https://tv.naver.com/l/109010"/>
+        <updated>2022-06-17T04:08:19.568Z</updated>
+        <content type="html"><![CDATA[06월 30일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원

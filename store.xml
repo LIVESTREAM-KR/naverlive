@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 02:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,15 @@
             <pubDate>Fri, 27 May 2022 08:48:49 GMT</pubDate>
             <content:encoded><![CDATA[06월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220602_165/1654149026877Ia5XU_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<해시태그> 공연 실황 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
+            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원

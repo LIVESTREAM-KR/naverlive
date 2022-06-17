@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 02:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -490,7 +490,7 @@
             <pubDate>Fri, 03 Jun 2022 03:33:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/ninestory" onclick="nclk(this, 'channel.img', 'ninestory', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" alt="나인스토리 TV 이미지">
 										</div>
@@ -617,6 +617,15 @@
             <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
             <content:encoded><![CDATA[06월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220602_165/1654149026877Ia5XU_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
+            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -789,6 +798,13 @@
             <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<메이드 인 세운상가> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/108718</link>
+            <guid>https://tv.naver.com/l/108718</guid>
+            <pubDate>Fri, 17 Jun 2022 04:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[06월 23일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <인비저블> 제16회 DIMF 창작지원작 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/108846</link>
             <guid>https://tv.naver.com/l/108846</guid>
@@ -816,6 +832,14 @@
             <guid>https://tv.naver.com/l/108847</guid>
             <pubDate>Thu, 16 Jun 2022 04:09:27 GMT</pubDate>
             <content:encoded><![CDATA[06월 29일(수) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/109010</link>
+            <guid>https://tv.naver.com/l/109010</guid>
+            <pubDate>Fri, 17 Jun 2022 04:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
