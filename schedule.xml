@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-18T21:40:19.360Z</updated>
+    <updated>2022-06-18T22:41:19.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 4]]></title>
-        <id>https://tv.naver.com/l/109039</id>
-        <link href="https://tv.naver.com/l/109039"/>
-        <updated>2022-06-15T02:54:19.147Z</updated>
-        <content type="html"><![CDATA[06월 19일(일) 05:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[국립심포니오케스트라 Dr's PICK l '바그너와 브루크너']]></title>
         <id>https://tv.naver.com/l/107903</id>
