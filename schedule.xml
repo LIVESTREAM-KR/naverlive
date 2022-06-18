@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-18T14:40:06.683Z</updated>
+    <updated>2022-06-18T15:43:25.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										2022 엑스칼리버 서울 앙코르 공연 (김준수ver.)]]></title>
-        <id>https://tv.naver.com/l/107599</id>
-        <link href="https://tv.naver.com/l/107599"/>
-        <updated>2022-05-26T05:44:26.065Z</updated>
-        <content type="html"><![CDATA[06월 18일(토) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[LIVE]제16회 반 클라이번 국제 피아노 콩쿠르 - 파이널 4]]></title>
         <id>https://tv.naver.com/l/109039</id>
