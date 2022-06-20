@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-20T14:41:04.054Z</updated>
+    <updated>2022-06-20T15:45:58.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬<아가사> 공연 실황 녹화 중계 - 2회차]]></title>
-        <id>https://tv.naver.com/l/106445</id>
-        <link href="https://tv.naver.com/l/106445"/>
-        <updated>2022-05-25T06:52:48.251Z</updated>
-        <content type="html"><![CDATA[06월 20일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계!]]></title>
         <id>https://tv.naver.com/l/108986</id>
@@ -57,6 +49,13 @@
         <content type="html"><![CDATA[06월 26일(일) 15:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청]]></title>
+        <id>https://tv.naver.com/l/109216</id>
+        <link href="https://tv.naver.com/l/109216"/>
+        <updated>2022-06-20T15:45:57.616Z</updated>
+        <content type="html"><![CDATA[06월 28일(화) 19:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										<라흐마니노프> 공연 실황 녹화 중계 - CAST 박유덕 정동화]]></title>
         <id>https://tv.naver.com/l/108180</id>
@@ -72,12 +71,26 @@
         <content type="html"><![CDATA[06월 29일(수) 19:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[국립합창단 제190회 정기연주회 <한국의 소리>]]></title>
+        <id>https://tv.naver.com/l/109424</id>
+        <link href="https://tv.naver.com/l/109424"/>
+        <updated>2022-06-20T15:45:57.618Z</updated>
+        <content type="html"><![CDATA[06월 30일(목) 19:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										<해시태그> 공연 실황 녹화 중계]]></title>
         <id>https://tv.naver.com/l/109010</id>
         <link href="https://tv.naver.com/l/109010"/>
         <updated>2022-06-17T04:08:19.568Z</updated>
         <content type="html"><![CDATA[06월 30일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <브람스> 제16회 DIMF 창작지원작]]></title>
+        <id>https://tv.naver.com/l/109217</id>
+        <link href="https://tv.naver.com/l/109217"/>
+        <updated>2022-06-20T15:45:57.619Z</updated>
+        <content type="html"><![CDATA[07월 02일(토) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
