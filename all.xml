@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 15:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 17:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,7 +174,7 @@
             <title><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109216</link>
             <guid>https://tv.naver.com/l/109216</guid>
-            <pubDate>Mon, 20 Jun 2022 15:45:35 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 15:45:24 GMT</pubDate>
             <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_220/sMyk4_1655388874014GG47m_JPEG/1655388873952.jpg" length="0" type="image/jpg"/>
         </item>
@@ -199,9 +199,27 @@
             <title><![CDATA[국립합창단 제190회 정기연주회 <한국의 소리> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109424</link>
             <guid>https://tv.naver.com/l/109424</guid>
-            <pubDate>Mon, 20 Jun 2022 15:45:35 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 15:45:24 GMT</pubDate>
             <content:encoded><![CDATA[06월 30일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_31/FhNeR_1655690622337maIpV_JPEG/1655690622318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Mon, 20 Jun 2022 17:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -546,24 +564,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_268/jat5w_1652850274760mPzdF_JPEG/1652850274712.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[busanmuseumofart (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/busanmuseumofart</link>
-            <guid>https://tv.naver.com/busanmuseumofart</guid>
-            <pubDate>Thu, 02 Jun 2022 02:53:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busanmuseumofart" onclick="nclk(this, 'channel.img', 'busanmuseumofart', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" alt="busanmuseumofart 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">busanmuseumofart</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201014_259/5COW5_1602680476463nbeis_PNG/1602680476440.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -595,7 +595,7 @@
 											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 20 Jun 2022 15:45:46 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
             <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
         </item>
@@ -726,7 +726,7 @@
             <title><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109216</link>
             <guid>https://tv.naver.com/l/109216</guid>
-            <pubDate>Mon, 20 Jun 2022 15:45:57 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 15:45:24 GMT</pubDate>
             <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
         </item>
         <item>
@@ -748,7 +748,7 @@
             <title><![CDATA[국립합창단 제190회 정기연주회 <한국의 소리> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109424</link>
             <guid>https://tv.naver.com/l/109424</guid>
-            <pubDate>Mon, 20 Jun 2022 15:45:57 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 15:45:24 GMT</pubDate>
             <content:encoded><![CDATA[06월 30일(목) 19:30]]></content:encoded>
         </item>
         <item>
