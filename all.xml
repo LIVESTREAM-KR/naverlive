@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,6 +202,24 @@
             <pubDate>Mon, 20 Jun 2022 15:45:24 GMT</pubDate>
             <content:encoded><![CDATA[06월 30일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_31/FhNeR_1655690622337maIpV_JPEG/1655690622318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기인형극제 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/ggipuppet</link>
+            <guid>https://tv.naver.com/ggipuppet</guid>
+            <pubDate>Tue, 21 Jun 2022 07:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/ggipuppet" onclick="nclk(this, 'channel.img', 'ggipuppet', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210726_145/eDKxq_1627260394298az4Aa_JPEG/1627260394280.jpg" alt="경기인형극제 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">경기인형극제</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210726_145/eDKxq_1627260394298az4Aa_JPEG/1627260394280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -544,24 +562,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Fri, 10 Jun 2022 08:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
