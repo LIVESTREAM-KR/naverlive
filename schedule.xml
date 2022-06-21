@@ -2,31 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-21T14:42:09.047Z</updated>
+    <updated>2022-06-21T15:47:23.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <태권, 날아올라> 전막 실황 생중계!]]></title>
-        <id>https://tv.naver.com/l/108986</id>
-        <link href="https://tv.naver.com/l/108986"/>
-        <updated>2022-06-14T04:34:40.270Z</updated>
-        <content type="html"><![CDATA[06월 21일(화) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <태권, 날아올라> 전막 라이브]]></title>
-        <id>https://now.naver.com/player/15736</id>
-        <link href="https://now.naver.com/player/15736"/>
-        <updated>2022-06-09T08:50:32.814Z</updated>
-        <content type="html"><![CDATA[06월 21일(화) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
-										<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수]]></title>
-        <id>https://tv.naver.com/l/108179</id>
-        <link href="https://tv.naver.com/l/108179"/>
-        <updated>2022-06-02T05:52:41.982Z</updated>
-        <content type="html"><![CDATA[06월 21일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[<메이드 인 세운상가> 공연 실황 녹화 중계]]></title>
         <id>https://tv.naver.com/l/108718</id>
