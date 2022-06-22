@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-22T06:50:13.845Z</updated>
+    <updated>2022-06-22T07:40:45.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[06월 26일(일) 15:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직>]]></title>
+        <id>https://tv.naver.com/l/109632</id>
+        <link href="https://tv.naver.com/l/109632"/>
+        <updated>2022-06-22T07:40:44.437Z</updated>
+        <content type="html"><![CDATA[06월 28일(화) 19:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청]]></title>
         <id>https://tv.naver.com/l/109216</id>
         <link href="https://tv.naver.com/l/109216"/>
@@ -47,13 +54,6 @@
         <link href="https://tv.naver.com/l/108847"/>
         <updated>2022-06-16T04:09:27.052Z</updated>
         <content type="html"><![CDATA[06월 29일(수) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립합창단 제190회 정기연주회 <한국의 소리>]]></title>
-        <id>https://tv.naver.com/l/109424</id>
-        <link href="https://tv.naver.com/l/109424"/>
-        <updated>2022-06-20T15:45:57.618Z</updated>
-        <content type="html"><![CDATA[06월 30일(목) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
