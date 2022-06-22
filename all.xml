@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 07:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:51:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,7 +150,7 @@
             <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109632</link>
             <guid>https://tv.naver.com/l/109632</guid>
-            <pubDate>Wed, 22 Jun 2022 07:40:24 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 07:40:14 GMT</pubDate>
             <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_140/vLO5D_1655880510273Afyo8_JPEG/1655880510258.jpg" length="0" type="image/jpg"/>
         </item>
@@ -697,7 +697,7 @@
             <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109632</link>
             <guid>https://tv.naver.com/l/109632</guid>
-            <pubDate>Wed, 22 Jun 2022 07:40:44 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 07:40:14 GMT</pubDate>
             <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
         </item>
         <item>
