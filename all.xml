@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 13:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<메이드 인 세운상가> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/108718</link>
-            <guid>https://tv.naver.com/l/108718</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[06월 23일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_19/1655435648395Vz2By_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <인비저블> 제16회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/108846</link>
@@ -90,6 +82,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_108/M6Nu7_1655389511249QwMBs_JPEG/1655389511203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <팬레터> 공연실황 뮤즈에게 보내는 편지 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
@@ -120,14 +121,6 @@
             <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
             <content:encoded><![CDATA[6/21일, 6/28일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220616_250/1655351145358XQLMR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<메이드 인 세운상가> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/108718</link>
-            <guid>https://tv.naver.com/l/108718</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[06월 23일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_19/1655435648395Vz2By_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <인비저블> 제16회 DIMF 창작지원작 (네이버 공연 live beta ─ HOT)]]></title>
@@ -199,9 +192,18 @@
             <title><![CDATA[뮤지컬 <봄을 그리다> 제16회 DIMF 창작지원작 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/109218</link>
             <guid>https://tv.naver.com/l/109218</guid>
-            <pubDate>Thu, 23 Jun 2022 11:39:43 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 11:39:31 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_108/M6Nu7_1655389511249QwMBs_JPEG/1655389511203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -671,13 +673,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<메이드 인 세운상가> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/108718</link>
-            <guid>https://tv.naver.com/l/108718</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[06월 23일(목) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <인비저블> 제16회 DIMF 창작지원작 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/108846</link>
             <guid>https://tv.naver.com/l/108846</guid>
@@ -739,7 +734,7 @@
             <title><![CDATA[뮤지컬 <봄을 그리다> 제16회 DIMF 창작지원작 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109218</link>
             <guid>https://tv.naver.com/l/109218</guid>
-            <pubDate>Thu, 23 Jun 2022 11:40:06 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 11:39:31 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
         </item>
         <item>
