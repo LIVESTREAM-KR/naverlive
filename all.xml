@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gugak1951</link>
+            <guid>https://tv.naver.com/gugak1951</guid>
+            <pubDate>Sat, 04 Jun 2022 02:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립국악원TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Mon, 23 May 2022 02:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -294,24 +330,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gugak1951</link>
-            <guid>https://tv.naver.com/gugak1951</guid>
-            <pubDate>Sat, 04 Jun 2022 02:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립국악원TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
@@ -512,24 +530,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Mon, 23 May 2022 02:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/wfimc</link>
             <guid>https://tv.naver.com/wfimc</guid>
@@ -554,7 +554,7 @@
             <pubDate>Fri, 10 Jun 2022 08:45:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
 										</div>
