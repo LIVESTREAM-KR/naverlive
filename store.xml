@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <pubDate>Mon, 20 Jun 2022 15:45:46 GMT</pubDate>
             <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<꼭두각시> 공연 실황 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 27 May 2022 08:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[07월 07일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220624_15/1656047333922SkCUK_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

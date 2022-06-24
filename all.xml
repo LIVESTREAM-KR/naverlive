@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,6 +202,24 @@
             <pubDate>Thu, 23 Jun 2022 11:39:31 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_108/M6Nu7_1655389511249QwMBs_JPEG/1655389511203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Fri, 24 Jun 2022 06:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한예종 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -546,24 +564,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/wfimc</link>
-            <guid>https://tv.naver.com/wfimc</guid>
-            <pubDate>Thu, 09 Jun 2022 10:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" alt="클라이번 TV The Cliburn TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">클라이번 TV The Cliburn TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 박유덕 정동화 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -589,6 +589,15 @@
             <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
             <content:encoded><![CDATA[07월 04일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<꼭두각시> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[07월 07일(목) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220624_15/1656047333922SkCUK_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달리에서 마그리트까지 (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -758,7 +767,8 @@
             <content:encoded><![CDATA[07월 05일(화) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<꼭두각시> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <title><![CDATA[후원
+										<꼭두각시> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/109532</link>
             <guid>https://tv.naver.com/l/109532</guid>
             <pubDate>Fri, 24 Jun 2022 05:43:41 GMT</pubDate>
@@ -770,6 +780,13 @@
             <guid>https://tv.naver.com/l/109737</guid>
             <pubDate>Thu, 23 Jun 2022 11:40:06 GMT</pubDate>
             <content:encoded><![CDATA[07월 10일(일) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼' (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/109415</link>
+            <guid>https://tv.naver.com/l/109415</guid>
+            <pubDate>Fri, 24 Jun 2022 06:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
         </item>
     </channel>
 </rss>
