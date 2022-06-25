@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 08:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 09:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과천시립교향악단]]></title>
+            <link>https://tv.naver.com/gwacheonsymphony</link>
+            <guid>https://tv.naver.com/gwacheonsymphony</guid>
+            <pubDate>Sat, 25 Jun 2022 09:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gwacheonsymphony" onclick="nclk(this, 'channel.img', 'gwacheonsymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" alt="과천시립교향악단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">과천시립교향악단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201103_128/rySvc_16043840527709vm0x_JPEG/1604384052732.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_169/lMwkY_16399918260802pCKJ_JPEG/1639991826048.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브(주)]]></title>
-            <link>https://tv.naver.com/livecorp</link>
-            <guid>https://tv.naver.com/livecorp</guid>
-            <pubDate>Thu, 02 Jun 2022 11:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">라이브(주)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
