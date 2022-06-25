@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 04:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,20 +90,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_16/vRdve_16553891352464jWFA_JPEG/1655389135223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <팬레터> 공연실황 뮤즈에게 보내는 편지 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[7/4(월) 오후 7시 30분]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220620_155/1655736672815synwc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[6/21일, 6/28일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220616_250/1655351145358XQLMR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <해시태그> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
+            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[6/30(목) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220625_201/1656130118918fH2y2_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <팬레터> 공연실황 뮤즈에게 보내는 편지 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -120,6 +112,22 @@
             <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
             <content:encoded><![CDATA[6/21일, 6/28일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220616_250/1655351145358XQLMR_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <해시태그> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
+            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[6/30(목) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220625_201/1656130118918fH2y2_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <팬레터> 공연실황 뮤즈에게 보내는 편지 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[7/4(월) 오후 7시 30분]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220620_155/1655736672815synwc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[NOW] 뮤지컬 <인비저블> 전막 중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -141,7 +149,7 @@
             <title><![CDATA[[NOW] 뮤지컬 산들 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://now.naver.com/l/1733560</link>
             <guid>https://now.naver.com/l/1733560</guid>
-            <pubDate>Sat, 25 Jun 2022 04:06:56 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 04:06:46 GMT</pubDate>
             <content:encoded><![CDATA[06월 26일(일) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220625_79/16561299106018gV9x_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -697,7 +705,7 @@
             <title><![CDATA[[NOW] 뮤지컬 산들 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://now.naver.com/l/1733560</link>
             <guid>https://now.naver.com/l/1733560</guid>
-            <pubDate>Sat, 25 Jun 2022 04:07:17 GMT</pubDate>
+            <pubDate>Sat, 25 Jun 2022 04:06:46 GMT</pubDate>
             <content:encoded><![CDATA[06월 26일(일) 15:00]]></content:encoded>
         </item>
         <item>
