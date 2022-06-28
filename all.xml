@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 02:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 04:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[NOW]뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청 (네이버 공연 live beta)]]></title>
+            <link>https://now.naver.com/l/1733260</link>
+            <guid>https://now.naver.com/l/1733260</guid>
+            <pubDate>Tue, 28 Jun 2022 04:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220628_239/1656386145594PJaMc_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											세종문화회관 <해설이 있는 체임버뮤직> (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/558890</link>
+            <guid>https://shoppinglive.naver.com/livebridge/558890</guid>
+            <pubDate>Tue, 28 Jun 2022 04:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220628_28/1656385093808iMF6f_JPEG/1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/109632</link>
@@ -75,23 +92,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<깊은 사랑> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/109775</link>
-            <guid>https://tv.naver.com/l/109775</guid>
-            <pubDate>Fri, 24 Jun 2022 05:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[07월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_20/1656047231094M84Q7_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<꼭두각시> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[07월 07일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_15/1656047333922SkCUK_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <해시태그> (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
@@ -130,6 +130,23 @@
             <pubDate>Mon, 20 Jun 2022 15:45:29 GMT</pubDate>
             <content:encoded><![CDATA[7/4(월) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220620_155/1655736672815synwc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW]뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://now.naver.com/l/1733260</link>
+            <guid>https://now.naver.com/l/1733260</guid>
+            <pubDate>Tue, 28 Jun 2022 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220628_239/1656386145594PJaMc_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+											세종문화회관 <해설이 있는 체임버뮤직> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/558890</link>
+            <guid>https://shoppinglive.naver.com/livebridge/558890</guid>
+            <pubDate>Tue, 28 Jun 2022 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220628_28/1656385093808iMF6f_JPEG/1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직> (네이버 공연 live beta ─ HOT)]]></title>
@@ -199,21 +216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_208/g8LnC_1655101654240mqR3n_JPEG/1655101654212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<깊은 사랑> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/109775</link>
-            <guid>https://tv.naver.com/l/109775</guid>
-            <pubDate>Fri, 24 Jun 2022 05:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[07월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_20/1656047231094M84Q7_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<꼭두각시> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Fri, 27 May 2022 08:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[07월 07일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_15/1656047333922SkCUK_JPEG/2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/assitejkorea</link>
+            <guid>https://tv.naver.com/assitejkorea</guid>
+            <pubDate>Fri, 03 Jun 2022 09:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아시테지코리아 네이버TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -286,24 +304,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/assitejkorea</link>
-            <guid>https://tv.naver.com/assitejkorea</guid>
-            <pubDate>Fri, 03 Jun 2022 09:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아시테지코리아 네이버TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
@@ -690,6 +690,21 @@
             <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NOW]뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://now.naver.com/l/1733260</link>
+            <guid>https://now.naver.com/l/1733260</guid>
+            <pubDate>Tue, 28 Jun 2022 04:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
+										세종문화회관 <해설이 있는 체임버뮤직> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://shoppinglive.naver.com/lives/558890</link>
+            <guid>https://shoppinglive.naver.com/lives/558890</guid>
+            <pubDate>Tue, 28 Jun 2022 04:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[06월 28일(화) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직> (네이버 공연 live beta ─ 전체일정)]]></title>

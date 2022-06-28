@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-28T02:53:27.932Z</updated>
+    <updated>2022-06-28T04:26:39.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NOW]뮤지컬 <투란도트(슬로바키아)> 제16회 DIMF 해외공식초청]]></title>
+        <id>https://now.naver.com/l/1733260</id>
+        <link href="https://now.naver.com/l/1733260"/>
+        <updated>2022-06-28T04:26:38.589Z</updated>
+        <content type="html"><![CDATA[06월 28일(화) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑
+										세종문화회관 <해설이 있는 체임버뮤직>]]></title>
+        <id>https://shoppinglive.naver.com/lives/558890</id>
+        <link href="https://shoppinglive.naver.com/lives/558890"/>
+        <updated>2022-06-28T04:26:38.590Z</updated>
+        <content type="html"><![CDATA[06월 28일(화) 19:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 6월 천원의 행복 <해설이 있는 체임버뮤직>]]></title>
         <id>https://tv.naver.com/l/109632</id>
