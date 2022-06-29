@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-06-29T07:42:11.137Z</updated>
+    <updated>2022-06-29T08:50:03.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://tv.naver.com/l/108847</id>
         <link href="https://tv.naver.com/l/108847"/>
         <updated>2022-06-16T04:09:27.052Z</updated>
+        <content type="html"><![CDATA[06월 29일(수) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NOW] Chinese Taipei 뮤지컬 <넌 리딩 클럽 EP.2>]]></title>
+        <id>https://now.naver.com/l/1733260</id>
+        <link href="https://now.naver.com/l/1733260"/>
+        <updated>2022-06-29T08:50:02.316Z</updated>
         <content type="html"><![CDATA[06월 29일(수) 19:30]]></content>
     </entry>
     <entry>
