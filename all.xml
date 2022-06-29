@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,24 +206,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artmconcert</link>
-            <guid>https://tv.naver.com/artmconcert</guid>
-            <pubDate>Wed, 29 Jun 2022 06:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" alt="아트엠콘서트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트엠콘서트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -240,6 +222,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artmconcert</link>
+            <guid>https://tv.naver.com/artmconcert</guid>
+            <pubDate>Wed, 29 Jun 2022 06:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" alt="아트엠콘서트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트엠콘서트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
