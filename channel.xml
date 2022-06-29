@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 18:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 18:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@
             <pubDate>Wed, 22 Jun 2022 18:51:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
 										</div>
