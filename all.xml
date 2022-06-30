@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[NOW] 뮤지컬 <브람스> 전막 중계 (네이버 공연 live beta)]]></title>
             <link>http://now.naver.com/l/1733260</link>
@@ -123,15 +114,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220620_155/1655736672815synwc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[NOW] 뮤지컬 <브람스> 전막 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>http://now.naver.com/l/1733260</link>
             <guid>http://now.naver.com/l/1733260</guid>
@@ -151,7 +133,7 @@
             <title><![CDATA[[NOW] 뮤지컬 <봄을 그리다> 전막 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://now.naver.com/l/1733560</link>
             <guid>https://now.naver.com/l/1733560</guid>
-            <pubDate>Thu, 30 Jun 2022 10:47:58 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 10:47:47 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220630_11/16565832505676MDeE_JPEG/messageImage_1589339534203.jpg" length="0" type="image/jpg"/>
         </item>
@@ -567,15 +549,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <팬레터> - 공연 실황 녹화 온라인 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
@@ -673,14 +646,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-										<해시태그> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/109010</link>
-            <guid>https://tv.naver.com/l/109010</guid>
-            <pubDate>Fri, 17 Jun 2022 04:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[NOW] 뮤지컬 <브람스> 전막 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>http://now.naver.com/l/1733260</link>
             <guid>http://now.naver.com/l/1733260</guid>
@@ -698,7 +663,7 @@
             <title><![CDATA[[NOW] 뮤지컬 <봄을 그리다> 전막 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://now.naver.com/l/1733560</link>
             <guid>https://now.naver.com/l/1733560</guid>
-            <pubDate>Thu, 30 Jun 2022 10:48:20 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 10:47:47 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(일) 14:00]]></content:encoded>
         </item>
         <item>
