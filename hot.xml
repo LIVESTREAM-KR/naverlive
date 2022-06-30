@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 15:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											<해시태그> 공연 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-613</guid>
-            <pubDate>Thu, 30 Jun 2022 13:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[06월 30일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220617_29/1655436642894RJjRb_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[NOW] 뮤지컬 <브람스> 전막 중계]]></title>
             <link>http://now.naver.com/l/1733260</link>
@@ -81,6 +72,15 @@
             <pubDate>Tue, 28 Jun 2022 13:21:21 GMT</pubDate>
             <content:encoded><![CDATA[07월 10일(일) 17:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/yDPBn_1655977435760QAxAt_JPEG/1655977435717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<이상한 나라의 아빠> 공연 실황 녹화 중계]]></title>
+            <link>https://tv.naver.com/l/110038</link>
+            <guid>https://tv.naver.com/l/110038</guid>
+            <pubDate>Thu, 30 Jun 2022 15:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[07월 15일(금) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼']]></title>
