@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-01T23:43:09.263Z</updated>
+    <updated>2022-07-02T02:54:19.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -69,7 +69,7 @@
         <id>https://tv.naver.com/l/110038</id>
         <link href="https://tv.naver.com/l/110038"/>
         <updated>2022-06-30T15:48:25.897Z</updated>
-        <content type="html"><![CDATA[07월 15일(금) 20:00]]></content>
+        <content type="html"><![CDATA[07월 14일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼']]></title>
