@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-03T05:40:19.530Z</updated>
+    <updated>2022-07-03T06:48:13.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[NOW] 뮤지컬 <봄을 그리다> 전막 중계]]></title>
-        <id>https://now.naver.com/l/1733560</id>
-        <link href="https://now.naver.com/l/1733560"/>
-        <updated>2022-06-30T10:48:20.592Z</updated>
-        <content type="html"><![CDATA[07월 03일(일) 14:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <봄을 그리다> 제16회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/109218</id>
