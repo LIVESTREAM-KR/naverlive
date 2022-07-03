@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 11:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 13:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
+            <link>https://tv.naver.com/dimf</link>
+            <guid>https://tv.naver.com/dimf</guid>
+            <pubDate>Mon, 23 May 2022 10:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PAGE1]]></title>
             <link>https://tv.naver.com/page1</link>
@@ -222,24 +240,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
-            <link>https://tv.naver.com/dimf</link>
-            <guid>https://tv.naver.com/dimf</guid>
-            <pubDate>Mon, 23 May 2022 10:46:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과천시립교향악단]]></title>
