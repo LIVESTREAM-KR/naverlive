@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-03T23:41:47.495Z</updated>
+    <updated>2022-07-04T03:00:57.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -19,6 +19,13 @@
         <link href="https://tv.naver.com/l/109775"/>
         <updated>2022-06-24T05:43:41.650Z</updated>
         <content type="html"><![CDATA[07월 05일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Taipei 뮤지컬 <넌 리딩 클럽 EP.2> 제16회 DIMF]]></title>
+        <id>https://tv.naver.com/l/109817</id>
+        <link href="https://tv.naver.com/l/109817"/>
+        <updated>2022-07-04T03:00:56.744Z</updated>
+        <content type="html"><![CDATA[07월 06일(수) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
@@ -42,6 +49,13 @@
         <link href="https://tv.naver.com/l/110038"/>
         <updated>2022-06-30T15:48:25.897Z</updated>
         <content type="html"><![CDATA[07월 14일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<푸에르자 부르타> 네이버 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/110305</id>
+        <link href="https://tv.naver.com/l/110305"/>
+        <updated>2022-07-04T03:00:56.749Z</updated>
+        <content type="html"><![CDATA[07월 25일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼']]></title>
