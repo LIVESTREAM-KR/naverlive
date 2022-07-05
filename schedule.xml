@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-05T11:41:15.485Z</updated>
+    <updated>2022-07-05T13:26:08.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[<깊은 사랑> 공연 실황 녹화 중계]]></title>
-        <id>https://tv.naver.com/l/109775</id>
-        <link href="https://tv.naver.com/l/109775"/>
-        <updated>2022-06-24T05:43:41.650Z</updated>
-        <content type="html"><![CDATA[07월 05일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Taipei 뮤지컬 <넌 리딩 클럽 EP.2> 제16회 DIMF]]></title>
         <id>https://tv.naver.com/l/109817</id>
