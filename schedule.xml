@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-05T13:26:08.314Z</updated>
+    <updated>2022-07-05T14:04:20.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -28,6 +28,13 @@
         <content type="html"><![CDATA[07월 10일(일) 17:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요안 부르주아 '위대한 유령' 앵콜 중계]]></title>
+        <id>https://tv.naver.com/l/110579</id>
+        <link href="https://tv.naver.com/l/110579"/>
+        <updated>2022-07-05T14:04:20.190Z</updated>
+        <content type="html"><![CDATA[07월 14일(목) 19:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										<이상한 나라의 아빠> 공연 실황 녹화 중계]]></title>
         <id>https://tv.naver.com/l/110038</id>
@@ -36,7 +43,7 @@
         <content type="html"><![CDATA[07월 14일(목) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<푸에르자 부르타> 네이버 녹화 중계]]></title>
+        <title type="html"><![CDATA[2022 <푸에르자 부르타> 네이버 녹화 중계]]></title>
         <id>https://tv.naver.com/l/110305</id>
         <link href="https://tv.naver.com/l/110305"/>
         <updated>2022-07-04T03:00:56.749Z</updated>
