@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-10T07:41:19.092Z</updated>
+    <updated>2022-07-10T08:45:30.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NOW] 뮤지컬 <메리 애닝> 전막 라이브]]></title>
+        <id>https://now.naver.com/l/1733560</id>
+        <link href="https://now.naver.com/l/1733560"/>
+        <updated>2022-07-10T08:45:29.927Z</updated>
+        <content type="html"><![CDATA[07월 10일(일) 17:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <메리 애닝> 제16회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/109737</id>
