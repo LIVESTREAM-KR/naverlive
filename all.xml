@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 23:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 02:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,24 @@
             <pubDate>Fri, 24 Jun 2022 06:49:54 GMT</pubDate>
             <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sumatv</link>
+            <guid>https://tv.naver.com/sumatv</guid>
+            <pubDate>Sun, 10 Jul 2022 02:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">수원시립미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[클라이번 TV The Cliburn TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -498,24 +516,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/dimf</link>
-            <guid>https://tv.naver.com/dimf</guid>
-            <pubDate>Mon, 23 May 2022 10:46:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
