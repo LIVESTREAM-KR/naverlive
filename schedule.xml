@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-10T23:41:53.045Z</updated>
+    <updated>2022-07-11T02:51:56.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/l/110579"/>
         <updated>2022-07-05T14:04:20.190Z</updated>
         <content type="html"><![CDATA[07월 14일(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE144회 아트엠콘서트, 첼리스트 이원해]]></title>
+        <id>https://www.vlive.tv/post/1-29674205</id>
+        <link href="https://www.vlive.tv/post/1-29674205"/>
+        <updated>2022-07-11T02:51:56.051Z</updated>
+        <content type="html"><![CDATA[07월 14일(목) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
