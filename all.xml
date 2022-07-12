@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 10:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 11:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,6 +156,24 @@
             <pubDate>Fri, 24 Jun 2022 06:49:54 GMT</pubDate>
             <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/assitejkorea</link>
+            <guid>https://tv.naver.com/assitejkorea</guid>
+            <pubDate>Fri, 03 Jun 2022 09:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아시테지코리아 네이버TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -374,24 +392,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/assitejkorea</link>
-            <guid>https://tv.naver.com/assitejkorea</guid>
-            <pubDate>Fri, 03 Jun 2022 09:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아시테지코리아 네이버TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/gfac</link>
             <guid>https://tv.naver.com/gfac</guid>
@@ -470,7 +470,7 @@
             <pubDate>Tue, 05 Jul 2022 11:40:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/lgarts" onclick="nclk(this, 'channel.img', 'lgarts', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" alt="LG아트센터 이미지">
 										</div>
