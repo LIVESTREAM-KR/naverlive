@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,14 @@
             <pubDate>Wed, 13 Jul 2022 05:01:36 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220713_91/1657686508227SIkql_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 갈라콘서트 <더 레전드> (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/art_cbs/222808826972</link>
+            <guid>https://blog.naver.com/art_cbs/222808826972</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[07월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_66/EJIL1_1657613071194tIrDW_PNG/1657613071176.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[7/21 <금호아티스트> 김수연 Piano (네이버 공연 live beta)]]></title>
@@ -156,6 +164,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220713_91/1657686508227SIkql_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 갈라콘서트 <더 레전드> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/art_cbs/222808826972</link>
+            <guid>https://blog.naver.com/art_cbs/222808826972</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:14 GMT</pubDate>
+            <content:encoded><![CDATA[07월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_66/EJIL1_1657613071194tIrDW_PNG/1657613071176.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[7/21 <금호아티스트> 김수연 Piano (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/110738</link>
             <guid>https://tv.naver.com/l/110738</guid>
@@ -188,6 +204,42 @@
             <pubDate>Fri, 24 Jun 2022 06:49:54 GMT</pubDate>
             <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[credia tv (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/klassica</link>
+            <guid>https://tv.naver.com/klassica</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">credia tv</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아이엠컬처 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/imculturetv</link>
+            <guid>https://tv.naver.com/imculturetv</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/imculturetv" onclick="nclk(this, 'channel.img', 'imculturetv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220713_47/ktCox_1657689894679JG4TT_JPEG/1657689894665.jpg" alt="아이엠컬처 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아이엠컬처</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_47/ktCox_1657689894679JG4TT_JPEG/1657689894665.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -502,7 +554,7 @@
             <pubDate>Mon, 04 Jul 2022 07:50:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
 										</div>
@@ -512,42 +564,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG아트센터 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/lgarts</link>
-            <guid>https://tv.naver.com/lgarts</guid>
-            <pubDate>Tue, 05 Jul 2022 11:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/lgarts" onclick="nclk(this, 'channel.img', 'lgarts', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" alt="LG아트센터 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LG아트센터</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화예술위원회(ARKO) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arko</link>
-            <guid>https://tv.naver.com/arko</guid>
-            <pubDate>Fri, 24 Jun 2022 02:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arko" onclick="nclk(this, 'channel.img', 'arko', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" alt="한국문화예술위원회(ARKO) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화예술위원회(ARKO)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -691,6 +707,13 @@
             <guid>https://now.naver.com/l/1734339</guid>
             <pubDate>Wed, 13 Jul 2022 05:01:36 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 갈라콘서트 <더 레전드> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/111059</link>
+            <guid>https://tv.naver.com/l/111059</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:36 GMT</pubDate>
+            <content:encoded><![CDATA[07월 18일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7/21 <금호아티스트> 김수연 Piano (네이버 공연 live beta ─ 전체일정)]]></title>
