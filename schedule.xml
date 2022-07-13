@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-13T04:20:56.318Z</updated>
+    <updated>2022-07-13T05:02:13.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NOW] 요한 부르주아 <위대한 유령>]]></title>
+        <id>https://now.naver.com/l/1734063</id>
+        <link href="https://now.naver.com/l/1734063"/>
+        <updated>2022-07-13T05:02:12.846Z</updated>
+        <content type="html"><![CDATA[07월 14일(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요안 부르주아 '위대한 유령' 앵콜 중계]]></title>
         <id>https://tv.naver.com/l/110579</id>
@@ -26,6 +33,13 @@
         <link href="https://tv.naver.com/l/110038"/>
         <updated>2022-06-30T15:48:25.897Z</updated>
         <content type="html"><![CDATA[07월 14일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NOW] 뮤지컬 <전설의 리틀 농구장> 공연실황]]></title>
+        <id>https://now.naver.com/l/1734339</id>
+        <link href="https://now.naver.com/l/1734339"/>
+        <updated>2022-07-13T05:02:12.861Z</updated>
+        <content type="html"><![CDATA[07월 18일(월) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7/21 <금호아티스트> 김수연 Piano]]></title>
