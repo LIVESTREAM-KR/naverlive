@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-14T13:22:37.385Z</updated>
+    <updated>2022-07-14T14:03:49.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,19 @@
         <content type="html"><![CDATA[07월 14일(목) 19:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요안 부르주아 '위대한 유령' 앵콜 중계]]></title>
-        <id>https://tv.naver.com/l/110579</id>
-        <link href="https://tv.naver.com/l/110579"/>
-        <updated>2022-07-05T14:04:20.190Z</updated>
-        <content type="html"><![CDATA[07월 14일(목) 19:00]]></content>
+        <title type="html"><![CDATA[후원
+										<이상한 나라의 아빠> 공연 실황 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/110038</id>
+        <link href="https://tv.naver.com/l/110038"/>
+        <updated>2022-07-14T14:03:49.059Z</updated>
+        <content type="html"><![CDATA[07월 14일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NOW] 뮤지컬 <전설의 리틀 농구장> 공연실황]]></title>
+        <id>https://now.naver.com/l/1734339</id>
+        <link href="https://now.naver.com/l/1734339"/>
+        <updated>2022-07-14T14:03:49.060Z</updated>
+        <content type="html"><![CDATA[07월 18일(월) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 갈라콘서트 <더 레전드>]]></title>
