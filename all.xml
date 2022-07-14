@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 14:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 15:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[NOW] 요한 부르주아 <위대한 유령> (네이버 공연 live beta)]]></title>
-            <link>https://now.naver.com/l/1734063</link>
-            <guid>https://now.naver.com/l/1734063</guid>
-            <pubDate>Wed, 13 Jul 2022 05:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 19:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220713_219/1657686638531udkea_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<이상한 나라의 아빠> 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/110038</link>
-            <guid>https://tv.naver.com/l/110038</guid>
-            <pubDate>Thu, 14 Jul 2022 14:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/111055</link>
@@ -83,14 +66,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작뮤지컬 <이상한 나라의 아빠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</guid>
-            <pubDate>Mon, 04 Jul 2022 15:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[7/14일 (목) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220704_124/1656945721027XgGmz_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://tv.naver.com/l/110452</link>
             <guid>https://tv.naver.com/l/110452</guid>
@@ -99,43 +74,18 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220704_167/1656946013372WuyGq_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작뮤지컬 <이상한 나라의 아빠> (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate?rewardId=pat-t-add-615</guid>
-            <pubDate>Mon, 04 Jul 2022 15:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[7/14일 (목) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220704_124/1656945721027XgGmz_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://tv.naver.com/l/110452</link>
             <guid>https://tv.naver.com/l/110452</guid>
             <pubDate>Mon, 04 Jul 2022 08:49:30 GMT</pubDate>
             <content:encoded><![CDATA[8/6(토) ~ 8/7(일) 오후 6시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220704_167/1656946013372WuyGq_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NOW] 요한 부르주아 <위대한 유령> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://now.naver.com/l/1734063</link>
-            <guid>https://now.naver.com/l/1734063</guid>
-            <pubDate>Wed, 13 Jul 2022 05:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 19:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220713_219/1657686638531udkea_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<이상한 나라의 아빠> 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/110038</link>
-            <guid>https://tv.naver.com/l/110038</guid>
-            <pubDate>Thu, 14 Jul 2022 14:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/111055</link>
             <guid>https://tv.naver.com/l/111055</guid>
-            <pubDate>Thu, 14 Jul 2022 14:43:54 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 14:43:43 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_18/i7DjO_1657689686501XowyH_JPEG/1657689686469.jpg" length="0" type="image/jpg"/>
         </item>
@@ -188,6 +138,24 @@
             <pubDate>Fri, 24 Jun 2022 06:49:54 GMT</pubDate>
             <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG아트센터 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/lgarts</link>
+            <guid>https://tv.naver.com/lgarts</guid>
+            <pubDate>Thu, 14 Jul 2022 15:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/lgarts" onclick="nclk(this, 'channel.img', 'lgarts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" alt="LG아트센터 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">LG아트센터</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -532,33 +500,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Thu, 07 Jul 2022 04:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<이상한 나라의 아빠> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/110038</link>
-            <guid>https://tv.naver.com/l/110038</guid>
-            <pubDate>Thu, 14 Jul 2022 14:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220701_240/1656602804184omEin_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											[DAY1] 제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/110452</link>
@@ -657,25 +598,10 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[NOW] 요한 부르주아 <위대한 유령> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://now.naver.com/l/1734063</link>
-            <guid>https://now.naver.com/l/1734063</guid>
-            <pubDate>Wed, 13 Jul 2022 05:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										<이상한 나라의 아빠> 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/110038</link>
-            <guid>https://tv.naver.com/l/110038</guid>
-            <pubDate>Thu, 14 Jul 2022 14:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[07월 14일(목) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/111055</link>
             <guid>https://tv.naver.com/l/111055</guid>
-            <pubDate>Thu, 14 Jul 2022 14:44:17 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2022 14:43:43 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(월) 19:00]]></content:encoded>
         </item>
         <item>
