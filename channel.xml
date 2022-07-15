@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:44:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[credia tv]]></title>
+            <link>https://tv.naver.com/klassica</link>
+            <guid>https://tv.naver.com/klassica</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">credia tv</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공연기획 MCT]]></title>
+            <link>https://tv.naver.com/mctdacne</link>
+            <guid>https://tv.naver.com/mctdacne</guid>
+            <pubDate>Fri, 15 Jul 2022 09:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연기획 MCT</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV]]></title>
             <link>https://tv.naver.com/assitejkorea</link>
@@ -96,24 +132,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[credia tv]]></title>
-            <link>https://tv.naver.com/klassica</link>
-            <guid>https://tv.naver.com/klassica</guid>
-            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">credia tv</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV]]></title>
@@ -284,7 +302,7 @@
             <pubDate>Fri, 08 Jul 2022 10:45:23 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 공연]]></title>
-            <link>https://tv.naver.com/theater</link>
-            <guid>https://tv.naver.com/theater</guid>
-            <pubDate>Thu, 07 Jul 2022 06:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">네이버 공연</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
