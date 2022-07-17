@@ -4,9 +4,25 @@
         <title>네이버 공연 live beta ─ 다시보기</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 04:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 04:59:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두산인문극장 2022: 공정, 연극 <당선자 없음>(한글자막 제공)]]></title>
+            <link>https://tv.naver.com/v/27941778</link>
+            <guid>https://tv.naver.com/v/27941778</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[두산아트센터]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220717_237/1658033560007PlUC9_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두산인문극장 2022: 공정, 연극 <당선자 없음>]]></title>
+            <link>https://tv.naver.com/v/27941791</link>
+            <guid>https://tv.naver.com/v/27941791</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[두산아트센터]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_195/sdQm7_1657781523584AOfC2_JPEG/9bab2153-033f-11ed-a120-505dacfbaa5c_08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달리에서 마그리트까지]]></title>
             <link>https://view.shoppinglive.naver.com/replays/412312</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 23 May 2022 15:48:18 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고 이건희 회장 기증 명품전]]></title>
-            <link>https://blog.naver.com/100museum/222462703452</link>
-            <guid>https://blog.naver.com/100museum/222462703452</guid>
-            <pubDate>Mon, 23 May 2022 15:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제3회 서울 탭댄스 페스티벌 : 블랙댄스 버라이어티 part.1]]></title>
-            <link>https://blog.naver.com/arthallmac/222438501565</link>
-            <guid>https://blog.naver.com/arthallmac/222438501565</guid>
-            <pubDate>Mon, 23 May 2022 15:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

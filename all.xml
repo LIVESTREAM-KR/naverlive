@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 04:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 04:59:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두산인문극장 2022 연극 <당선자 없음> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/v/27941791</link>
+            <guid>https://tv.naver.com/v/27941791</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:12 GMT</pubDate>
+            <content:encoded><![CDATA[07월 17일(일) 13:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220717_87/1658033604643sbGiJ_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/111055</link>
@@ -82,6 +90,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220704_167/1656946013372WuyGq_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두산인문극장 2022 연극 <당선자 없음> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/v/27941791</link>
+            <guid>https://tv.naver.com/v/27941791</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:24 GMT</pubDate>
+            <content:encoded><![CDATA[07월 17일(일) 13:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220717_87/1658033604643sbGiJ_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/111055</link>
             <guid>https://tv.naver.com/l/111055</guid>
@@ -138,6 +154,24 @@
             <pubDate>Fri, 24 Jun 2022 06:49:54 GMT</pubDate>
             <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/theater</link>
+            <guid>https://tv.naver.com/theater</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">네이버 공연</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -482,24 +516,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Thu, 21 Apr 2022 05:56:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											[DAY1] 제3회 자라섬 온라인 올라잇 재즈 페스티벌 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/110452</link>
@@ -516,6 +532,22 @@
             <pubDate>Mon, 04 Jul 2022 08:49:30 GMT</pubDate>
             <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두산인문극장 2022: 공정, 연극 <당선자 없음>(한글자막 제공) (네이버 공연 live beta ─ 다시보기)]]></title>
+            <link>https://tv.naver.com/v/27941778</link>
+            <guid>https://tv.naver.com/v/27941778</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[두산아트센터]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220717_237/1658033560007PlUC9_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두산인문극장 2022: 공정, 연극 <당선자 없음> (네이버 공연 live beta ─ 다시보기)]]></title>
+            <link>https://tv.naver.com/v/27941791</link>
+            <guid>https://tv.naver.com/v/27941791</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[두산아트센터]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_195/sdQm7_1657781523584AOfC2_JPEG/9bab2153-033f-11ed-a120-505dacfbaa5c_08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달리에서 마그리트까지 (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -582,20 +614,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고 이건희 회장 기증 명품전 (네이버 공연 live beta ─ 다시보기)]]></title>
-            <link>https://blog.naver.com/100museum/222462703452</link>
-            <guid>https://blog.naver.com/100museum/222462703452</guid>
-            <pubDate>Mon, 29 Nov 2021 21:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제3회 서울 탭댄스 페스티벌 : 블랙댄스 버라이어티 part.1 (네이버 공연 live beta ─ 다시보기)]]></title>
-            <link>https://blog.naver.com/arthallmac/222438501565</link>
-            <guid>https://blog.naver.com/arthallmac/222438501565</guid>
-            <pubDate>Tue, 28 Dec 2021 02:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[두산인문극장 2022 연극 <당선자 없음> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/v/27941791</link>
+            <guid>https://tv.naver.com/v/27941791</guid>
+            <pubDate>Sun, 17 Jul 2022 04:59:50 GMT</pubDate>
+            <content:encoded><![CDATA[07월 17일(일) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <전설의 리틀 농구단> 공연 실황 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
