@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 13:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 13:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <title><![CDATA[세종문화회관 7월 천원의 행복 <국악관현악의 성장> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/111623</link>
             <guid>https://tv.naver.com/l/111623</guid>
-            <pubDate>Tue, 19 Jul 2022 13:21:18 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 13:21:08 GMT</pubDate>
             <content:encoded><![CDATA[07월 26일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220719_30/1658232729763UErjq_PNG/dc17ada_03______________________________.png" length="0" type="image/png"/>
         </item>
@@ -576,7 +576,7 @@
             <title><![CDATA[세종문화회관 7월 천원의 행복 <국악관현악의 성장> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/111623</link>
             <guid>https://tv.naver.com/l/111623</guid>
-            <pubDate>Tue, 19 Jul 2022 13:21:40 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 13:21:08 GMT</pubDate>
             <content:encoded><![CDATA[07월 26일(화) 19:30]]></content:encoded>
         </item>
         <item>
