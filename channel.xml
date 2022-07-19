@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 15:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 17:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,7 +320,7 @@
             <pubDate>Thu, 07 Jul 2022 17:05:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220607_47/4wBC2_1654562868397aa8Ks_JPEG/1654562868380.jpg" alt="클라이번 TV The Cliburn TV 이미지">
 										</div>
