@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 06:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 07:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -420,7 +420,7 @@
             <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/imculturetv" onclick="nclk(this, 'channel.img', 'imculturetv', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220713_47/ktCox_1657689894679JG4TT_JPEG/1657689894665.jpg" alt="아이엠컬처 이미지">
 										</div>
