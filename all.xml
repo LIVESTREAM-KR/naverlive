@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 10:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 11:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
 											[8월 6일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
             <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Fri, 22 Jul 2022 10:47:01 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 10:46:50 GMT</pubDate>
             <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_14/o6N35_1657865146559Mt2GD_JPEG/1657865146539.jpg" length="0" type="image/jpg"/>
         </item>
@@ -106,7 +106,7 @@
 											[8월 7일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
             <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Fri, 22 Jul 2022 10:47:01 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 10:46:50 GMT</pubDate>
             <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_100/Owcg1_1657865275504U5g7S_JPEG/1657865275459.jpg" length="0" type="image/jpg"/>
         </item>
@@ -126,6 +126,24 @@
             <pubDate>Mon, 18 Jul 2022 10:47:02 GMT</pubDate>
             <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연기획 MCT (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mctdacne</link>
+            <guid>https://tv.naver.com/mctdacne</guid>
+            <pubDate>Fri, 15 Jul 2022 09:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연기획 MCT</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -198,24 +216,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공연기획 MCT (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mctdacne</link>
-            <guid>https://tv.naver.com/mctdacne</guid>
-            <pubDate>Fri, 15 Jul 2022 09:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연기획 MCT</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -492,7 +492,7 @@
 											[8월 6일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
             <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Fri, 22 Jul 2022 10:47:15 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 10:46:50 GMT</pubDate>
             <content:encoded><![CDATA[08월 06일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_14/o6N35_1657865146559Mt2GD_JPEG/1657865146539.jpg" length="0" type="image/jpg"/>
         </item>
@@ -510,7 +510,7 @@
 											[8월 7일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
             <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Fri, 22 Jul 2022 10:47:15 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 10:46:50 GMT</pubDate>
             <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_100/Owcg1_1657865275504U5g7S_JPEG/1657865275459.jpg" length="0" type="image/jpg"/>
         </item>
