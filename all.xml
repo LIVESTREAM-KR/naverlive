@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:57:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,24 @@
             <pubDate>Mon, 25 Jul 2022 06:52:10 GMT</pubDate>
             <content:encoded><![CDATA[08월 12일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_185/aPek9_1658730610449J9TTN_JPEG/1658730610429.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/page1</link>
+            <guid>https://tv.naver.com/page1</guid>
+            <pubDate>Tue, 26 Jul 2022 05:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PAGE1</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[credia tv (네이버 공연 live beta ─ 채널)]]></title>
@@ -516,24 +534,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이엠컬처 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/imculturetv</link>
-            <guid>https://tv.naver.com/imculturetv</guid>
-            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/imculturetv" onclick="nclk(this, 'channel.img', 'imculturetv', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220713_47/ktCox_1657689894679JG4TT_JPEG/1657689894665.jpg" alt="아이엠컬처 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아이엠컬처</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_47/ktCox_1657689894679JG4TT_JPEG/1657689894665.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
