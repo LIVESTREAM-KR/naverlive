@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:43:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,9 +189,27 @@
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/112120</link>
             <guid>https://tv.naver.com/l/112120</guid>
-            <pubDate>Tue, 26 Jul 2022 08:46:32 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 08:46:21 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[credia tv (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/klassica</link>
+            <guid>https://tv.naver.com/klassica</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">credia tv</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -228,24 +246,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[credia tv (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/klassica</link>
-            <guid>https://tv.naver.com/klassica</guid>
-            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">credia tv</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -594,7 +594,7 @@
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/112120</link>
             <guid>https://tv.naver.com/l/112120</guid>
-            <pubDate>Tue, 26 Jul 2022 08:46:44 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 08:46:21 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
         </item>
@@ -743,7 +743,7 @@
 										크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/112120</link>
             <guid>https://tv.naver.com/l/112120</guid>
-            <pubDate>Tue, 26 Jul 2022 08:46:57 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 08:46:21 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
         </item>
     </channel>
