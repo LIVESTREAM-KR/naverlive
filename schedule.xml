@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-26T07:41:18.533Z</updated>
+    <updated>2022-07-26T08:46:57.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -64,5 +64,13 @@
         <link href="https://tv.naver.com/l/110315"/>
         <updated>2022-07-25T06:52:44.626Z</updated>
         <content type="html"><![CDATA[08월 12일(금) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										크레디아 프롬스 - 조성진 그리고 쇼팽]]></title>
+        <id>https://tv.naver.com/l/112120</id>
+        <link href="https://tv.naver.com/l/112120"/>
+        <updated>2022-07-26T08:46:57.098Z</updated>
+        <content type="html"><![CDATA[08월 31일(수) 19:30]]></content>
     </entry>
 </feed>

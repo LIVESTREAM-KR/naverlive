@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,6 +74,15 @@
             <pubDate>Mon, 25 Jul 2022 06:52:10 GMT</pubDate>
             <content:encoded><![CDATA[08월 12일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_185/aPek9_1658730610449J9TTN_JPEG/1658730610429.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/112120</link>
+            <guid>https://tv.naver.com/l/112120</guid>
+            <pubDate>Tue, 26 Jul 2022 08:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미라클라스 'RE:BOOT' 콘서트 실황 '미라클라스' 2022년 새롭게 'RE:BOOT' 하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -174,6 +183,15 @@
             <pubDate>Mon, 25 Jul 2022 06:52:10 GMT</pubDate>
             <content:encoded><![CDATA[08월 12일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_185/aPek9_1658730610449J9TTN_JPEG/1658730610429.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/112120</link>
+            <guid>https://tv.naver.com/l/112120</guid>
+            <pubDate>Tue, 26 Jul 2022 08:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -398,7 +416,7 @@
             <pubDate>Tue, 19 Jul 2022 08:48:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
 										</div>
@@ -572,6 +590,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/112120</link>
+            <guid>https://tv.naver.com/l/112120</guid>
+            <pubDate>Tue, 26 Jul 2022 08:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[두산인문극장 2022: 공정, 연극 <당선자 없음>(한글자막 제공) (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://tv.naver.com/v/27941778</link>
             <guid>https://tv.naver.com/v/27941778</guid>
@@ -710,6 +737,14 @@
             <guid>https://tv.naver.com/l/110315</guid>
             <pubDate>Mon, 25 Jul 2022 06:52:44 GMT</pubDate>
             <content:encoded><![CDATA[08월 12일(금) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/112120</link>
+            <guid>https://tv.naver.com/l/112120</guid>
+            <pubDate>Tue, 26 Jul 2022 08:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
         </item>
     </channel>
 </rss>
