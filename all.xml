@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 13:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 14:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,24 +224,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[credia tv (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/klassica</link>
-            <guid>https://tv.naver.com/klassica</guid>
-            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">credia tv</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -258,6 +240,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[credia tv (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/klassica</link>
+            <guid>https://tv.naver.com/klassica</guid>
+            <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">credia tv</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
