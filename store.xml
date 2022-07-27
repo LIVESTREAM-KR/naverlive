@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,33 @@
             <pubDate>Mon, 04 Jul 2022 08:49:51 GMT</pubDate>
             <content:encoded><![CDATA[08월 07일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_12/eziqM_1656906116546FXQ7P_JPEG/1656906116523.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <경종수정실록> 1차 중계 8/15 오후 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 27 Jul 2022 05:50:58 GMT</pubDate>
+            <content:encoded><![CDATA[08월 15일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220727_217/1658896916050cy9Ei_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <경종수정실록> 2차 중계 8/22 오후 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 27 Jul 2022 05:50:58 GMT</pubDate>
+            <content:encoded><![CDATA[08월 22일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220727_16/1658897031232OxRuq_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <경종수정실록> 3차 중계 8/29 오후 8시]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 27 Jul 2022 05:50:58 GMT</pubDate>
+            <content:encoded><![CDATA[08월 29일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원

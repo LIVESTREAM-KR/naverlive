@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-27T04:35:44.325Z</updated>
+    <updated>2022-07-27T05:51:12.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -50,6 +50,30 @@
         <link href="https://tv.naver.com/l/110315"/>
         <updated>2022-07-25T06:52:44.626Z</updated>
         <content type="html"><![CDATA[08월 12일(금) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <경종수정실록> 1차 중계 8/15 오후 8시]]></title>
+        <id>https://tv.naver.com/l/112165</id>
+        <link href="https://tv.naver.com/l/112165"/>
+        <updated>2022-07-27T05:51:11.335Z</updated>
+        <content type="html"><![CDATA[08월 15일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <경종수정실록> 2차 중계 8/22 오후 8시]]></title>
+        <id>https://tv.naver.com/l/112170</id>
+        <link href="https://tv.naver.com/l/112170"/>
+        <updated>2022-07-27T05:51:11.335Z</updated>
+        <content type="html"><![CDATA[08월 22일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <경종수정실록> 3차 중계 8/29 오후 8시]]></title>
+        <id>https://tv.naver.com/l/112171</id>
+        <link href="https://tv.naver.com/l/112171"/>
+        <updated>2022-07-27T05:51:11.335Z</updated>
+        <content type="html"><![CDATA[08월 29일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
