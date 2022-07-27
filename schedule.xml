@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-07-26T23:43:02.515Z</updated>
+    <updated>2022-07-27T03:03:42.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -58,5 +58,13 @@
         <link href="https://tv.naver.com/l/112120"/>
         <updated>2022-07-26T08:46:57.098Z</updated>
         <content type="html"><![CDATA[08월 31일(수) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										오페라 <호프만의 이야기>]]></title>
+        <id>https://tv.naver.com/l/111683</id>
+        <link href="https://tv.naver.com/l/111683"/>
+        <updated>2022-07-27T03:03:41.535Z</updated>
+        <content type="html"><![CDATA[10월 01일(토) 15:00]]></content>
     </entry>
 </feed>
