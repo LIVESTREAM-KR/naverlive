@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 02:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스테이지]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 05 May 2022 03:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전통공연예술진흥재단TV]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Thu, 28 Jul 2022 02:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
@@ -242,31 +278,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온스테이지]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 05 May 2022 03:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[공연기획 MCT]]></title>
             <link>https://tv.naver.com/mctdacne</link>
             <guid>https://tv.naver.com/mctdacne</guid>
             <pubDate>Fri, 15 Jul 2022 09:44:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천안예술의전당]]></title>
-            <link>https://tv.naver.com/cnac</link>
-            <guid>https://tv.naver.com/cnac</guid>
-            <pubDate>Fri, 15 Jul 2022 03:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/cnac" onclick="nclk(this, 'channel.img', 'cnac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" alt="천안예술의전당 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">천안예술의전당</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
