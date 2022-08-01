@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주시문화재단]]></title>
+            <link>https://tv.naver.com/nsarthall</link>
+            <guid>https://tv.naver.com/nsarthall</guid>
+            <pubDate>Mon, 01 Aug 2022 07:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">광주시문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립오페라단]]></title>
             <link>https://tv.naver.com/koreanationalopera</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공연기획 MCT]]></title>
-            <link>https://tv.naver.com/mctdacne</link>
-            <guid>https://tv.naver.com/mctdacne</guid>
-            <pubDate>Fri, 15 Jul 2022 09:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mctdacne" onclick="nclk(this, 'channel.img', 'mctdacne', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" alt="공연기획 MCT 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연기획 MCT</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210112_121/0uGBS_1610433707345MHSqI_JPEG/1610433707325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
