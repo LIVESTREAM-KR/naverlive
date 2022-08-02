@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 05:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 06:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,7 +518,7 @@
             <pubDate>Mon, 25 Jul 2022 04:33:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" alt="아트엠콘서트 이미지">
 										</div>
