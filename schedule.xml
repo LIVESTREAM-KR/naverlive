@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-08-06T14:40:49.278Z</updated>
+    <updated>2022-08-06T15:44:12.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[8월 6일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권]]></title>
-        <id>https://tv.naver.com/l/111314</id>
-        <link href="https://tv.naver.com/l/111314"/>
-        <updated>2022-07-21T15:48:59.204Z</updated>
-        <content type="html"><![CDATA[08월 06일(토) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										[8월 7일] 미라클라스 'RE:BOOT' 콘서트 실황 영상 관람권]]></title>
