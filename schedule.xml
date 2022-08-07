@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-08-07T11:39:35.493Z</updated>
+    <updated>2022-08-07T13:03:59.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -11,14 +11,6 @@
         <id>https://tv.naver.com/l/111316</id>
         <link href="https://tv.naver.com/l/111316"/>
         <updated>2022-07-21T15:48:59.209Z</updated>
-        <content type="html"><![CDATA[08월 07일(일) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[DAY2] 제3회 자라섬 온라인 올라잇 재즈 페스티벌]]></title>
-        <id>https://tv.naver.com/l/110456</id>
-        <link href="https://tv.naver.com/l/110456"/>
-        <updated>2022-07-04T08:50:02.212Z</updated>
         <content type="html"><![CDATA[08월 07일(일) 18:00]]></content>
     </entry>
     <entry>
