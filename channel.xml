@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:53:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원더티켓(Wonder Ticket)]]></title>
+            <link>https://tv.naver.com/wonderticket</link>
+            <guid>https://tv.naver.com/wonderticket</guid>
+            <pubDate>Mon, 08 Aug 2022 06:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/wonderticket" onclick="nclk(this, 'channel.img', 'wonderticket', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220711_236/QKvDO_1657503204169FBQ0C_PNG/1657503204133.png" alt="원더티켓(Wonder Ticket) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">원더티켓(Wonder Ticket)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_236/QKvDO_1657503204169FBQ0C_PNG/1657503204133.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울예술단]]></title>
             <link>https://tv.naver.com/spac1</link>
@@ -266,7 +284,7 @@
             <pubDate>Mon, 01 Aug 2022 07:02:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210331_267/uyVIx_1617167872171WmThe_PNG/1617167872158.png" alt="국립오페라단 이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Wed, 13 Jul 2022 05:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
