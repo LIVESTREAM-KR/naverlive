@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,7 +129,7 @@
             <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/artmplus/222828090496</link>
             <guid>https://blog.naver.com/artmplus/222828090496</guid>
-            <pubDate>Thu, 11 Aug 2022 07:41:45 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 07:41:35 GMT</pubDate>
             <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
@@ -168,6 +168,24 @@
             <pubDate>Wed, 27 Jul 2022 03:03:06 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Tue, 09 Aug 2022 02:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한예종 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -294,24 +312,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Tue, 09 Aug 2022 02:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
