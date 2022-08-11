@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,14 @@
             <pubDate>Wed, 27 Jul 2022 05:50:35 GMT</pubDate>
             <content:encoded><![CDATA[08월 15일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_217/1658896916050cy9Ei_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta)]]></title>
+            <link>https://blog.naver.com/artmplus/222828090496</link>
+            <guid>https://blog.naver.com/artmplus/222828090496</guid>
+            <pubDate>Thu, 11 Aug 2022 07:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -116,6 +124,14 @@
             <pubDate>Wed, 27 Jul 2022 05:50:35 GMT</pubDate>
             <content:encoded><![CDATA[08월 15일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_217/1658896916050cy9Ei_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://blog.naver.com/artmplus/222828090496</link>
+            <guid>https://blog.naver.com/artmplus/222828090496</guid>
+            <pubDate>Thu, 11 Aug 2022 07:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -394,7 +410,7 @@
             <pubDate>Wed, 13 Jul 2022 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/klassica" onclick="nclk(this, 'channel.img', 'klassica', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20191011_226/96IvG_1570769767356OKk9i_PNG/1570769767332.png" alt="credia tv 이미지">
 										</div>
@@ -412,7 +428,7 @@
             <pubDate>Thu, 02 Jun 2022 08:50:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
 										</div>
@@ -652,6 +668,13 @@
             <guid>https://tv.naver.com/l/112165</guid>
             <pubDate>Wed, 27 Jul 2022 05:51:11 GMT</pubDate>
             <content:encoded><![CDATA[08월 15일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://www.vlive.tv/post/1-29916657</link>
+            <guid>https://www.vlive.tv/post/1-29916657</guid>
+            <pubDate>Thu, 11 Aug 2022 07:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
