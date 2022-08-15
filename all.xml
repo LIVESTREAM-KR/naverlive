@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 05:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 06:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -394,7 +394,7 @@
             <pubDate>Mon, 08 Aug 2022 06:53:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/wonderticket" onclick="nclk(this, 'channel.img', 'wonderticket', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220711_236/QKvDO_1657503204169FBQ0C_PNG/1657503204133.png" alt="원더티켓(Wonder Ticket) 이미지">
 										</div>
