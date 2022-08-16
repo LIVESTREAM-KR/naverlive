@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,24 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Tue, 09 Aug 2022 08:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -260,24 +278,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Tue, 09 Aug 2022 08:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -432,14 +432,14 @@
 									
 									<div class="img-mask">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220711_236/QKvDO_1657503204169FBQ0C_PNG/1657503204133.png" alt="원더티켓(Wonder Ticket) 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" alt="원더티켓(Wonder Ticket) 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
 										<p class="txt">원더티켓(Wonder Ticket)</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_236/QKvDO_1657503204169FBQ0C_PNG/1657503204133.png" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
