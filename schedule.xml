@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-08-18T11:40:33.668Z</updated>
+    <updated>2022-08-18T13:23:48.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[145회 아트엠콘서트 비올리스트 김세준]]></title>
-        <id>https://www.vlive.tv/post/0-30224347</id>
-        <link href="https://www.vlive.tv/post/0-30224347"/>
-        <updated>2022-08-18T10:47:01.042Z</updated>
-        <content type="html"><![CDATA[08월 18일(목) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <경종수정실록> 2차 중계 8/22 오후 8시]]></title>

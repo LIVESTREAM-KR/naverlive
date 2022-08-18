@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 11:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta)]]></title>
-            <link>https://blog.naver.com/artmplus/222828090496</link>
-            <guid>https://blog.naver.com/artmplus/222828090496</guid>
-            <pubDate>Thu, 11 Aug 2022 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 2차 중계 8/22 오후 8시 (네이버 공연 live beta)]]></title>
@@ -99,14 +91,6 @@
             <pubDate>Wed, 27 Jul 2022 05:50:35 GMT</pubDate>
             <content:encoded><![CDATA[8/15(월), 8/22(월), 8/29(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://blog.naver.com/artmplus/222828090496</link>
-            <guid>https://blog.naver.com/artmplus/222828090496</guid>
-            <pubDate>Thu, 11 Aug 2022 07:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -637,13 +621,6 @@
             <pubDate>Wed, 27 Jul 2022 03:03:35 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://www.vlive.tv/post/0-30224347</link>
-            <guid>https://www.vlive.tv/post/0-30224347</guid>
-            <pubDate>Thu, 18 Aug 2022 10:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
