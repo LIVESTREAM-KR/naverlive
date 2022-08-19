@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 06:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 07:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@
             <pubDate>Fri, 12 Aug 2022 04:08:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
 										</div>
