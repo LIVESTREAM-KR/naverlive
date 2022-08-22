@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 11:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 13:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -699,30 +699,6 @@
             <guid>https://tv.naver.com/l/112120</guid>
             <pubDate>Tue, 26 Jul 2022 08:46:21 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/113991</link>
-            <guid>https://tv.naver.com/l/113991</guid>
-            <pubDate>Mon, 22 Aug 2022 07:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/113999</link>
-            <guid>https://tv.naver.com/l/113999</guid>
-            <pubDate>Mon, 22 Aug 2022 06:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/113998</link>
-            <guid>https://tv.naver.com/l/113998</guid>
-            <pubDate>Mon, 22 Aug 2022 06:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
