@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											8월 천원의 행복,  모던 국악 콘서트 <진면목>]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/640289</link>
+            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
+            <pubDate>Tue, 23 Aug 2022 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -33,6 +42,15 @@
             <pubDate>Wed, 27 Jul 2022 08:49:09 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											늦여름 특집 뮤지컬 무인도 탈출기]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원

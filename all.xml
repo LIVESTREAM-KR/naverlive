@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/640289</link>
+            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
+            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -49,6 +58,15 @@
             <pubDate>Wed, 27 Jul 2022 08:48:45 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -76,6 +94,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <무인도 탈출기>상상의 마법, 우리들의 극중극 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[9/5(월) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_11/1661245886204rwDU8_JPEG/688x386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -90,14 +116,6 @@
             <pubDate>Wed, 27 Jul 2022 08:48:45 GMT</pubDate>
             <content:encoded><![CDATA[8/31일(수) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_89/165891213882522jRv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <경종수정실록>기록되지 않은 그 날의 이야기. (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Jul 2022 05:50:35 GMT</pubDate>
-            <content:encoded><![CDATA[8/15(월), 8/22(월), 8/29(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울시오페라단과 함께하는 '오페라 갈라 콘서트' (네이버 공연 live beta ─ HOT)]]></title>
@@ -134,6 +152,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/640289</link>
+            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
+            <pubDate>Tue, 23 Aug 2022 09:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -144,30 +171,21 @@
         </item>
         <item>
             <title><![CDATA[후원
+											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <호프만의 이야기> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Wed, 27 Jul 2022 03:03:06 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Sun, 21 Aug 2022 02:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[원더티켓(Wonder Ticket) (네이버 공연 live beta ─ 채널)]]></title>
@@ -186,6 +204,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Sun, 21 Aug 2022 02:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -530,6 +566,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_88/1658897080684TkVq0_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/640289</link>
+            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
+            <pubDate>Tue, 23 Aug 2022 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -537,6 +582,15 @@
             <pubDate>Wed, 27 Jul 2022 08:48:45 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/Xrxa9_1658798156421Pm3wL_JPEG/1658798156383.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 23 Aug 2022 09:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -658,12 +712,28 @@
             <content:encoded><![CDATA[08월 29일(월) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쇼핑
+										8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://shoppinglive.naver.com/lives/640289</link>
+            <guid>https://shoppinglive.naver.com/lives/640289</guid>
+            <pubDate>Tue, 23 Aug 2022 09:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[후원
 										크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/112120</link>
             <guid>https://tv.naver.com/l/112120</guid>
             <pubDate>Tue, 26 Jul 2022 08:46:21 GMT</pubDate>
             <content:encoded><![CDATA[08월 31일(수) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/113991</link>
+            <guid>https://tv.naver.com/l/113991</guid>
+            <pubDate>Tue, 23 Aug 2022 09:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
