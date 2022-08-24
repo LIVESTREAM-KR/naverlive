@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 03:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:55:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,6 +67,24 @@
             <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
             <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/113999</link>
+            <guid>https://tv.naver.com/l/113999</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_181/KF336_1661144817862B5JGx_JPEG/1661144817837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/113998</link>
+            <guid>https://tv.naver.com/l/113998</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_46/nJAy5_1661144717251qbQnV_JPEG/1661144717230.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -180,12 +198,48 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/113999</link>
+            <guid>https://tv.naver.com/l/113999</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_181/KF336_1661144817862B5JGx_JPEG/1661144817837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/113998</link>
+            <guid>https://tv.naver.com/l/113998</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_46/nJAy5_1661144717251qbQnV_JPEG/1661144717230.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <호프만의 이야기> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Wed, 27 Jul 2022 03:03:06 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -530,24 +584,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Sat, 30 Jul 2022 02:58:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쇼핑
 											NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://booking.naver.com/booking/12/bizes/197542/items/4568902</link>
@@ -591,6 +627,24 @@
             <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
             <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/113999</link>
+            <guid>https://tv.naver.com/l/113999</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_181/KF336_1661144817862B5JGx_JPEG/1661144817837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/113998</link>
+            <guid>https://tv.naver.com/l/113998</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_46/nJAy5_1661144717251qbQnV_JPEG/1661144717230.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -734,6 +788,22 @@
             <guid>https://tv.naver.com/l/113991</guid>
             <pubDate>Tue, 23 Aug 2022 09:44:11 GMT</pubDate>
             <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/113999</link>
+            <guid>https://tv.naver.com/l/113999</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:33 GMT</pubDate>
+            <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/113998</link>
+            <guid>https://tv.naver.com/l/113998</guid>
+            <pubDate>Wed, 24 Aug 2022 04:55:33 GMT</pubDate>
+            <content:encoded><![CDATA[09월 20일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
