@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:49:03 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[9/21(수), 9/23(목), 9/23(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -212,7 +212,7 @@
 											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/21(수) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:49:09 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 21일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_171/B2Q0A_1660874827147nqWbu_JPEG/1660874827106.jpg" length="0" type="image/jpg"/>
         </item>
@@ -221,9 +221,27 @@
 											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/22(목) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:49:09 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 22일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/spac1</link>
+            <guid>https://tv.naver.com/spac1</guid>
+            <pubDate>Mon, 08 Aug 2022 02:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울예술단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -404,24 +422,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Mon, 08 Aug 2022 02:49:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한중 문화교류의 해 (네이버 공연 live beta ─ 채널)]]></title>
@@ -653,7 +653,7 @@
 											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/21(수) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:49:20 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 21일(수) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_171/B2Q0A_1660874827147nqWbu_JPEG/1660874827106.jpg" length="0" type="image/jpg"/>
         </item>
@@ -662,7 +662,7 @@
 											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/22(목) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:49:20 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 22일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
         </item>
@@ -671,7 +671,7 @@
 											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/23(금) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:49:20 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
         </item>
