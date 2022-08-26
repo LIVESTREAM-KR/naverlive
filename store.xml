@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 08:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,30 @@
         </item>
         <item>
             <title><![CDATA[후원
-											오페라 <호프만의 이야기>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Wed, 27 Jul 2022 03:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/21(수)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:49:20 GMT</pubDate>
+            <content:encoded><![CDATA[09월 21일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_171/B2Q0A_1660874827147nqWbu_JPEG/1660874827106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/22(목)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:49:20 GMT</pubDate>
+            <content:encoded><![CDATA[09월 22일(목) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/23(금)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:49:20 GMT</pubDate>
+            <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

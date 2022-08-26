@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-08-26T07:43:45.860Z</updated>
+    <updated>2022-08-26T08:49:32.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,30 @@
         <link href="https://tv.naver.com/l/113998"/>
         <updated>2022-08-24T04:55:33.144Z</updated>
         <content type="html"><![CDATA[09월 20일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬<홀연했던 사나이> 녹화 중계 - 9/21(수)]]></title>
+        <id>https://tv.naver.com/l/112822</id>
+        <link href="https://tv.naver.com/l/112822"/>
+        <updated>2022-08-26T08:49:32.107Z</updated>
+        <content type="html"><![CDATA[09월 21일(수) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬<홀연했던 사나이> 녹화 중계 - 9/22(목)]]></title>
+        <id>https://tv.naver.com/l/112823</id>
+        <link href="https://tv.naver.com/l/112823"/>
+        <updated>2022-08-26T08:49:32.109Z</updated>
+        <content type="html"><![CDATA[09월 22일(목) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬<홀연했던 사나이> 녹화 중계 - 9/23(금)]]></title>
+        <id>https://tv.naver.com/l/112824</id>
+        <link href="https://tv.naver.com/l/112824"/>
+        <updated>2022-08-26T08:49:32.110Z</updated>
+        <content type="html"><![CDATA[09월 23일(금) 19:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
