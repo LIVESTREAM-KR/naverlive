@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 05:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 06:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051 (네이버 공연 live beta)]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/197542/items/4568902</link>
-            <guid>https://booking.naver.com/booking/12/bizes/197542/items/4568902</guid>
-            <pubDate>Thu, 18 Aug 2022 10:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[08월 28일(일) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_70/bU1LV_1660715876435SHMsJ_JPEG/1660715876389.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 3차 중계 8/29 오후 8시 (네이버 공연 live beta)]]></title>
@@ -97,6 +88,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/23(금) (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
@@ -135,15 +135,6 @@
             <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[9/21(수), 9/23(목), 9/23(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/197542/items/4568902</link>
-            <guid>https://booking.naver.com/booking/12/bizes/197542/items/4568902</guid>
-            <pubDate>Thu, 18 Aug 2022 10:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[08월 28일(일) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_70/bU1LV_1660715876435SHMsJ_JPEG/1660715876389.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -224,6 +215,15 @@
             <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 22일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/pURLK_1660874873274edeX9_JPEG/1660874873222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/23(금) (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
+            <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -586,15 +586,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/197542/items/4568902</link>
-            <guid>https://booking.naver.com/booking/12/bizes/197542/items/4568902</guid>
-            <pubDate>Thu, 18 Aug 2022 10:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[08월 28일(일) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_70/bU1LV_1660715876435SHMsJ_JPEG/1660715876389.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <경종수정실록> 3차 중계 8/29 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
@@ -676,6 +667,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											오페라 <호프만의 이야기> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Sun, 28 Aug 2022 06:49:37 GMT</pubDate>
+            <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[달리에서 마그리트까지 (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://view.shoppinglive.naver.com/replays/412312</link>
             <guid>https://view.shoppinglive.naver.com/replays/412312</guid>
@@ -754,14 +754,6 @@
             <pubDate>Wed, 27 Jul 2022 03:03:35 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										NAVER ONSTAGE 로컬 라이브 보드_장풍파랑 051 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/113294</link>
-            <guid>https://tv.naver.com/l/113294</guid>
-            <pubDate>Thu, 18 Aug 2022 10:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[08월 28일(일) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
