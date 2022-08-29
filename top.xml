@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 11:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 13:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_89/165891213882522jRv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <경종수정실록>기록되지 않은 그 날의 이야기.]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Fri, 29 Jul 2022 10:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[8/15(월), 8/22(월), 8/29(월) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220729_275/1659088264133y4hig_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <무인도 탈출기>상상의 마법, 우리들의 극중극]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
             <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
@@ -46,6 +38,14 @@
             <pubDate>Fri, 26 Aug 2022 08:49:03 GMT</pubDate>
             <content:encoded><![CDATA[9/21(수), 9/23(목), 9/23(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <호프만의 이야기>세 명의 매혹적인 여인이 항상 나와 함께 하지]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Mon, 29 Aug 2022 13:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[10/1(토) 오후 3시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
