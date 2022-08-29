@@ -4,9 +4,63 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 05:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수원시립미술관]]></title>
+            <link>https://tv.naver.com/sumatv</link>
+            <guid>https://tv.naver.com/sumatv</guid>
+            <pubDate>Mon, 29 Aug 2022 06:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sumatv" onclick="nclk(this, 'channel.img', 'sumatv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" alt="수원시립미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">수원시립미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트엠콘서트]]></title>
+            <link>https://tv.naver.com/artmconcert</link>
+            <guid>https://tv.naver.com/artmconcert</guid>
+            <pubDate>Mon, 29 Aug 2022 06:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" alt="아트엠콘서트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트엠콘서트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Mon, 29 Aug 2022 06:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세종문화회관]]></title>
             <link>https://tv.naver.com/sejongcenter</link>
@@ -312,60 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더티켓(Wonder Ticket)]]></title>
-            <link>https://tv.naver.com/wonderticket</link>
-            <guid>https://tv.naver.com/wonderticket</guid>
-            <pubDate>Mon, 22 Aug 2022 13:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/wonderticket" onclick="nclk(this, 'channel.img', 'wonderticket', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" alt="원더티켓(Wonder Ticket) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">원더티켓(Wonder Ticket)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Tue, 09 Aug 2022 02:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토클래식]]></title>
-            <link>https://tv.naver.com/tomatoclassictv</link>
-            <guid>https://tv.naver.com/tomatoclassictv</guid>
-            <pubDate>Fri, 19 Aug 2022 13:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/tomatoclassictv" onclick="nclk(this, 'channel.img', 'tomatoclassictv', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" alt="토마토클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">토마토클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210311_124/wTrL2_1615453997796VWPP9_PNG/1615453997771.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
