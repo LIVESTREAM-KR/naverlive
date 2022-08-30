@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 11:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 13:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[8월 천원의행복 모던 국악 콘서트 <진면목> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/114510</link>
-            <guid>https://tv.naver.com/l/114510</guid>
-            <pubDate>Tue, 30 Aug 2022 11:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_6/16614789566589FMbY_JPEG/1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/640289</link>
-            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
-            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta)]]></title>
@@ -137,23 +120,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[8월 천원의행복 모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/114510</link>
-            <guid>https://tv.naver.com/l/114510</guid>
-            <pubDate>Tue, 30 Aug 2022 11:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_6/16614789566589FMbY_JPEG/1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/640289</link>
-            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
-            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -224,6 +190,24 @@
             <pubDate>Sun, 28 Aug 2022 06:49:37 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sejongcenter</link>
+            <guid>https://tv.naver.com/sejongcenter</guid>
+            <pubDate>Mon, 29 Aug 2022 05:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">세종문화회관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -368,24 +352,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sejongcenter</link>
-            <guid>https://tv.naver.com/sejongcenter</guid>
-            <pubDate>Mon, 29 Aug 2022 05:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">세종문화회관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -586,15 +552,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/640289</link>
-            <guid>https://shoppinglive.naver.com/livebridge/640289</guid>
-            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220823_97/1661247347906LTMWS_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											크레디아 프롬스 - 조성진 그리고 쇼팽 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/klassica</link>
@@ -745,21 +702,6 @@
             <pubDate>Wed, 27 Jul 2022 03:03:35 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 천원의행복 모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/114510</link>
-            <guid>https://tv.naver.com/l/114510</guid>
-            <pubDate>Tue, 30 Aug 2022 11:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										8월 천원의 행복,  모던 국악 콘서트 <진면목> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://shoppinglive.naver.com/lives/640289</link>
-            <guid>https://shoppinglive.naver.com/lives/640289</guid>
-            <pubDate>Tue, 23 Aug 2022 09:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[08월 30일(화) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
