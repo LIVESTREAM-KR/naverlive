@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 14:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 15:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 K-Arts 오디션 전통예술원 (네이버 공연 live beta)]]></title>
             <link>https://blog.naver.com/karts_/222862262051</link>
@@ -97,6 +88,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/114541</link>
+            <guid>https://tv.naver.com/l/114541</guid>
+            <pubDate>Fri, 02 Sep 2022 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
@@ -135,15 +135,6 @@
             <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[9/21(수), 9/23(목), 9/23(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 K-Arts 오디션 전통예술원 (네이버 공연 live beta ─ HOT)]]></title>
@@ -224,6 +215,15 @@
             <pubDate>Sun, 28 Aug 2022 06:49:37 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/114541</link>
+            <guid>https://tv.naver.com/l/114541</guid>
+            <pubDate>Fri, 02 Sep 2022 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
@@ -587,15 +587,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Tue, 23 Aug 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_137/mgTGM_1660886304335mS8uq_JPEG/1660886304276.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <은밀하게 위대하게:THE LAST> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
@@ -754,14 +745,6 @@
             <pubDate>Wed, 27 Jul 2022 03:03:35 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										늦여름 특집 뮤지컬 무인도 탈출기 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/113991</link>
-            <guid>https://tv.naver.com/l/113991</guid>
-            <pubDate>Tue, 23 Aug 2022 09:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[09월 05일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 K-Arts 오디션 전통예술원 (네이버 공연 live beta ─ 전체일정)]]></title>
