@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-09-06T03:26:46.545Z</updated>
+    <updated>2022-09-06T05:15:08.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -22,7 +22,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										[후원전용] 뮤지컬 <여신님이 보고 계셔> 9월 19일 중계]]></title>
+										뮤지컬 <여신님이 보고 계셔> 9월 19일 중계]]></title>
         <id>https://tv.naver.com/l/114523</id>
         <link href="https://tv.naver.com/l/114523"/>
         <updated>2022-09-02T03:20:35.593Z</updated>
@@ -62,7 +62,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										[후원전용] 뮤지컬 <여신님이 보고 계셔> 9월 26일 중계]]></title>
+										뮤지컬 <여신님이 보고 계셔> 9월 26일 중계]]></title>
         <id>https://tv.naver.com/l/114540</id>
         <link href="https://tv.naver.com/l/114540"/>
         <updated>2022-09-02T03:20:35.597Z</updated>
@@ -75,6 +75,13 @@
         <link href="https://tv.naver.com/l/111683"/>
         <updated>2022-07-27T03:03:41.535Z</updated>
         <content type="html"><![CDATA[10월 01일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<푸에르자 부르타> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/115284</id>
+        <link href="https://tv.naver.com/l/115284"/>
+        <updated>2022-09-06T05:15:07.820Z</updated>
+        <content type="html"><![CDATA[10월 04일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
