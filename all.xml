@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:56:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,22 +224,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나인스토리 TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/ninestory</link>
-            <guid>https://tv.naver.com/ninestory</guid>
-            <pubDate>Wed, 31 Aug 2022 06:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/ninestory" onclick="nclk(this, 'channel.img', 'ninestory', '');" class="lnk-channel">
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Mon, 05 Sep 2022 03:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" alt="나인스토리 TV 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">나인스토리 TV</p>
+										<p class="txt">국립중앙박물관</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -258,6 +258,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[나인스토리 TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/ninestory</link>
+            <guid>https://tv.naver.com/ninestory</guid>
+            <pubDate>Wed, 31 Aug 2022 06:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/ninestory" onclick="nclk(this, 'channel.img', 'ninestory', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" alt="나인스토리 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">나인스토리 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -366,24 +384,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_4/lqH50_1661147186187rG1Xz_PNG/1661147186161.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Mon, 05 Sep 2022 03:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연우무대 (네이버 공연 live beta ─ 채널)]]></title>
