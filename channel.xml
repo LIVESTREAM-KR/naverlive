@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 11:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립합창단 l The National Chorus of Korea]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Wed, 07 Sep 2022 11:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한예종 예술극장]]></title>
             <link>https://tv.naver.com/karts</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작의숲]]></title>
-            <link>https://tv.naver.com/cjforest</link>
-            <guid>https://tv.naver.com/cjforest</guid>
-            <pubDate>Thu, 01 Sep 2022 03:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/cjforest" onclick="nclk(this, 'channel.img', 'cjforest', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201215_32/XbMDQ_16080221110388VCf7_JPEG/1608022111012.jpg" alt="창작의숲 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">창작의숲</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20201215_32/XbMDQ_16080221110388VCf7_JPEG/1608022111012.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
