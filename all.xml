@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 04:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 05:57:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Tue, 06 Sep 2022 08:52:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/karts</link>
             <guid>https://tv.naver.com/karts</guid>
@@ -260,24 +278,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Tue, 06 Sep 2022 08:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG아트센터 (네이버 공연 live beta ─ 채널)]]></title>
