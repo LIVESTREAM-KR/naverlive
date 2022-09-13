@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 05:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립현대미술관]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Sun, 21 Aug 2022 02:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[광명문화재단]]></title>
+            <link>https://tv.naver.com/gmcf</link>
+            <guid>https://tv.naver.com/gmcf</guid>
+            <pubDate>Tue, 13 Sep 2022 06:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gmcf" onclick="nclk(this, 'channel.img', 'gmcf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200417_148/mvfAK_1587102671180CPIyz_JPEG/1587102671158.jpg" alt="광명문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">광명문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200417_148/mvfAK_1587102671180CPIyz_JPEG/1587102671158.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립심포니오케스트라]]></title>
             <link>https://tv.naver.com/koreansymphony</link>
@@ -314,24 +350,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립현대미술관]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Sun, 21 Aug 2022 02:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[파크컴퍼니TV]]></title>
             <link>https://tv.naver.com/parkcompany</link>
             <guid>https://tv.naver.com/parkcompany</guid>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Tue, 06 Sep 2022 06:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
