@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-09-14T11:45:27.285Z</updated>
+    <updated>2022-09-14T13:29:13.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2022 K-Arts 오디션 음악원]]></title>
-        <id>https://tv.naver.com/l/115535</id>
-        <link href="https://tv.naver.com/l/115535"/>
-        <updated>2022-09-13T03:25:39.757Z</updated>
-        <content type="html"><![CDATA[09월 14일(수) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[146회 아트엠콘서트 피아니스트 류준희 & 도연수]]></title>
         <id>https://www.vlive.tv/post/1-30351449</id>
