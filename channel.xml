@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 09:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 10:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립심포니오케스트라]]></title>
+            <link>https://tv.naver.com/koreansymphony</link>
+            <guid>https://tv.naver.com/koreansymphony</guid>
+            <pubDate>Mon, 05 Sep 2022 08:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립심포니오케스트라</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립합창단 l The National Chorus of Korea]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Wed, 07 Sep 2022 11:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한예종 예술극장]]></title>
             <link>https://tv.naver.com/karts</link>
@@ -42,24 +78,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립심포니오케스트라]]></title>
-            <link>https://tv.naver.com/koreansymphony</link>
-            <guid>https://tv.naver.com/koreansymphony</guid>
-            <pubDate>Mon, 05 Sep 2022 08:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립심포니오케스트라</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온스테이지]]></title>
@@ -284,7 +302,7 @@
             <pubDate>Wed, 24 Aug 2022 08:49:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" alt="웰컴 대학로 이미지">
 										</div>
@@ -330,24 +348,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립합창단 l The National Chorus of Korea]]></title>
-            <link>https://tv.naver.com/nck</link>
-            <guid>https://tv.naver.com/nck</guid>
-            <pubDate>Wed, 07 Sep 2022 11:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립합창단 l The National Chorus of Korea </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립중앙박물관]]></title>
