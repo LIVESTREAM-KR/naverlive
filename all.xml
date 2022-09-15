@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 14:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 14:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 19일 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/114523</link>
-            <guid>https://tv.naver.com/l/114523</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
             <content:encoded><![CDATA[09월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_84/P5xIa_16614917573404ibi6_JPEG/1661491757289.jpg" length="0" type="image/jpg"/>
         </item>
@@ -55,9 +55,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/114540</link>
-            <guid>https://tv.naver.com/l/114540</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
             <content:encoded><![CDATA[09월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
         </item>
@@ -81,20 +81,28 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/114541</link>
-            <guid>https://tv.naver.com/l/114541</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:25 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/114542</link>
-            <guid>https://tv.naver.com/l/114542</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:35 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
             <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[9/19, 9/26, 10/4, 10/11(월) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220915_193/1663252112170OAvhd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -109,7 +117,7 @@
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
             <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
             <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[9/21(수), 9/23(목), 9/23(금) 오후 7시 30분]]></content:encoded>
+            <content:encoded><![CDATA[9/21(수), 9/22(목), 9/23(금) 오후 7시 30분]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -121,27 +129,19 @@
             <enclosure url="https://g-grafolio.pstatic.net/20220729_287/1659088591359lNfDa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <은밀하게 위대하게:THE LAST>전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Thu, 25 Aug 2022 05:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[9/12(월), 9/20(화) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_128/1661502830289YrKjY_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <홀연했던 사나이>1년을 잠들어 있던 그 사나이의 마지막 상영회 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/insight</link>
-            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
-            <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[9/21(수), 9/23(목), 9/23(금) 오후 7시 30분]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220826_116/1661502519905FO1HV_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[9/19, 9/26, 10/4, 10/11(월) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220915_193/1663252112170OAvhd_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 19일 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/114523</link>
-            <guid>https://tv.naver.com/l/114523</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:45 GMT</pubDate>
             <content:encoded><![CDATA[09월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_84/P5xIa_16614917573404ibi6_JPEG/1661491757289.jpg" length="0" type="image/jpg"/>
         </item>
@@ -184,9 +184,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/114540</link>
-            <guid>https://tv.naver.com/l/114540</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:45 GMT</pubDate>
             <content:encoded><![CDATA[09월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
         </item>
@@ -210,18 +210,18 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/114541</link>
-            <guid>https://tv.naver.com/l/114541</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:25 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:45 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/114542</link>
-            <guid>https://tv.naver.com/l/114542</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:35 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:45 GMT</pubDate>
             <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
         </item>
@@ -588,9 +588,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 19일 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/114523</link>
-            <guid>https://tv.naver.com/l/114523</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_84/P5xIa_16614917573404ibi6_JPEG/1661491757289.jpg" length="0" type="image/jpg"/>
         </item>
@@ -633,9 +633,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/114540</link>
-            <guid>https://tv.naver.com/l/114540</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:03 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
         </item>
@@ -651,9 +651,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/114541</link>
-            <guid>https://tv.naver.com/l/114541</guid>
-            <pubDate>Fri, 02 Sep 2022 03:20:25 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
+            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
+            <pubDate>Thu, 15 Sep 2022 14:48:58 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
