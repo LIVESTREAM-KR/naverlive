@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 03:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 05:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/115756</link>
+            <guid>https://tv.naver.com/l/115756</guid>
+            <pubDate>Fri, 16 Sep 2022 05:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_207/xPX2n_1663148345918dxEcn_JPEG/1663148345881.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
             <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
@@ -86,15 +95,6 @@
             <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <여신님이 보고 계셔>여신님, 나 보여요? 미리 만나는 뮤지컬 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -183,6 +183,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/115756</link>
+            <guid>https://tv.naver.com/l/115756</guid>
+            <pubDate>Fri, 16 Sep 2022 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_207/xPX2n_1663148345918dxEcn_JPEG/1663148345881.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 26일 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
             <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
@@ -217,13 +226,40 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 14:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 16 Sep 2022 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/page1</link>
+            <guid>https://tv.naver.com/page1</guid>
+            <pubDate>Fri, 16 Sep 2022 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PAGE1</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웰컴 대학로 (네이버 공연 live beta ─ 채널)]]></title>
@@ -550,42 +586,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원더티켓(Wonder Ticket) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/wonderticket</link>
-            <guid>https://tv.naver.com/wonderticket</guid>
-            <pubDate>Tue, 06 Sep 2022 09:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/wonderticket" onclick="nclk(this, 'channel.img', 'wonderticket', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" alt="원더티켓(Wonder Ticket) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">원더티켓(Wonder Ticket)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_137/bsSpg_1660644536047u6p9U_PNG/1660644536021.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Mon, 05 Sep 2022 03:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <여신님이 보고 계셔> 9월 19일 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
@@ -629,6 +629,15 @@
             <pubDate>Fri, 26 Aug 2022 08:48:58 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_209/3iVbI_1660874921382SWy67_JPEG/1660874921334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/115756</link>
+            <guid>https://tv.naver.com/l/115756</guid>
+            <pubDate>Fri, 16 Sep 2022 05:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_207/xPX2n_1663148345918dxEcn_JPEG/1663148345881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -776,6 +785,14 @@
             <guid>https://tv.naver.com/l/112824</guid>
             <pubDate>Fri, 26 Aug 2022 08:49:32 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(금) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										엑스칼리버 더 뮤지컬 다큐멘터리 : 도겸의 찬란한 여정 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/115756</link>
+            <guid>https://tv.naver.com/l/115756</guid>
+            <pubDate>Fri, 16 Sep 2022 05:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
