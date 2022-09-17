@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 15:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 17:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <pubDate>Tue, 06 Sep 2022 05:14:32 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광주시문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nsarthall</link>
+            <guid>https://tv.naver.com/nsarthall</guid>
+            <pubDate>Sat, 17 Sep 2022 17:01:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">광주시문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,24 +582,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_4/lqH50_1661147186187rG1Xz_PNG/1661147186161.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG아트센터 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/lgarts</link>
-            <guid>https://tv.naver.com/lgarts</guid>
-            <pubDate>Thu, 08 Sep 2022 03:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/lgarts" onclick="nclk(this, 'channel.img', 'lgarts', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" alt="LG아트센터 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LG아트센터</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
