@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 06:54:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@
             <pubDate>Mon, 05 Sep 2022 05:07:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/joodacul" onclick="nclk(this, 'channel.img', 'joodacul', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220822_4/lqH50_1661147186187rG1Xz_PNG/1661147186161.png" alt="주다컬쳐 이미지">
 										</div>
