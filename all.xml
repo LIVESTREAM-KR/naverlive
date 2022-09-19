@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,24 +224,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/hanamartcent</link>
-            <guid>https://tv.naver.com/hanamartcent</guid>
-            <pubDate>Wed, 14 Sep 2022 06:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">하남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -258,6 +240,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/hanamartcent</link>
+            <guid>https://tv.naver.com/hanamartcent</guid>
+            <pubDate>Wed, 14 Sep 2022 06:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hanamartcent" onclick="nclk(this, 'channel.img', 'hanamartcent', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" alt="하남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">하남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200626_239/ruGQb_1593153701035AImLy_JPEG/1593153701007.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광주시문화재단 (네이버 공연 live beta ─ 채널)]]></title>
