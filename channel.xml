@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 03:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 05:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,7 +320,7 @@
             <pubDate>Tue, 06 Sep 2022 08:52:36 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
 										</div>
@@ -338,7 +338,7 @@
             <pubDate>Mon, 12 Sep 2022 06:03:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/iyeonwoo" onclick="nclk(this, 'channel.img', 'iyeonwoo', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210622_265/37aWL_1624337405454gYhNk_JPEG/1624337405441.jpg" alt="연우무대 이미지">
 										</div>
