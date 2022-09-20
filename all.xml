@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 10:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 11:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,7 +200,7 @@
             <title><![CDATA[연극 <템플> 전막 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/116199</link>
             <guid>https://tv.naver.com/l/116199</guid>
-            <pubDate>Tue, 20 Sep 2022 10:49:26 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 10:49:15 GMT</pubDate>
             <content:encoded><![CDATA[09월 28일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220920_53/hndUi_16636687405357RJV8_JPEG/1663668740506.jpg" length="0" type="image/jpg"/>
         </item>
@@ -220,6 +220,24 @@
             <pubDate>Tue, 06 Sep 2022 05:14:32 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웰컴 대학로 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/welcomedaehakro</link>
+            <guid>https://tv.naver.com/welcomedaehakro</guid>
+            <pubDate>Wed, 24 Aug 2022 08:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" alt="웰컴 대학로 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">웰컴 대학로</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -472,24 +490,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴 대학로 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/welcomedaehakro</link>
-            <guid>https://tv.naver.com/welcomedaehakro</guid>
-            <pubDate>Wed, 24 Aug 2022 08:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" alt="웰컴 대학로 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">웰컴 대학로</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
@@ -792,7 +792,7 @@
             <title><![CDATA[연극 <템플> 전막 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/116199</link>
             <guid>https://tv.naver.com/l/116199</guid>
-            <pubDate>Tue, 20 Sep 2022 10:49:49 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 10:49:15 GMT</pubDate>
             <content:encoded><![CDATA[09월 28일(수) 20:00]]></content:encoded>
         </item>
         <item>
