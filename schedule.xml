@@ -2,7 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-11-16T16:57:08.331Z</updated>
+    <updated>2022-11-16T18:47:34.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <메리셸리> 온라인 스트리밍]]></title>
+        <id>https://tv.naver.com/l/116615</id>
+        <link href="https://tv.naver.com/l/116615"/>
+        <updated>2022-11-16T18:47:33.649Z</updated>
+        <content type="html"><![CDATA[11월 21일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[웰컴K-스테이지] 10주차 <사춤2-렛츠 댄스 크레이지>]]></title>
+        <id>https://tv.naver.com/l/119532</id>
+        <link href="https://tv.naver.com/l/119532"/>
+        <updated>2022-11-16T18:47:33.649Z</updated>
+        <content type="html"><![CDATA[11월 23일(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <번지점프를 하다> 후원 라이브_11/28 (월) 20:00]]></title>
+        <id>https://tv.naver.com/l/118832</id>
+        <link href="https://tv.naver.com/l/118832"/>
+        <updated>2022-11-16T18:47:33.650Z</updated>
+        <content type="html"><![CDATA[11월 28일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										오페라 <라 보엠>]]></title>
+        <id>https://tv.naver.com/l/117631</id>
+        <link href="https://tv.naver.com/l/117631"/>
+        <updated>2022-11-16T18:47:33.651Z</updated>
+        <content type="html"><![CDATA[12월 03일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도)]]></title>
+        <id>https://tv.naver.com/l/119802</id>
+        <link href="https://tv.naver.com/l/119802"/>
+        <updated>2022-11-16T18:47:33.653Z</updated>
+        <content type="html"><![CDATA[12월 05일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립심포니오케스트라 DR's Pick Ⅳ '천지창조']]></title>
+        <id>https://tv.naver.com/l/119737</id>
+        <link href="https://tv.naver.com/l/119737"/>
+        <updated>2022-11-16T18:47:33.664Z</updated>
+        <content type="html"><![CDATA[12월 09일(금) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										댄스 콘서트 <희노애락: THE ROAD> 네이버 후원 라이브]]></title>
+        <id>https://tv.naver.com/l/119996</id>
+        <link href="https://tv.naver.com/l/119996"/>
+        <updated>2022-11-16T18:47:33.664Z</updated>
+        <content type="html"><![CDATA[12월 12일(월) 20:00]]></content>
+    </entry>
 </feed>
