@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,42 @@
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Fri, 18 Nov 2022 06:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreansymphony</link>
+            <guid>https://tv.naver.com/koreansymphony</guid>
+            <pubDate>Fri, 18 Nov 2022 06:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립심포니오케스트라</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정서진 피크닉 클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -492,42 +528,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/theater</link>
-            <guid>https://tv.naver.com/theater</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">네이버 공연</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PAGE1 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/page1</link>
-            <guid>https://tv.naver.com/page1</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">PAGE1</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
