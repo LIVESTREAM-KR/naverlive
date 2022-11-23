@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-11-23T13:47:48.492Z</updated>
+    <updated>2022-11-23T14:40:53.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[웰컴K-스테이지] 10주차 <사춤2-렛츠 댄스 크레이지>]]></title>
-        <id>https://tv.naver.com/l/119532</id>
-        <link href="https://tv.naver.com/l/119532"/>
-        <updated>2022-11-16T18:47:33.649Z</updated>
-        <content type="html"><![CDATA[11월 23일(수) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <번지점프를 하다> 후원 라이브_11/28 (월) 20:00]]></title>
