@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 03:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,7 +120,7 @@
             <title><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/120894</link>
             <guid>https://tv.naver.com/l/120894</guid>
-            <pubDate>Wed, 23 Nov 2022 03:22:13 GMT</pubDate>
+            <pubDate>Wed, 23 Nov 2022 03:22:02 GMT</pubDate>
             <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_121/GySIl_1669170587774yc0sP_JPEG/1669170587741.jpg" length="0" type="image/jpg"/>
         </item>
@@ -158,6 +158,24 @@
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -284,24 +302,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_141/aA994_16267610942629A99t_PNG/1626761094242.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -654,7 +654,7 @@
             <title><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/120894</link>
             <guid>https://tv.naver.com/l/120894</guid>
-            <pubDate>Wed, 23 Nov 2022 03:22:36 GMT</pubDate>
+            <pubDate>Wed, 23 Nov 2022 03:22:02 GMT</pubDate>
             <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
         </item>
         <item>
