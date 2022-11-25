@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 11:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 13:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,24 @@
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광주시문화재단 | 남한산성아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nsarthall</link>
+            <guid>https://tv.naver.com/nsarthall</guid>
+            <pubDate>Fri, 25 Nov 2022 13:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nsarthall" onclick="nclk(this, 'channel.img', 'nsarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" alt="광주시문화재단 | 남한산성아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">광주시문화재단 | 남한산성아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_87/dQ37S_1640103057953KHfvY_JPEG/1640103057922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -484,24 +502,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정서진 피크닉 클래식 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/jcpf</link>
-            <guid>https://tv.naver.com/jcpf</guid>
-            <pubDate>Fri, 18 Nov 2022 05:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/jcpf" onclick="nclk(this, 'channel.img', 'jcpf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221004_76/XaNkG_1664866993850d8ubq_JPEG/1664866993834.jpg" alt="정서진 피크닉 클래식 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">정서진 피크닉 클래식</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221004_76/XaNkG_1664866993850d8ubq_JPEG/1664866993834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
