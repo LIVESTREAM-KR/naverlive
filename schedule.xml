@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-11-28T10:44:15.711Z</updated>
+    <updated>2022-11-28T11:39:32.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <번지점프를 하다> 후원 라이브_11/28 (월) 20:00]]></title>
-        <id>https://tv.naver.com/l/118832</id>
-        <link href="https://tv.naver.com/l/118832"/>
-        <updated>2022-11-16T18:47:33.650Z</updated>
-        <content type="html"><![CDATA[11월 28일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트>]]></title>
         <id>https://tv.naver.com/l/120894</id>
