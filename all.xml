@@ -4,26 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 11:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 13:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쇼핑
-											11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/740383</link>
-            <guid>https://shoppinglive.naver.com/livebridge/740383</guid>
-            <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221129_278/1669709356975a7t41_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/120894</link>
-            <guid>https://tv.naver.com/l/120894</guid>
-            <pubDate>Wed, 23 Nov 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_121/GySIl_1669170587774yc0sP_JPEG/1669170587741.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											오페라 <라 보엠> (네이버 공연 live beta)]]></title>
@@ -94,23 +77,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20221114_136/1668395804540s5A3s_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼핑
-											11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://shoppinglive.naver.com/livebridge/740383</link>
-            <guid>https://shoppinglive.naver.com/livebridge/740383</guid>
-            <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221129_278/1669709356975a7t41_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/120894</link>
-            <guid>https://tv.naver.com/l/120894</guid>
-            <pubDate>Wed, 23 Nov 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_121/GySIl_1669170587774yc0sP_JPEG/1669170587741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											오페라 <라 보엠> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
@@ -162,6 +128,24 @@
             <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sejongcenter</link>
+            <guid>https://tv.naver.com/sejongcenter</guid>
+            <pubDate>Wed, 23 Nov 2022 03:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">세종문화회관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -434,24 +418,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[세종문화회관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sejongcenter</link>
-            <guid>https://tv.naver.com/sejongcenter</guid>
-            <pubDate>Wed, 23 Nov 2022 03:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sejongcenter" onclick="nclk(this, 'channel.img', 'sejongcenter', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" alt="세종문화회관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">세종문화회관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/mmca</link>
             <guid>https://tv.naver.com/mmca</guid>
@@ -647,21 +613,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210720_272/hqdPB_16267788743440bt8r_JPEG/a904a3ed-e949-11eb-a9be-246e963a4708_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑
-										11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://view.shoppinglive.naver.com/lives/740383</link>
-            <guid>https://view.shoppinglive.naver.com/lives/740383</guid>
-            <pubDate>Tue, 29 Nov 2022 08:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/120894</link>
-            <guid>https://tv.naver.com/l/120894</guid>
-            <pubDate>Wed, 23 Nov 2022 03:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[11월 29일(화) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
