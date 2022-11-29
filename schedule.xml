@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-11-29T07:38:41.747Z</updated>
+    <updated>2022-11-29T08:45:11.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼핑
+										11월 천원의 행복 <하프 & 타악기 앙상블 콘서트>]]></title>
+        <id>https://view.shoppinglive.naver.com/lives/740383</id>
+        <link href="https://view.shoppinglive.naver.com/lives/740383"/>
+        <updated>2022-11-29T08:45:10.985Z</updated>
+        <content type="html"><![CDATA[11월 29일(화) 19:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 천원의 행복 <하프 & 타악기 앙상블 콘서트>]]></title>
         <id>https://tv.naver.com/l/120894</id>
@@ -42,5 +50,21 @@
         <link href="https://tv.naver.com/l/119996"/>
         <updated>2022-11-16T18:47:33.664Z</updated>
         <content type="html"><![CDATA[12월 12일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/120927</id>
+        <link href="https://tv.naver.com/l/120927"/>
+        <updated>2022-11-29T08:45:10.992Z</updated>
+        <content type="html"><![CDATA[12월 19일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
+        <id>https://tv.naver.com/l/120928</id>
+        <link href="https://tv.naver.com/l/120928"/>
+        <updated>2022-11-29T08:45:10.995Z</updated>
+        <content type="html"><![CDATA[12월 26일(월) 20:00]]></content>
     </entry>
 </feed>
