@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 03:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 04:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221011_241/6Ism5_1665463065552jzfx8_JPEG/1665463065473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -32,6 +41,15 @@
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_30/zAQJp_1667809366190zV5ku_JPEG/1667809366152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -87,6 +105,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
@@ -101,6 +128,15 @@
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_30/zAQJp_1667809366190zV5ku_JPEG/1667809366152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -500,12 +536,30 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
             <pubDate>Wed, 16 Nov 2022 18:46:59 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221108_124/Fsn8U_1667869906025IxslE_JPEG/1667869906000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -624,6 +678,14 @@
         </item>
         <item>
             <title><![CDATA[후원
+										뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/121314</link>
+            <guid>https://tv.naver.com/l/121314</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
 										뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도) (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/119802</link>
             <guid>https://tv.naver.com/l/119802</guid>
@@ -636,6 +698,14 @@
             <guid>https://tv.naver.com/l/119737</guid>
             <pubDate>Wed, 16 Nov 2022 18:47:33 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/121315</link>
+            <guid>https://tv.naver.com/l/121315</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

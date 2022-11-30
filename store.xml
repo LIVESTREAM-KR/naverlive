@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 03:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 04:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,12 +18,30 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
             <pubDate>Wed, 16 Nov 2022 18:47:22 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221108_124/Fsn8U_1667869906025IxslE_JPEG/1667869906000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
