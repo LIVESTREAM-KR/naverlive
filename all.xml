@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 04:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 05:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,7 +108,7 @@
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 04:46:25 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
         </item>
@@ -134,7 +134,7 @@
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 04:46:25 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
@@ -164,6 +164,42 @@
             <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Wed, 23 Nov 2022 06:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한예종 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gongzindan</link>
+            <guid>https://tv.naver.com/gongzindan</guid>
+            <pubDate>Wed, 23 Nov 2022 02:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">전통공연예술진흥재단TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -272,42 +308,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Wed, 23 Nov 2022 02:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Wed, 23 Nov 2022 06:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -539,7 +539,7 @@
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_86/yevbx_1669682883954MH8EA_JPEG/1669682883946.jpg" length="0" type="image/jpg"/>
         </item>
@@ -557,7 +557,7 @@
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
             <content:encoded><![CDATA[12월 11일(일) 12:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_153/45Tnh_1669683010932Htvjy_JPEG/1669683010919.jpg" length="0" type="image/jpg"/>
         </item>
