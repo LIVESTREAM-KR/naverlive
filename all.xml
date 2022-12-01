@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 02:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 24 Nov 2022 02:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -352,24 +388,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_177/rJlum_1645609494393jsa00_JPEG/1645609494380.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/hanamartcent</link>
             <guid>https://tv.naver.com/hanamartcent</guid>
@@ -494,24 +512,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 24 Nov 2022 02:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
