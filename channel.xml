@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강남문화재단]]></title>
+            <link>https://tv.naver.com/gfac</link>
+            <guid>https://tv.naver.com/gfac</guid>
+            <pubDate>Thu, 01 Dec 2022 03:53:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV]]></title>
             <link>https://tv.naver.com/assitejkorea</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세일음악문화재단]]></title>
-            <link>https://tv.naver.com/seilmcf</link>
-            <guid>https://tv.naver.com/seilmcf</guid>
-            <pubDate>Tue, 22 Nov 2022 06:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seilmcf" onclick="nclk(this, 'channel.img', 'seilmcf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210720_141/aA994_16267610942629A99t_PNG/1626761094242.png" alt="세일음악문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">세일음악문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_141/aA994_16267610942629A99t_PNG/1626761094242.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
