@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-02T04:43:46.882Z</updated>
+    <updated>2022-12-02T05:39:05.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -46,19 +46,27 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										댄스 콘서트 <희노애락: THE ROAD> 네이버 후원 라이브]]></title>
-        <id>https://tv.naver.com/l/119996</id>
-        <link href="https://tv.naver.com/l/119996"/>
-        <updated>2022-11-16T18:47:33.664Z</updated>
-        <content type="html"><![CDATA[12월 12일(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
 										뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
         <id>https://tv.naver.com/l/120927</id>
         <link href="https://tv.naver.com/l/120927"/>
         <updated>2022-11-29T08:45:10.992Z</updated>
         <content type="html"><![CDATA[12월 19일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <번지점프를 하다> 후원 라이브_12/21 (수) 20:00]]></title>
+        <id>https://tv.naver.com/l/121544</id>
+        <link href="https://tv.naver.com/l/121544"/>
+        <updated>2022-12-02T05:39:04.492Z</updated>
+        <content type="html"><![CDATA[12월 21일(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00]]></title>
+        <id>https://tv.naver.com/l/121545</id>
+        <link href="https://tv.naver.com/l/121545"/>
+        <updated>2022-12-02T05:39:04.493Z</updated>
+        <content type="html"><![CDATA[12월 22일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
