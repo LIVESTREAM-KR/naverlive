@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-04T07:38:26.363Z</updated>
+    <updated>2022-12-04T08:42:02.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -43,12 +43,33 @@
         <content type="html"><![CDATA[12월 09일(금) 19:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <리골레토>]]></title>
+        <id>https://tv.naver.com/l/120062</id>
+        <link href="https://tv.naver.com/l/120062"/>
+        <updated>2022-12-04T08:42:01.958Z</updated>
+        <content type="html"><![CDATA[12월 10일(토) 17:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00]]></title>
         <id>https://tv.naver.com/l/121315</id>
         <link href="https://tv.naver.com/l/121315"/>
         <updated>2022-11-30T04:46:49.763Z</updated>
         <content type="html"><![CDATA[12월 11일(일) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔>]]></title>
+        <id>https://tv.naver.com/l/120064</id>
+        <link href="https://tv.naver.com/l/120064"/>
+        <updated>2022-12-04T08:42:01.961Z</updated>
+        <content type="html"><![CDATA[12월 17일(토) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBS창사68주년콘서트 Thank You : 토마스 햄슨 & 윤홍천]]></title>
+        <id>https://tv.naver.com/l/121325</id>
+        <link href="https://tv.naver.com/l/121325"/>
+        <updated>2022-12-04T08:42:01.962Z</updated>
+        <content type="html"><![CDATA[12월 19일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
@@ -73,6 +94,22 @@
         <link href="https://tv.naver.com/l/121545"/>
         <updated>2022-12-02T05:39:04.493Z</updated>
         <content type="html"><![CDATA[12월 22일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										Happy Opera Day ③ 국립오페라단 오페라 <라 트라비아타>]]></title>
+        <id>https://tv.naver.com/l/120065</id>
+        <link href="https://tv.naver.com/l/120065"/>
+        <updated>2022-12-04T08:42:01.968Z</updated>
+        <content type="html"><![CDATA[12월 24일(토) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										Happy Opera Day ④ 국립오페라단 오페라 <라 보엠>]]></title>
+        <id>https://tv.naver.com/l/120066</id>
+        <link href="https://tv.naver.com/l/120066"/>
+        <updated>2022-12-04T08:42:01.969Z</updated>
+        <content type="html"><![CDATA[12월 25일(일) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
