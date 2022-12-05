@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-05T10:41:49.342Z</updated>
+    <updated>2022-12-05T11:39:06.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <클래스> ver.무자막]]></title>
-        <id>https://tv.naver.com/v/31237630</id>
-        <link href="https://tv.naver.com/v/31237630"/>
-        <updated>2022-12-04T02:05:33.895Z</updated>
-        <content type="html"><![CDATA[12월 04일(일) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <클래스> 전막 중계 ver.한글자막]]></title>
-        <id>https://tv.naver.com/v/31238128</id>
-        <link href="https://tv.naver.com/v/31238128"/>
-        <updated>2022-12-04T02:05:33.897Z</updated>
-        <content type="html"><![CDATA[12월 04일(일) 11:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <번지점프를 하다> 후원 라이브_12/5 (월) 20:00]]></title>
