@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 02:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 03:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,42 @@
             <pubDate>Wed, 30 Nov 2022 06:45:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_199/K0f9i_1669188250297WnnK6_JPEG/1669188250264.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Mon, 05 Dec 2022 03:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -530,42 +566,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG아트센터 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/lgarts</link>
-            <guid>https://tv.naver.com/lgarts</guid>
-            <pubDate>Wed, 30 Nov 2022 09:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/lgarts" onclick="nclk(this, 'channel.img', 'lgarts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" alt="LG아트센터 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">LG아트센터</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
