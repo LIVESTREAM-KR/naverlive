@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_199/K0f9i_1669188250297WnnK6_JPEG/1669188250264.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/gongzindan</link>
             <guid>https://tv.naver.com/gongzindan</guid>
@@ -332,24 +350,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
