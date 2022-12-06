@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ HOT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 23:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 02:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,15 @@
             <pubDate>Sun, 04 Dec 2022 08:41:37 GMT</pubDate>
             <content:encoded><![CDATA[12월 17일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_171/1670142678020aAtYE_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											마이클 리&라민 카림루 콘서트 온라인 중계]]></title>
+            <link>https://tv.naver.com/l/121682</link>
+            <guid>https://tv.naver.com/l/121682</guid>
+            <pubDate>Tue, 06 Dec 2022 02:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_54/UiBz9_1670291674052Q5Xvv_JPEG/1670291674039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CBS창사68주년콘서트 Thank You : 토마스 햄슨 & 윤홍천]]></title>
@@ -83,15 +92,6 @@
             <pubDate>Mon, 05 Dec 2022 15:41:25 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											Happy Opera Day ④ 국립오페라단 오페라 <라 보엠>]]></title>
-            <link>https://tv.naver.com/l/120066</link>
-            <guid>https://tv.naver.com/l/120066</guid>
-            <pubDate>Mon, 05 Dec 2022 17:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(일) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_208/1670142866195U5Pcg_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

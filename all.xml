@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 23:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 02:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,15 @@
             <pubDate>Sun, 04 Dec 2022 08:41:26 GMT</pubDate>
             <content:encoded><![CDATA[12월 17일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_171/1670142678020aAtYE_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											마이클 리&라민 카림루 콘서트 온라인 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/121682</link>
+            <guid>https://tv.naver.com/l/121682</guid>
+            <pubDate>Tue, 06 Dec 2022 02:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_54/UiBz9_1670291674052Q5Xvv_JPEG/1670291674039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CBS창사68주년콘서트 Thank You : 토마스 햄슨 & 윤홍천 (네이버 공연 live beta)]]></title>
@@ -83,15 +92,6 @@
             <pubDate>Sun, 04 Dec 2022 08:41:50 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											Happy Opera Day ④ 국립오페라단 오페라 <라 보엠> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/120066</link>
-            <guid>https://tv.naver.com/l/120066</guid>
-            <pubDate>Sun, 04 Dec 2022 08:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(일) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_208/1670142866195U5Pcg_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <개와 고양이의 시간>그날 서로를 알아본 건 검은 고양이와 검은 개 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -143,6 +143,15 @@
             <enclosure url="https://g-grafolio.pstatic.net/20221204_171/1670142678020aAtYE_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											마이클 리&라민 카림루 콘서트 온라인 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/121682</link>
+            <guid>https://tv.naver.com/l/121682</guid>
+            <pubDate>Tue, 06 Dec 2022 02:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_54/UiBz9_1670291674052Q5Xvv_JPEG/1670291674039.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CBS창사68주년콘서트 Thank You : 토마스 햄슨 & 윤홍천 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://blog.naver.com/art_cbs/222943187214</link>
             <guid>https://blog.naver.com/art_cbs/222943187214</guid>
@@ -185,15 +194,6 @@
             <pubDate>Sun, 04 Dec 2022 08:41:50 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											Happy Opera Day ④ 국립오페라단 오페라 <라 보엠> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/120066</link>
-            <guid>https://tv.naver.com/l/120066</guid>
-            <pubDate>Sun, 04 Dec 2022 08:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[12월 25일(일) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_208/1670142866195U5Pcg_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -320,6 +320,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블루스테이지 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/bluestages</link>
+            <guid>https://tv.naver.com/bluestages</guid>
+            <pubDate>Tue, 06 Dec 2022 02:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/bluestages" onclick="nclk(this, 'channel.img', 'bluestages', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221130_80/0X6KB_1669778310266hkkQO_JPEG/1669778310238.jpg" alt="블루스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">블루스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_80/0X6KB_1669778310266hkkQO_JPEG/1669778310238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -538,24 +556,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_175/BQed6_1658482908057PejTJ_JPEG/1658482908039.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Thu, 01 Dec 2022 03:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
@@ -726,6 +726,14 @@
             <guid>https://tv.naver.com/l/120064</guid>
             <pubDate>Sun, 04 Dec 2022 08:41:26 GMT</pubDate>
             <content:encoded><![CDATA[12월 17일(토) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										마이클 리&라민 카림루 콘서트 온라인 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/121682</link>
+            <guid>https://tv.naver.com/l/121682</guid>
+            <pubDate>Tue, 06 Dec 2022 02:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CBS창사68주년콘서트 Thank You : 토마스 햄슨 & 윤홍천 (네이버 공연 live beta ─ 전체일정)]]></title>
