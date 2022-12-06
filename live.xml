@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 02:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 02:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,9 +87,9 @@
         <item>
             <title><![CDATA[후원
 											Happy Opera Day ③ 국립오페라단 오페라 <라 트라비아타>]]></title>
-            <link>https://tv.naver.com/l/120065</link>
-            <guid>https://tv.naver.com/l/120065</guid>
-            <pubDate>Mon, 05 Dec 2022 15:41:13 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
