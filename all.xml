@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 14:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 15:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,24 @@
             <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연예술 창작산실 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arkocreate</link>
+            <guid>https://tv.naver.com/arkocreate</guid>
+            <pubDate>Wed, 07 Dec 2022 15:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221101_37/7XdyX_1667293479175mPP86_PNG/1667293479164.png" alt="공연예술 창작산실 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연예술 창작산실</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221101_37/7XdyX_1667293479175mPP86_PNG/1667293479164.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -536,24 +554,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나인스토리 TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/ninestory</link>
-            <guid>https://tv.naver.com/ninestory</guid>
-            <pubDate>Wed, 30 Nov 2022 09:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/ninestory" onclick="nclk(this, 'channel.img', 'ninestory', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" alt="나인스토리 TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">나인스토리 TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
