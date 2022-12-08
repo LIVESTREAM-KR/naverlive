@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-08T11:39:05.168Z</updated>
+    <updated>2022-12-08T13:00:40.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -59,11 +59,27 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <미아 파밀리아> 온라인 스트리밍]]></title>
+        <id>https://tv.naver.com/l/121854</id>
+        <link href="https://tv.naver.com/l/121854"/>
+        <updated>2022-12-08T13:00:40.347Z</updated>
+        <content type="html"><![CDATA[12월 20일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <번지점프를 하다> 후원 라이브_12/21 (수) 20:00]]></title>
         <id>https://tv.naver.com/l/121544</id>
         <link href="https://tv.naver.com/l/121544"/>
         <updated>2022-12-02T05:39:04.492Z</updated>
         <content type="html"><![CDATA[12월 21일(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										연극 <인어;바다를 부른 여인> 온라인 스트리밍]]></title>
+        <id>https://tv.naver.com/l/121856</id>
+        <link href="https://tv.naver.com/l/121856"/>
+        <updated>2022-12-08T13:00:40.349Z</updated>
+        <content type="html"><![CDATA[12월 22일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
