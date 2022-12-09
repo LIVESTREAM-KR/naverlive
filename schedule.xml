@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-09T06:44:14.021Z</updated>
+    <updated>2022-12-09T07:38:57.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -33,6 +33,14 @@
         <link href="https://tv.naver.com/l/120064"/>
         <updated>2022-12-04T08:42:01.961Z</updated>
         <content type="html"><![CDATA[12월 17일(토) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <트레이스 유> : 김경수, 박규원]]></title>
+        <id>https://tv.naver.com/l/121364</id>
+        <link href="https://tv.naver.com/l/121364"/>
+        <updated>2022-12-09T07:38:57.241Z</updated>
+        <content type="html"><![CDATA[12월 18일(일) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
@@ -107,10 +115,42 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <트레이스 유> : 이율, 이해준]]></title>
+        <id>https://tv.naver.com/l/121365</id>
+        <link href="https://tv.naver.com/l/121365"/>
+        <updated>2022-12-09T07:38:57.255Z</updated>
+        <content type="html"><![CDATA[12월 25일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <개와 고양이의 시간> 녹화중계]]></title>
         <id>https://tv.naver.com/l/120928</id>
         <link href="https://tv.naver.com/l/120928"/>
         <updated>2022-11-29T08:45:10.995Z</updated>
         <content type="html"><![CDATA[12월 26일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <트레이스 유> 김종구, 강상준:]]></title>
+        <id>https://tv.naver.com/l/121366</id>
+        <link href="https://tv.naver.com/l/121366"/>
+        <updated>2022-12-09T07:38:57.257Z</updated>
+        <content type="html"><![CDATA[01월 02일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <트레이스 유> : 김경수, 이해준]]></title>
+        <id>https://tv.naver.com/l/121369</id>
+        <link href="https://tv.naver.com/l/121369"/>
+        <updated>2022-12-09T07:38:57.258Z</updated>
+        <content type="html"><![CDATA[01월 08일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <트레이스 유> : 이율, 박규원]]></title>
+        <id>https://tv.naver.com/l/121769</id>
+        <link href="https://tv.naver.com/l/121769"/>
+        <updated>2022-12-09T07:38:57.259Z</updated>
+        <content type="html"><![CDATA[01월 09일(월) 20:00]]></content>
     </entry>
 </feed>
