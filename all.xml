@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 10:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 11:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <리골레토> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/120062</link>
-            <guid>https://tv.naver.com/l/120062</guid>
-            <pubDate>Sun, 04 Dec 2022 08:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일(토) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_183/1670142557430j5uMp_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00 (네이버 공연 live beta)]]></title>
@@ -95,6 +87,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <미아 파밀리아> 온라인 스트리밍뉴욕의 깊은 밤, 외로운 발길이 향하는 곳 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -133,14 +134,6 @@
             <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[12/24일, 12/25일 오후 5시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221208_231/1670430011018NH7O5_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <리골레토> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/120062</link>
-            <guid>https://tv.naver.com/l/120062</guid>
-            <pubDate>Sun, 04 Dec 2022 08:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일(토) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_183/1670142557430j5uMp_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -220,6 +213,15 @@
             <pubDate>Thu, 08 Dec 2022 13:00:07 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -750,13 +752,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <리골레토> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/120062</link>
-            <guid>https://tv.naver.com/l/120062</guid>
-            <pubDate>Sun, 04 Dec 2022 08:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[12월 10일(토) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

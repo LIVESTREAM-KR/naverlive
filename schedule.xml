@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-10T10:39:36.396Z</updated>
+    <updated>2022-12-10T11:38:58.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <리골레토>]]></title>
-        <id>https://tv.naver.com/l/120062</id>
-        <link href="https://tv.naver.com/l/120062"/>
-        <updated>2022-12-04T08:42:01.958Z</updated>
-        <content type="html"><![CDATA[12월 10일(토) 17:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <번지점프를 하다> 후원 라이브_12/11 (일) 12:00]]></title>
