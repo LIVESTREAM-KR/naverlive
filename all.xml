@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 10:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 11:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20221208_210/1670500628951qTbpP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[12/18, 12/15, 1/2, 1/8, 1/9일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <인어;바다를 부른 여인>어른을 위한 현대판 잔혹 동화 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 07 Dec 2022 16:49:37 GMT</pubDate>
             <content:encoded><![CDATA[12/19(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221208_61/1670429690148CHCm3_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <해피 오페라 데이> 라 트라비아타 / 라보엠 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
-            <content:encoded><![CDATA[12/24일, 12/25일 오후 5시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221208_231/1670430011018NH7O5_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔> (네이버 공연 live beta ─ HOT)]]></title>
@@ -222,6 +222,24 @@
             <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/theater</link>
+            <guid>https://tv.naver.com/theater</guid>
+            <pubDate>Sun, 11 Dec 2022 11:38:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">네이버 공연</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[나인스토리 TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,24 +582,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루스테이지 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/bluestages</link>
-            <guid>https://tv.naver.com/bluestages</guid>
-            <pubDate>Tue, 06 Dec 2022 02:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/bluestages" onclick="nclk(this, 'channel.img', 'bluestages', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221130_80/0X6KB_1669778310266hkkQO_JPEG/1669778310238.jpg" alt="블루스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">블루스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_80/0X6KB_1669778310266hkkQO_JPEG/1669778310238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
