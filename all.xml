@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 09:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 10:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(토) 17:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221204_132/1670142781093Sl9Py_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artsnartists</link>
+            <guid>https://tv.naver.com/artsnartists</guid>
+            <pubDate>Wed, 07 Dec 2022 11:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트앤아티스트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -528,24 +546,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artsnartists</link>
-            <guid>https://tv.naver.com/artsnartists</guid>
-            <pubDate>Wed, 07 Dec 2022 11:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트앤아티스트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[웰컴 대학로 (네이버 공연 live beta ─ 채널)]]></title>
