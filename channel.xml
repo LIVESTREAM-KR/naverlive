@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 13:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 14:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200403_195/dND5b_1585892018810nznH5_JPEG/1585892018787.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ACOM MUSICAL]]></title>
+            <link>https://tv.naver.com/acomtv</link>
+            <guid>https://tv.naver.com/acomtv</guid>
+            <pubDate>Wed, 14 Dec 2022 14:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/acomtv" onclick="nclk(this, 'channel.img', 'acomtv', '');" class="lnk-channel">
+									
+									<div class="img-mask">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" alt="ACOM MUSICAL 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">ACOM MUSICAL</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웰컴 대학로]]></title>
             <link>https://tv.naver.com/welcomedaehakro</link>
             <guid>https://tv.naver.com/welcomedaehakro</guid>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일음악문화재단]]></title>
-            <link>https://tv.naver.com/seilmcf</link>
-            <guid>https://tv.naver.com/seilmcf</guid>
-            <pubDate>Tue, 06 Dec 2022 03:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seilmcf" onclick="nclk(this, 'channel.img', 'seilmcf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210720_141/aA994_16267610942629A99t_PNG/1626761094242.png" alt="세일음악문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">세일음악문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210720_141/aA994_16267610942629A99t_PNG/1626761094242.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
