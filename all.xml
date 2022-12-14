@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 14:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 15:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,7 +155,7 @@
             <title><![CDATA[뮤지컬 <영웅> 시츠프로브 최초 공개! (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/122287</link>
             <guid>https://tv.naver.com/l/122287</guid>
-            <pubDate>Wed, 14 Dec 2022 14:39:04 GMT</pubDate>
+            <pubDate>Wed, 14 Dec 2022 14:38:52 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_251/2ZB9Y_16710032493084CSOD_JPEG/1671003249259.jpg" length="0" type="image/jpg"/>
         </item>
@@ -770,7 +770,7 @@
             <title><![CDATA[뮤지컬 <영웅> 시츠프로브 최초 공개! (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/122287</link>
             <guid>https://tv.naver.com/l/122287</guid>
-            <pubDate>Wed, 14 Dec 2022 14:39:27 GMT</pubDate>
+            <pubDate>Wed, 14 Dec 2022 14:38:52 GMT</pubDate>
             <content:encoded><![CDATA[12월 19일(월) 19:00]]></content:encoded>
         </item>
         <item>
