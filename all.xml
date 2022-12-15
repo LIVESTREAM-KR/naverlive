@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 23:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_무등호락 062 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/121927</link>
+            <guid>https://tv.naver.com/l/121927</guid>
+            <pubDate>Thu, 15 Dec 2022 02:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(금) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_220/bFCLc_1670493969329SCQP5_PNG/1670493969296.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/120064</link>
@@ -77,22 +85,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_91/qAGxs_1669943496196MXUq7_JPEG/1669943496188.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											연극 <인어;바다를 부른 여인> 온라인 스트리밍 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_오리진 얼라이브 053 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/121928</link>
+            <guid>https://tv.naver.com/l/121928</guid>
+            <pubDate>Thu, 15 Dec 2022 02:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_264/3jmtw_1670493973660nxEQI_PNG/1670493973650.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미아 파밀리아> 온라인 스트리밍뉴욕의 깊은 밤, 외로운 발길이 향하는 곳 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -133,6 +131,14 @@
             <pubDate>Wed, 07 Dec 2022 16:49:37 GMT</pubDate>
             <content:encoded><![CDATA[12/19(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221208_61/1670429690148CHCm3_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_무등호락 062 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/121927</link>
+            <guid>https://tv.naver.com/l/121927</guid>
+            <pubDate>Thu, 15 Dec 2022 02:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(금) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_220/bFCLc_1670493969329SCQP5_PNG/1670493969296.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔> (네이버 공연 live beta ─ HOT)]]></title>
@@ -204,22 +210,66 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_91/qAGxs_1669943496196MXUq7_JPEG/1669943496188.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											연극 <인어;바다를 부른 여인> 온라인 스트리밍 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_오리진 얼라이브 053 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/121928</link>
+            <guid>https://tv.naver.com/l/121928</guid>
+            <pubDate>Thu, 15 Dec 2022 02:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_264/3jmtw_1670493973660nxEQI_PNG/1670493973650.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 04:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/onstage</link>
+            <guid>https://tv.naver.com/onstage</guid>
+            <pubDate>Thu, 24 Nov 2022 02:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">온스테이지</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/museumofkorea</link>
+            <guid>https://tv.naver.com/museumofkorea</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립중앙박물관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -276,24 +326,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/gugak1951</link>
             <guid>https://tv.naver.com/gugak1951</guid>
@@ -328,24 +360,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/museumofkorea</link>
-            <guid>https://tv.naver.com/museumofkorea</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/museumofkorea" onclick="nclk(this, 'channel.img', 'museumofkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" alt="국립중앙박물관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립중앙박물관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -490,24 +504,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_4/NmLeN_1646022233589QBMrT_PNG/1646022233574.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 24 Nov 2022 02:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[광주시문화재단 | 남한산성아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -752,6 +748,13 @@
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_무등호락 062 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/121927</link>
+            <guid>https://tv.naver.com/l/121927</guid>
+            <pubDate>Thu, 15 Dec 2022 02:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(금) 19:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/120064</link>
             <guid>https://tv.naver.com/l/120064</guid>
@@ -813,6 +816,13 @@
             <content:encoded><![CDATA[12월 21일(수) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_오리진 얼라이브 053 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/121928</link>
+            <guid>https://tv.naver.com/l/121928</guid>
+            <pubDate>Thu, 15 Dec 2022 02:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 19:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[후원
 										연극 <인어;바다를 부른 여인> 온라인 스트리밍 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/121856</link>
@@ -859,6 +869,13 @@
             <guid>https://tv.naver.com/l/120928</guid>
             <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/121929</link>
+            <guid>https://tv.naver.com/l/121929</guid>
+            <pubDate>Thu, 15 Dec 2022 02:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일(금) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
