@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 01:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 02:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -869,6 +869,14 @@
             <guid>https://tv.naver.com/l/120928</guid>
             <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										[후원전용]뮤지컬 <스페셜 딜리버리> 온라인 스트리밍 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/122234</link>
+            <guid>https://tv.naver.com/l/122234</guid>
+            <pubDate>Fri, 16 Dec 2022 02:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[12월 29일(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032 (네이버 공연 live beta ─ 전체일정)]]></title>
