@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-17T10:39:03.878Z</updated>
+    <updated>2022-12-17T11:39:08.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔>]]></title>
-        <id>https://tv.naver.com/l/120064</id>
-        <link href="https://tv.naver.com/l/120064"/>
-        <updated>2022-12-04T08:42:01.961Z</updated>
-        <content type="html"><![CDATA[12월 17일(토) 17:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <트레이스 유> : 김경수, 박규원]]></title>
