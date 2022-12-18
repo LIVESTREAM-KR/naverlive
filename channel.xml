@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 22:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 23:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PAGE1]]></title>
+            <link>https://tv.naver.com/page1</link>
+            <guid>https://tv.naver.com/page1</guid>
+            <pubDate>Sun, 18 Dec 2022 23:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/page1" onclick="nclk(this, 'channel.img', 'page1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" alt="PAGE1 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">PAGE1</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210304_192/9E9Vr_16148266997729ocD9_JPEG/1614826699751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립중앙박물관]]></title>
             <link>https://tv.naver.com/museumofkorea</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴 대학로]]></title>
-            <link>https://tv.naver.com/welcomedaehakro</link>
-            <guid>https://tv.naver.com/welcomedaehakro</guid>
-            <pubDate>Tue, 06 Dec 2022 07:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" alt="웰컴 대학로 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">웰컴 대학로</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_129/i8ufO_1658923132717dwGvp_JPEG/1658923132688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
