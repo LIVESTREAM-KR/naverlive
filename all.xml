@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 05:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 06:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,7 +480,7 @@
             <pubDate>Sun, 11 Dec 2022 06:43:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/ninestory" onclick="nclk(this, 'channel.img', 'ninestory', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210128_133/6jUvj_1611824146814UwqnC_JPEG/1611824146801.jpg" alt="나인스토리 TV 이미지">
 										</div>
