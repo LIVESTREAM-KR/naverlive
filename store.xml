@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 14:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 15:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 온라인 스트리밍]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_236/SWiz9_1670478938745vOFB7_JPEG/1670478938724.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/21 (수) 20:00]]></title>
@@ -96,6 +87,15 @@
             <pubDate>Fri, 09 Dec 2022 07:38:47 GMT</pubDate>
             <content:encoded><![CDATA[01월 02일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_263/sEQ3h_16697238375097R4Gp_JPEG/1669723837467.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 김경수, 이해준]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Fri, 09 Dec 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[01월 08일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_125/8juMl_1669723922193ESwsU_JPEG/1669723922171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

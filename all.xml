@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 14:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 15:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 온라인 스트리밍 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_236/SWiz9_1670478938745vOFB7_JPEG/1670478938724.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/21 (수) 20:00 (네이버 공연 live beta)]]></title>
@@ -97,6 +88,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/122572</link>
+            <guid>https://tv.naver.com/l/122572</guid>
+            <pubDate>Mon, 19 Dec 2022 01:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[12월 27일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_121/QJi7s_1671413143041yWrUb_JPEG/1671413143024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -135,15 +134,6 @@
             <pubDate>Tue, 06 Dec 2022 02:57:51 GMT</pubDate>
             <content:encoded><![CDATA[12/24일, 12/25일 오후 5시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221208_231/1670430011018NH7O5_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 온라인 스트리밍 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_236/SWiz9_1670478938745vOFB7_JPEG/1670478938724.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -224,6 +214,14 @@
             <pubDate>Wed, 30 Nov 2022 06:45:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/122572</link>
+            <guid>https://tv.naver.com/l/122572</guid>
+            <pubDate>Mon, 19 Dec 2022 01:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[12월 27일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_121/QJi7s_1671413143041yWrUb_JPEG/1671413143024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -587,15 +585,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 온라인 스트리밍 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:07 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_236/SWiz9_1670478938745vOFB7_JPEG/1670478938724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <번지점프를 하다> 후원 라이브_12/21 (수) 20:00 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
             <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
@@ -676,6 +665,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_263/sEQ3h_16697238375097R4Gp_JPEG/1669723837467.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 김경수, 이해준 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[01월 08일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_125/8juMl_1669723922193ESwsU_JPEG/1669723922171.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 '클래스' 온라인 공연 예고 (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://tv.naver.com/v/30982457</link>
             <guid>https://tv.naver.com/v/30982457</guid>
@@ -754,14 +752,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <미아 파밀리아> 온라인 스트리밍 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/121854</link>
-            <guid>https://tv.naver.com/l/121854</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 20일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
