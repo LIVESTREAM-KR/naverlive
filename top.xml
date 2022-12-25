@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 08:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 09:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://g-grafolio.pstatic.net/20221130_277/1669787782736Dpnox_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <해피 오페라 데이> 라 트라비아타 / 라보엠]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 20 Dec 2022 13:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[12/24일, 12/25일 오후 5시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221208_231/1670430011018NH7O5_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home”]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
             <pubDate>Thu, 08 Dec 2022 13:00:12 GMT</pubDate>
             <content:encoded><![CDATA[12/29(목) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221219_177/16714130344101GMJ9_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Sun, 11 Dec 2022 11:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[12/18, 12/15, 1/2, 1/8, 1/9일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
