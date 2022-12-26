@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 06:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 07:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -137,7 +137,7 @@
             <title><![CDATA[무용 <물속 골리앗> 온라인 스트리밍 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/122294</link>
             <guid>https://tv.naver.com/l/122294</guid>
-            <pubDate>Mon, 26 Dec 2022 06:42:04 GMT</pubDate>
+            <pubDate>Mon, 26 Dec 2022 06:41:53 GMT</pubDate>
             <content:encoded><![CDATA[12월 27일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_255/qvTKQ_1671008223594cM2TD_JPEG/1671008223559.jpg" length="0" type="image/jpg"/>
         </item>
@@ -186,24 +186,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Mon, 26 Dec 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국립중앙박물관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/museumofkorea</link>
             <guid>https://tv.naver.com/museumofkorea</guid>
@@ -220,6 +202,42 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200408_231/P8YC2_1586306785459qIyGF_JPEG/1586306785437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아떼오드 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/ateod</link>
+            <guid>https://tv.naver.com/ateod</guid>
+            <pubDate>Mon, 26 Dec 2022 07:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/ateod" onclick="nclk(this, 'channel.img', 'ateod', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220313_61/4PF4U_1647161720333ix1Vo_JPEG/1647161720306.jpg" alt="아떼오드 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아떼오드</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_61/4PF4U_1647161720333ix1Vo_JPEG/1647161720306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Mon, 26 Dec 2022 06:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -528,24 +546,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타씨어터 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/metatheater</link>
-            <guid>https://tv.naver.com/metatheater</guid>
-            <pubDate>Tue, 13 Dec 2022 05:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/metatheater" onclick="nclk(this, 'channel.img', 'metatheater', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220920_43/VOZIG_1663658747289EPl2X_JPEG/1663658747274.jpg" alt="메타씨어터 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">메타씨어터</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_43/VOZIG_1663658747289EPl2X_JPEG/1663658747274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
@@ -689,7 +689,7 @@
             <title><![CDATA[무용 <물속 골리앗> 온라인 스트리밍 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/122294</link>
             <guid>https://tv.naver.com/l/122294</guid>
-            <pubDate>Mon, 26 Dec 2022 06:42:27 GMT</pubDate>
+            <pubDate>Mon, 26 Dec 2022 06:41:53 GMT</pubDate>
             <content:encoded><![CDATA[12월 27일(화) 20:00]]></content:encoded>
         </item>
         <item>
