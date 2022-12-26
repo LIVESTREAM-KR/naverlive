@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 14:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 15:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Wed, 30 Nov 2022 06:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/122572</link>
@@ -107,15 +98,6 @@
             <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[12/18, 12/15, 1/2, 1/8, 1/9일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Wed, 30 Nov 2022 06:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta ─ HOT)]]></title>
@@ -539,15 +521,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Wed, 30 Nov 2022 06:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											[후원전용]뮤지컬 <스페셜 딜리버리> 온라인 스트리밍 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -661,14 +634,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/120928</link>
-            <guid>https://tv.naver.com/l/120928</guid>
-            <pubDate>Tue, 29 Nov 2022 08:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연 live beta ─ 전체일정)]]></title>
