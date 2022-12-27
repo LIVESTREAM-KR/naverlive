@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-27T11:38:41.578Z</updated>
+    <updated>2022-12-27T12:56:12.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://shoppinglive.naver.com/lives/786839"/>
         <updated>2022-12-27T05:38:49.409Z</updated>
         <content type="html"><![CDATA[12월 27일(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>']]></title>
-        <id>https://tv.naver.com/l/122572</id>
-        <link href="https://tv.naver.com/l/122572"/>
-        <updated>2022-12-19T01:53:16.530Z</updated>
-        <content type="html"><![CDATA[12월 27일(화) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무용 <물속 골리앗> 온라인 스트리밍]]></title>
-        <id>https://tv.naver.com/l/122294</id>
-        <link href="https://tv.naver.com/l/122294"/>
-        <updated>2022-12-26T06:42:27.431Z</updated>
-        <content type="html"><![CDATA[12월 27일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한중 문화교류의 해 폐막 행사 - 양방언, 선우예권, 랑랑]]></title>
