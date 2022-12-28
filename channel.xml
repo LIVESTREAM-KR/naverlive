@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 03:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 04:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,7 +212,7 @@
             <pubDate>Mon, 19 Dec 2022 02:49:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/acomtv" onclick="nclk(this, 'channel.img', 'acomtv', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" alt="ACOM MUSICAL 이미지">
 										</div>
