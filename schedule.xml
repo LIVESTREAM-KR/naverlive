@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2022-12-29T08:41:07.755Z</updated>
+    <updated>2022-12-29T09:39:29.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -43,5 +43,12 @@
         <link href="https://tv.naver.com/l/121769"/>
         <updated>2022-12-09T07:38:57.259Z</updated>
         <content type="html"><![CDATA[01월 09일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈]]></title>
+        <id>https://tv.naver.com/l/123132</id>
+        <link href="https://tv.naver.com/l/123132"/>
+        <updated>2022-12-29T09:39:28.512Z</updated>
+        <content type="html"><![CDATA[01월 16일(월) 19:00]]></content>
     </entry>
 </feed>

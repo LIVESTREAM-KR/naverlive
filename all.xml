@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 08:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 09:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,6 +50,14 @@
             <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/123132</link>
+            <guid>https://tv.naver.com/l/123132</guid>
+            <pubDate>Thu, 29 Dec 2022 09:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[01월 16일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_40/pwE9K_1672211725455C204I_JPEG/1672211725447.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <스페셜 딜리버리>“세상을 함께 살아나가는 힘, 우리가 선택한 home, sweet home” (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -128,6 +136,32 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/123132</link>
+            <guid>https://tv.naver.com/l/123132</guid>
+            <pubDate>Thu, 29 Dec 2022 09:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[01월 16일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_40/pwE9K_1672211725455C204I_JPEG/1672211725447.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/arkocreate</link>
             <guid>https://tv.naver.com/arkocreate</guid>
@@ -198,24 +232,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210621_195/7WZ8b_1624282887771ffEGK_PNG/1624282887757.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_180/HvF4a_1632892713287xPbWf_JPEG/1632892713269.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -332,7 +348,7 @@
             <pubDate>Thu, 22 Dec 2022 01:56:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
 										</div>
@@ -641,6 +657,13 @@
             <guid>https://tv.naver.com/l/121769</guid>
             <pubDate>Fri, 09 Dec 2022 07:38:57 GMT</pubDate>
             <content:encoded><![CDATA[01월 09일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/123132</link>
+            <guid>https://tv.naver.com/l/123132</guid>
+            <pubDate>Thu, 29 Dec 2022 09:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[01월 16일(월) 19:00]]></content:encoded>
         </item>
     </channel>
 </rss>
