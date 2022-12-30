@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 11:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 12:55:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/121929</link>
-            <guid>https://tv.naver.com/l/121929</guid>
-            <pubDate>Thu, 15 Dec 2022 02:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일(금) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_287/8XM4w_1670493978585QONgY_PNG/1670493978576.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김종구, 강상준 ver. (네이버 공연 live beta)]]></title>
@@ -101,14 +93,6 @@
             <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[12/18, 12/15, 1/2, 1/8, 1/9일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/121929</link>
-            <guid>https://tv.naver.com/l/121929</guid>
-            <pubDate>Thu, 15 Dec 2022 02:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일(금) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_287/8XM4w_1670493978585QONgY_PNG/1670493978576.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -683,13 +667,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NAVER ONSTAGE 로컬 라이브 보드_RE:BOOT 032 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/121929</link>
-            <guid>https://tv.naver.com/l/121929</guid>
-            <pubDate>Thu, 15 Dec 2022 02:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 30일(금) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
