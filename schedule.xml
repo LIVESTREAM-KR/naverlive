@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-01-02T14:39:02.666Z</updated>
+    <updated>2023-01-02T15:38:55.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <트레이스 유> : 김종구, 강상준 ver.]]></title>
-        <id>https://tv.naver.com/l/121366</id>
-        <link href="https://tv.naver.com/l/121366"/>
-        <updated>2022-12-09T07:38:57.257Z</updated>
-        <content type="html"><![CDATA[01월 02일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2023 신년음악회]]></title>
         <id>https://tv.naver.com/l/123303</id>
