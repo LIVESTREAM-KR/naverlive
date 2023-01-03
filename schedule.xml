@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-01-03T06:42:02.336Z</updated>
+    <updated>2023-01-03T07:38:50.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,22 @@
         <link href="https://tv.naver.com/l/121769"/>
         <updated>2022-12-09T07:38:57.259Z</updated>
         <content type="html"><![CDATA[01월 09일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <용의자 X의 헌신> : 김종구, 오종혁, 안시하]]></title>
+        <id>https://tv.naver.com/l/123196</id>
+        <link href="https://tv.naver.com/l/123196"/>
+        <updated>2023-01-03T07:38:49.380Z</updated>
+        <content type="html"><![CDATA[01월 10일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <용의자 X의 헌신> : 최재웅, 박민성, 안시하]]></title>
+        <id>https://tv.naver.com/l/123197</id>
+        <link href="https://tv.naver.com/l/123197"/>
+        <updated>2023-01-03T07:38:49.382Z</updated>
+        <content type="html"><![CDATA[01월 12일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
