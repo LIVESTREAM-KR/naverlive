@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 07:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 08:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,42 @@
             <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[01월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_174/TxwHR_1670842926437CfXan_JPEG/1670842926398.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Wed, 14 Dec 2022 09:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한예종 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Wed, 11 Jan 2023 08:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -330,7 +366,7 @@
             <pubDate>Mon, 26 Dec 2022 06:42:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
 										</div>
@@ -450,24 +486,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Wed, 14 Dec 2022 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" alt="한예종 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한예종 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180413_85/QFnjh_1523586232462oSlRV_PNG/1523586232445.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[아떼오드 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/ateod</link>
             <guid>https://tv.naver.com/ateod</guid>
@@ -502,24 +520,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광명문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gmcf</link>
-            <guid>https://tv.naver.com/gmcf</guid>
-            <pubDate>Wed, 21 Dec 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gmcf" onclick="nclk(this, 'channel.img', 'gmcf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200417_148/mvfAK_1587102671180CPIyz_JPEG/1587102671158.jpg" alt="광명문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">광명문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200417_148/mvfAK_1587102671180CPIyz_JPEG/1587102671158.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
