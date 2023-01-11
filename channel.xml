@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 02:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,14 @@
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230105_115/pF7Ej_16728838360739VlWH_PNG/1672883836062.png" alt=" 한경 글로벌마켓 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
 										<p class="txt"> 한경 글로벌마켓</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_115/pF7Ej_16728838360739VlWH_PNG/1672883836062.png" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[온스테이지]]></title>
