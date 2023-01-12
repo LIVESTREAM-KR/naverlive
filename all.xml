@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 07:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 08:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[01월 30일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_254/EJpkV_1673485650218BNOTD_JPEG/1673485650183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김종구, 박규원 ver. (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
@@ -78,20 +87,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Tue, 03 Jan 2023 07:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[1/10(화), 1/12(목) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230103_239/1672729901546a3Syw_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 뮤지컬 <트레이스 유> 녹화 중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
-            <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[12/18, 12/15, 1/2, 1/8, 1/9일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 은밀하게 위대하게:THE LAST전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[1/30일, 2/5일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230112_184/1673511395629SOr5y_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -108,6 +109,22 @@
             <pubDate>Fri, 09 Dec 2022 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[12/18, 12/15, 1/2, 1/8, 1/9일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20221211_239/1670755087007Ymxxc_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 은밀하게 위대하게:THE LAST전설적인 5446부대의 귀환! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[1/30일, 2/5일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230112_184/1673511395629SOr5y_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <용의자 X의 헌신>가장 아름다운 해답을 가진 가장 완벽한 살인공식 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Tue, 03 Jan 2023 07:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[1/10(화), 1/12(목) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230103_239/1672729901546a3Syw_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -163,6 +180,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[01월 30일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_254/EJpkV_1673485650218BNOTD_JPEG/1673485650183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김종구, 박규원 ver. (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
@@ -175,7 +201,7 @@
 											뮤지컬 <은밀하게 위대하게:THE LAST> 2/5 오후 7시 30분 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Thu, 12 Jan 2023 07:38:32 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
             <content:encoded><![CDATA[02월 05일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
         </item>
@@ -577,6 +603,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
+            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[01월 30일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_254/EJpkV_1673485650218BNOTD_JPEG/1673485650183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김종구, 박규원 ver. (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
             <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
@@ -589,7 +624,7 @@
 											뮤지컬 <은밀하게 위대하게:THE LAST> 2/5 오후 7시 30분 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Thu, 12 Jan 2023 07:38:43 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 07:38:21 GMT</pubDate>
             <content:encoded><![CDATA[02월 05일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
         </item>
@@ -718,6 +753,14 @@
             <guid>https://tv.naver.com/l/122135</guid>
             <pubDate>Fri, 30 Dec 2022 06:42:23 GMT</pubDate>
             <content:encoded><![CDATA[01월 23일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/124044</link>
+            <guid>https://tv.naver.com/l/124044</guid>
+            <pubDate>Thu, 12 Jan 2023 08:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[01월 30일(월) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
