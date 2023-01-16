@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-01-16T11:39:11.540Z</updated>
+    <updated>2023-01-16T13:01:35.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[NOW] 대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈]]></title>
-        <id>https://now.naver.com/l/1741529</id>
-        <link href="https://now.naver.com/l/1741529"/>
-        <updated>2023-01-08T16:45:19.938Z</updated>
-        <content type="html"><![CDATA[01월 16일(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국뮤지컬페스티벌 - 제7회 한국뮤지컬어워즈]]></title>
-        <id>https://tv.naver.com/l/123132</id>
-        <link href="https://tv.naver.com/l/123132"/>
-        <updated>2022-12-29T09:39:28.512Z</updated>
-        <content type="html"><![CDATA[01월 16일(월) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <트레이스 유> : 김경수, 박규원 ver.]]></title>
