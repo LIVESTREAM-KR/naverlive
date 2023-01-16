@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 02:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 03:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -468,24 +468,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타씨어터 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/metatheater</link>
-            <guid>https://tv.naver.com/metatheater</guid>
-            <pubDate>Mon, 02 Jan 2023 06:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/metatheater" onclick="nclk(this, 'channel.img', 'metatheater', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220920_43/VOZIG_1663658747289EPl2X_JPEG/1663658747274.jpg" alt="메타씨어터 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">메타씨어터</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_43/VOZIG_1663658747289EPl2X_JPEG/1663658747274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[광주시문화재단 | 남한산성아트홀 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nsarthall</link>
             <guid>https://tv.naver.com/nsarthall</guid>
@@ -520,6 +502,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artmconcert</link>
+            <guid>https://tv.naver.com/artmconcert</guid>
+            <pubDate>Mon, 16 Jan 2023 03:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
+									
+									<div class="img-mask">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" alt="아트엠콘서트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트엠콘서트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_283/sxqVh_1653463301179CSYsp_PNG/1653463301157.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
