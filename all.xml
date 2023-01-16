@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 23:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 02:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -162,6 +162,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_74/sDWFA_1673485737547qqgqN_JPEG/1673485737533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한국뮤지컬어워즈 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/kmusicalawards</link>
             <guid>https://tv.naver.com/kmusicalawards</guid>
@@ -180,22 +198,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_288/0koWa_16703202507636QKBH_PNG/1670320250736.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artetv</link>
+            <guid>https://tv.naver.com/artetv</guid>
+            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_32/Stes0_1673399467403nNsOo_PNG/1673399467397.png" alt="한경arteTV 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
+										<p class="txt">한경arteTV</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_32/Stes0_1673399467403nNsOo_PNG/1673399467397.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
@@ -232,24 +250,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_32/Stes0_1673399467403nNsOo_PNG/1673399467397.png" alt="한경arteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한경arteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_32/Stes0_1673399467403nNsOo_PNG/1673399467397.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LG아트센터 (네이버 공연 live beta ─ 채널)]]></title>
