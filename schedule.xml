@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-01-19T23:39:22.126Z</updated>
+    <updated>2023-01-20T02:08:04.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -23,7 +23,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										뮤지컬 <은밀하게 위대하게:THE LAST> 1/30 오후 7시 30분]]></title>
+										뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
         <id>https://tv.naver.com/l/124044</id>
         <link href="https://tv.naver.com/l/124044"/>
         <updated>2023-01-12T08:45:12.239Z</updated>
@@ -44,5 +44,13 @@
         <link href="https://tv.naver.com/l/124045"/>
         <updated>2023-01-12T07:38:54.588Z</updated>
         <content type="html"><![CDATA[02월 05일(일) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <해적> 녹화 중계]]></title>
+        <id>https://tv.naver.com/l/124449</id>
+        <link href="https://tv.naver.com/l/124449"/>
+        <updated>2023-01-20T02:08:03.880Z</updated>
+        <content type="html"><![CDATA[02월 20일(월) 20:00]]></content>
     </entry>
 </feed>
