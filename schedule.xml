@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-01-27T11:39:08.949Z</updated>
+    <updated>2023-01-27T12:57:54.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[배우 강훈 X 특별전 '합스부르크 600년, 그 매혹의 걸작들']]></title>
-        <id>https://tv.naver.com/l/124450</id>
-        <link href="https://tv.naver.com/l/124450"/>
-        <updated>2023-01-25T15:39:39.172Z</updated>
-        <content type="html"><![CDATA[01월 27일(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NOW] <합스부르크 600년, 매혹의 걸작들> 전시 중계]]></title>
-        <id>https://now.naver.com/l/1741844</id>
-        <link href="https://now.naver.com/l/1741844"/>
-        <updated>2023-01-25T15:39:39.182Z</updated>
-        <content type="html"><![CDATA[01월 27일(금) 19:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <은밀하게 위대하게:THE LAST>]]></title>
