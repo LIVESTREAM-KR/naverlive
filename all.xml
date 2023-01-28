@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 06:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 07:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -570,6 +570,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[합스부르크 600년, 매혹의 걸작들 전시 (네이버 공연 live beta ─ 다시보기)]]></title>
+            <link>https://tv.naver.com/v/32678729</link>
+            <guid>https://tv.naver.com/v/32678729</guid>
+            <pubDate>Sat, 28 Jan 2023 07:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230128_69/1674890956959DW2H6_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 '클래스' 온라인 공연 예고 (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://tv.naver.com/v/30982457</link>
             <guid>https://tv.naver.com/v/30982457</guid>
@@ -640,14 +648,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고 이건희 회장 기증 명품전 (네이버 공연 live beta ─ 다시보기)]]></title>
-            <link>https://blog.naver.com/100museum/222462703452</link>
-            <guid>https://blog.naver.com/100museum/222462703452</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[국립중앙박물관]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20210812_112/1628771495266Q0V2I_JPEG/dee741d3-fb5d-11eb-a72a-246e963a464c_01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
