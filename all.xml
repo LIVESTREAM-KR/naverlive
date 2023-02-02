@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 06:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 07:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,6 +164,42 @@
             <pubDate>Sat, 21 Jan 2023 10:38:29 GMT</pubDate>
             <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arkocreate</link>
+            <guid>https://tv.naver.com/arkocreate</guid>
+            <pubDate>Thu, 29 Dec 2022 07:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" alt="공연예술창작산실 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연예술창작산실</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gugak1951</link>
+            <guid>https://tv.naver.com/gugak1951</guid>
+            <pubDate>Sat, 21 Jan 2023 06:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립국악원TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -362,42 +398,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arkocreate</link>
-            <guid>https://tv.naver.com/arkocreate</guid>
-            <pubDate>Thu, 29 Dec 2022 07:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" alt="공연예술창작산실 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연예술창작산실</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gugak1951</link>
-            <guid>https://tv.naver.com/gugak1951</guid>
-            <pubDate>Sat, 21 Jan 2023 06:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립국악원TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ACOM MUSICAL (네이버 공연 live beta ─ 채널)]]></title>
