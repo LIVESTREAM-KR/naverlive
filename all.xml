@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 03:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
             <pubDate>Sat, 21 Jan 2023 10:38:29 GMT</pubDate>
             <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/125945</link>
+            <guid>https://tv.naver.com/l/125945</guid>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/125946</link>
+            <guid>https://tv.naver.com/l/125946</guid>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -58,6 +76,42 @@
             <pubDate>Sat, 21 Jan 2023 10:38:29 GMT</pubDate>
             <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/125945</link>
+            <guid>https://tv.naver.com/l/125945</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/125946</link>
+            <guid>https://tv.naver.com/l/125946</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴인컴퍼니 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/comeincompany</link>
+            <guid>https://tv.naver.com/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/comeincompany" onclick="nclk(this, 'channel.img', 'comeincompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230130_137/izCkK_16750617147129ublp_PNG/1675061714696.png" alt="컴인컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">컴인컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_137/izCkK_16750617147129ublp_PNG/1675061714696.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
@@ -402,24 +456,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200616_260/TJ2WA_1592267171321VyQzN_JPEG/1592267171296.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gongzindan</link>
-            <guid>https://tv.naver.com/gongzindan</guid>
-            <pubDate>Tue, 17 Jan 2023 02:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gongzindan" onclick="nclk(this, 'channel.img', 'gongzindan', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" alt="전통공연예술진흥재단TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">전통공연예술진흥재단TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <용의자 X의 헌신> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
@@ -436,6 +472,24 @@
             <pubDate>Sat, 21 Jan 2023 10:38:29 GMT</pubDate>
             <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_131/9NioF_1674130488864l7NEu_JPEG/1674130488823.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/125945</link>
+            <guid>https://tv.naver.com/l/125945</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/125946</link>
+            <guid>https://tv.naver.com/l/125946</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[합스부르크 600년, 매혹의 걸작들 전시 (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -532,6 +586,22 @@
             <guid>https://tv.naver.com/l/124449</guid>
             <pubDate>Fri, 20 Jan 2023 02:07:34 GMT</pubDate>
             <content:encoded><![CDATA[02월 20일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/125945</link>
+            <guid>https://tv.naver.com/l/125945</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/125946</link>
+            <guid>https://tv.naver.com/l/125946</guid>
+            <pubDate>Tue, 14 Feb 2023 03:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
         </item>
     </channel>
 </rss>
