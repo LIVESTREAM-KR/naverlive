@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 05:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 06:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,20 +28,28 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/125945</link>
-            <guid>https://tv.naver.com/l/125945</guid>
-            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:43:42 GMT</pubDate>
             <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/125946</link>
-            <guid>https://tv.naver.com/l/125946</guid>
-            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:43:42 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <블랙메리포핀스>아시아를 사로잡은 대한민국 심리추리스릴러 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[2/27일, 3/6일 (월) 오후 7시 30분]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230214_293/1676356447950D8xWp_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -50,6 +58,14 @@
             <pubDate>Sat, 21 Jan 2023 10:38:29 GMT</pubDate>
             <content:encoded><![CDATA[2/6, 2/13, 2/20일 (월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230121_106/1674297000102tieaf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <블랙메리포핀스>아시아를 사로잡은 대한민국 심리추리스릴러 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[2/27일, 3/6일 (월) 오후 7시 30분]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230214_293/1676356447950D8xWp_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 뮤지컬 <해적> 공연실황 녹화중계 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -80,18 +96,18 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/125945</link>
-            <guid>https://tv.naver.com/l/125945</guid>
-            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:43:53 GMT</pubDate>
             <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/125946</link>
-            <guid>https://tv.naver.com/l/125946</guid>
-            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:43:53 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
         </item>
@@ -282,7 +298,7 @@
             <pubDate>Fri, 18 Nov 2022 06:48:17 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
 										</div>
@@ -476,18 +492,18 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/125945</link>
-            <guid>https://tv.naver.com/l/125945</guid>
-            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:44:05 GMT</pubDate>
             <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/125946</link>
-            <guid>https://tv.naver.com/l/125946</guid>
-            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/comeincompany</guid>
+            <pubDate>Tue, 14 Feb 2023 06:44:05 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
         </item>
