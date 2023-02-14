@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 03:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 04:44:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/125945</link>
             <guid>https://tv.naver.com/l/125945</guid>
-            <pubDate>Tue, 14 Feb 2023 03:42:05 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
         </item>
@@ -91,7 +91,7 @@
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/125946</link>
             <guid>https://tv.naver.com/l/125946</guid>
-            <pubDate>Tue, 14 Feb 2023 03:42:05 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
         </item>
@@ -478,7 +478,7 @@
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/125945</link>
             <guid>https://tv.naver.com/l/125945</guid>
-            <pubDate>Tue, 14 Feb 2023 03:42:17 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_147/9LwPa_1676177639976lBKLk_JPEG/1676177639954.jpg" length="0" type="image/jpg"/>
         </item>
@@ -487,7 +487,7 @@
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/125946</link>
             <guid>https://tv.naver.com/l/125946</guid>
-            <pubDate>Tue, 14 Feb 2023 03:42:17 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
         </item>
@@ -592,7 +592,7 @@
 										뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/125945</link>
             <guid>https://tv.naver.com/l/125945</guid>
-            <pubDate>Tue, 14 Feb 2023 03:42:28 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[02월 27일(월) 19:30]]></content:encoded>
         </item>
         <item>
@@ -600,7 +600,7 @@
 										뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/125946</link>
             <guid>https://tv.naver.com/l/125946</guid>
-            <pubDate>Tue, 14 Feb 2023 03:42:28 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
         </item>
     </channel>
