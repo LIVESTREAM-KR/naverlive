@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 09:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 10:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,7 +55,7 @@
 											오페라 <맥베스> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:39:14 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
         </item>
@@ -433,7 +433,7 @@
 											오페라 <맥베스> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:39:25 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
         </item>
