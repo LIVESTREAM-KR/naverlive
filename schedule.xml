@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-03-06T10:42:46.943Z</updated>
+    <updated>2023-03-06T11:39:46.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -12,6 +12,14 @@
         <link href="https://tv.naver.com/l/125946"/>
         <updated>2023-02-14T03:42:28.525Z</updated>
         <content type="html"><![CDATA[03월 06일(월) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										창작 뮤지컬 카파이즘 실황녹화중계]]></title>
+        <id>https://tv.naver.com/l/127264</id>
+        <link href="https://tv.naver.com/l/127264"/>
+        <updated>2023-03-06T11:39:46.178Z</updated>
+        <content type="html"><![CDATA[03월 27일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원

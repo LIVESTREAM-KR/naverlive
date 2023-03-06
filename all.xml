@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 10:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 11:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <pubDate>Tue, 14 Feb 2023 06:43:42 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 카파이즘 실황녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/127264</link>
+            <guid>https://tv.naver.com/l/127264</guid>
+            <pubDate>Mon, 06 Mar 2023 11:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[03월 27일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_172/8tvNI_1678095020469j8hE9_JPEG/1678095020456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -52,12 +61,39 @@
         </item>
         <item>
             <title><![CDATA[후원
+											창작 뮤지컬 카파이즘 실황녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/127264</link>
+            <guid>https://tv.naver.com/l/127264</guid>
+            <pubDate>Mon, 06 Mar 2023 11:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[03월 27일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_172/8tvNI_1678095020469j8hE9_JPEG/1678095020456.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <맥베스> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[네버엔딩플레이 ON (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/neverending</link>
+            <guid>https://tv.naver.com/neverending</guid>
+            <pubDate>Mon, 06 Mar 2023 11:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/neverending" onclick="nclk(this, 'channel.img', 'neverending', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230222_289/f64Ke_1676994102385VQ9TM_JPEG/1676994102368.jpg" alt="네버엔딩플레이 ON 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">네버엔딩플레이 ON</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_289/f64Ke_1676994102385VQ9TM_JPEG/1676994102368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -402,24 +438,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreansymphony</link>
-            <guid>https://tv.naver.com/koreansymphony</guid>
-            <pubDate>Fri, 27 Jan 2023 12:57:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립심포니오케스트라</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <블랙메리포핀스> 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/comeincompany</link>
@@ -427,6 +445,15 @@
             <pubDate>Tue, 14 Feb 2023 06:43:42 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_165/HLpC1_1676187403485CUlrm_JPEG/1676187403471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											창작 뮤지컬 카파이즘 실황녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/127264</link>
+            <guid>https://tv.naver.com/l/127264</guid>
+            <pubDate>Mon, 06 Mar 2023 11:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[03월 27일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_172/8tvNI_1678095020469j8hE9_JPEG/1678095020456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -524,6 +551,14 @@
             <guid>https://tv.naver.com/l/125946</guid>
             <pubDate>Tue, 14 Feb 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[03월 06일(월) 19:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										창작 뮤지컬 카파이즘 실황녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/127264</link>
+            <guid>https://tv.naver.com/l/127264</guid>
+            <pubDate>Mon, 06 Mar 2023 11:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[03월 27일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
