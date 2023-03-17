@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-03-17T04:42:53.557Z</updated>
+    <updated>2023-03-17T05:39:00.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -36,6 +36,22 @@
         <link href="https://tv.naver.com/l/127395"/>
         <updated>2023-03-13T06:43:34.842Z</updated>
         <content type="html"><![CDATA[03월 30일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										<판소리 쑛스토리 - 모파상篇> 공연실황]]></title>
+        <id>https://tv.naver.com/l/127943</id>
+        <link href="https://tv.naver.com/l/127943"/>
+        <updated>2023-03-17T05:39:00.064Z</updated>
+        <content type="html"><![CDATA[04월 04일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										연극 <빵야> 공연실황 녹화중계]]></title>
+        <id>https://tv.naver.com/l/127720</id>
+        <link href="https://tv.naver.com/l/127720"/>
+        <updated>2023-03-17T05:39:00.065Z</updated>
+        <content type="html"><![CDATA[04월 06일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
