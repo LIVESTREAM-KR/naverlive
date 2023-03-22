@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,15 +51,6 @@
             <pubDate>Fri, 17 Mar 2023 05:38:29 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_2/TAXr8_167895590433800q14_JPEG/1678955904323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/127720</link>
-            <guid>https://tv.naver.com/l/127720</guid>
-            <pubDate>Fri, 17 Mar 2023 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[04월 06일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_203/RRUSf_1678701633213S4aLj_JPEG/1678701633176.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -133,39 +124,12 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/127720</link>
-            <guid>https://tv.naver.com/l/127720</guid>
-            <pubDate>Fri, 17 Mar 2023 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[04월 06일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_203/RRUSf_1678701633213S4aLj_JPEG/1678701633176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											오페라 <맥베스> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Wed, 22 Mar 2023 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -184,6 +148,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/spac1</link>
+            <guid>https://tv.naver.com/spac1</guid>
+            <pubDate>Wed, 22 Mar 2023 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울예술단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -556,15 +538,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/127720</link>
-            <guid>https://tv.naver.com/l/127720</guid>
-            <pubDate>Fri, 17 Mar 2023 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[04월 06일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_203/RRUSf_1678701633213S4aLj_JPEG/1678701633176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											오페라 <맥베스> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -691,14 +664,6 @@
             <guid>https://tv.naver.com/l/127943</guid>
             <pubDate>Fri, 17 Mar 2023 05:38:29 GMT</pubDate>
             <content:encoded><![CDATA[04월 04일(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/127720</link>
-            <guid>https://tv.naver.com/l/127720</guid>
-            <pubDate>Fri, 17 Mar 2023 05:38:29 GMT</pubDate>
-            <content:encoded><![CDATA[04월 06일(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
