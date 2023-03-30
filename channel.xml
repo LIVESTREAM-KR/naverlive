@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 09:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 10:39:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,7 +212,7 @@
             <pubDate>Thu, 23 Mar 2023 10:42:05 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
 										</div>
