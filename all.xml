@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 23:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 01:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,42 @@
             <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
             <content:encoded><![CDATA[04월 29일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_266/VCLOM_1676878184934m3VjA_JPEG/1676878184924.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arkocreate</link>
+            <guid>https://tv.naver.com/arkocreate</guid>
+            <pubDate>Thu, 29 Dec 2022 07:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" alt="공연예술창작산실 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연예술창작산실</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artmconcert</link>
+            <guid>https://tv.naver.com/artmconcert</guid>
+            <pubDate>Mon, 06 Feb 2023 06:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아트엠콘서트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
@@ -388,24 +424,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_210/SJ8m5_1650595106561932T1_JPEG/1650595106511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arkocreate</link>
-            <guid>https://tv.naver.com/arkocreate</guid>
-            <pubDate>Thu, 29 Dec 2022 07:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" alt="공연예술창작산실 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연예술창작산실</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[국립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/koreanationalopera</link>
             <guid>https://tv.naver.com/koreanationalopera</guid>
@@ -440,24 +458,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artmconcert</link>
-            <guid>https://tv.naver.com/artmconcert</guid>
-            <pubDate>Mon, 06 Feb 2023 06:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트엠콘서트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한예종 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
