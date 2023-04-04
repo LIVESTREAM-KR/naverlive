@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-04T12:54:58.218Z</updated>
+    <updated>2023-04-04T13:39:42.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										<판소리 쑛스토리 - 모파상篇> 공연실황]]></title>
-        <id>https://tv.naver.com/l/127943</id>
-        <link href="https://tv.naver.com/l/127943"/>
-        <updated>2023-03-17T05:39:00.064Z</updated>
-        <content type="html"><![CDATA[04월 04일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[창작산실 오페라 <피가로의 이혼> 공연실황 녹화중계]]></title>
         <id>https://tv.naver.com/l/128974</id>
