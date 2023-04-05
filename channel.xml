@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 23:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ACOM MUSICAL]]></title>
+            <link>https://tv.naver.com/acomtv</link>
+            <guid>https://tv.naver.com/acomtv</guid>
+            <pubDate>Sat, 21 Jan 2023 21:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/acomtv" onclick="nclk(this, 'channel.img', 'acomtv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" alt="ACOM MUSICAL 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">ACOM MUSICAL</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금호아트홀]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
@@ -276,24 +294,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ACOM MUSICAL]]></title>
-            <link>https://tv.naver.com/acomtv</link>
-            <guid>https://tv.naver.com/acomtv</guid>
-            <pubDate>Sat, 21 Jan 2023 21:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/acomtv" onclick="nclk(this, 'channel.img', 'acomtv', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" alt="ACOM MUSICAL 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">ACOM MUSICAL</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HJ컬쳐]]></title>
