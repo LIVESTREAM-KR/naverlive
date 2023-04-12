@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 07:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 08:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <pubDate>Mon, 10 Apr 2023 05:38:06 GMT</pubDate>
             <content:encoded><![CDATA[05월 01일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_118/X06gt_1681089784109Lvr8o_JPEG/1681089784090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/rangtv</link>
+            <guid>https://tv.naver.com/rangtv</guid>
+            <pubDate>Wed, 12 Apr 2023 08:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/rangtv" onclick="nclk(this, 'channel.img', 'rangtv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" alt="랑TV (COMPANY RANG) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">랑TV (COMPANY RANG)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(주)미스틱컬처 (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,24 +582,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreansymphony</link>
-            <guid>https://tv.naver.com/koreansymphony</guid>
-            <pubDate>Tue, 14 Mar 2023 10:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립심포니오케스트라</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
