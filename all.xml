@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 10:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 11:39:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <pubDate>Mon, 10 Apr 2023 05:38:06 GMT</pubDate>
             <content:encoded><![CDATA[05월 01일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_118/X06gt_1681089784109Lvr8o_JPEG/1681089784090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WFIMC 국제콩쿠르세계연맹 TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/wfimc</link>
+            <guid>https://tv.naver.com/wfimc</guid>
+            <pubDate>Thu, 13 Apr 2023 11:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230406_40/DKA57_1680775185808DS8lM_PNG/1680775185748.png" alt="WFIMC 국제콩쿠르세계연맹 TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">WFIMC 국제콩쿠르세계연맹 TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_40/DKA57_1680775185808DS8lM_PNG/1680775185748.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(주)미스틱컬처 (네이버 공연 live beta ─ 채널)]]></title>
@@ -564,24 +582,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artmconcert</link>
-            <guid>https://tv.naver.com/artmconcert</guid>
-            <pubDate>Mon, 06 Feb 2023 06:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트엠콘서트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
