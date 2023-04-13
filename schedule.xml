@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-13T12:56:51.368Z</updated>
+    <updated>2023-04-13T13:39:57.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										On the Rock 공연실황 녹화중계]]></title>
-        <id>https://tv.naver.com/l/128393</id>
-        <link href="https://tv.naver.com/l/128393"/>
-        <updated>2023-03-27T23:39:09.346Z</updated>
-        <content type="html"><![CDATA[04월 13일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬<비더슈탄트> 4월16일(일)오후7시30분]]></title>
