@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-14T05:39:33.613Z</updated>
+    <updated>2023-04-14T06:39:51.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -43,6 +43,13 @@
         <link href="https://tv.naver.com/l/129263"/>
         <updated>2023-04-10T05:38:39.984Z</updated>
         <content type="html"><![CDATA[04월 24일(월) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계]]></title>
+        <id>https://tv.naver.com/l/129267</id>
+        <link href="https://tv.naver.com/l/129267"/>
+        <updated>2023-04-14T06:39:50.575Z</updated>
+        <content type="html"><![CDATA[04월 25일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
