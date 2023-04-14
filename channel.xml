@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 03:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 04:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(주)미스틱컬처]]></title>
+            <link>https://tv.naver.com/mysticculture</link>
+            <guid>https://tv.naver.com/mysticculture</guid>
+            <pubDate>Mon, 10 Apr 2023 05:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mysticculture" onclick="nclk(this, 'channel.img', 'mysticculture', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" alt="(주)미스틱컬처 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">(주)미스틱컬처</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한예종 예술극장]]></title>
             <link>https://tv.naver.com/karts</link>
@@ -60,24 +78,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_40/DKA57_1680775185808DS8lM_PNG/1680775185748.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[(주)미스틱컬처]]></title>
-            <link>https://tv.naver.com/mysticculture</link>
-            <guid>https://tv.naver.com/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mysticculture" onclick="nclk(this, 'channel.img', 'mysticculture', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" alt="(주)미스틱컬처 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">(주)미스틱컬처</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓]]></title>
