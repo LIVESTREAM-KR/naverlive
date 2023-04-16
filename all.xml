@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 16:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 17:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,24 +214,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_157/KMce5_1680844903381OGUP7_JPEG/1680844903364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kncdc</link>
-            <guid>https://tv.naver.com/kncdc</guid>
-            <pubDate>Fri, 07 Apr 2023 10:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대무용단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[WFIMC 국제콩쿠르세계연맹 TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/wfimc</link>
             <guid>https://tv.naver.com/wfimc</guid>
@@ -248,6 +230,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_40/DKA57_1680775185808DS8lM_PNG/1680775185748.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Fri, 07 Apr 2023 10:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
