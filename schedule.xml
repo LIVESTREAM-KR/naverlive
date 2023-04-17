@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-17T07:39:22.740Z</updated>
+    <updated>2023-04-17T08:40:44.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -73,6 +73,14 @@
         <link href="https://tv.naver.com/l/129265"/>
         <updated>2023-04-10T05:38:39.988Z</updated>
         <content type="html"><![CDATA[05월 01일(월) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										[후원전용] 연극 <엠비제트컴퍼니-빵야> 공연실황]]></title>
+        <id>https://tv.naver.com/l/129389</id>
+        <link href="https://tv.naver.com/l/129389"/>
+        <updated>2023-04-17T08:40:43.418Z</updated>
+        <content type="html"><![CDATA[05월 02일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
