@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 15:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 16:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<비더슈탄트> 4월17일(월)오후7시30분]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[04월 17일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_72/3mj2n_1681089596893yRGuh_JPEG/1681089596877.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<비더슈탄트> 4월23일(일)오후7시30분]]></title>
