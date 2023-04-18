@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-18T12:56:30.279Z</updated>
+    <updated>2023-04-18T13:39:12.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[전통예술 <태고의 소리, 흙의 울림, 훈과 율기> 공연실황]]></title>
-        <id>https://tv.naver.com/l/129260</id>
-        <link href="https://tv.naver.com/l/129260"/>
-        <updated>2023-04-10T05:38:39.982Z</updated>
-        <content type="html"><![CDATA[04월 18일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬<비더슈탄트> 4월23일(일)오후7시30분]]></title>
