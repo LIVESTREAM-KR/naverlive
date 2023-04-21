@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 03:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 04:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,7 +266,7 @@
             <pubDate>Mon, 10 Apr 2023 05:38:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/mysticculture" onclick="nclk(this, 'channel.img', 'mysticculture', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" alt="(주)미스틱컬처 이미지">
 										</div>
