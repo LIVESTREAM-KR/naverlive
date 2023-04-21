@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 01:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,7 +164,7 @@
             <title><![CDATA[연극 <견고딕-걸> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/129268</link>
             <guid>https://tv.naver.com/l/129268</guid>
-            <pubDate>Fri, 21 Apr 2023 01:48:57 GMT</pubDate>
+            <pubDate>Fri, 21 Apr 2023 01:48:47 GMT</pubDate>
             <content:encoded><![CDATA[04월 27일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_54/dmgYY_1682037260436c2w4d_JPEG/1682037260392.jpg" length="0" type="image/jpg"/>
         </item>
@@ -751,7 +751,7 @@
             <title><![CDATA[연극 <견고딕-걸> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/129268</link>
             <guid>https://tv.naver.com/l/129268</guid>
-            <pubDate>Fri, 21 Apr 2023 01:49:19 GMT</pubDate>
+            <pubDate>Fri, 21 Apr 2023 01:48:47 GMT</pubDate>
             <content:encoded><![CDATA[04월 27일(목) 20:00]]></content:encoded>
         </item>
         <item>
