@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 08:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 09:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_157/KMce5_1680844903381OGUP7_JPEG/1680844903364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/spac1</link>
+            <guid>https://tv.naver.com/spac1</guid>
+            <pubDate>Thu, 20 Apr 2023 13:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울예술단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -310,24 +328,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Thu, 20 Apr 2023 13:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한국예술종합학교 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
