@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-23T15:39:17.104Z</updated>
+    <updated>2023-04-23T16:41:40.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬<비더슈탄트> 4월23일(일)오후7시30분]]></title>
-        <id>https://tv.naver.com/l/129261</id>
-        <link href="https://tv.naver.com/l/129261"/>
-        <updated>2023-04-10T05:38:39.984Z</updated>
-        <content type="html"><![CDATA[04월 23일(일) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬<비더슈탄트> 4월24일(월)오후7시30분]]></title>
