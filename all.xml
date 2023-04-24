@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 15:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 16:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<비더슈탄트> 4월24일(월)오후7시30분 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[04월 24일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_293/VC5fW_1681089710811pNsSz_JPEG/1681089710794.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/129267</link>
@@ -88,9 +79,9 @@
         <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/129393</link>
-            <guid>https://tv.naver.com/l/129393</guid>
-            <pubDate>Mon, 24 Apr 2023 02:47:52 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
             <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
         </item>
@@ -133,15 +124,6 @@
             <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
             <content:encoded><![CDATA[4/29일(토) 오후 3시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<비더슈탄트> 4월24일(월)오후7시30분 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[04월 24일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_293/VC5fW_1681089710811pNsSz_JPEG/1681089710794.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -215,9 +197,9 @@
         <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/129393</link>
-            <guid>https://tv.naver.com/l/129393</guid>
-            <pubDate>Mon, 24 Apr 2023 02:47:52 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
             <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
         </item>
@@ -583,15 +565,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬<비더슈탄트> 4월24일(월)오후7시30분 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[04월 24일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_293/VC5fW_1681089710811pNsSz_JPEG/1681089710794.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											오페라 <맥베스> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -638,9 +611,9 @@
         <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/129393</link>
-            <guid>https://tv.naver.com/l/129393</guid>
-            <pubDate>Mon, 24 Apr 2023 02:47:52 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
             <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
         </item>
@@ -723,14 +696,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬<비더슈탄트> 4월24일(월)오후7시30분 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/129263</link>
-            <guid>https://tv.naver.com/l/129263</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[04월 24일(월) 19:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
