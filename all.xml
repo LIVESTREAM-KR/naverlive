@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 13:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 14:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,6 +202,24 @@
             <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
             <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artetv</link>
+            <guid>https://tv.naver.com/artetv</guid>
+            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한경arteTV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
@@ -436,24 +454,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한경arteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위클래식 (네이버 공연 live beta ─ 채널)]]></title>
