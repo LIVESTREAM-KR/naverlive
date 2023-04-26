@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 22:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 23:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,15 +42,6 @@
             <pubDate>Mon, 13 Mar 2023 06:43:23 GMT</pubDate>
             <content:encoded><![CDATA[05월 02일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_281/mUs2m_1681100840530jqABV_JPEG/1681100840506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<창작 실내악 음악극 붕(鵬)새의 꿈> 공연실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 06:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[05월 04일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_157/KMce5_1680844903381OGUP7_JPEG/1680844903364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
