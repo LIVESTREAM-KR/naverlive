@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-04-27T12:53:19.468Z</updated>
+    <updated>2023-04-27T13:38:47.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[연극 <견고딕-걸> 공연실황 녹화중계]]></title>
-        <id>https://tv.naver.com/l/129268</id>
-        <link href="https://tv.naver.com/l/129268"/>
-        <updated>2023-04-21T01:49:19.392Z</updated>
-        <content type="html"><![CDATA[04월 27일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										오페라 <맥베스>]]></title>
