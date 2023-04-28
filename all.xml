@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 08:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,7 +206,7 @@
             <title><![CDATA[창작오페라 <피싱> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/129270</link>
             <guid>https://tv.naver.com/l/129270</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:10 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_203/4q8Vc_1682654963578Y0X72_JPEG/1682654963564.jpg" length="0" type="image/jpg"/>
         </item>
@@ -215,9 +215,27 @@
 											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:10 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gdfac</link>
+            <guid>https://tv.naver.com/gdfac</guid>
+            <pubDate>Mon, 13 Mar 2023 09:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강동문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
@@ -562,24 +580,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gdfac</link>
-            <guid>https://tv.naver.com/gdfac</guid>
-            <pubDate>Mon, 13 Mar 2023 09:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강동문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											오페라 <맥베스> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
@@ -629,7 +629,7 @@
 											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
         </item>
@@ -796,7 +796,7 @@
             <title><![CDATA[창작오페라 <피싱> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/129270</link>
             <guid>https://tv.naver.com/l/129270</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:34 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(화) 20:00]]></content:encoded>
         </item>
         <item>
@@ -812,7 +812,7 @@
 										뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/130039</link>
             <guid>https://tv.naver.com/l/130039</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:34 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[05월 29일(월) 20:00]]></content:encoded>
         </item>
         <item>
@@ -820,7 +820,7 @@
 										뮤지컬<은하철도의 밤>실황 중계-6/05(월) 박좌헌, 정지우 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/130040</link>
             <guid>https://tv.naver.com/l/130040</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:34 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
         </item>
     </channel>
