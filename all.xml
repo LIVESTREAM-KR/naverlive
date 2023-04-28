@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 20:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 21:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,7 +496,7 @@
             <pubDate>Thu, 13 Apr 2023 11:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/wfimc" onclick="nclk(this, 'channel.img', 'wfimc', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230406_40/DKA57_1680775185808DS8lM_PNG/1680775185748.png" alt="WFIMC 국제콩쿠르세계연맹 TV 이미지">
 										</div>
