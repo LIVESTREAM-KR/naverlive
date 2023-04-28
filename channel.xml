@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 01:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 02:47:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
+            <link>https://tv.naver.com/dimf</link>
+            <guid>https://tv.naver.com/dimf</guid>
+            <pubDate>Tue, 18 Apr 2023 06:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(주)더블케이 엔터테인먼트]]></title>
+            <link>https://tv.naver.com/doublek</link>
+            <guid>https://tv.naver.com/doublek</guid>
+            <pubDate>Fri, 28 Apr 2023 02:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/doublek" onclick="nclk(this, 'channel.img', 'doublek', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200311_214/2Bd3i_1583914873565kTbgN_JPEG/1583914873543.jpg" alt="(주)더블케이 엔터테인먼트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">(주)더블케이 엔터테인먼트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200311_214/2Bd3i_1583914873565kTbgN_JPEG/1583914873543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성남문화재단]]></title>
             <link>https://tv.naver.com/snart</link>
@@ -278,24 +314,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_58/VaxmB_1681865720553VFuor_JPEG/1681865720529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
-            <link>https://tv.naver.com/dimf</link>
-            <guid>https://tv.naver.com/dimf</guid>
-            <pubDate>Tue, 18 Apr 2023 06:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[금호아트홀]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
             <guid>https://tv.naver.com/kumhoarthall</guid>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(주)미스틱컬처]]></title>
-            <link>https://tv.naver.com/mysticculture</link>
-            <guid>https://tv.naver.com/mysticculture</guid>
-            <pubDate>Mon, 10 Apr 2023 05:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mysticculture" onclick="nclk(this, 'channel.img', 'mysticculture', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" alt="(주)미스틱컬처 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">(주)미스틱컬처</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_66/lDigw_1680862748346zIzbV_JPEG/1680862748342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
