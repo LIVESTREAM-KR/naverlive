@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 08:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230410_249/1681109918390mEwN1_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <맥베스> 녹화중계셰익스피어를 사랑한 베르디의 역작 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[4/29일(토) 오후 3시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -126,12 +118,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230410_249/1681109918390mEwN1_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 <맥베스> 녹화중계셰익스피어를 사랑한 베르디의 역작 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Fri, 03 Mar 2023 09:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[4/29일(토) 오후 3시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230323_84/16795466239237XarX_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[5/2일 (화) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023서울재즈페스타] JAZZ all Stars (네이버 공연 live beta ─ HOT)]]></title>
@@ -478,7 +470,7 @@
             <pubDate>Thu, 20 Apr 2023 13:39:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
 										</div>
