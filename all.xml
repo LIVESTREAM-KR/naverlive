@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 12:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 13:39:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,22 +75,6 @@
             <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[5/2일 (화) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <엠비제트컴퍼니-빵야> 공연실황한물간 드라마 작가와 낡은 장총 한 자루 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 06:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[5/2일 (화) 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230418_240/1681788482178jHEUq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
