@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 06:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 07:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,7 +89,7 @@
             <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:38:58 GMT</pubDate>
+            <pubDate>Mon, 08 May 2023 06:38:52 GMT</pubDate>
             <content:encoded><![CDATA[5/14일, 5/15일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -113,7 +113,7 @@
             <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:38:58 GMT</pubDate>
+            <pubDate>Mon, 08 May 2023 06:38:52 GMT</pubDate>
             <content:encoded><![CDATA[5/14일, 5/15일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -147,7 +147,7 @@
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:39:04 GMT</pubDate>
+            <pubDate>Mon, 08 May 2023 06:38:52 GMT</pubDate>
             <content:encoded><![CDATA[05월 14일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_177/u8BL7_168351288665629Gsy_JPEG/1683512886632.jpg" length="0" type="image/jpg"/>
         </item>
@@ -156,7 +156,7 @@
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:39:04 GMT</pubDate>
+            <pubDate>Mon, 08 May 2023 06:38:52 GMT</pubDate>
             <content:encoded><![CDATA[05월 15일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_68/sZbdl_16835134607338Y0eu_JPEG/1683513460716.jpg" length="0" type="image/jpg"/>
         </item>
@@ -202,6 +202,24 @@
             <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreanationalopera</link>
+            <guid>https://tv.naver.com/koreanationalopera</guid>
+            <pubDate>Mon, 08 May 2023 07:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" alt="국립오페라단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립오페라단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -546,24 +564,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_40/DKA57_1680775185808DS8lM_PNG/1680775185748.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artmconcert</link>
-            <guid>https://tv.naver.com/artmconcert</guid>
-            <pubDate>Fri, 21 Apr 2023 06:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트엠콘서트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -577,7 +577,7 @@
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:39:15 GMT</pubDate>
+            <pubDate>Mon, 08 May 2023 06:38:52 GMT</pubDate>
             <content:encoded><![CDATA[05월 14일(일) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_177/u8BL7_168351288665629Gsy_JPEG/1683512886632.jpg" length="0" type="image/jpg"/>
         </item>
@@ -586,7 +586,7 @@
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
             <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:39:15 GMT</pubDate>
+            <pubDate>Mon, 08 May 2023 06:38:52 GMT</pubDate>
             <content:encoded><![CDATA[05월 15일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_68/sZbdl_16835134607338Y0eu_JPEG/1683513460716.jpg" length="0" type="image/jpg"/>
         </item>
