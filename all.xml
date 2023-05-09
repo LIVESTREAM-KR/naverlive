@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 12:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 13:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <엑스트라 연대기> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/129269</link>
-            <guid>https://tv.naver.com/l/129269</guid>
-            <pubDate>Tue, 25 Apr 2023 15:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_108/xCSov_1682385338221Ds5S4_JPEG/1682385338198.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta)]]></title>
@@ -126,14 +118,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <엑스트라 연대기> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/129269</link>
-            <guid>https://tv.naver.com/l/129269</guid>
-            <pubDate>Tue, 25 Apr 2023 15:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_108/xCSov_1682385338221Ds5S4_JPEG/1682385338198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -202,6 +186,24 @@
             <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arkocreate</link>
+            <guid>https://tv.naver.com/arkocreate</guid>
+            <pubDate>Tue, 09 May 2023 13:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" alt="공연예술창작산실 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연예술창작산실</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_32/9fj1M_1670819899389uJtzd_PNG/1670819899374.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[하남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -546,24 +548,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_233/yPDRQ_1670379611204E5s2L_JPEG/1670379611183.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artsnartists</link>
-            <guid>https://tv.naver.com/artsnartists</guid>
-            <pubDate>Mon, 13 Feb 2023 02:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artsnartists" onclick="nclk(this, 'channel.img', 'artsnartists', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" alt="아트앤아티스트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트앤아티스트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190307_265/BqYS4_1551944249474RGGAr_PNG/1551944249456.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
@@ -696,13 +680,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <엑스트라 연대기> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/129269</link>
-            <guid>https://tv.naver.com/l/129269</guid>
-            <pubDate>Tue, 25 Apr 2023 15:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[05월 09일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
