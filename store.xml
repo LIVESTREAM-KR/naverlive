@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 12:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 14:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <현대성악앙상블-사막 속의 흰개미> 공연실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 13 Mar 2023 06:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[05월 11일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_145/Jmpui_16823001299035Yk5z_JPEG/1682300129877.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <세종 1446> 후원 라이브]]></title>
