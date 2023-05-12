@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 05:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 06:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_203/4q8Vc_1682654963578Y0X72_JPEG/1682654963564.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼뮤지컬 <드림하이> 프레스콜 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/131219</link>
+            <guid>https://tv.naver.com/l/131219</guid>
+            <pubDate>Fri, 12 May 2023 06:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[05월 17일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_49/MFtT6_1683786785964xRiXM_JPEG/1683786785911.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무용 < THE ROAD > 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
@@ -143,6 +151,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_203/4q8Vc_1682654963578Y0X72_JPEG/1682654963564.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼뮤지컬 <드림하이> 프레스콜 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/131219</link>
+            <guid>https://tv.naver.com/l/131219</guid>
+            <pubDate>Fri, 12 May 2023 06:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[05월 17일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_49/MFtT6_1683786785964xRiXM_JPEG/1683786785911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무용 < THE ROAD > 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/129271</link>
             <guid>https://tv.naver.com/l/129271</guid>
@@ -176,6 +192,24 @@
             <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/theater</link>
+            <guid>https://tv.naver.com/theater</guid>
+            <pubDate>Fri, 12 May 2023 06:38:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">네이버 공연</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -520,24 +554,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[(주)더블케이 엔터테인먼트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/doublek</link>
-            <guid>https://tv.naver.com/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 02:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/doublek" onclick="nclk(this, 'channel.img', 'doublek', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200311_214/2Bd3i_1583914873565kTbgN_JPEG/1583914873543.jpg" alt="(주)더블케이 엔터테인먼트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">(주)더블케이 엔터테인먼트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200311_214/2Bd3i_1583914873565kTbgN_JPEG/1583914873543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
@@ -691,6 +707,13 @@
             <guid>https://tv.naver.com/l/129270</guid>
             <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[05월 16일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쇼뮤지컬 <드림하이> 프레스콜 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/131219</link>
+            <guid>https://tv.naver.com/l/131219</guid>
+            <pubDate>Fri, 12 May 2023 06:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[05월 17일(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무용 < THE ROAD > 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
