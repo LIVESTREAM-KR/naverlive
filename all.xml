@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 06:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 07:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -154,7 +154,7 @@
             <title><![CDATA[쇼뮤지컬 <드림하이> 프레스콜 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/131219</link>
             <guid>https://tv.naver.com/l/131219</guid>
-            <pubDate>Fri, 12 May 2023 06:38:46 GMT</pubDate>
+            <pubDate>Fri, 12 May 2023 06:38:35 GMT</pubDate>
             <content:encoded><![CDATA[05월 17일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_49/MFtT6_1683786785964xRiXM_JPEG/1683786785911.jpg" length="0" type="image/jpg"/>
         </item>
@@ -192,6 +192,24 @@
             <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 05일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국예술종합학교 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Fri, 12 May 2023 07:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" alt="한국예술종합학교 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국예술종합학교 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -536,24 +554,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/dimf</link>
-            <guid>https://tv.naver.com/dimf</guid>
-            <pubDate>Tue, 18 Apr 2023 06:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <세종 1446> 후원 라이브 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
@@ -712,7 +712,7 @@
             <title><![CDATA[쇼뮤지컬 <드림하이> 프레스콜 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/131219</link>
             <guid>https://tv.naver.com/l/131219</guid>
-            <pubDate>Fri, 12 May 2023 06:39:08 GMT</pubDate>
+            <pubDate>Fri, 12 May 2023 06:38:35 GMT</pubDate>
             <content:encoded><![CDATA[05월 17일(수) 20:00]]></content:encoded>
         </item>
         <item>
