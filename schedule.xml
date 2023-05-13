@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-13T07:38:50.685Z</updated>
+    <updated>2023-05-13T08:39:08.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2023 서울드럼페스티벌 드럼경연대회 '더 드러머']]></title>
-        <id>https://tv.naver.com/l/131218</id>
-        <link href="https://tv.naver.com/l/131218"/>
-        <updated>2023-05-11T06:41:55.135Z</updated>
-        <content type="html"><![CDATA[05월 13일(토) 15:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <세종 1446> 후원 라이브]]></title>
