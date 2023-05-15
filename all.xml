@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 22:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 23:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,7 +518,7 @@
             <pubDate>Tue, 09 May 2023 01:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
 										</div>
