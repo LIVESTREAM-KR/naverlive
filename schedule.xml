@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-14T23:38:51.860Z</updated>
+    <updated>2023-05-15T01:54:19.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -28,6 +28,20 @@
         <content type="html"><![CDATA[05월 18일(목) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <일기 쓰는 남자>  제17회 DIMF 창작지원작]]></title>
+        <id>https://tv.naver.com/l/131046</id>
+        <link href="https://tv.naver.com/l/131046"/>
+        <updated>2023-05-15T01:54:18.308Z</updated>
+        <content type="html"><![CDATA[05월 20일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작]]></title>
+        <id>https://tv.naver.com/l/131047</id>
+        <link href="https://tv.naver.com/l/131047"/>
+        <updated>2023-05-15T01:54:18.310Z</updated>
+        <content type="html"><![CDATA[05월 21일(일) 14:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원]]></title>
         <id>https://tv.naver.com/l/130038</id>
@@ -36,12 +50,33 @@
         <content type="html"><![CDATA[05월 22일(월) 20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬  제17회 DIMF 창작지원작]]></title>
+        <id>https://tv.naver.com/l/131285</id>
+        <link href="https://tv.naver.com/l/131285"/>
+        <updated>2023-05-15T01:54:18.313Z</updated>
+        <content type="html"><![CDATA[05월 28일(일) 14:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현]]></title>
         <id>https://tv.naver.com/l/130039</id>
         <link href="https://tv.naver.com/l/130039"/>
         <updated>2023-04-28T08:39:34.406Z</updated>
         <content type="html"><![CDATA[05월 29일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬  제17회 DIMF 창작지원작]]></title>
+        <id>https://tv.naver.com/l/131286</id>
+        <link href="https://tv.naver.com/l/131286"/>
+        <updated>2023-05-15T01:54:18.317Z</updated>
+        <content type="html"><![CDATA[06월 03일(토) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <애프터 라이프> 제17회 DIMF 공식초청작]]></title>
+        <id>https://tv.naver.com/l/131287</id>
+        <link href="https://tv.naver.com/l/131287"/>
+        <updated>2023-05-15T01:54:18.320Z</updated>
+        <content type="html"><![CDATA[06월 04일(일) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
