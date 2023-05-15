@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 14:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 15:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 03 May 2023 04:38:32 GMT</pubDate>
             <content:encoded><![CDATA[6/12(월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230512_89/16838848129219nWdE_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[5/14일, 5/15일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <은하철도의 밤>우리는 함께 꿈을 꿨다. 난 그곳을…]]></title>
@@ -40,12 +32,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230512_89/16838848129219nWdE_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬<세종 1446>스승의 날, 세종대왕 탄신일 기념!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hjculture</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hjculture</guid>
-            <pubDate>Mon, 08 May 2023 06:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[5/14일, 5/15일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230508_128/16835258362384j9qy_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <은하철도의 밤>우리는 함께 꿈을 꿨다. 난 그곳을…]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Wed, 03 May 2023 04:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[5/22, 5/29, 6/5일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
