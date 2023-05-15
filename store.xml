@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 04:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 05:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,6 +51,15 @@
             <pubDate>Fri, 28 Apr 2023 08:39:22 GMT</pubDate>
             <content:encoded><![CDATA[06월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_68/ZgW2H_1683776153460uKzRH_JPEG/1683776153427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <일 트로바토레>]]></title>
+            <link>https://tv.naver.com/l/130726</link>
+            <guid>https://tv.naver.com/l/130726</guid>
+            <pubDate>Mon, 15 May 2023 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[06월 24일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
