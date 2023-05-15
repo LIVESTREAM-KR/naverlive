@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-15T06:39:27.592Z</updated>
+    <updated>2023-05-15T07:39:09.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -50,7 +50,7 @@
         <content type="html"><![CDATA[05월 22일(월) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬  제17회 DIMF 창작지원작]]></title>
+        <title type="html"><![CDATA[뮤지컬 < Town of 해방 > 제17회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/131285</id>
         <link href="https://tv.naver.com/l/131285"/>
         <updated>2023-05-15T01:54:18.313Z</updated>
@@ -65,7 +65,7 @@
         <content type="html"><![CDATA[05월 29일(월) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬  제17회 DIMF 창작지원작]]></title>
+        <title type="html"><![CDATA[뮤지컬 < The Tempest > 제17회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/131286</id>
         <link href="https://tv.naver.com/l/131286"/>
         <updated>2023-05-15T01:54:18.317Z</updated>
