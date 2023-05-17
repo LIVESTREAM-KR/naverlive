@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-16T23:39:11.055Z</updated>
+    <updated>2023-05-17T01:53:21.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼뮤지컬 <드림하이> 프레스콜]]></title>
+        <id>https://tv.naver.com/l/131219</id>
+        <link href="https://tv.naver.com/l/131219"/>
+        <updated>2023-05-17T01:53:21.166Z</updated>
+        <content type="html"><![CDATA[05월 17일(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무용 < THE ROAD > 공연실황 녹화중계]]></title>
         <id>https://tv.naver.com/l/129271</id>
