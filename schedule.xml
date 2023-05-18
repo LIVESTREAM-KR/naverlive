@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-18T12:54:50.766Z</updated>
+    <updated>2023-05-18T13:39:29.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[무용 < THE ROAD > 공연실황 녹화중계]]></title>
-        <id>https://tv.naver.com/l/129271</id>
-        <link href="https://tv.naver.com/l/129271"/>
-        <updated>2023-05-03T05:39:31.654Z</updated>
-        <content type="html"><![CDATA[05월 18일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <일기 쓰는 남자>  제17회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/131046</id>
