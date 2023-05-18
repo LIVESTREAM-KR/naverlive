@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 06:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 07:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,24 +214,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_117/3GRXp_1682576322550x1ihT_JPEG/1682576322509.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/mmca</link>
             <guid>https://tv.naver.com/mmca</guid>
@@ -248,6 +230,42 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신시컴퍼니 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/seenseecom</link>
+            <guid>https://tv.naver.com/seenseecom</guid>
+            <pubDate>Thu, 18 May 2023 07:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seenseecom" onclick="nclk(this, 'channel.img', 'seenseecom', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190708_121/Atp35_1562576218061SzMYF_PNG/1562576218042.png" alt="신시컴퍼니 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">신시컴퍼니</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20190708_121/Atp35_1562576218061SzMYF_PNG/1562576218042.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트앤아티스트 (네이버 공연 live beta ─ 채널)]]></title>
@@ -554,24 +572,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[랑TV (COMPANY RANG) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/rangtv</link>
-            <guid>https://tv.naver.com/rangtv</guid>
-            <pubDate>Wed, 12 Apr 2023 08:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/rangtv" onclick="nclk(this, 'channel.img', 'rangtv', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" alt="랑TV (COMPANY RANG) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">랑TV (COMPANY RANG)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190515_26/3hoei_1557906769863x6Fnt_JPEG/1557906769832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
