@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-20T11:39:16.820Z</updated>
+    <updated>2023-05-20T12:50:29.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제17회 DIMF <개막축하공연>  LIVE]]></title>
-        <id>https://tv.naver.com/l/131615</id>
-        <link href="https://tv.naver.com/l/131615"/>
-        <updated>2023-05-18T02:46:12.959Z</updated>
-        <content type="html"><![CDATA[05월 20일(토) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작]]></title>
         <id>https://tv.naver.com/l/131047</id>
