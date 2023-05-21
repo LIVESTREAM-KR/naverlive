@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 07:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 08:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/131047</link>
-            <guid>https://tv.naver.com/l/131047</guid>
-            <pubDate>Mon, 15 May 2023 01:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[05월 21일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_137/9oepQ_1683537769141Ua0R9_JPEG/1683537769116.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta)]]></title>
@@ -123,14 +115,6 @@
             <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[5/22, 5/29, 6/5일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/131047</link>
-            <guid>https://tv.naver.com/l/131047</guid>
-            <pubDate>Mon, 15 May 2023 01:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[05월 21일(일) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_137/9oepQ_1683537769141Ua0R9_JPEG/1683537769116.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -685,13 +669,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <왕자대전> 제17회 DIMF 창작지원작 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/131047</link>
-            <guid>https://tv.naver.com/l/131047</guid>
-            <pubDate>Mon, 15 May 2023 01:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[05월 21일(일) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
