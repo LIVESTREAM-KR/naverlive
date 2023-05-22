@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 15:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 16:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 프레스콜 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/131851</link>
@@ -123,15 +114,6 @@
             <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
             <content:encoded><![CDATA[5/22, 5/29, 6/5일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 프레스콜 (네이버 공연 live beta ─ HOT)]]></title>
@@ -563,15 +545,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 28 Apr 2023 08:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_189/DbqKR_1682576213175TAPGx_JPEG/1682576213141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/130039</link>
             <guid>https://tv.naver.com/l/130039</guid>
@@ -685,14 +658,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬<은하철도의 밤>실황 중계-5/22(월) 정상윤, 박정원 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/130038</link>
-            <guid>https://tv.naver.com/l/130038</guid>
-            <pubDate>Fri, 28 Apr 2023 08:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[05월 22일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <할란카운티> 프레스콜 (네이버 공연 live beta ─ 전체일정)]]></title>
