@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 08:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 09:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,7 +129,7 @@
 											창작산실 연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/131021</link>
             <guid>https://tv.naver.com/l/131021</guid>
-            <pubDate>Tue, 23 May 2023 08:40:03 GMT</pubDate>
+            <pubDate>Tue, 23 May 2023 08:39:51 GMT</pubDate>
             <content:encoded><![CDATA[05월 23일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_42/cY5Ep_1683512777667KpY6k_JPEG/1683512777548.jpg" length="0" type="image/jpg"/>
         </item>
@@ -200,6 +200,24 @@
             <pubDate>Thu, 18 May 2023 02:45:45 GMT</pubDate>
             <content:encoded><![CDATA[06월 24일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Wed, 17 May 2023 09:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -290,24 +308,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Wed, 17 May 2023 09:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전통공연예술진흥재단TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -478,7 +478,7 @@
             <pubDate>Sat, 13 May 2023 09:38:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
 										</div>
@@ -566,7 +566,7 @@
 											창작산실 연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/131021</link>
             <guid>https://tv.naver.com/l/131021</guid>
-            <pubDate>Tue, 23 May 2023 08:40:15 GMT</pubDate>
+            <pubDate>Tue, 23 May 2023 08:39:51 GMT</pubDate>
             <content:encoded><![CDATA[05월 23일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_42/cY5Ep_1683512777667KpY6k_JPEG/1683512777548.jpg" length="0" type="image/jpg"/>
         </item>
@@ -691,7 +691,7 @@
 										창작산실 연극 <빵야> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/131021</link>
             <guid>https://tv.naver.com/l/131021</guid>
-            <pubDate>Tue, 23 May 2023 08:40:26 GMT</pubDate>
+            <pubDate>Tue, 23 May 2023 08:39:51 GMT</pubDate>
             <content:encoded><![CDATA[05월 23일(화) 20:00]]></content:encoded>
         </item>
         <item>
