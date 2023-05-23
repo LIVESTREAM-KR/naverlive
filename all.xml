@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 01:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 02:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,24 @@
             <pubDate>Thu, 18 May 2023 02:45:45 GMT</pubDate>
             <content:encoded><![CDATA[06월 24일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreanationalopera</link>
+            <guid>https://tv.naver.com/koreanationalopera</guid>
+            <pubDate>Tue, 23 May 2023 02:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" alt="국립오페라단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립오페라단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -524,24 +542,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HJ컬쳐 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/hjculture</link>
-            <guid>https://tv.naver.com/hjculture</guid>
-            <pubDate>Wed, 10 May 2023 10:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">HJ컬쳐</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
