@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-23T07:39:54.402Z</updated>
+    <updated>2023-05-23T08:40:27.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후원
+										창작산실 연극 <빵야> 공연실황 녹화중계]]></title>
+        <id>https://tv.naver.com/l/131021</id>
+        <link href="https://tv.naver.com/l/131021"/>
+        <updated>2023-05-23T08:40:26.486Z</updated>
+        <content type="html"><![CDATA[05월 23일(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <할란카운티> 프레스콜]]></title>
         <id>https://tv.naver.com/l/131851</id>
