@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 03:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 04:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 22 May 2023 12:53:13 GMT</pubDate>
             <content:encoded><![CDATA[05월 25일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230522_99/ztwqR_1684745277514bRfdV_JPEG/1684745277479.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/26일 (금) (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/131889</link>
+            <guid>https://tv.naver.com/l/131889</guid>
+            <pubDate>Thu, 25 May 2023 04:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[05월 26일(금) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_215/6bM3J_1684807923514x2kRk_JPEG/1684807923465.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/27(토) (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/131890</link>
+            <guid>https://tv.naver.com/l/131890</guid>
+            <pubDate>Thu, 25 May 2023 04:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[05월 27일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_8/0lmXU_1684808060759qKbLP_JPEG/1684808060725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 < Town of 해방 > 제17회 DIMF 창작지원작 (네이버 공연 live beta)]]></title>
@@ -124,6 +140,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230522_99/ztwqR_1684745277514bRfdV_JPEG/1684745277479.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/26일 (금) (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/131889</link>
+            <guid>https://tv.naver.com/l/131889</guid>
+            <pubDate>Thu, 25 May 2023 04:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[05월 26일(금) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_215/6bM3J_1684807923514x2kRk_JPEG/1684807923465.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/27(토) (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/131890</link>
+            <guid>https://tv.naver.com/l/131890</guid>
+            <pubDate>Thu, 25 May 2023 04:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[05월 27일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_8/0lmXU_1684808060759qKbLP_JPEG/1684808060725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 < Town of 해방 > 제17회 DIMF 창작지원작 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/131285</link>
             <guid>https://tv.naver.com/l/131285</guid>
@@ -182,6 +214,24 @@
             <pubDate>Thu, 18 May 2023 02:45:45 GMT</pubDate>
             <content:encoded><![CDATA[06월 24일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -362,24 +412,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ACOM MUSICAL (네이버 공연 live beta ─ 채널)]]></title>
@@ -665,6 +697,20 @@
             <guid>https://tv.naver.com/l/131851</guid>
             <pubDate>Mon, 22 May 2023 12:53:13 GMT</pubDate>
             <content:encoded><![CDATA[05월 25일(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/26일 (금) (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/131889</link>
+            <guid>https://tv.naver.com/l/131889</guid>
+            <pubDate>Thu, 25 May 2023 04:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 26일(금) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/27(토) (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/131890</link>
+            <guid>https://tv.naver.com/l/131890</guid>
+            <pubDate>Thu, 25 May 2023 04:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[05월 27일(토) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 < Town of 해방 > 제17회 DIMF 창작지원작 (네이버 공연 live beta ─ 전체일정)]]></title>
