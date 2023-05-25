@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 11:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 12:54:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -175,7 +175,7 @@
             <title><![CDATA[뮤지컬 쿠로이 저택엔 누가 살고 있을까? 미디어콜 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/132032</link>
             <guid>https://tv.naver.com/l/132032</guid>
-            <pubDate>Thu, 25 May 2023 11:38:48 GMT</pubDate>
+            <pubDate>Thu, 25 May 2023 11:38:36 GMT</pubDate>
             <content:encoded><![CDATA[06월 01일(목) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_125/xCw9p_1685001499537d8pWN_JPEG/1685001499492.jpg" length="0" type="image/jpg"/>
         </item>
@@ -729,7 +729,7 @@
             <title><![CDATA[뮤지컬 쿠로이 저택엔 누가 살고 있을까? 미디어콜 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/132032</link>
             <guid>https://tv.naver.com/l/132032</guid>
-            <pubDate>Thu, 25 May 2023 11:39:12 GMT</pubDate>
+            <pubDate>Thu, 25 May 2023 11:38:36 GMT</pubDate>
             <content:encoded><![CDATA[06월 01일(목) 15:00]]></content:encoded>
         </item>
         <item>
