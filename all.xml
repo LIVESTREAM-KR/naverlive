@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 09:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/26일 (금) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/131889</link>
-            <guid>https://tv.naver.com/l/131889</guid>
-            <pubDate>Thu, 25 May 2023 04:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[05월 26일(금) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_215/6bM3J_1684807923514x2kRk_JPEG/1684807923465.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/27(토) (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/131890</link>
@@ -132,14 +124,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230503_18/1683085361418NtsrB_JPEG/688X386_eunha.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/26일 (금) (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/131889</link>
-            <guid>https://tv.naver.com/l/131889</guid>
-            <pubDate>Thu, 25 May 2023 04:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[05월 26일(금) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_215/6bM3J_1684807923514x2kRk_JPEG/1684807923465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/27(토) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/131890</link>
             <guid>https://tv.naver.com/l/131890</guid>
@@ -216,6 +200,24 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230515_114/1684126677339Gzi9q_JPEG/880X495_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Wed, 17 May 2023 09:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -250,24 +252,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200603_77/JperQ_1591160657983cJyXU_JPEG/1591160657954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Wed, 17 May 2023 09:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
@@ -690,13 +674,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[마포문화재단 마포아트센터]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210825_154/et4ap_1629893177558hAdB5_JPEG/b3c08bc4-059c-11ec-b6bf-48df379cc9e4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/26일 (금) (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/131889</link>
-            <guid>https://tv.naver.com/l/131889</guid>
-            <pubDate>Thu, 25 May 2023 04:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[05월 26일(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 제25회 서울드럼페스티벌 - 5/27(토) (네이버 공연 live beta ─ 전체일정)]]></title>
