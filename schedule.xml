@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-05-29T15:39:19.950Z</updated>
+    <updated>2023-05-29T16:41:07.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬<은하철도의 밤>실황 중계-5/29(월) 윤승우, 김리현]]></title>
-        <id>https://tv.naver.com/l/130039</id>
-        <link href="https://tv.naver.com/l/130039"/>
-        <updated>2023-04-28T08:39:34.406Z</updated>
-        <content type="html"><![CDATA[05월 29일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 쿠로이 저택엔 누가 살고 있을까? 미디어콜 중계]]></title>
         <id>https://tv.naver.com/l/132032</id>
