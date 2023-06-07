@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-06-07T03:06:09.966Z</updated>
+    <updated>2023-06-07T03:39:38.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -22,10 +22,50 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <미아 파밀리아> 중계 -6/18(일) 8시]]></title>
+        <id>https://tv.naver.com/l/132678</id>
+        <link href="https://tv.naver.com/l/132678"/>
+        <updated>2023-06-07T03:39:37.872Z</updated>
+        <content type="html"><![CDATA[06월 18일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <미아 파밀리아> 중계 -6/19(월) 8시]]></title>
+        <id>https://tv.naver.com/l/132679</id>
+        <link href="https://tv.naver.com/l/132679"/>
+        <updated>2023-06-07T03:39:37.873Z</updated>
+        <content type="html"><![CDATA[06월 19일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										오페라 <일 트로바토레>]]></title>
         <id>https://tv.naver.com/l/130726</id>
         <link href="https://tv.naver.com/l/130726"/>
         <updated>2023-05-15T05:39:27.280Z</updated>
         <content type="html"><![CDATA[06월 24일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <미아 파밀리아> 중계 -6/25(일) 8시]]></title>
+        <id>https://tv.naver.com/l/132680</id>
+        <link href="https://tv.naver.com/l/132680"/>
+        <updated>2023-06-07T03:39:37.875Z</updated>
+        <content type="html"><![CDATA[06월 25일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시]]></title>
+        <id>https://tv.naver.com/l/132682</id>
+        <link href="https://tv.naver.com/l/132682"/>
+        <updated>2023-06-07T03:39:37.876Z</updated>
+        <content type="html"><![CDATA[06월 26일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <미아 파밀리아> 중계 -7/2(일) 8시]]></title>
+        <id>https://tv.naver.com/l/132683</id>
+        <link href="https://tv.naver.com/l/132683"/>
+        <updated>2023-06-07T03:39:37.878Z</updated>
+        <content type="html"><![CDATA[07월 02일(일) 20:00]]></content>
     </entry>
 </feed>
