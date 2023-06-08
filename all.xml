@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 12:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 13:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <태권, 날아올라> 초연 전막 녹화 중계! (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/132671</link>
-            <guid>https://tv.naver.com/l/132671</guid>
-            <pubDate>Tue, 06 Jun 2023 07:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[06월 08일(목) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_11/MOMDW_1686031503353J1sAO_JPEG/1686031503328.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬<문스토리>실황 중계-6/12(월) PM8 (네이버 공연 live beta)]]></title>
@@ -109,14 +101,6 @@
             <pubDate>Thu, 18 May 2023 02:45:45 GMT</pubDate>
             <content:encoded><![CDATA[6/24일 (토) 오후 3시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230518_29/1684377254895TaFfe_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <태권, 날아올라> 초연 전막 녹화 중계! (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/132671</link>
-            <guid>https://tv.naver.com/l/132671</guid>
-            <pubDate>Tue, 06 Jun 2023 07:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[06월 08일(목) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_11/MOMDW_1686031503353J1sAO_JPEG/1686031503328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -683,13 +667,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <태권, 날아올라> 초연 전막 녹화 중계! (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/132671</link>
-            <guid>https://tv.naver.com/l/132671</guid>
-            <pubDate>Tue, 06 Jun 2023 07:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[06월 08일(목) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
