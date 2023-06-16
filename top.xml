@@ -4,24 +4,16 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 06:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 07:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 <미아 파밀리아> 녹화 중계 전설은 계속된다! 뮤지컬!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Mon, 12 Jun 2023 08:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[6/18, 6/19, 6/25, 6/26, 7/2일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230612_71/1686557304064Odm41_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립오페라단 <일 트로바토레>오페라의 제왕 타이틀의 시작]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Thu, 18 May 2023 02:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[6/24일 (토) 오후 3시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230518_29/1684377254895TaFfe_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <박열> 온라인 중계 후원라이브]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 16 Jun 2023 07:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[7/3, 7/10, 7/17일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230616_66/1686900066265nqoWq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미아 파밀리아> 녹화 중계 전설은 계속된다! 뮤지컬!]]></title>
@@ -38,6 +30,22 @@
             <pubDate>Thu, 18 May 2023 02:45:45 GMT</pubDate>
             <content:encoded><![CDATA[6/24일 (토) 오후 3시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230518_29/1684377254895TaFfe_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <박열> 온라인 중계 후원라이브]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Fri, 16 Jun 2023 07:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[7/3, 7/10, 7/17일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230616_66/1686900066265nqoWq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미아 파밀리아> 녹화 중계 전설은 계속된다! 뮤지컬!]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
+            <pubDate>Mon, 12 Jun 2023 08:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[6/18, 6/19, 6/25, 6/26, 7/2일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230612_71/1686557304064Odm41_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
