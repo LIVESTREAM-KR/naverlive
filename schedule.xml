@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-06-25T14:39:06.110Z</updated>
+    <updated>2023-06-25T15:38:54.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <미아 파밀리아> 중계 -6/25(일) 8시]]></title>
-        <id>https://tv.naver.com/l/132680</id>
-        <link href="https://tv.naver.com/l/132680"/>
-        <updated>2023-06-07T03:39:37.875Z</updated>
-        <content type="html"><![CDATA[06월 25일(일) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시]]></title>
