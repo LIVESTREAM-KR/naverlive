@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 14:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 15:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Wed, 07 Jun 2023 03:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[06월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_22/IXX8v_1686048566282KzxVM_JPEG/1686048566257.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <미아 파밀리아> 중계 -7/2(일) 8시 (네이버 공연 live beta)]]></title>
@@ -127,15 +118,6 @@
             <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
             <content:encoded><![CDATA[7/13일 (목) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230626_75/1687764828508wWHrf_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Wed, 07 Jun 2023 03:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[06월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_22/IXX8v_1686048566282KzxVM_JPEG/1686048566257.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -571,15 +553,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
-            <pubDate>Wed, 07 Jun 2023 03:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[06월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_22/IXX8v_1686048566282KzxVM_JPEG/1686048566257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <미아 파밀리아> 중계 -7/2(일) 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/hongcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/hongcompany</guid>
@@ -729,14 +702,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <미아 파밀리아> 중계 -6/26(월) 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/132682</link>
-            <guid>https://tv.naver.com/l/132682</guid>
-            <pubDate>Wed, 07 Jun 2023 03:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[06월 26일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
