@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-06-25T23:39:34.537Z</updated>
+    <updated>2023-06-26T02:20:37.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -39,10 +39,34 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <삼총사> 녹화 중계 - 7.12 WED]]></title>
+        <id>https://tv.naver.com/l/133606</id>
+        <link href="https://tv.naver.com/l/133606"/>
+        <updated>2023-06-26T02:20:36.619Z</updated>
+        <content type="html"><![CDATA[07월 12일(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬<박열>실황 중계-7/17(월) 백기범, 허혜진, 문경초]]></title>
         <id>https://tv.naver.com/l/133140</id>
         <link href="https://tv.naver.com/l/133140"/>
         <updated>2023-06-16T06:40:09.846Z</updated>
         <content type="html"><![CDATA[07월 17일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <삼총사> 녹화 중계 - 7.20 THU]]></title>
+        <id>https://tv.naver.com/l/133607</id>
+        <link href="https://tv.naver.com/l/133607"/>
+        <updated>2023-06-26T02:20:36.621Z</updated>
+        <content type="html"><![CDATA[07월 20일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <삼총사> 녹화 중계 - 7.24 MON]]></title>
+        <id>https://tv.naver.com/l/133609</id>
+        <link href="https://tv.naver.com/l/133609"/>
+        <updated>2023-06-26T02:20:36.623Z</updated>
+        <content type="html"><![CDATA[07월 24일(월) 20:00]]></content>
     </entry>
 </feed>
