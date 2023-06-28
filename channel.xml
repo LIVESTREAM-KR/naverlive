@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 03:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 04:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한경arteTV]]></title>
+            <link>https://tv.naver.com/artetv</link>
+            <guid>https://tv.naver.com/artetv</guid>
+            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한경arteTV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국립국악원TV]]></title>
             <link>https://tv.naver.com/gugak1951</link>
@@ -194,7 +212,7 @@
             <pubDate>Wed, 21 Jun 2023 05:39:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
 										</div>
@@ -294,24 +312,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경arteTV]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한경arteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울시립교향악단 SPO TV]]></title>
