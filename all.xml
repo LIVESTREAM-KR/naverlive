@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 11:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 12:59:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,24 @@
             <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
             <content:encoded><![CDATA[07월 24일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gdfac</link>
+            <guid>https://tv.naver.com/gdfac</guid>
+            <pubDate>Mon, 13 Mar 2023 09:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강동문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -406,24 +424,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gdfac</link>
-            <guid>https://tv.naver.com/gdfac</guid>
-            <pubDate>Mon, 13 Mar 2023 09:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강동문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
