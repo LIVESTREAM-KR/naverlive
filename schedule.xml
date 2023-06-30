@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-06-30T13:39:28.700Z</updated>
+    <updated>2023-06-30T14:39:05.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <link href="https://tv.naver.com/l/133138"/>
         <updated>2023-06-16T05:39:30.696Z</updated>
         <content type="html"><![CDATA[07월 03일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <라흐 헤스트> 생중계]]></title>
+        <id>https://tv.naver.com/l/134090</id>
+        <link href="https://tv.naver.com/l/134090"/>
+        <updated>2023-06-30T14:39:04.940Z</updated>
+        <content type="html"><![CDATA[07월 04일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
