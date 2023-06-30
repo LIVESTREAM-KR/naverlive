@@ -4,27 +4,9 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 08:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 09:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[글로벌컨텐츠]]></title>
-            <link>https://tv.naver.com/globalcontents</link>
-            <guid>https://tv.naver.com/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 02:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/globalcontents" onclick="nclk(this, 'channel.img', 'globalcontents', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" alt="글로벌컨텐츠 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">글로벌컨텐츠</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[스팍TV]]></title>
             <link>https://tv.naver.com/sfacmovie</link>
@@ -42,6 +24,42 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대구국제뮤지컬페스티벌 (DIMF)]]></title>
+            <link>https://tv.naver.com/dimf</link>
+            <guid>https://tv.naver.com/dimf</guid>
+            <pubDate>Fri, 30 Jun 2023 09:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/dimf" onclick="nclk(this, 'channel.img', 'dimf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" alt="대구국제뮤지컬페스티벌 (DIMF) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">대구국제뮤지컬페스티벌 (DIMF)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200922_23/PTE3e_16007555351161tH4e_JPEG/1600755535099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌컨텐츠]]></title>
+            <link>https://tv.naver.com/globalcontents</link>
+            <guid>https://tv.naver.com/globalcontents</guid>
+            <pubDate>Mon, 26 Jun 2023 02:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/globalcontents" onclick="nclk(this, 'channel.img', 'globalcontents', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" alt="글로벌컨텐츠 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">글로벌컨텐츠</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단]]></title>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파크컴퍼니TV]]></title>
-            <link>https://tv.naver.com/parkcompany</link>
-            <guid>https://tv.naver.com/parkcompany</guid>
-            <pubDate>Fri, 09 Jun 2023 05:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/parkcompany" onclick="nclk(this, 'channel.img', 'parkcompany', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" alt="파크컴퍼니TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">파크컴퍼니TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
