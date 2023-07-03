@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-07-03T14:40:07.022Z</updated>
+    <updated>2023-07-03T15:39:22.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬<박열>실황 중계-7/3(월) 김재범,이정화,권용국]]></title>
-        <id>https://tv.naver.com/l/133138</id>
-        <link href="https://tv.naver.com/l/133138"/>
-        <updated>2023-06-16T05:39:30.696Z</updated>
-        <content type="html"><![CDATA[07월 03일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <라흐 헤스트> 생중계]]></title>
         <id>https://tv.naver.com/l/134090</id>
