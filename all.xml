@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 02:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,7 +194,7 @@
 											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/132782</link>
             <guid>https://tv.naver.com/l/132782</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:30 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
         </item>
@@ -203,7 +203,7 @@
 											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/132783</link>
             <guid>https://tv.naver.com/l/132783</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:30 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
             <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
         </item>
@@ -224,6 +224,60 @@
             <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
             <content:encoded><![CDATA[07월 24일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[파크컴퍼니TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/parkcompany</link>
+            <guid>https://tv.naver.com/parkcompany</guid>
+            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/parkcompany" onclick="nclk(this, 'channel.img', 'parkcompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" alt="파크컴퍼니TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">파크컴퍼니TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[(주)더블케이 엔터테인먼트 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/doublek</link>
+            <guid>https://tv.naver.com/doublek</guid>
+            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/doublek" onclick="nclk(this, 'channel.img', 'doublek', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200311_214/2Bd3i_1583914873565kTbgN_JPEG/1583914873543.jpg" alt="(주)더블케이 엔터테인먼트 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">(주)더블케이 엔터테인먼트</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200311_214/2Bd3i_1583914873565kTbgN_JPEG/1583914873543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 (네이버 공연 live beta ─ 채널)]]></title>
@@ -532,60 +586,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍컴퍼니 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/hongcompany</link>
-            <guid>https://tv.naver.com/hongcompany</guid>
-            <pubDate>Fri, 16 Jun 2023 07:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hongcompany" onclick="nclk(this, 'channel.img', 'hongcompany', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" alt="홍컴퍼니 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">홍컴퍼니</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아시테지코리아 네이버TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/assitejkorea</link>
-            <guid>https://tv.naver.com/assitejkorea</guid>
-            <pubDate>Thu, 15 Jun 2023 08:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/assitejkorea" onclick="nclk(this, 'channel.img', 'assitejkorea', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" alt="아시테지코리아 네이버TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아시테지코리아 네이버TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulphil</link>
-            <guid>https://tv.naver.com/seoulphil</guid>
-            <pubDate>Tue, 13 Jun 2023 08:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulphil" onclick="nclk(this, 'channel.img', 'seoulphil', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" alt="서울시립교향악단 SPO TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시립교향악단 SPO TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬<박열>실황 중계-7/3(월) 김재범,이정화,권용국 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
@@ -635,7 +635,7 @@
 											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/132782</link>
             <guid>https://tv.naver.com/l/132782</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:42 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
         </item>
@@ -644,7 +644,7 @@
 											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/132783</link>
             <guid>https://tv.naver.com/l/132783</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:42 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
             <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
         </item>
@@ -798,7 +798,7 @@
 										[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/132782</link>
             <guid>https://tv.naver.com/l/132782</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:52 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
             <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
         </item>
         <item>
@@ -806,7 +806,7 @@
 										[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/132783</link>
             <guid>https://tv.naver.com/l/132783</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:52 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
             <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
         </item>
         <item>
