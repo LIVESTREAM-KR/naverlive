@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 11:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 13:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -522,7 +522,7 @@
             <pubDate>Mon, 13 Mar 2023 09:39:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
 										</div>
