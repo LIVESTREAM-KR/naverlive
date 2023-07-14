@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-07-14T11:39:06.672Z</updated>
+    <updated>2023-07-14T13:01:06.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -44,6 +44,14 @@
         <link href="https://tv.naver.com/l/133609"/>
         <updated>2023-06-26T02:20:36.623Z</updated>
         <content type="html"><![CDATA[07월 24일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										[후원전용] <윌리엄과 윌리엄의 윌리엄들> 공연실황중계]]></title>
+        <id>https://tv.naver.com/l/132784</id>
+        <link href="https://tv.naver.com/l/132784"/>
+        <updated>2023-07-14T13:01:05.466Z</updated>
+        <content type="html"><![CDATA[07월 25일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
