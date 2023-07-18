@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 13:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 14:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
@@ -85,15 +76,6 @@
             <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
             <content:encoded><![CDATA[7/12, 7/20 7/24일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -511,15 +493,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_272/x3OGw_1686725232489pJALj_JPEG/1686725232448.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -651,14 +624,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										[후원전용] <김재훈의 P.N.O> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/132782</link>
-            <guid>https://tv.naver.com/l/132782</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[07월 18일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
