@@ -2,25 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-07-20T14:39:41.072Z</updated>
+    <updated>2023-07-20T15:39:38.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[후원전용] <앨리스> 공연실황 녹화중계]]></title>
-        <id>https://tv.naver.com/l/132783</id>
-        <link href="https://tv.naver.com/l/132783"/>
-        <updated>2023-07-03T02:16:52.782Z</updated>
-        <content type="html"><![CDATA[07월 20일(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <삼총사> 녹화 중계 - 7.20 THU]]></title>
-        <id>https://tv.naver.com/l/133607</id>
-        <link href="https://tv.naver.com/l/133607"/>
-        <updated>2023-06-26T02:20:36.621Z</updated>
-        <content type="html"><![CDATA[07월 20일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <삼총사> 녹화 중계 - 7.24 MON]]></title>

@@ -4,27 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 14:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 15:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <삼총사> 녹화 중계 - 7.20 THU (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
-            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <삼총사> 녹화 중계 - 7.24 MON (네이버 공연 live beta)]]></title>
@@ -76,24 +58,6 @@
             <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
             <content:encoded><![CDATA[7/12, 7/20 7/24일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230626_214/168774829765926Uwk_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <삼총사> 녹화 중계 - 7.20 THU (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
-            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -493,24 +457,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Mon, 26 Jun 2023 06:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_296/W40e7_1686188513726DBuEN_JPEG/1686188513653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <삼총사> 녹화 중계 - 7.20 THU (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
-            <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 02:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <삼총사> 녹화 중계 - 7.24 MON (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/globalcontents</link>
             <guid>https://patron.naver.com/ntv/c/intro/globalcontents</guid>
@@ -624,22 +570,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										[후원전용] <앨리스> 공연실황 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/132783</link>
-            <guid>https://tv.naver.com/l/132783</guid>
-            <pubDate>Mon, 03 Jul 2023 02:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <삼총사> 녹화 중계 - 7.20 THU (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/133607</link>
-            <guid>https://tv.naver.com/l/133607</guid>
-            <pubDate>Mon, 26 Jun 2023 02:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 20일(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
