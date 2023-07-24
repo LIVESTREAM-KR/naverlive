@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-07-24T14:39:41.267Z</updated>
+    <updated>2023-07-24T15:39:22.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <삼총사> 녹화 중계 - 7.24 MON]]></title>
-        <id>https://tv.naver.com/l/133609</id>
-        <link href="https://tv.naver.com/l/133609"/>
-        <updated>2023-06-26T02:20:36.623Z</updated>
-        <content type="html"><![CDATA[07월 24일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										[후원전용] <윌리엄과 윌리엄의 윌리엄들> 공연실황중계]]></title>
