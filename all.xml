@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 02:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:59:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
 											오페라 <라 트라비아타> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 25 Jul 2023 02:07:01 GMT</pubDate>
+            <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
         </item>
@@ -487,7 +487,7 @@
 											오페라 <라 트라비아타> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 25 Jul 2023 02:07:14 GMT</pubDate>
+            <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
         </item>
