@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-07-27T14:39:28.916Z</updated>
+    <updated>2023-07-27T15:39:52.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										[후원전용] <하얀 봄> 공연실황 녹화중계]]></title>
-        <id>https://tv.naver.com/l/132785</id>
-        <link href="https://tv.naver.com/l/132785"/>
-        <updated>2023-07-18T02:25:26.612Z</updated>
-        <content type="html"><![CDATA[07월 27일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인]]></title>
