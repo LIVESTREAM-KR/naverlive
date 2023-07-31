@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 14:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 15:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 16 Jun 2023 06:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											오페라 <라 트라비아타> (네이버 공연 live beta)]]></title>
@@ -40,15 +31,6 @@
             <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
             <content:encoded><![CDATA[9/23일 (토) 오후 3시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230726_7/16903335531114ieYg_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 16 Jun 2023 06:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -421,15 +403,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Fri, 16 Jun 2023 06:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											오페라 <라 트라비아타> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -516,14 +489,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										연극<인사이드> 실황 중계-7/31(월) 김도빈, 윤소호, 류인 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/134254</link>
-            <guid>https://tv.naver.com/l/134254</guid>
-            <pubDate>Tue, 04 Jul 2023 02:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
