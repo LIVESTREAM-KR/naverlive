@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 02:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,7 +73,7 @@
 											뮤지컬 <웨스턴 스토리> 1차 중계 8/21 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/136118</link>
             <guid>https://tv.naver.com/l/136118</guid>
-            <pubDate>Tue, 01 Aug 2023 01:58:40 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[08월 21일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_254/jdisq_1690808536921NgogW_JPEG/1690808536884.jpg" length="0" type="image/jpg"/>
         </item>
@@ -82,7 +82,7 @@
 											뮤지컬 <웨스턴 스토리> 2차 중계 8/28 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/136119</link>
             <guid>https://tv.naver.com/l/136119</guid>
-            <pubDate>Tue, 01 Aug 2023 01:58:40 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[08월 28일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_84/iwPuI_1690809213335qAz65_JPEG/1690809213316.jpg" length="0" type="image/jpg"/>
         </item>
@@ -91,7 +91,7 @@
 											뮤지컬 <웨스턴 스토리> 3차 중계 9/3 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/136120</link>
             <guid>https://tv.naver.com/l/136120</guid>
-            <pubDate>Tue, 01 Aug 2023 01:58:40 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[09월 03일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_169/7Hqyz_16908094444628cfek_JPEG/1690809444428.jpg" length="0" type="image/jpg"/>
         </item>
@@ -100,7 +100,7 @@
 											뮤지컬 <웨스턴 스토리> 4차 중계 9/4 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/136122</link>
             <guid>https://tv.naver.com/l/136122</guid>
-            <pubDate>Tue, 01 Aug 2023 01:58:40 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[09월 04일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_80/0Kwv6_1690811314398dEF6m_JPEG/1690811314387.jpg" length="0" type="image/jpg"/>
         </item>
@@ -112,6 +112,24 @@
             <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Tue, 01 Aug 2023 02:49:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230801_47/DQPZz_1690851751341ItWti_JPEG/1690851751310.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_47/DQPZz_1690851751341ItWti_JPEG/1690851751310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -456,29 +474,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Thu, 06 Jul 2023 03:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <웨스턴 스토리> 1차 중계 8/21 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/136118</link>
             <guid>https://tv.naver.com/l/136118</guid>
-            <pubDate>Tue, 01 Aug 2023 01:59:49 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[08월 21일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_254/jdisq_1690808536921NgogW_JPEG/1690808536884.jpg" length="0" type="image/jpg"/>
         </item>
@@ -487,7 +487,7 @@
 											뮤지컬 <웨스턴 스토리> 2차 중계 8/28 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/136119</link>
             <guid>https://tv.naver.com/l/136119</guid>
-            <pubDate>Tue, 01 Aug 2023 01:59:49 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[08월 28일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_84/iwPuI_1690809213335qAz65_JPEG/1690809213316.jpg" length="0" type="image/jpg"/>
         </item>
@@ -496,7 +496,7 @@
 											뮤지컬 <웨스턴 스토리> 3차 중계 9/3 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/136120</link>
             <guid>https://tv.naver.com/l/136120</guid>
-            <pubDate>Tue, 01 Aug 2023 01:59:49 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[09월 03일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_169/7Hqyz_16908094444628cfek_JPEG/1690809444428.jpg" length="0" type="image/jpg"/>
         </item>
@@ -505,7 +505,7 @@
 											뮤지컬 <웨스턴 스토리> 4차 중계 9/4 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/136122</link>
             <guid>https://tv.naver.com/l/136122</guid>
-            <pubDate>Tue, 01 Aug 2023 01:59:49 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[09월 04일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_80/0Kwv6_1690811314398dEF6m_JPEG/1690811314387.jpg" length="0" type="image/jpg"/>
         </item>
@@ -603,7 +603,7 @@
 										뮤지컬 <웨스턴 스토리> 1차 중계 8/21 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/136118</link>
             <guid>https://tv.naver.com/l/136118</guid>
-            <pubDate>Tue, 01 Aug 2023 02:00:25 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[08월 21일(월) 20:00]]></content:encoded>
         </item>
         <item>
@@ -611,7 +611,7 @@
 										뮤지컬 <웨스턴 스토리> 2차 중계 8/28 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/136119</link>
             <guid>https://tv.naver.com/l/136119</guid>
-            <pubDate>Tue, 01 Aug 2023 02:00:25 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[08월 28일(월) 20:00]]></content:encoded>
         </item>
         <item>
@@ -619,7 +619,7 @@
 										뮤지컬 <웨스턴 스토리> 3차 중계 9/3 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/136120</link>
             <guid>https://tv.naver.com/l/136120</guid>
-            <pubDate>Tue, 01 Aug 2023 02:00:25 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[09월 03일(일) 20:00]]></content:encoded>
         </item>
         <item>
@@ -627,7 +627,7 @@
 										뮤지컬 <웨스턴 스토리> 4차 중계 9/4 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/136122</link>
             <guid>https://tv.naver.com/l/136122</guid>
-            <pubDate>Tue, 01 Aug 2023 02:00:25 GMT</pubDate>
+            <pubDate>Tue, 01 Aug 2023 01:58:08 GMT</pubDate>
             <content:encoded><![CDATA[09월 04일(월) 20:00]]></content:encoded>
         </item>
         <item>
