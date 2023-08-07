@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 23:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 01:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -130,6 +130,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/sfacmovie</link>
             <guid>https://tv.naver.com/sfacmovie</guid>
@@ -182,24 +200,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -352,7 +352,7 @@
             <pubDate>Mon, 31 Jul 2023 01:54:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230730_163/2nqHT_1690718506944whgkw_JPEG/1690718506874.jpg" alt="웰컴대학로 이미지">
 										</div>
