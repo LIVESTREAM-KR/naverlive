@@ -4,26 +4,26 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 08:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:39:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[금호아트홀]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Thu, 01 Jun 2023 11:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+            <title><![CDATA[국립심포니오케스트라]]></title>
+            <link>https://tv.naver.com/koreansymphony</link>
+            <guid>https://tv.naver.com/koreansymphony</guid>
+            <pubDate>Tue, 08 Aug 2023 09:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreansymphony" onclick="nclk(this, 'channel.img', 'koreansymphony', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" alt="국립심포니오케스트라 이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
+										<p class="txt">국립심포니오케스트라</p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV]]></title>
@@ -42,6 +42,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Thu, 01 Jun 2023 11:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이브(주)]]></title>
@@ -212,7 +230,7 @@
             <pubDate>Tue, 01 Aug 2023 02:49:58 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230801_47/DQPZz_1690851751341ItWti_JPEG/1690851751310.jpg" alt="국립합창단 l The National Chorus of Korea  이미지">
 										</div>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌컨텐츠]]></title>
-            <link>https://tv.naver.com/globalcontents</link>
-            <guid>https://tv.naver.com/globalcontents</guid>
-            <pubDate>Mon, 26 Jun 2023 02:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/globalcontents" onclick="nclk(this, 'channel.img', 'globalcontents', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" alt="글로벌컨텐츠 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">글로벌컨텐츠</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
