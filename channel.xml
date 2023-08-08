@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 03:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브(주)]]></title>
+            <link>https://tv.naver.com/livecorp</link>
+            <guid>https://tv.naver.com/livecorp</guid>
+            <pubDate>Thu, 13 Jul 2023 03:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">라이브(주)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성남문화재단]]></title>
             <link>https://tv.naver.com/snart</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_115/GNqhQ_16874192494044enX4_JPEG/1687419249385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브(주)]]></title>
-            <link>https://tv.naver.com/livecorp</link>
-            <guid>https://tv.naver.com/livecorp</guid>
-            <pubDate>Thu, 13 Jul 2023 03:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">라이브(주)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
