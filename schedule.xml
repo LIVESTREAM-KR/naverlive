@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-08-23T10:39:56.334Z</updated>
+    <updated>2023-08-23T11:39:22.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -28,6 +28,13 @@
         <link href="https://tv.naver.com/l/136122"/>
         <updated>2023-08-01T02:00:25.081Z</updated>
         <content type="html"><![CDATA[09월 04일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청와대에서 펼쳐지는 '2023 블루하우스 콘서트']]></title>
+        <id>https://tv.naver.com/l/137663</id>
+        <link href="https://tv.naver.com/l/137663"/>
+        <updated>2023-08-23T11:39:21.948Z</updated>
+        <content type="html"><![CDATA[09월 10일(일) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
