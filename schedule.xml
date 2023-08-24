@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-08-24T06:39:28.610Z</updated>
+    <updated>2023-08-24T07:39:02.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										연극 헤르츠클란_CAST: 김경수 장은아 강찬]]></title>
+        <id>https://tv.naver.com/l/137650</id>
+        <link href="https://tv.naver.com/l/137650"/>
+        <updated>2023-08-24T07:39:02.098Z</updated>
+        <content type="html"><![CDATA[09월 11일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일]]></title>
         <id>https://tv.naver.com/l/137253</id>
         <link href="https://tv.naver.com/l/137253"/>
@@ -54,10 +62,26 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										연극 헤르츠클란_CAST: 조풍래, 손유동, 허영손, 안창용]]></title>
+        <id>https://tv.naver.com/l/137652</id>
+        <link href="https://tv.naver.com/l/137652"/>
+        <updated>2023-08-24T07:39:02.103Z</updated>
+        <content type="html"><![CDATA[09월 18일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										오페라 <라 트라비아타>]]></title>
         <id>https://tv.naver.com/l/134734</id>
         <link href="https://tv.naver.com/l/134734"/>
         <updated>2023-07-25T02:07:26.644Z</updated>
         <content type="html"><![CDATA[09월 23일(토) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택]]></title>
+        <id>https://tv.naver.com/l/137654</id>
+        <link href="https://tv.naver.com/l/137654"/>
+        <updated>2023-08-24T07:39:02.107Z</updated>
+        <content type="html"><![CDATA[09월 25일(월) 20:00]]></content>
     </entry>
 </feed>
