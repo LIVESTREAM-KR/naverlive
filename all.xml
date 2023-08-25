@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 04:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 05:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -502,7 +502,7 @@
             <pubDate>Thu, 24 Aug 2023 07:38:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/mbzcompany" onclick="nclk(this, 'channel.img', 'mbzcompany', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230817_253/hS3j4_1692251524787WlaX4_JPEG/1692251524763.jpg" alt="엠비제트컴퍼니 MBZcompany 이미지">
 										</div>
