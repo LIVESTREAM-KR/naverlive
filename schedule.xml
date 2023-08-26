@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-08-26T14:38:59.860Z</updated>
+    <updated>2023-08-26T15:39:16.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -46,7 +46,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										연극 헤르츠클란_CAST: 김경수 장은아 강찬]]></title>
+										연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리]]></title>
         <id>https://tv.naver.com/l/137650</id>
         <link href="https://tv.naver.com/l/137650"/>
         <updated>2023-08-24T07:39:02.098Z</updated>
