@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 08:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 09:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부소니 국제 피아노 콩쿠르 Busoni TV]]></title>
+            <link>https://tv.naver.com/busonicompetition</link>
+            <guid>https://tv.naver.com/busonicompetition</guid>
+            <pubDate>Wed, 23 Aug 2023 16:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busonicompetition" onclick="nclk(this, 'channel.img', 'busonicompetition', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" alt="부소니 국제 피아노 콩쿠르 Busoni TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">부소니 국제 피아노 콩쿠르 Busoni TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한경arteTV]]></title>
             <link>https://tv.naver.com/artetv</link>
@@ -150,24 +168,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_84/RRgkY_1686193444444QAko1_PNG/1686193444428.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부소니 국제 피아노 콩쿠르 Busoni TV]]></title>
-            <link>https://tv.naver.com/busonicompetition</link>
-            <guid>https://tv.naver.com/busonicompetition</guid>
-            <pubDate>Wed, 23 Aug 2023 16:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busonicompetition" onclick="nclk(this, 'channel.img', 'busonicompetition', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" alt="부소니 국제 피아노 콩쿠르 Busoni TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">부소니 국제 피아노 콩쿠르 Busoni TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스팍TV]]></title>
