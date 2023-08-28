@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 23:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 01:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,22 +226,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부소니 국제 피아노 콩쿠르 Busoni TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/busonicompetition</link>
-            <guid>https://tv.naver.com/busonicompetition</guid>
-            <pubDate>Wed, 23 Aug 2023 16:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/busonicompetition" onclick="nclk(this, 'channel.img', 'busonicompetition', '');" class="lnk-channel">
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" alt="부소니 국제 피아노 콩쿠르 Busoni TV 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">부소니 국제 피아노 콩쿠르 Busoni TV</p>
+										<p class="txt">성남문화재단 </p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
@@ -260,6 +260,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[부소니 국제 피아노 콩쿠르 Busoni TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/busonicompetition</link>
+            <guid>https://tv.naver.com/busonicompetition</guid>
+            <pubDate>Wed, 23 Aug 2023 16:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/busonicompetition" onclick="nclk(this, 'channel.img', 'busonicompetition', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" alt="부소니 국제 피아노 콩쿠르 Busoni TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">부소니 국제 피아노 콩쿠르 Busoni TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -314,24 +332,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201202_12/L9imG_1606900245348GHVnN_JPEG/1606900245332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광명문화재단 (네이버 공연 live beta ─ 채널)]]></title>
