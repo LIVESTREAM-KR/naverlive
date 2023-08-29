@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 08:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 09:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -502,7 +502,7 @@
             <pubDate>Tue, 22 Aug 2023 09:38:41 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/spaftheater" onclick="nclk(this, 'channel.img', 'spaftheater', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230822_295/qn1zj_1692669786945WYjcd_PNG/1692669786928.png" alt="서울국제공연예술제 이미지">
 										</div>
