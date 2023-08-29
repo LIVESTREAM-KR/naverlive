@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 06:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 07:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Thu, 01 Jun 2023 11:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웰컴대학로 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/welcomedaehakro</link>
+            <guid>https://tv.naver.com/welcomedaehakro</guid>
+            <pubDate>Mon, 31 Jul 2023 01:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230730_163/2nqHT_1690718506944whgkw_JPEG/1690718506874.jpg" alt="웰컴대학로 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">웰컴대학로</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_163/2nqHT_1690718506944whgkw_JPEG/1690718506874.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/artmconcert</link>
             <guid>https://tv.naver.com/artmconcert</guid>
@@ -262,24 +298,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Thu, 01 Jun 2023 11:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LIVE 360 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/audioguy</link>
             <guid>https://tv.naver.com/audioguy</guid>
@@ -296,24 +314,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210326_291/cUZMM_1616731659929IL30h_GIF/1616731659894.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴대학로 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/welcomedaehakro</link>
-            <guid>https://tv.naver.com/welcomedaehakro</guid>
-            <pubDate>Mon, 31 Jul 2023 01:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230730_163/2nqHT_1690718506944whgkw_JPEG/1690718506874.jpg" alt="웰컴대학로 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">웰컴대학로</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_163/2nqHT_1690718506944whgkw_JPEG/1690718506874.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
