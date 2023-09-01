@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -484,7 +484,7 @@
             <pubDate>Mon, 21 Aug 2023 09:39:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/315artscenter" onclick="nclk(this, 'channel.img', '315artscenter', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20201202_12/L9imG_1606900245348GHVnN_JPEG/1606900245332.jpg" alt="창원문화재단 3·15아트센터 이미지">
 										</div>
