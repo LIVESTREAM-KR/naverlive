@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 13:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 14:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,14 +87,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230824_175/1692861074403MpiCH_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <웨스턴 스토리>현상금 사냥꾼이 벌이는 유쾌한 사기극! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 01 Aug 2023 08:38:24 GMT</pubDate>
-            <content:encoded><![CDATA[8/21일, 8/28일, 9/3일, 9/4일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230801_102/1690877705815LQsmo_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <스모크> 녹화중계박제가 되어버린 천재 시인 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
@@ -117,6 +109,14 @@
             <pubDate>Thu, 24 Aug 2023 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[9/11일, 9/18일, 9/25일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230824_175/1692861074403MpiCH_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <스모크> 녹화중계박제가 되어버린 천재 시인 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
+            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
+            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[9/10일, 9/17일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230821_68/1692568173831BL9iP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
