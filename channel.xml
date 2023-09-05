@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 20:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 21:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@
             <pubDate>Wed, 23 Aug 2023 16:41:16 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/busonicompetition" onclick="nclk(this, 'channel.img', 'busonicompetition', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210815_56/K4Z8g_1628954514452n9NYh_PNG/1628954514414.png" alt="부소니 국제 피아노 콩쿠르 Busoni TV 이미지">
 										</div>
