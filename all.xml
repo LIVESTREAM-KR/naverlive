@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 스모크_9.10(일) PM 8 - 김경수 장은아 강찬 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 10일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_131/kQAYZ_1692252571567LRi3G_JPEG/1692252571546.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta)]]></title>
@@ -100,15 +91,6 @@
             <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
             <content:encoded><![CDATA[9/10일, 9/17일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230821_68/1692568173831BL9iP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 스모크_9.10(일) PM 8 - 김경수 장은아 강찬 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 10일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_131/kQAYZ_1692252571567LRi3G_JPEG/1692252571546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -517,15 +499,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 스모크_9.10(일) PM 8 - 김경수 장은아 강찬 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 10일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_131/kQAYZ_1692252571567LRi3G_JPEG/1692252571546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
@@ -648,14 +621,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 스모크_9.10(일) PM 8 - 김경수 장은아 강찬 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/137252</link>
-            <guid>https://tv.naver.com/l/137252</guid>
-            <pubDate>Fri, 18 Aug 2023 02:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[09월 10일(일) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

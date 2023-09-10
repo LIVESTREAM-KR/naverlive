@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-09-10T14:38:52.658Z</updated>
+    <updated>2023-09-10T15:39:07.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 스모크_9.10(일) PM 8 - 김경수 장은아 강찬]]></title>
-        <id>https://tv.naver.com/l/137252</id>
-        <link href="https://tv.naver.com/l/137252"/>
-        <updated>2023-08-18T02:39:08.946Z</updated>
-        <content type="html"><![CDATA[09월 10일(일) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리]]></title>
