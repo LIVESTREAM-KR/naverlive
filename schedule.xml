@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-09-11T08:39:23.041Z</updated>
+    <updated>2023-09-11T09:39:21.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -44,5 +44,37 @@
         <link href="https://tv.naver.com/l/137654"/>
         <updated>2023-08-24T07:39:02.107Z</updated>
         <content type="html"><![CDATA[09월 25일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <랭보>(2022) - 10/9(월) 윤소호 정상윤 정지우]]></title>
+        <id>https://tv.naver.com/l/138767</id>
+        <link href="https://tv.naver.com/l/138767"/>
+        <updated>2023-09-11T09:39:20.477Z</updated>
+        <content type="html"><![CDATA[10월 09일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초]]></title>
+        <id>https://tv.naver.com/l/138768</id>
+        <link href="https://tv.naver.com/l/138768"/>
+        <updated>2023-09-11T09:39:20.479Z</updated>
+        <content type="html"><![CDATA[10월 16일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우]]></title>
+        <id>https://tv.naver.com/l/138769</id>
+        <link href="https://tv.naver.com/l/138769"/>
+        <updated>2023-09-11T09:39:20.481Z</updated>
+        <content type="html"><![CDATA[10월 23일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈]]></title>
+        <id>https://tv.naver.com/l/138770</id>
+        <link href="https://tv.naver.com/l/138770"/>
+        <updated>2023-09-11T09:39:20.484Z</updated>
+        <content type="html"><![CDATA[10월 30일(월) 20:00]]></content>
     </entry>
 </feed>
