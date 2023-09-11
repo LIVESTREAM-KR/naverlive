@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 15:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 16:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Thu, 24 Aug 2023 07:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[09월 11일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta)]]></title>
@@ -127,15 +118,6 @@
             <pubDate>Thu, 24 Aug 2023 07:38:25 GMT</pubDate>
             <content:encoded><![CDATA[9/11일, 9/18일, 9/25일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230824_175/1692861074403MpiCH_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Thu, 24 Aug 2023 07:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[09월 11일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -571,15 +553,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Thu, 24 Aug 2023 07:38:25 GMT</pubDate>
-            <content:encoded><![CDATA[09월 11일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/doublek</link>
             <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
@@ -729,14 +702,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										연극 헤르츠클란_CAST: 김도빈, 강은빈, 김기택, 김기리 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/137650</link>
-            <guid>https://tv.naver.com/l/137650</guid>
-            <pubDate>Thu, 24 Aug 2023 07:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[09월 11일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
