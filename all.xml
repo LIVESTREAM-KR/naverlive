@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 14:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 15:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 17일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_77/hJI7x_16922527141596CYfj_JPEG/1692252714119.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 조풍래, 손유동, 허영손, 안창용 (네이버 공연 live beta)]]></title>
@@ -96,14 +87,6 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <스모크> 녹화중계박제가 되어버린 천재 시인 (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[9/10일, 9/17일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230821_68/1692568173831BL9iP_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국립오페라단 <라 트라비아타> 영원한 스테디셀러의 새로운 탄생 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -120,13 +103,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230824_175/1692861074403MpiCH_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 17일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_77/hJI7x_16922527141596CYfj_JPEG/1692252714119.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -553,15 +535,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/doublek</link>
-            <guid>https://patron.naver.com/ntv/c/intro/doublek</guid>
-            <pubDate>Sun, 20 Aug 2023 04:38:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 17일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_77/hJI7x_16922527141596CYfj_JPEG/1692252714119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 조풍래, 손유동, 허영손, 안창용 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
@@ -702,14 +675,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/137253</link>
-            <guid>https://tv.naver.com/l/137253</guid>
-            <pubDate>Fri, 18 Aug 2023 02:38:32 GMT</pubDate>
-            <content:encoded><![CDATA[09월 17일(일) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

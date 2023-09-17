@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-09-17T14:38:54.676Z</updated>
+    <updated>2023-09-17T15:39:29.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 스모크_9.17(일) PM 8 - 에녹 허혜진 강은일]]></title>
-        <id>https://tv.naver.com/l/137253</id>
-        <link href="https://tv.naver.com/l/137253"/>
-        <updated>2023-08-18T02:39:08.947Z</updated>
-        <content type="html"><![CDATA[09월 17일(일) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										연극 헤르츠클란_CAST: 조풍래, 손유동, 허영손, 안창용]]></title>
