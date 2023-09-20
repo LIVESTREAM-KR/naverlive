@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 06:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 07:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,24 @@
             <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
             <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Wed, 20 Sep 2023 07:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" alt="국립합창단 l The National Chorus of Korea  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -512,24 +530,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200820_51/7v7yH_1597909621489eDL5w_JPEG/1597909621470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artmconcert</link>
-            <guid>https://tv.naver.com/artmconcert</guid>
-            <pubDate>Tue, 29 Aug 2023 05:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아트엠콘서트</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
