@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 10:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 11:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											오페라 <라 트라비아타> (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택 (네이버 공연 live beta)]]></title>
@@ -100,15 +91,6 @@
             <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
             <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											오페라 <라 트라비아타> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -525,15 +507,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											오페라 <라 트라비아타> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
-            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
-            <pubDate>Tue, 25 Jul 2023 02:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
@@ -656,14 +629,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										오페라 <라 트라비아타> (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/134734</link>
-            <guid>https://tv.naver.com/l/134734</guid>
-            <pubDate>Tue, 25 Jul 2023 02:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
