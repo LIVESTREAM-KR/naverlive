@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 05:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 06:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이엠컬처]]></title>
+            <link>https://tv.naver.com/imculturetv</link>
+            <guid>https://tv.naver.com/imculturetv</guid>
+            <pubDate>Fri, 22 Sep 2023 08:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/imculturetv" onclick="nclk(this, 'channel.img', 'imculturetv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230921_201/Ftei1_1695286808514KmHvB_JPEG/1695286808490.jpg" alt="아이엠컬처 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아이엠컬처</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_201/Ftei1_1695286808514KmHvB_JPEG/1695286808490.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천안예술의전당]]></title>
             <link>https://tv.naver.com/cnac</link>
@@ -42,24 +60,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이엠컬처]]></title>
-            <link>https://tv.naver.com/imculturetv</link>
-            <guid>https://tv.naver.com/imculturetv</guid>
-            <pubDate>Fri, 22 Sep 2023 08:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/imculturetv" onclick="nclk(this, 'channel.img', 'imculturetv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230921_201/Ftei1_1695286808514KmHvB_JPEG/1695286808490.jpg" alt="아이엠컬처 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">아이엠컬처</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_201/Ftei1_1695286808514KmHvB_JPEG/1695286808490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이브(주)]]></title>
