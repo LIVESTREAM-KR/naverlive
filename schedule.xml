@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-09-25T14:38:50.575Z</updated>
+    <updated>2023-09-25T15:39:20.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <판> 9월 25일 공연 실황 녹화 중계]]></title>
-        <id>https://tv.naver.com/l/139617</id>
-        <link href="https://tv.naver.com/l/139617"/>
-        <updated>2023-09-25T01:36:07.212Z</updated>
-        <content type="html"><![CDATA[09월 25일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택]]></title>
