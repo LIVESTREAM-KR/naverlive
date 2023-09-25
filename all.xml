@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 23:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <판> 9월 25일 공연 실황 녹화 중계 (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/139617</link>
+            <guid>https://tv.naver.com/l/139617</guid>
+            <pubDate>Mon, 25 Sep 2023 01:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230925_285/1695605447613g878I_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택 (네이버 공연 live beta)]]></title>
@@ -93,6 +101,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <판> 9월 25일 공연 실황 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/139617</link>
+            <guid>https://tv.naver.com/l/139617</guid>
+            <pubDate>Mon, 25 Sep 2023 01:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230925_285/1695605447613g878I_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
@@ -146,6 +162,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nowhankyung</link>
+            <guid>https://tv.naver.com/nowhankyung</guid>
+            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt"> 한경 글로벌마켓</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[아이엠컬처 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/imculturetv</link>
             <guid>https://tv.naver.com/imculturetv</guid>
@@ -180,24 +214,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nowhankyung</link>
-            <guid>https://tv.naver.com/nowhankyung</guid>
-            <pubDate>Wed, 16 Nov 2022 18:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nowhankyung" onclick="nclk(this, 'channel.img', 'nowhankyung', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" alt=" 한경 글로벌마켓 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt"> 한경 글로벌마켓</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[라이브(주) (네이버 공연 live beta ─ 채널)]]></title>
@@ -629,6 +645,13 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <판> 9월 25일 공연 실황 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/139617</link>
+            <guid>https://tv.naver.com/l/139617</guid>
+            <pubDate>Mon, 25 Sep 2023 01:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
