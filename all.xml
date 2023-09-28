@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 08:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 09:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -524,7 +524,7 @@
             <pubDate>Mon, 04 Sep 2023 07:38:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/comeincompany" onclick="nclk(this, 'channel.img', 'comeincompany', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230904_247/REpX2_1693811388226JEbmb_JPEG/1693811388197.jpg" alt="컴인컴퍼니 이미지">
 										</div>
