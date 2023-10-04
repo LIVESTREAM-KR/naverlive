@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 04:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 05:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성남문화재단]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금호아트홀]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
@@ -134,24 +152,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Fri, 24 Mar 2023 08:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[강동문화재단]]></title>
             <link>https://tv.naver.com/gdfac</link>
             <guid>https://tv.naver.com/gdfac</guid>
@@ -176,7 +176,7 @@
             <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
 										</div>
