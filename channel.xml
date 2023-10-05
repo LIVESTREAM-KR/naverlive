@@ -4,9 +4,63 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 03:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 04:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립현대미술관]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[라이브(주)]]></title>
+            <link>https://tv.naver.com/livecorp</link>
+            <guid>https://tv.naver.com/livecorp</guid>
+            <pubDate>Fri, 22 Sep 2023 07:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">라이브(주)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강남문화재단]]></title>
+            <link>https://tv.naver.com/gfac</link>
+            <guid>https://tv.naver.com/gfac</guid>
+            <pubDate>Thu, 05 Oct 2023 04:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강남문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온스테이지]]></title>
             <link>https://tv.naver.com/onstage</link>
@@ -42,24 +96,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대미술관]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경arteTV]]></title>
@@ -330,42 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201105_15/GSX6j_1604544116674RxFNm_PNG/1604544116573.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브(주)]]></title>
-            <link>https://tv.naver.com/livecorp</link>
-            <guid>https://tv.naver.com/livecorp</guid>
-            <pubDate>Fri, 22 Sep 2023 07:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">라이브(주)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴인컴퍼니]]></title>
-            <link>https://tv.naver.com/comeincompany</link>
-            <guid>https://tv.naver.com/comeincompany</guid>
-            <pubDate>Mon, 04 Sep 2023 07:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/comeincompany" onclick="nclk(this, 'channel.img', 'comeincompany', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230904_247/REpX2_1693811388226JEbmb_JPEG/1693811388197.jpg" alt="컴인컴퍼니 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">컴인컴퍼니</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_247/REpX2_1693811388226JEbmb_JPEG/1693811388197.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
