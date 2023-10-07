@@ -4,94 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 13:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 14:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/9(월) 윤소호 정상윤 정지우 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10월 09일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_189/tbsyg_1694245329678u2XLi_JPEG/1694245329661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 10일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_168/Edhdk_16951379711494RMVE_JPEG/1695137971099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/139201</link>
-            <guid>https://tv.naver.com/l/139201</guid>
-            <pubDate>Mon, 18 Sep 2023 06:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[10월 16일(월) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_197/zXjWA_1694773185403ozrsh_JPEG/1694773185380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10월 16일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_125/Rl51b_1694245418176tEbKh_JPEG/1694245417995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 2회차 <뮤직드라마 당신만이> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/139810</link>
-            <guid>https://tv.naver.com/l/139810</guid>
-            <pubDate>Tue, 26 Sep 2023 02:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_74/3anei_1695610271182dNFsi_JPEG/1695610271138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_83/vfEvg_1695349732291Xf4r3_JPEG/1695349732258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 3회차 <난설> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/139811</link>
-            <guid>https://tv.naver.com/l/139811</guid>
-            <pubDate>Tue, 26 Sep 2023 02:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[10월 18일(수) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_158/XJZ9E_1695610514362rNia8_JPEG/1695610514283.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 4회차 <올드위키드송> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/139812</link>
-            <guid>https://tv.naver.com/l/139812</guid>
-            <pubDate>Tue, 26 Sep 2023 02:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[10월 23일(월) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_232/8EkaE_1695610645105MgDvW_JPEG/1695610645092.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10월 23일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_32/epmaf_1694245457732Eutzz_JPEG/1694245457712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[웰컴K-스테이지] 5회차 <김종욱 찾기> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/139813</link>
-            <guid>https://tv.naver.com/l/139813</guid>
-            <pubDate>Tue, 26 Sep 2023 02:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
