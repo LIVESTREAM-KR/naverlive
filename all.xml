@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 15:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 16:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -130,7 +130,7 @@
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/140494</link>
             <guid>https://tv.naver.com/l/140494</guid>
-            <pubDate>Sun, 08 Oct 2023 15:38:21 GMT</pubDate>
+            <pubDate>Sun, 08 Oct 2023 15:38:09 GMT</pubDate>
             <content:encoded><![CDATA[10월 13일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231008_141/1lTdA_16967709897189CNJ2_JPEG/1696770989677.jpg" length="0" type="image/jpg"/>
         </item>
@@ -716,7 +716,7 @@
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/140494</link>
             <guid>https://tv.naver.com/l/140494</guid>
-            <pubDate>Sun, 08 Oct 2023 15:38:45 GMT</pubDate>
+            <pubDate>Sun, 08 Oct 2023 15:38:09 GMT</pubDate>
             <content:encoded><![CDATA[10월 13일(금) 20:00]]></content:encoded>
         </item>
         <item>
