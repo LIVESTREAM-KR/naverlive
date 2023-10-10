@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 14:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 15:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 10일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_168/Edhdk_16951379711494RMVE_JPEG/1695137971099.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/140494</link>
@@ -92,29 +83,29 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
+											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시 (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
             <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 10일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_168/Edhdk_16951379711494RMVE_JPEG/1695137971099.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[10월 24일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_76/WIhgG_16953498631042g3A9_JPEG/1695349863087.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -190,6 +181,15 @@
             <pubDate>Tue, 26 Sep 2023 02:39:39 GMT</pubDate>
             <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_76/WIhgG_16953498631042g3A9_JPEG/1695349863087.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -553,15 +553,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 10일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_168/Edhdk_16951379711494RMVE_JPEG/1695137971099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
@@ -684,14 +675,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/139442</link>
-            <guid>https://tv.naver.com/l/139442</guid>
-            <pubDate>Wed, 27 Sep 2023 05:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[10월 10일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>

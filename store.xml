@@ -4,18 +4,9 @@
         <title>네이버 공연 live beta ─ 후원유료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 14:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 15:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 1차 중계 10/10 오후 8시]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[10월 10일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_168/Edhdk_16951379711494RMVE_JPEG/1695137971099.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초]]></title>
