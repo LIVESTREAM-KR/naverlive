@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-13T14:39:22.832Z</updated>
+    <updated>2023-10-13T15:38:56.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계]]></title>
-        <id>https://tv.naver.com/l/140494</id>
-        <link href="https://tv.naver.com/l/140494"/>
-        <updated>2023-10-08T15:38:45.053Z</updated>
-        <content type="html"><![CDATA[10월 13일(금) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들>]]></title>
         <id>https://tv.naver.com/l/139201</id>

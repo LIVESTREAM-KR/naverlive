@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 14:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 15:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/140494</link>
-            <guid>https://tv.naver.com/l/140494</guid>
-            <pubDate>Sun, 08 Oct 2023 15:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[10월 13일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231008_141/1lTdA_16967709897189CNJ2_JPEG/1696770989677.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/139201</link>
@@ -91,12 +83,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[후원
+											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_76/WIhgG_16953498631042g3A9_JPEG/1695349863087.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -107,12 +100,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/140494</link>
-            <guid>https://tv.naver.com/l/140494</guid>
-            <pubDate>Sun, 08 Oct 2023 15:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[10월 13일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231008_141/1lTdA_16967709897189CNJ2_JPEG/1696770989677.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <랭보> 공연실황'아르튀르 랭보'의 시가 뮤지컬로 탄생하다! (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[10/9, 10/16, 10/23, 10/30일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20230911_266/1694425228668uae3m_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들> (네이버 공연 live beta ─ HOT)]]></title>
@@ -188,6 +181,15 @@
             <pubDate>Tue, 26 Sep 2023 02:39:39 GMT</pubDate>
             <content:encoded><![CDATA[10월 24일(화) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_179/965dl_1695610734166PavoH_JPEG/1695610734025.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_76/WIhgG_16953498631042g3A9_JPEG/1695349863087.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웰컴대학로 (네이버 공연 live beta ─ 채널)]]></title>
@@ -673,13 +675,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/140494</link>
-            <guid>https://tv.naver.com/l/140494</guid>
-            <pubDate>Sun, 08 Oct 2023 15:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[10월 13일(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들> (네이버 공연 live beta ─ 전체일정)]]></title>
