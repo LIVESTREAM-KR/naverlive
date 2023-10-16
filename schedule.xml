@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-16T12:55:18.376Z</updated>
+    <updated>2023-10-16T13:39:18.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[웰컴K-스테이지] 1회차 <윌리엄과 윌리엄의 윌리엄들>]]></title>
-        <id>https://tv.naver.com/l/139201</id>
-        <link href="https://tv.naver.com/l/139201"/>
-        <updated>2023-09-18T06:39:48.672Z</updated>
-        <content type="html"><![CDATA[10월 16일(월) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <랭보>(2022) - 10/16(월) 정욱진 김종구 문경초]]></title>
