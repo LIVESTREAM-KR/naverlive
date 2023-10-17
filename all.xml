@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 14:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 15:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_83/vfEvg_1695349732291Xf4r3_JPEG/1695349732258.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 3회차 <난설> (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/139811</link>
@@ -122,15 +113,6 @@
             <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
             <content:encoded><![CDATA[10/17일, 24일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231017_165/1697514915499UnaAv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_83/vfEvg_1695349732291Xf4r3_JPEG/1695349732258.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 3회차 <난설> (네이버 공연 live beta ─ HOT)]]></title>
@@ -569,15 +551,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_83/vfEvg_1695349732291Xf4r3_JPEG/1695349732258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
             <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
@@ -682,14 +655,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/139443</link>
-            <guid>https://tv.naver.com/l/139443</guid>
-            <pubDate>Wed, 27 Sep 2023 06:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 3회차 <난설> (네이버 공연 live beta ─ 전체일정)]]></title>
