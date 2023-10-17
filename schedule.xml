@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-17T13:39:25.712Z</updated>
+    <updated>2023-10-17T14:39:28.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[웰컴K-스테이지] 2회차 <뮤직드라마 당신만이>]]></title>
-        <id>https://tv.naver.com/l/139810</id>
-        <link href="https://tv.naver.com/l/139810"/>
-        <updated>2023-09-26T02:40:16.335Z</updated>
-        <content type="html"><![CDATA[10월 17일(화) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <경종수정실록> 2차 중계 10/17 오후 8시]]></title>
