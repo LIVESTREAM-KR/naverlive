@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 06:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 07:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -466,7 +466,7 @@
             <pubDate>Wed, 11 Oct 2023 08:39:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/thebestplay" onclick="nclk(this, 'channel.img', 'thebestplay', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20231012_241/7LrZ2_16970848274282PCIw_PNG/1697084827416.png" alt="연극열전 이미지">
 										</div>
