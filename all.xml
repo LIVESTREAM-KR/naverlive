@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 05:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 06:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
 											가장 사적인 콘서트 <강다니엘: 마이 퍼레이드> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
             <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 20 Oct 2023 05:38:36 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 05:38:23 GMT</pubDate>
             <content:encoded><![CDATA[11월 05일(일) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_24/rbFXx_16977167549785xlsg_JPEG/1697716754940.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -610,7 +610,7 @@
 											가장 사적인 콘서트 <강다니엘: 마이 퍼레이드> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
             <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
-            <pubDate>Fri, 20 Oct 2023 05:38:48 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 05:38:23 GMT</pubDate>
             <content:encoded><![CDATA[11월 05일(일) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_24/rbFXx_16977167549785xlsg_JPEG/1697716754940.jpeg" length="0" type="image/jpeg"/>
         </item>
