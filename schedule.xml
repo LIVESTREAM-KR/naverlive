@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-23T02:39:46.107Z</updated>
+    <updated>2023-10-23T03:38:53.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -72,5 +72,29 @@
         <link href="https://tv.naver.com/l/141238"/>
         <updated>2023-10-20T01:35:36.505Z</updated>
         <content type="html"><![CDATA[11월 05일(일) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <안나, 차이코프스키> : 김경수, 최수진, 임병근, 정재환, 송상훈, 조은진, 곽나윤, 홍기범]]></title>
+        <id>https://tv.naver.com/l/141293</id>
+        <link href="https://tv.naver.com/l/141293"/>
+        <updated>2023-10-23T03:38:52.276Z</updated>
+        <content type="html"><![CDATA[11월 06일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범]]></title>
+        <id>https://tv.naver.com/l/141288</id>
+        <link href="https://tv.naver.com/l/141288"/>
+        <updated>2023-10-23T03:38:52.278Z</updated>
+        <content type="html"><![CDATA[11월 13일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범]]></title>
+        <id>https://tv.naver.com/l/141290</id>
+        <link href="https://tv.naver.com/l/141290"/>
+        <updated>2023-10-23T03:38:52.280Z</updated>
+        <content type="html"><![CDATA[11월 20일(월) 20:00]]></content>
     </entry>
 </feed>
