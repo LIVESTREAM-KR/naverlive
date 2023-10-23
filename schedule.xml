@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-23T15:39:25.322Z</updated>
+    <updated>2023-10-23T16:41:30.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우]]></title>
-        <id>https://tv.naver.com/l/138769</id>
-        <link href="https://tv.naver.com/l/138769"/>
-        <updated>2023-09-11T09:39:20.481Z</updated>
-        <content type="html"><![CDATA[10월 23일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[웰컴K-스테이지] 5회차 <김종욱 찾기>]]></title>
         <id>https://tv.naver.com/l/139813</id>
