@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-23T13:39:05.139Z</updated>
+    <updated>2023-10-23T14:39:25.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[웰컴K-스테이지] 4회차 <올드위키드송>]]></title>
-        <id>https://tv.naver.com/l/139812</id>
-        <link href="https://tv.naver.com/l/139812"/>
-        <updated>2023-09-26T02:40:16.341Z</updated>
-        <content type="html"><![CDATA[10월 23일(월) 18:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <랭보>(2022) - 10/23(월) 박정원 김경수 정지우]]></title>
