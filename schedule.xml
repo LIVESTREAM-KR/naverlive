@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-24T14:39:41.202Z</updated>
+    <updated>2023-10-24T15:39:15.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <경종수정실록> 3차 중계 10/24 오후 8시]]></title>
-        <id>https://tv.naver.com/l/139444</id>
-        <link href="https://tv.naver.com/l/139444"/>
-        <updated>2023-09-27T06:39:58.706Z</updated>
-        <content type="html"><![CDATA[10월 24일(화) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[웰컴K-스테이지] 마지막 6회차 <매직 드로잉 쇼 두들팝>]]></title>
         <id>https://tv.naver.com/l/139814</id>
