@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 17:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 18:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@
             <pubDate>Fri, 20 Oct 2023 01:35:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/wysenscene" onclick="nclk(this, 'channel.img', 'wysenscene', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20231011_239/OdZqX_1697033260166Das5P_PNG/1697033260151.png" alt="위즈온센 이미지">
 										</div>
