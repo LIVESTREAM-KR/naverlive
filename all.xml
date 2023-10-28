@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 01:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 02:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,24 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/seoulartscenter</link>
+            <guid>https://tv.naver.com/seoulartscenter</guid>
+            <pubDate>Sat, 28 Oct 2023 02:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">예술의전당</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엠비제트컴퍼니 MBZcompany (네이버 공연 live beta ─ 채널)]]></title>
@@ -350,7 +368,7 @@
             <pubDate>Fri, 22 Sep 2023 07:38:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/livecorp" onclick="nclk(this, 'channel.img', 'livecorp', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20211123_261/stf3N_1637660992649DHe4h_JPEG/1637660992636.jpg" alt="라이브(주) 이미지">
 										</div>
@@ -486,24 +504,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_241/7LrZ2_16970848274282PCIw_PNG/1697084827416.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kncdc</link>
-            <guid>https://tv.naver.com/kncdc</guid>
-            <pubDate>Fri, 06 Oct 2023 08:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대무용단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
