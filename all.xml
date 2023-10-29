@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 09:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 10:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,24 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화예술위원회(ARKO) (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arko</link>
+            <guid>https://tv.naver.com/arko</guid>
+            <pubDate>Fri, 13 Oct 2023 01:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arko" onclick="nclk(this, 'channel.img', 'arko', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" alt="한국문화예술위원회(ARKO) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화예술위원회(ARKO)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
@@ -288,24 +306,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_173/6mQrI_1694421237654QXflP_PNG/1694421237618.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화예술위원회(ARKO) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arko</link>
-            <guid>https://tv.naver.com/arko</guid>
-            <pubDate>Fri, 13 Oct 2023 01:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arko" onclick="nclk(this, 'channel.img', 'arko', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" alt="한국문화예술위원회(ARKO) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화예술위원회(ARKO)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
