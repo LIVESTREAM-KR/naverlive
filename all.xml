@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 01:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 02:39:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,7 +368,7 @@
             <pubDate>Tue, 05 Sep 2023 08:38:50 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" alt="한국예술종합학교 예술극장 이미지">
 										</div>
