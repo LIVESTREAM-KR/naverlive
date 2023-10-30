@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-10-30T15:39:09.936Z</updated>
+    <updated>2023-10-30T16:41:48.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈]]></title>
-        <id>https://tv.naver.com/l/138770</id>
-        <link href="https://tv.naver.com/l/138770"/>
-        <updated>2023-09-11T09:39:20.484Z</updated>
-        <content type="html"><![CDATA[10월 30일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										가장 사적인 콘서트 <강다니엘: 마이 퍼레이드>]]></title>

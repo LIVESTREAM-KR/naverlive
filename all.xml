@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 15:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 16:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											가장 사적인 콘서트 <강다니엘: 마이 퍼레이드> (네이버 공연 live beta)]]></title>
@@ -67,15 +58,6 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11/6일, 13일, 20일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -475,15 +457,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
-            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
-            <pubDate>Mon, 11 Sep 2023 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_95/uA3xS_1694245500417hHgcf_JPEG/1694245500378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											가장 사적인 콘서트 <강다니엘: 마이 퍼레이드> (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/wysenscene</link>
             <guid>https://patron.naver.com/ntv/c/intro/wysenscene</guid>
@@ -597,14 +570,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <랭보>(2022) - 10/30(월) 윤소호 김지철 조훈 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/138770</link>
-            <guid>https://tv.naver.com/l/138770</guid>
-            <pubDate>Mon, 11 Sep 2023 09:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[10월 30일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
