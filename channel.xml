@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 10:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 11:39:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립오페라단]]></title>
+            <link>https://tv.naver.com/koreanationalopera</link>
+            <guid>https://tv.naver.com/koreanationalopera</guid>
+            <pubDate>Wed, 01 Nov 2023 11:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" alt="국립오페라단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립오페라단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엠비제트컴퍼니 MBZcompany]]></title>
             <link>https://tv.naver.com/mbzcompany</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Tue, 10 Oct 2023 07:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
