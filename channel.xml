@@ -4,9 +4,45 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 08:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 09:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠비제트컴퍼니 MBZcompany]]></title>
+            <link>https://tv.naver.com/mbzcompany</link>
+            <guid>https://tv.naver.com/mbzcompany</guid>
+            <pubDate>Mon, 16 Oct 2023 10:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mbzcompany" onclick="nclk(this, 'channel.img', 'mbzcompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230817_253/hS3j4_1692251524787WlaX4_JPEG/1692251524763.jpg" alt="엠비제트컴퍼니 MBZcompany 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">엠비제트컴퍼니 MBZcompany</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_253/hS3j4_1692251524787WlaX4_JPEG/1692251524763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스팍TV]]></title>
+            <link>https://tv.naver.com/sfacmovie</link>
+            <guid>https://tv.naver.com/sfacmovie</guid>
+            <pubDate>Wed, 17 May 2023 09:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">스팍TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파크컴퍼니TV]]></title>
             <link>https://tv.naver.com/parkcompany</link>
@@ -60,24 +96,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팍TV]]></title>
-            <link>https://tv.naver.com/sfacmovie</link>
-            <guid>https://tv.naver.com/sfacmovie</guid>
-            <pubDate>Wed, 17 May 2023 09:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/sfacmovie" onclick="nclk(this, 'channel.img', 'sfacmovie', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" alt="스팍TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">스팍TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울예술단]]></title>
@@ -222,24 +240,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엠비제트컴퍼니 MBZcompany]]></title>
-            <link>https://tv.naver.com/mbzcompany</link>
-            <guid>https://tv.naver.com/mbzcompany</guid>
-            <pubDate>Mon, 16 Oct 2023 10:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mbzcompany" onclick="nclk(this, 'channel.img', 'mbzcompany', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230817_253/hS3j4_1692251524787WlaX4_JPEG/1692251524763.jpg" alt="엠비제트컴퍼니 MBZcompany 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">엠비제트컴퍼니 MBZcompany</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_253/hS3j4_1692251524787WlaX4_JPEG/1692251524763.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울시립교향악단 SPO TV]]></title>
