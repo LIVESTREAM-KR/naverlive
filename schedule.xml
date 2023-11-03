@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-03T05:38:42.073Z</updated>
+    <updated>2023-11-03T06:39:50.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -20,14 +20,6 @@
         <link href="https://tv.naver.com/l/141293"/>
         <updated>2023-10-23T03:38:52.276Z</updated>
         <content type="html"><![CDATA[11월 06일(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후원
-										가장 사적인 시사회 "사랑의 불시착: 라이브 인 서울"]]></title>
-        <id>https://tv.naver.com/l/142048</id>
-        <link href="https://tv.naver.com/l/142048"/>
-        <updated>2023-11-02T01:35:10.362Z</updated>
-        <content type="html"><![CDATA[11월 12일(일) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
