@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 09:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 10:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_253/hS3j4_1692251524787WlaX4_JPEG/1692251524763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웰컴대학로]]></title>
+            <link>https://tv.naver.com/welcomedaehakro</link>
+            <guid>https://tv.naver.com/welcomedaehakro</guid>
+            <pubDate>Mon, 31 Jul 2023 01:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230911_173/6mQrI_1694421237654QXflP_PNG/1694421237618.png" alt="웰컴대학로 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">웰컴대학로</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_173/6mQrI_1694421237654QXflP_PNG/1694421237618.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스팍TV]]></title>
@@ -276,24 +294,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴대학로]]></title>
-            <link>https://tv.naver.com/welcomedaehakro</link>
-            <guid>https://tv.naver.com/welcomedaehakro</guid>
-            <pubDate>Mon, 31 Jul 2023 01:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/welcomedaehakro" onclick="nclk(this, 'channel.img', 'welcomedaehakro', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230911_173/6mQrI_1694421237654QXflP_PNG/1694421237618.png" alt="웰컴대학로 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">웰컴대학로</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_173/6mQrI_1694421237654QXflP_PNG/1694421237618.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV]]></title>
