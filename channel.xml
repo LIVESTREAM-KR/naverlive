@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 05:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 06:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@
             <pubDate>Sat, 28 Oct 2023 02:38:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
 										</div>
