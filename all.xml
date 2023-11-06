@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 14:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 15:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <안나, 차이코프스키> : 김경수, 최수진, 임병근, 정재환, 송상훈, 조은진, 곽나윤, 홍기범 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계 (네이버 공연 live beta)]]></title>
             <link>https://tv.naver.com/l/142090</link>
@@ -57,15 +48,6 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11/6일, 13일, 20일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <안나, 차이코프스키> : 김경수, 최수진, 임병근, 정재환, 송상훈, 조은진, 곽나윤, 홍기범 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
@@ -455,15 +437,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <안나, 차이코프스키> : 김경수, 최수진, 임병근, 정재환, 송상훈, 조은진, 곽나윤, 홍기범 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
@@ -559,14 +532,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <안나, 차이코프스키> : 김경수, 최수진, 임병근, 정재환, 송상훈, 조은진, 곽나윤, 홍기범 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/141293</link>
-            <guid>https://tv.naver.com/l/141293</guid>
-            <pubDate>Mon, 23 Oct 2023 03:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
