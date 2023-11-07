@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-07T09:38:37.532Z</updated>
+    <updated>2023-11-07T10:38:51.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계]]></title>
-        <id>https://tv.naver.com/l/142090</id>
-        <link href="https://tv.naver.com/l/142090"/>
-        <updated>2023-11-03T11:39:16.702Z</updated>
-        <content type="html"><![CDATA[11월 07일(화) 18:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										가장 사적인 시사회 <사랑의 불시착: 라이브 인 서울>]]></title>
