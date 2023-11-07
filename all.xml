@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 01:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 02:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,15 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/141277</link>
+            <guid>https://tv.naver.com/l/141277</guid>
+            <pubDate>Tue, 07 Nov 2023 02:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <안나, 차이코프스키>나는 악보를 쓰고 당신은 가사를 쓰는 거에요. 그렇게 어두운 밤을 함께 견뎌요. (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -74,6 +83,33 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/141277</link>
+            <guid>https://tv.naver.com/l/141277</guid>
+            <pubDate>Tue, 07 Nov 2023 02:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국예술종합학교 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Tue, 07 Nov 2023 02:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" alt="한국예술종합학교 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국예술종합학교 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -418,24 +454,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulartscenter</link>
-            <guid>https://tv.naver.com/seoulartscenter</guid>
-            <pubDate>Sat, 28 Oct 2023 02:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">예술의전당</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
@@ -452,6 +470,15 @@
             <pubDate>Tue, 24 Oct 2023 06:39:38 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/141277</link>
+            <guid>https://tv.naver.com/l/141277</guid>
+            <pubDate>Tue, 07 Nov 2023 02:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두산아트센터] 연극 <당선자 없음> (한글자막) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -555,6 +582,14 @@
             <guid>https://tv.naver.com/l/141290</guid>
             <pubDate>Mon, 23 Oct 2023 03:38:40 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/141277</link>
+            <guid>https://tv.naver.com/l/141277</guid>
+            <pubDate>Tue, 07 Nov 2023 02:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
         </item>
     </channel>
 </rss>
