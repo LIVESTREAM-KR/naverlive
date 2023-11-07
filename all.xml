@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 04:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 05:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,15 @@
             <pubDate>Fri, 03 Nov 2023 11:38:40 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(화) 18:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_148/IKglA_1698889881454kid0p_JPEG/1698889881434.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											가장 사적인 시사회 <사랑의 불시착: 라이브 인 서울> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/l/142048</link>
+            <guid>https://tv.naver.com/l/142048</guid>
+            <pubDate>Tue, 07 Nov 2023 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일(일) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_229/xeNwv_1698832313067tWyeT_JPEG/1698832313026.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -36,9 +45,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/141277</link>
-            <guid>https://tv.naver.com/l/141277</guid>
-            <pubDate>Tue, 07 Nov 2023 02:39:56 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 07 Nov 2023 05:38:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
         </item>
@@ -51,6 +60,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <아가사> 온라인 중계 앵콜영국 대표 추리소설 작가 '아가사 크리스티'의 실종 실화를 바탕 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 07 Nov 2023 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[11/26일 (일) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231107_143/16993339040944fRFv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <안나, 차이코프스키>나는 악보를 쓰고 당신은 가사를 쓰는 거에요. 그렇게 어두운 밤을 함께 견뎌요. (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
@@ -59,12 +76,29 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231027_131/1698393993943KKKiq_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <아가사> 온라인 중계 앵콜영국 대표 추리소설 작가 '아가사 크리스티'의 실종 실화를 바탕 (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 07 Nov 2023 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[11/26일 (일) 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231107_143/16993339040944fRFv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/142090</link>
             <guid>https://tv.naver.com/l/142090</guid>
             <pubDate>Fri, 03 Nov 2023 11:38:40 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(화) 18:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_148/IKglA_1698889881454kid0p_JPEG/1698889881434.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											가장 사적인 시사회 <사랑의 불시착: 라이브 인 서울> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/l/142048</link>
+            <guid>https://tv.naver.com/l/142048</guid>
+            <pubDate>Tue, 07 Nov 2023 05:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일(일) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_229/xeNwv_1698832313067tWyeT_JPEG/1698832313026.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -87,9 +121,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/141277</link>
-            <guid>https://tv.naver.com/l/141277</guid>
-            <pubDate>Tue, 07 Nov 2023 02:39:56 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 07 Nov 2023 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
         </item>
@@ -455,6 +489,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											가장 사적인 시사회 <사랑의 불시착: 라이브 인 서울> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://tv.naver.com/l/142048</link>
+            <guid>https://tv.naver.com/l/142048</guid>
+            <pubDate>Tue, 07 Nov 2023 05:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일(일) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_229/xeNwv_1698832313067tWyeT_JPEG/1698832313026.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
             <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
@@ -474,9 +517,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/141277</link>
-            <guid>https://tv.naver.com/l/141277</guid>
-            <pubDate>Tue, 07 Nov 2023 02:39:56 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/ninestory</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ninestory</guid>
+            <pubDate>Tue, 07 Nov 2023 05:39:03 GMT</pubDate>
             <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
         </item>
@@ -566,6 +609,14 @@
             <guid>https://tv.naver.com/l/142090</guid>
             <pubDate>Fri, 03 Nov 2023 11:38:40 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(화) 18:30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										가장 사적인 시사회 <사랑의 불시착: 라이브 인 서울> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/142048</link>
+            <guid>https://tv.naver.com/l/142048</guid>
+            <pubDate>Tue, 07 Nov 2023 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일(일) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
