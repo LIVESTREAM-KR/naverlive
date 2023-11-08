@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 01:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 02:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,42 @@
             <pubDate>Tue, 07 Nov 2023 05:38:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국예술종합학교 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/karts</link>
+            <guid>https://tv.naver.com/karts</guid>
+            <pubDate>Tue, 07 Nov 2023 02:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" alt="한국예술종합학교 예술극장 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국예술종합학교 예술극장</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gugak1951</link>
+            <guid>https://tv.naver.com/gugak1951</guid>
+            <pubDate>Wed, 08 Nov 2023 02:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립국악원TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수원시립미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -244,24 +280,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_119/DYeQC_1672990616705Jx4qO_PNG/1672990616689.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국예술종합학교 예술극장 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/karts</link>
-            <guid>https://tv.naver.com/karts</guid>
-            <pubDate>Tue, 07 Nov 2023 02:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/karts" onclick="nclk(this, 'channel.img', 'karts', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" alt="한국예술종합학교 예술극장 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국예술종합학교 예술극장</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
@@ -460,24 +478,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulphil</link>
-            <guid>https://tv.naver.com/seoulphil</guid>
-            <pubDate>Tue, 31 Oct 2023 07:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulphil" onclick="nclk(this, 'channel.img', 'seoulphil', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" alt="서울시립교향악단 SPO TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시립교향악단 SPO TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
