@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-13T04:38:43.251Z</updated>
+    <updated>2023-11-13T05:38:50.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -28,5 +28,13 @@
         <link href="https://tv.naver.com/l/141277"/>
         <updated>2023-11-07T02:40:31.366Z</updated>
         <content type="html"><![CDATA[11월 26일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <킴즈> 11/28일 오후 8시]]></title>
+        <id>https://tv.naver.com/l/142533</id>
+        <link href="https://tv.naver.com/l/142533"/>
+        <updated>2023-11-13T05:38:50.056Z</updated>
+        <content type="html"><![CDATA[11월 28일(화) 20:00]]></content>
     </entry>
 </feed>
