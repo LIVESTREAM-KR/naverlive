@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-13T14:38:32.733Z</updated>
+    <updated>2023-11-13T15:38:41.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범]]></title>
-        <id>https://tv.naver.com/l/141288</id>
-        <link href="https://tv.naver.com/l/141288"/>
-        <updated>2023-10-23T03:38:52.278Z</updated>
-        <content type="html"><![CDATA[11월 13일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범]]></title>
