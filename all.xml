@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,7 +370,7 @@
             <pubDate>Thu, 02 Nov 2023 02:38:38 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/seenseecom" onclick="nclk(this, 'channel.img', 'seenseecom', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20190708_121/Atp35_1562576218061SzMYF_PNG/1562576218042.png" alt="신시컴퍼니 이미지">
 										</div>
