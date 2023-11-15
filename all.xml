@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 05:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 06:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,7 +89,7 @@
 											뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:38:02 GMT</pubDate>
+            <pubDate>Wed, 15 Nov 2023 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
         </item>
@@ -476,7 +476,7 @@
 											뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
             <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:38:12 GMT</pubDate>
+            <pubDate>Wed, 15 Nov 2023 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
         </item>
