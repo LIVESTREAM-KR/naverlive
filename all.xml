@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 01:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 02:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <잘못된 성장의 사례> (네이버 공연 live beta)]]></title>
+            <link>https://tv.naver.com/v/42940726</link>
+            <guid>https://tv.naver.com/v/42940726</guid>
+            <pubDate>Fri, 17 Nov 2023 02:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일(금) 10:58]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231117_90/1700186576658Xa2I9_PNG/23091814264826916353.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연 live beta)]]></title>
@@ -67,6 +75,14 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231107_143/16993339040944fRFv_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <잘못된 성장의 사례> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://tv.naver.com/v/42940726</link>
+            <guid>https://tv.naver.com/v/42940726</guid>
+            <pubDate>Fri, 17 Nov 2023 02:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일(금) 10:58]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231117_90/1700186576658Xa2I9_PNG/23091814264826916353.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
@@ -92,6 +108,24 @@
             <pubDate>Wed, 15 Nov 2023 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 공연 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/theater</link>
+            <guid>https://tv.naver.com/theater</guid>
+            <pubDate>Fri, 17 Nov 2023 02:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/theater" onclick="nclk(this, 'channel.img', 'theater', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" alt="네이버 공연 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">네이버 공연</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200914_276/hVu9I_1600053459069SB8tR_PNG/1600053459051.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -436,24 +470,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_239/OdZqX_1697033260166Das5P_PNG/1697033260151.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Sun, 29 Oct 2023 11:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/orchard</link>
@@ -559,6 +575,13 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <잘못된 성장의 사례> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/v/42940726</link>
+            <guid>https://tv.naver.com/v/42940726</guid>
+            <pubDate>Fri, 17 Nov 2023 02:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일(금) 10:58]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
