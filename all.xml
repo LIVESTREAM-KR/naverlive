@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 12:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 13:38:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/gdfac</link>
+            <guid>https://tv.naver.com/gdfac</guid>
+            <pubDate>Wed, 15 Nov 2023 05:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">강동문화재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artetv</link>
+            <guid>https://tv.naver.com/artetv</guid>
+            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한경arteTV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -200,24 +236,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한경arteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[온스테이지 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/onstage</link>
             <guid>https://tv.naver.com/onstage</guid>
@@ -270,24 +288,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gdfac</link>
-            <guid>https://tv.naver.com/gdfac</guid>
-            <pubDate>Wed, 15 Nov 2023 05:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gdfac" onclick="nclk(this, 'channel.img', 'gdfac', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" alt="강동문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강동문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200624_255/qCKtZ_15929853013617HKAd_JPEG/1592985301341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
