@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:38:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,6 +226,24 @@
             <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/seoulartscenter</link>
+            <guid>https://tv.naver.com/seoulartscenter</guid>
+            <pubDate>Fri, 24 Nov 2023 05:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">예술의전당</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -568,24 +586,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/gfac</link>
-            <guid>https://tv.naver.com/gfac</guid>
-            <pubDate>Thu, 09 Nov 2023 03:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/gfac" onclick="nclk(this, 'channel.img', 'gfac', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" alt="강남문화재단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">강남문화재단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
