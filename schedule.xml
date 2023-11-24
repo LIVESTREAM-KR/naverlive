@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-24T02:41:00.915Z</updated>
+    <updated>2023-11-24T03:38:34.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -12,6 +12,14 @@
         <link href="https://tv.naver.com/l/141277"/>
         <updated>2023-11-07T02:40:31.366Z</updated>
         <content type="html"><![CDATA[11월 26일(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <루드윅:베토벤 더 피아노> 1차 중계 11/27(월) 20시]]></title>
+        <id>https://tv.naver.com/l/143334</id>
+        <link href="https://tv.naver.com/l/143334"/>
+        <updated>2023-11-24T03:38:34.170Z</updated>
+        <content type="html"><![CDATA[11월 27일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
@@ -31,6 +39,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <루드윅:베토벤 더 피아노> 2차 중계 12/4(월) 20시]]></title>
+        <id>https://tv.naver.com/l/143335</id>
+        <link href="https://tv.naver.com/l/143335"/>
+        <updated>2023-11-24T03:38:34.174Z</updated>
+        <content type="html"><![CDATA[12월 04일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <배니싱> 12/8 20:00 녹화중계]]></title>
         <id>https://tv.naver.com/l/142724</id>
         <link href="https://tv.naver.com/l/142724"/>
@@ -39,11 +55,27 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <루드윅:베토벤 더 피아노> 3차 중계 12/11(월) 20시]]></title>
+        <id>https://tv.naver.com/l/143336</id>
+        <link href="https://tv.naver.com/l/143336"/>
+        <updated>2023-11-24T03:38:34.178Z</updated>
+        <content type="html"><![CDATA[12월 11일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <사의찬미> 12/15 20:00 녹화중계]]></title>
         <id>https://tv.naver.com/l/142725</id>
         <link href="https://tv.naver.com/l/142725"/>
         <updated>2023-11-20T03:38:53.411Z</updated>
         <content type="html"><![CDATA[12월 15일(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시]]></title>
+        <id>https://tv.naver.com/l/143337</id>
+        <link href="https://tv.naver.com/l/143337"/>
+        <updated>2023-11-24T03:38:34.178Z</updated>
+        <content type="html"><![CDATA[12월 18일(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
