@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-28T07:38:27.518Z</updated>
+    <updated>2023-11-28T08:40:09.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -31,6 +31,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시]]></title>
+        <id>https://tv.naver.com/l/143003</id>
+        <link href="https://tv.naver.com/l/143003"/>
+        <updated>2023-11-28T08:40:08.474Z</updated>
+        <content type="html"><![CDATA[12월 05일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										연극 헤르츠클란 녹화 중계_12월 7일(목)]]></title>
         <id>https://tv.naver.com/l/143747</id>
         <link href="https://tv.naver.com/l/143747"/>
@@ -55,6 +63,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시]]></title>
+        <id>https://tv.naver.com/l/143004</id>
+        <link href="https://tv.naver.com/l/143004"/>
+        <updated>2023-11-28T08:40:08.476Z</updated>
+        <content type="html"><![CDATA[12월 12일(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										연극 헤르츠클란 녹화 중계_12월 14일(목)]]></title>
         <id>https://tv.naver.com/l/143748</id>
         <link href="https://tv.naver.com/l/143748"/>
@@ -76,6 +92,14 @@
         <link href="https://tv.naver.com/l/143337"/>
         <updated>2023-11-24T03:38:34.178Z</updated>
         <content type="html"><![CDATA[12월 18일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										뮤지컬 <와일드 그레이> 3차 중계 12/19(화) 오후 8시]]></title>
+        <id>https://tv.naver.com/l/143015</id>
+        <link href="https://tv.naver.com/l/143015"/>
+        <updated>2023-11-28T08:40:08.481Z</updated>
+        <content type="html"><![CDATA[12월 19일(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원

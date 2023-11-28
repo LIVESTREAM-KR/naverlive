@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 07:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 08:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
@@ -63,6 +72,15 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_199/47ejR_1700104181122gbbBK_JPEG/1700104181090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 14일(목) (네이버 공연 live beta)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
@@ -78,24 +96,6 @@
             <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 15일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Fri, 24 Nov 2023 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_12월 21일(목) (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <킴즈>완벽한 가족의 완벽한 반전! (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -133,7 +133,7 @@
             <title><![CDATA[연극 <헤르츠클란>과거와 현실로 오가며 찾아 나서는 진정한 '나'에게로 이르는 길 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:02 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 07:37:57 GMT</pubDate>
             <content:encoded><![CDATA[12/7, 14, 21일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
@@ -166,10 +166,19 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:06 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 07:37:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 07일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_170/DTtO6_1701052219729dMB7q_JPEG/1701052219692.jpg" length="0" type="image/jpg"/>
         </item>
@@ -193,10 +202,19 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_199/47ejR_1700104181122gbbBK_JPEG/1700104181090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 14일(목) (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:06 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 07:37:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_131/vjTF3_1701052555726jO0HA_JPEG/1701052555693.jpg" length="0" type="image/jpg"/>
         </item>
@@ -208,24 +226,6 @@
             <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 15일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Fri, 24 Nov 2023 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_12월 21일(목) (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
@@ -616,10 +616,19 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:16 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 07:37:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 07일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_170/DTtO6_1701052219729dMB7q_JPEG/1701052219692.jpg" length="0" type="image/jpg"/>
         </item>
@@ -643,10 +652,19 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_199/47ejR_1700104181122gbbBK_JPEG/1700104181090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 14일(목) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:16 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 07:37:57 GMT</pubDate>
             <content:encoded><![CDATA[12월 14일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_131/vjTF3_1701052555726jO0HA_JPEG/1701052555693.jpg" length="0" type="image/jpg"/>
         </item>
@@ -658,24 +676,6 @@
             <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 15일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Fri, 24 Nov 2023 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_12월 21일(목) (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[12월 21일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두산아트센터] 연극 <당선자 없음> (한글자막) (네이버 공연 live beta ─ 다시보기)]]></title>
@@ -783,6 +783,14 @@
         </item>
         <item>
             <title><![CDATA[후원
+										뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/143003</link>
+            <guid>https://tv.naver.com/l/143003</guid>
+            <pubDate>Tue, 28 Nov 2023 08:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
 										연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/143747</link>
             <guid>https://tv.naver.com/l/143747</guid>
@@ -807,6 +815,14 @@
         </item>
         <item>
             <title><![CDATA[후원
+										뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/143004</link>
+            <guid>https://tv.naver.com/l/143004</guid>
+            <pubDate>Tue, 28 Nov 2023 08:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
 										연극 헤르츠클란 녹화 중계_12월 14일(목) (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/143748</link>
             <guid>https://tv.naver.com/l/143748</guid>
@@ -828,6 +844,14 @@
             <guid>https://tv.naver.com/l/143337</guid>
             <pubDate>Fri, 24 Nov 2023 03:38:34 GMT</pubDate>
             <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										뮤지컬 <와일드 그레이> 3차 중계 12/19(화) 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/143015</link>
+            <guid>https://tv.naver.com/l/143015</guid>
+            <pubDate>Tue, 28 Nov 2023 08:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[12월 19일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
