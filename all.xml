@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 08:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 09:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -169,7 +169,7 @@
 											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:49 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
         </item>
@@ -205,7 +205,7 @@
 											뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:49 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_199/47ejR_1700104181122gbbBK_JPEG/1700104181090.jpg" length="0" type="image/jpg"/>
         </item>
@@ -619,7 +619,7 @@
 											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:58 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
         </item>
@@ -655,7 +655,7 @@
 											뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/newpro</link>
             <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:59 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_199/47ejR_1700104181122gbbBK_JPEG/1700104181090.jpg" length="0" type="image/jpg"/>
         </item>
