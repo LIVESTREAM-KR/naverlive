@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-11-28T06:40:04.287Z</updated>
+    <updated>2023-11-28T07:38:27.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -31,6 +31,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										연극 헤르츠클란 녹화 중계_12월 7일(목)]]></title>
+        <id>https://tv.naver.com/l/143747</id>
+        <link href="https://tv.naver.com/l/143747"/>
+        <updated>2023-11-28T07:38:26.796Z</updated>
+        <content type="html"><![CDATA[12월 07일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <배니싱> 12/8 20:00 녹화중계]]></title>
         <id>https://tv.naver.com/l/142724</id>
         <link href="https://tv.naver.com/l/142724"/>
@@ -47,6 +55,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
+										연극 헤르츠클란 녹화 중계_12월 14일(목)]]></title>
+        <id>https://tv.naver.com/l/143748</id>
+        <link href="https://tv.naver.com/l/143748"/>
+        <updated>2023-11-28T07:38:26.801Z</updated>
+        <content type="html"><![CDATA[12월 14일(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
 										뮤지컬 <사의찬미> 12/15 20:00 녹화중계]]></title>
         <id>https://tv.naver.com/l/142725</id>
         <link href="https://tv.naver.com/l/142725"/>
@@ -60,6 +76,14 @@
         <link href="https://tv.naver.com/l/143337"/>
         <updated>2023-11-24T03:38:34.178Z</updated>
         <content type="html"><![CDATA[12월 18일(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										연극 헤르츠클란 녹화 중계_12월 21일(목)]]></title>
+        <id>https://tv.naver.com/l/143749</id>
+        <link href="https://tv.naver.com/l/143749"/>
+        <updated>2023-11-28T07:38:26.805Z</updated>
+        <content type="html"><![CDATA[12월 21일(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
