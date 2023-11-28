@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 14:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 15:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <사의찬미> 12/1 20:00 녹화중계 (네이버 공연 live beta)]]></title>
@@ -98,6 +89,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Fri, 24 Nov 2023 03:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</guid>
@@ -136,15 +136,6 @@
             <pubDate>Tue, 21 Nov 2023 09:38:20 GMT</pubDate>
             <content:encoded><![CDATA[12/8일 (월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231121_291/17005584908838E3xa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -228,22 +219,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/mmca</link>
-            <guid>https://tv.naver.com/mmca</guid>
-            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립현대미술관</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Fri, 24 Nov 2023 03:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
@@ -262,6 +244,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/mmca</link>
+            <guid>https://tv.naver.com/mmca</guid>
+            <pubDate>Mon, 03 Jul 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/mmca" onclick="nclk(this, 'channel.img', 'mmca', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" alt="국립현대미술관 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대미술관</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20140328_24/KR12176_1395973247098zEP0V_PNG/mmca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -589,15 +589,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/joodacul</link>
-            <guid>https://patron.naver.com/ntv/c/intro/joodacul</guid>
-            <pubDate>Wed, 15 Nov 2023 05:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_230/2CgYm_16994999709703HyiP_JPEG/1699499970956.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <사의찬미> 12/1 20:00 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
@@ -678,6 +669,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Fri, 24 Nov 2023 03:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[두산아트센터] 연극 <당선자 없음> (한글자막) (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://tv.naver.com/v/36547240</link>
             <guid>https://tv.naver.com/v/36547240</guid>
@@ -756,14 +756,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <킴즈> 11/28일 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/142533</link>
-            <guid>https://tv.naver.com/l/142533</guid>
-            <pubDate>Mon, 13 Nov 2023 05:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[11월 28일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
