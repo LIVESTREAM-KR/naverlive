@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-04T14:39:29.586Z</updated>
+    <updated>2023-12-04T15:38:58.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <루드윅:베토벤 더 피아노> 2차 중계 12/4(월) 20시]]></title>
-        <id>https://tv.naver.com/l/143335</id>
-        <link href="https://tv.naver.com/l/143335"/>
-        <updated>2023-11-24T03:38:34.174Z</updated>
-        <content type="html"><![CDATA[12월 04일(월) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시]]></title>
