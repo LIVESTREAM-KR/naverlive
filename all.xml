@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 14:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 15:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta)]]></title>
@@ -98,6 +89,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 12/22 20:00 녹화중계 (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <배니싱>케이에 대한 연구. 김의신 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021?rewardId=pat-t-add-823</guid>
@@ -136,15 +136,6 @@
             <pubDate>Tue, 21 Nov 2023 09:38:20 GMT</pubDate>
             <content:encoded><![CDATA[12/8일 (월) 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231121_291/17005584908838E3xa_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -228,6 +219,33 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 12/22 20:00 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/artetv</link>
+            <guid>https://tv.naver.com/artetv</guid>
+            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한경arteTV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
             <guid>https://tv.naver.com/kumhoarthall</guid>
@@ -280,24 +298,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한경arteTV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/artetv</link>
-            <guid>https://tv.naver.com/artetv</guid>
-            <pubDate>Thu, 12 Jan 2023 04:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/artetv" onclick="nclk(this, 'channel.img', 'artetv', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" alt="한경arteTV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한경arteTV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_267/TiVnA_1674181075586IzUHk_PNG/1674181075573.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -589,15 +589,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
-            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
-            <pubDate>Tue, 28 Nov 2023 08:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
@@ -678,6 +669,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_144/QIO6c_1701052733009GEfWg_JPEG/1701052732973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <사의찬미> 12/22 20:00 녹화중계 (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
+            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
+            <pubDate>Mon, 20 Nov 2023 06:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[두산아트센터] 연극 <당선자 없음> (한글자막) (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://tv.naver.com/v/36547240</link>
             <guid>https://tv.naver.com/v/36547240</guid>
@@ -756,14 +756,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/143003</link>
-            <guid>https://tv.naver.com/l/143003</guid>
-            <pubDate>Tue, 28 Nov 2023 08:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
