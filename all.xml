@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 08:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 09:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,22 +228,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/koreanationalopera</link>
-            <guid>https://tv.naver.com/koreanationalopera</guid>
-            <pubDate>Thu, 07 Dec 2023 08:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
+            <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/nck</link>
+            <guid>https://tv.naver.com/nck</guid>
+            <pubDate>Thu, 30 Nov 2023 01:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
 									
 									<div class="img-mask point">
 										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" alt="국립오페라단 이미지">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" alt="국립합창단 l The National Chorus of Korea  이미지">
 										</div>
 									</div>
 									<div class="info-txt">
-										<p class="txt">국립오페라단</p>
+										<p class="txt">국립합창단 l The National Chorus of Korea </p>
 									</div>
 								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스팍TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -262,6 +262,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20180917_270/HSSme_1537167952243pvVSK_PNG/1537167952224.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/koreanationalopera</link>
+            <guid>https://tv.naver.com/koreanationalopera</guid>
+            <pubDate>Thu, 07 Dec 2023 08:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" alt="국립오페라단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립오페라단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강동문화재단 (네이버 공연 live beta ─ 채널)]]></title>
@@ -478,24 +496,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_275/6lXHs_1651563520645Ydj6O_JPEG/1651563520613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국립합창단 l The National Chorus of Korea (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/nck</link>
-            <guid>https://tv.naver.com/nck</guid>
-            <pubDate>Thu, 30 Nov 2023 01:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" alt="국립합창단 l The National Chorus of Korea  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">국립합창단 l The National Chorus of Korea </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
