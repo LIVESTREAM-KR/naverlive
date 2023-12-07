@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-07T14:39:04.411Z</updated>
+    <updated>2023-12-07T15:39:05.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										연극 헤르츠클란 녹화 중계_12월 7일(목)]]></title>
-        <id>https://tv.naver.com/l/143747</id>
-        <link href="https://tv.naver.com/l/143747"/>
-        <updated>2023-11-28T07:38:26.796Z</updated>
-        <content type="html"><![CDATA[12월 07일(목) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <배니싱> 12/8 20:00 녹화중계]]></title>
