@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 15:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 16:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,7 +223,7 @@
 											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Thu, 07 Dec 2023 15:38:46 GMT</pubDate>
+            <pubDate>Thu, 07 Dec 2023 15:38:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_159/HoeuQ_1701683991042Owga5_JPEG/1701683991022.jpg" length="0" type="image/jpg"/>
         </item>
@@ -673,7 +673,7 @@
 											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Thu, 07 Dec 2023 15:38:55 GMT</pubDate>
+            <pubDate>Thu, 07 Dec 2023 15:38:38 GMT</pubDate>
             <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_159/HoeuQ_1701683991042Owga5_JPEG/1701683991022.jpg" length="0" type="image/jpg"/>
         </item>
