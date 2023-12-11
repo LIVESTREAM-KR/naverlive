@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 02:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 03:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,7 +158,7 @@
             <title><![CDATA[뮤지컬 <겨울나그네> 시츠프로브 녹화중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/144471</link>
             <guid>https://tv.naver.com/l/144471</guid>
-            <pubDate>Mon, 11 Dec 2023 02:43:39 GMT</pubDate>
+            <pubDate>Mon, 11 Dec 2023 02:43:30 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(수) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231207_180/6FKXb_1701941918939BdiT5_JPEG/1701941918912.jpg" length="0" type="image/jpg"/>
         </item>
@@ -775,7 +775,7 @@
             <title><![CDATA[뮤지컬 <겨울나그네> 시츠프로브 녹화중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/144471</link>
             <guid>https://tv.naver.com/l/144471</guid>
-            <pubDate>Mon, 11 Dec 2023 02:43:59 GMT</pubDate>
+            <pubDate>Mon, 11 Dec 2023 02:43:30 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일(수) 19:00]]></content:encoded>
         </item>
         <item>
