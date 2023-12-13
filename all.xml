@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,9 +88,9 @@
         <item>
             <title><![CDATA[후원
 											Happy Opera Day ③ 국립오페라단 오페라 <서부의 아가씨> (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/144481</link>
-            <guid>https://tv.naver.com/l/144481</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:02 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 13 Dec 2023 03:38:16 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(일) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_193/1702435274478jLHbc_JPEG/1701951138653.jpg" length="0" type="image/jpg"/>
         </item>
@@ -191,7 +191,7 @@
             <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <팔리아치&외투> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/144085</link>
             <guid>https://tv.naver.com/l/144085</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:14 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(금) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_193/1702435068845kgVHb_JPEG/1701411423320.jpg" length="0" type="image/jpg"/>
         </item>
@@ -208,16 +208,16 @@
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <토스카> (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/144089</link>
             <guid>https://tv.naver.com/l/144089</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:14 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[12월 23일(토) 19:30]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_168/1702435168333IStoC_JPEG/1701413342733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											Happy Opera Day ③ 국립오페라단 오페라 <서부의 아가씨> (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/144481</link>
-            <guid>https://tv.naver.com/l/144481</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:14 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 13 Dec 2023 03:38:28 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(일) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_193/1702435274478jLHbc_JPEG/1701951138653.jpg" length="0" type="image/jpg"/>
         </item>
@@ -638,18 +638,18 @@
         <item>
             <title><![CDATA[후원
 											Happy Opera Day ③ 국립오페라단 오페라 <서부의 아가씨> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/144481</link>
-            <guid>https://tv.naver.com/l/144481</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:28 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 13 Dec 2023 03:38:45 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(일) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_193/1702435274478jLHbc_JPEG/1701951138653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											Happy Opera Day ④ 국립오페라단 오페라 <라 트라비아타> (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://tv.naver.com/l/144483</link>
-            <guid>https://tv.naver.com/l/144483</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:28 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 13 Dec 2023 03:38:45 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(월) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231213_183/17024353474869YDwk_JPEG/1701951496200.jpg" length="0" type="image/jpg"/>
         </item>
@@ -802,7 +802,7 @@
             <title><![CDATA[Happy Opera Day ① 국립오페라단 오페라 <팔리아치&외투> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/144085</link>
             <guid>https://tv.naver.com/l/144085</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:40 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(금) 19:30]]></content:encoded>
         </item>
         <item>
@@ -817,7 +817,7 @@
             <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <토스카> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/144089</link>
             <guid>https://tv.naver.com/l/144089</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:40 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[12월 23일(토) 19:30]]></content:encoded>
         </item>
         <item>
@@ -825,7 +825,7 @@
 										Happy Opera Day ③ 국립오페라단 오페라 <서부의 아가씨> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/144481</link>
             <guid>https://tv.naver.com/l/144481</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:40 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[12월 24일(일) 15:00]]></content:encoded>
         </item>
         <item>
@@ -833,7 +833,7 @@
 										Happy Opera Day ④ 국립오페라단 오페라 <라 트라비아타> (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/144483</link>
             <guid>https://tv.naver.com/l/144483</guid>
-            <pubDate>Wed, 13 Dec 2023 02:43:40 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 02:43:28 GMT</pubDate>
             <content:encoded><![CDATA[12월 25일(월) 15:00]]></content:encoded>
         </item>
         <item>
