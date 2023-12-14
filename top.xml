@@ -4,9 +4,17 @@
         <title>네이버 공연 live beta ─ 하이라이트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 03:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 04:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 배리어프리 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
+            <pubDate>Thu, 14 Dec 2023 04:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[12/27일, 28일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립!]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
@@ -32,20 +40,12 @@
             <enclosure url="https://g-grafolio.pstatic.net/20231128_17/1701155175899vaG5x_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <사의 찬미>시대와 사상을 초월한 삶과 죽음의 대립!]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Tue, 21 Nov 2023 09:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[12/1, 8, 15, 22, 29일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231121_207/1700558259917iEBT5_JPEG/880X495_TV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <루드윅 : 베토벤 더 피아노>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Tue, 28 Nov 2023 07:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[11/27, 12/4, 11, 18일 오후 8시]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20231128_61/17011555838751Q9Ha_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 배리어프리 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
+            <pubDate>Thu, 14 Dec 2023 04:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[12/27일, 28일 오후 8시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
