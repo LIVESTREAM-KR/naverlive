@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-18T09:38:58.533Z</updated>
+    <updated>2023-12-18T10:40:59.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -97,5 +97,13 @@
         <link href="https://tv.naver.com/l/142727"/>
         <updated>2023-11-20T03:38:53.413Z</updated>
         <content type="html"><![CDATA[12월 29일(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후원
+										가장 사적인 클래식 - 로열 오페라 하우스 발레 돈키호테]]></title>
+        <id>https://tv.naver.com/l/145117</id>
+        <link href="https://tv.naver.com/l/145117"/>
+        <updated>2023-12-18T10:40:58.706Z</updated>
+        <content type="html"><![CDATA[12월 30일(토) 19:00]]></content>
     </entry>
 </feed>
