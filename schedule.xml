@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-23T12:48:35.456Z</updated>
+    <updated>2023-12-23T13:38:34.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <토스카>]]></title>
-        <id>https://tv.naver.com/l/144089</id>
-        <link href="https://tv.naver.com/l/144089"/>
-        <updated>2023-12-13T02:43:40.425Z</updated>
-        <content type="html"><![CDATA[12월 23일(토) 19:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										Happy Opera Day ③ 국립오페라단 오페라 <서부의 아가씨>]]></title>
