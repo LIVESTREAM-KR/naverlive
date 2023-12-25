@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-25T14:38:17.901Z</updated>
+    <updated>2023-12-25T15:38:30.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										Happy Opera Day ④ 국립오페라단 오페라 <라 트라비아타>]]></title>
-        <id>https://tv.naver.com/l/144483</id>
-        <link href="https://tv.naver.com/l/144483"/>
-        <updated>2023-12-13T02:43:40.428Z</updated>
-        <content type="html"><![CDATA[12월 25일(월) 15:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막]]></title>
