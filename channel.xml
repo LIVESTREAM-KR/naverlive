@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 03:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 04:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아떼오드]]></title>
+            <link>https://tv.naver.com/ateod</link>
+            <guid>https://tv.naver.com/ateod</guid>
+            <pubDate>Tue, 26 Dec 2023 04:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/ateod" onclick="nclk(this, 'channel.img', 'ateod', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20220313_61/4PF4U_1647161720333ix1Vo_JPEG/1647161720306.jpg" alt="아떼오드 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">아떼오드</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_61/4PF4U_1647161720333ix1Vo_JPEG/1647161720306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술의전당]]></title>
             <link>https://tv.naver.com/seoulartscenter</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온스테이지]]></title>
-            <link>https://tv.naver.com/onstage</link>
-            <guid>https://tv.naver.com/onstage</guid>
-            <pubDate>Thu, 08 Jun 2023 03:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/onstage" onclick="nclk(this, 'channel.img', 'onstage', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230608_84/RRgkY_1686193444444QAko1_PNG/1686193444428.png" alt="온스테이지 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">온스테이지</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_84/RRgkY_1686193444444QAko1_PNG/1686193444428.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
