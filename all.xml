@@ -4,18 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 14:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 15:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막 (네이버 공연 live beta)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Thu, 07 Dec 2023 15:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_159/HoeuQ_1701683991042Owga5_JPEG/1701683991022.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <이토록 보통의> 배리어프리 중계-화면해설 (네이버 공연 live beta)]]></title>
@@ -91,15 +82,6 @@
             <pubDate>Thu, 07 Dec 2023 15:38:38 GMT</pubDate>
             <content:encoded><![CDATA[12/27일, 28일 오후 8시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20231214_229/170252504434434yfN_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Thu, 07 Dec 2023 15:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_159/HoeuQ_1701683991042Owga5_JPEG/1701683991022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -499,15 +481,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막 (네이버 공연 live beta ─ 후원유료)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
-            <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
-            <pubDate>Thu, 07 Dec 2023 15:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_159/HoeuQ_1701683991042Owga5_JPEG/1701683991022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <이토록 보통의> 배리어프리 중계-화면해설 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/parkcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/parkcompany</guid>
@@ -612,14 +585,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-										뮤지컬 <이토록 보통의> 배리어프리 중계-수어,국문자막 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/144241</link>
-            <guid>https://tv.naver.com/l/144241</guid>
-            <pubDate>Tue, 05 Dec 2023 01:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
