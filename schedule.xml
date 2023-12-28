@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-28T01:36:20.815Z</updated>
+    <updated>2023-12-28T02:40:26.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -36,5 +36,12 @@
         <link href="https://tv.naver.com/l/145248"/>
         <updated>2023-12-26T03:39:49.942Z</updated>
         <content type="html"><![CDATA[01월 07일(일) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈]]></title>
+        <id>https://tv.naver.com/l/145695</id>
+        <link href="https://tv.naver.com/l/145695"/>
+        <updated>2023-12-28T02:40:25.661Z</updated>
+        <content type="html"><![CDATA[01월 15일(월) 19:00]]></content>
     </entry>
 </feed>
