@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2023-12-29T14:38:25.400Z</updated>
+    <updated>2023-12-29T15:39:17.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[후원
-										뮤지컬 <사의찬미> 12/29 20:00 녹화중계]]></title>
-        <id>https://tv.naver.com/l/142727</id>
-        <link href="https://tv.naver.com/l/142727"/>
-        <updated>2023-11-20T03:38:53.413Z</updated>
-        <content type="html"><![CDATA[12월 29일(금) 20:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[후원
 										가장 사적인 클래식 - 로열 오페라 하우스 발레 돈키호테]]></title>
