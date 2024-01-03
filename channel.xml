@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 01:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 02:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,7 +194,7 @@
             <pubDate>Thu, 30 Nov 2023 01:39:29 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/nck" onclick="nclk(this, 'channel.img', 'nck', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230811_247/z3kxK_1691713155633SoWlY_PNG/1691713155607.png" alt="국립합창단 l The National Chorus of Korea  이미지">
 										</div>
@@ -212,7 +212,7 @@
             <pubDate>Wed, 08 Nov 2023 02:40:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/gugak1951" onclick="nclk(this, 'channel.img', 'gugak1951', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170901_65/GosIi_15042483219373Xjat_JPEG/1504248321916.jpg" alt="국립국악원TV 이미지">
 										</div>
