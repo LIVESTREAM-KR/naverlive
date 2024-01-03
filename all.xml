@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 07:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 08:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,24 @@
             <pubDate>Thu, 28 Dec 2023 02:39:56 GMT</pubDate>
             <content:encoded><![CDATA[01월 15일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231228_160/mQ50N_1703727855995TxzMi_JPEG/1703727855975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여주세종문화관광재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/yjcf</link>
+            <guid>https://tv.naver.com/yjcf</guid>
+            <pubDate>Wed, 03 Jan 2024 08:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/yjcf" onclick="nclk(this, 'channel.img', 'yjcf', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" alt="여주세종문화관광재단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">여주세종문화관광재단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200617_283/G8aSi_1592359868873GyLyB_JPEG/1592359868850.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -398,24 +416,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_100/HMLwY_1632410023209KlXsf_JPEG/1632410023187.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulphil</link>
-            <guid>https://tv.naver.com/seoulphil</guid>
-            <pubDate>Mon, 04 Dec 2023 02:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulphil" onclick="nclk(this, 'channel.img', 'seoulphil', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" alt="서울시립교향악단 SPO TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시립교향악단 SPO TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
