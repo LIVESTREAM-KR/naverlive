@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://live.naver.com/store</id>
-    <title>네이버 공연 live beta ─ 후원유료</title>
-    <updated>2024-01-03T02:41:26.642Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://live.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 공연 live beta ─ 후원유료</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 03 Jan 2024 03:38:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <레드북> 01월 07일 18:00 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Wed, 03 Jan 2024 03:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[01월 07일(일) 18:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20231226_267/1703561953878YV8RI_PNG/1111.PNG" length="0" type="image/PNG"/>
+        </item>
+    </channel>
+</rss>
