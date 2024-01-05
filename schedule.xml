@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://live.naver.com/schedule</id>
     <title>네이버 공연 live beta ─ 전체일정</title>
-    <updated>2024-01-05T16:41:09.491Z</updated>
+    <updated>2024-01-05T17:38:28.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://live.naver.com/favicon.ico</icon>
     <entry>
@@ -29,7 +29,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[후원
-										가장 사적인 클래식 -로열 발레단 "호두까기인형"]]></title>
+										가장 사적인 클래식 -로열 발레단]]></title>
         <id>https://tv.naver.com/l/146207</id>
         <link href="https://tv.naver.com/l/146207"/>
         <updated>2024-01-05T09:38:23.821Z</updated>
