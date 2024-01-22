@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 07:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 08:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,42 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240116_201/nFs4P_1705387363557AVkrt_JPEG/1705387363542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국문화예술위원회(ARKO) (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arko</link>
+            <guid>https://tv.naver.com/arko</guid>
+            <pubDate>Fri, 13 Oct 2023 01:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arko" onclick="nclk(this, 'channel.img', 'arko', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240102_135/V8DYs_1704158937814GKzzK_GIF/1704158937805.gif" alt="한국문화예술위원회(ARKO) 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">한국문화예술위원회(ARKO)</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240102_135/V8DYs_1704158937814GKzzK_GIF/1704158937805.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/arkocreate</link>
+            <guid>https://tv.naver.com/arkocreate</guid>
+            <pubDate>Tue, 02 Jan 2024 02:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20231212_44/zg85M_1702347829090j8ghu_PNG/1702347829075.png" alt="공연예술창작산실 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">공연예술창작산실</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_44/zg85M_1702347829090j8ghu_PNG/1702347829075.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/mmca</link>
             <guid>https://tv.naver.com/mmca</guid>
@@ -150,42 +186,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화예술위원회(ARKO) (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arko</link>
-            <guid>https://tv.naver.com/arko</guid>
-            <pubDate>Fri, 13 Oct 2023 01:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arko" onclick="nclk(this, 'channel.img', 'arko', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240102_135/V8DYs_1704158937814GKzzK_GIF/1704158937805.gif" alt="한국문화예술위원회(ARKO) 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국문화예술위원회(ARKO)</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240102_135/V8DYs_1704158937814GKzzK_GIF/1704158937805.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[공연예술창작산실 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/arkocreate</link>
-            <guid>https://tv.naver.com/arkocreate</guid>
-            <pubDate>Tue, 02 Jan 2024 02:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/arkocreate" onclick="nclk(this, 'channel.img', 'arkocreate', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20231212_44/zg85M_1702347829090j8ghu_PNG/1702347829075.png" alt="공연예술창작산실 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">공연예술창작산실</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_44/zg85M_1702347829090j8ghu_PNG/1702347829075.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국립국악원TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -248,7 +248,7 @@
             <pubDate>Fri, 05 Jan 2024 09:38:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" alt="성남문화재단  이미지">
 										</div>
