@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 09:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 10:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,7 +158,7 @@
             <pubDate>Fri, 02 Feb 2024 10:38:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/lgarts" onclick="nclk(this, 'channel.img', 'lgarts', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240202_238/wQSQP_1706864575862iP0l6_JPEG/1706864575825.jpg" alt="LG아트센터 이미지">
 										</div>
