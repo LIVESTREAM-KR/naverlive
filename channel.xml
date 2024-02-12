@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 03:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 04:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -122,7 +122,7 @@
             <pubDate>Mon, 05 Feb 2024 04:38:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
 										</div>
