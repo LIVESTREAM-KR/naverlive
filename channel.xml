@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 01:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 02:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예술의전당]]></title>
+            <link>https://tv.naver.com/seoulartscenter</link>
+            <guid>https://tv.naver.com/seoulartscenter</guid>
+            <pubDate>Fri, 16 Feb 2024 02:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">예술의전당</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립현대미술관]]></title>
             <link>https://tv.naver.com/mmca</link>
@@ -348,24 +366,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231227_3/bfIg3_17036808572746IpNk_JPEG/1703680857250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위즈온센]]></title>
-            <link>https://tv.naver.com/wysenscene</link>
-            <guid>https://tv.naver.com/wysenscene</guid>
-            <pubDate>Mon, 18 Dec 2023 11:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/wysenscene" onclick="nclk(this, 'channel.img', 'wysenscene', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20231011_239/OdZqX_1697033260166Das5P_PNG/1697033260151.png" alt="위즈온센 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">위즈온센</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_239/OdZqX_1697033260166Das5P_PNG/1697033260151.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
