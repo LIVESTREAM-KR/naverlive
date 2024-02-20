@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 13:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 14:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -354,7 +354,7 @@
             <pubDate>Thu, 08 Feb 2024 07:38:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/parkcompany" onclick="nclk(this, 'channel.img', 'parkcompany', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240208_205/Ahe0R_1707375955119OkIAO_JPEG/1707375955092.jpg" alt="파크컴퍼니TV 이미지">
 										</div>
