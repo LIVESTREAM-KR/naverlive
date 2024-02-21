@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 06:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 07:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,24 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240207_232/iLPL3_1707291041602vO1xR_JPEG/1707291041588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국립현대무용단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/kncdc</link>
+            <guid>https://tv.naver.com/kncdc</guid>
+            <pubDate>Wed, 21 Feb 2024 07:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kncdc" onclick="nclk(this, 'channel.img', 'kncdc', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" alt="국립현대무용단 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">국립현대무용단</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20150612_158/mtDn9_1434071266773vtYXK_JPEG/1434071266763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -318,7 +336,7 @@
             <pubDate>Fri, 29 Dec 2023 02:39:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/artmconcert" onclick="nclk(this, 'channel.img', 'artmconcert', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230302_102/lrw4X_1677725092920ub0Gg_PNG/1677725092915.png" alt="아트엠콘서트 이미지">
 										</div>
@@ -508,24 +526,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200601_271/eznLv_1590986513250nxDgH_JPEG/1590986513224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국뮤지컬어워즈 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/kmusicalawards</link>
-            <guid>https://tv.naver.com/kmusicalawards</guid>
-            <pubDate>Tue, 09 Jan 2024 07:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kmusicalawards" onclick="nclk(this, 'channel.img', 'kmusicalawards', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20231227_3/bfIg3_17036808572746IpNk_JPEG/1703680857250.jpg" alt="한국뮤지컬어워즈 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">한국뮤지컬어워즈</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231227_3/bfIg3_17036808572746IpNk_JPEG/1703680857250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
