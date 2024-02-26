@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 07:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 08:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파크컴퍼니TV]]></title>
+            <link>https://tv.naver.com/parkcompany</link>
+            <guid>https://tv.naver.com/parkcompany</guid>
+            <pubDate>Thu, 08 Feb 2024 07:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/parkcompany" onclick="nclk(this, 'channel.img', 'parkcompany', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240208_205/Ahe0R_1707375955119OkIAO_JPEG/1707375955092.jpg" alt="파크컴퍼니TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">파크컴퍼니TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240208_205/Ahe0R_1707375955119OkIAO_JPEG/1707375955092.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한경arteTV]]></title>
             <link>https://tv.naver.com/artetv</link>
@@ -258,24 +276,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파크컴퍼니TV]]></title>
-            <link>https://tv.naver.com/parkcompany</link>
-            <guid>https://tv.naver.com/parkcompany</guid>
-            <pubDate>Thu, 08 Feb 2024 07:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/parkcompany" onclick="nclk(this, 'channel.img', 'parkcompany', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240208_205/Ahe0R_1707375955119OkIAO_JPEG/1707375955092.jpg" alt="파크컴퍼니TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">파크컴퍼니TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240208_205/Ahe0R_1707375955119OkIAO_JPEG/1707375955092.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울예술단]]></title>
