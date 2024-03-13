@@ -4,7 +4,7 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 23:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 01:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_24/h8iN1_1681173586851jN7Bx_JPEG/1681173586803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아트홀]]></title>
+            <link>https://tv.naver.com/kumhoarthall</link>
+            <guid>https://tv.naver.com/kumhoarthall</guid>
+            <pubDate>Wed, 22 Nov 2023 01:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">금호아트홀</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경arteTV]]></title>
@@ -150,24 +168,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀]]></title>
-            <link>https://tv.naver.com/kumhoarthall</link>
-            <guid>https://tv.naver.com/kumhoarthall</guid>
-            <pubDate>Wed, 22 Nov 2023 01:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/kumhoarthall" onclick="nclk(this, 'channel.img', 'kumhoarthall', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" alt="금호아트홀 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">금호아트홀</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트엠콘서트]]></title>
