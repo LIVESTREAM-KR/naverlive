@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 06:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 07:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,12 +35,37 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240207_232/iLPL3_1707291041602vO1xR_JPEG/1707291041588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											오페라 <한여름 밤의 꿈> (네이버 공연 live beta)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 21 Mar 2024 07:38:13 GMT</pubDate>
+            <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <한여름 밤의 꿈> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 21 Mar 2024 07:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[4/13일 (토) 오후 3시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240321_238/1711006190827Hmli2_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <미오 프라텔로>거절할 수 없는 제안을 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
             <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
             <pubDate>Tue, 23 Jan 2024 06:40:37 GMT</pubDate>
             <content:encoded><![CDATA[3/18, 3/25, 4/1, 4/8일 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240227_152/1709005691303FxIeT_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립오페라단 <한여름 밤의 꿈> (네이버 공연 live beta ─ 하이라이트)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 21 Mar 2024 07:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[4/13일 (토) 오후 3시]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240321_238/1711006190827Hmli2_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미오 프라텔로>거절할 수 없는 제안을 하지 (네이버 공연 live beta ─ 하이라이트)]]></title>
@@ -76,6 +101,15 @@
             <pubDate>Tue, 23 Jan 2024 06:40:37 GMT</pubDate>
             <content:encoded><![CDATA[04월 08일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240207_232/iLPL3_1707291041602vO1xR_JPEG/1707291041588.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <한여름 밤의 꿈> (네이버 공연 live beta ─ HOT)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 21 Mar 2024 07:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -465,6 +499,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240207_232/iLPL3_1707291041602vO1xR_JPEG/1707291041588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											오페라 <한여름 밤의 꿈> (네이버 공연 live beta ─ 후원유료)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Thu, 21 Mar 2024 07:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[두산아트센터] 연극 <당선자 없음> (한글자막) (네이버 공연 live beta ─ 다시보기)]]></title>
             <link>https://tv.naver.com/v/36547240</link>
             <guid>https://tv.naver.com/v/36547240</guid>
@@ -567,6 +610,14 @@
             <guid>https://tv.naver.com/l/148112</guid>
             <pubDate>Tue, 20 Feb 2024 06:38:11 GMT</pubDate>
             <content:encoded><![CDATA[04월 08일(월) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+										오페라 <한여름 밤의 꿈> (네이버 공연 live beta ─ 전체일정)]]></title>
+            <link>https://tv.naver.com/l/149913</link>
+            <guid>https://tv.naver.com/l/149913</guid>
+            <pubDate>Thu, 21 Mar 2024 07:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
         </item>
     </channel>
 </rss>
