@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 20:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 21:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,24 +112,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulartscenter</link>
-            <guid>https://tv.naver.com/seoulartscenter</guid>
-            <pubDate>Fri, 16 Feb 2024 02:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">예술의전당</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/nowhankyung</link>
             <guid>https://tv.naver.com/nowhankyung</guid>
@@ -146,6 +128,24 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의전당 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/seoulartscenter</link>
+            <guid>https://tv.naver.com/seoulartscenter</guid>
+            <pubDate>Fri, 16 Feb 2024 02:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulartscenter" onclick="nclk(this, 'channel.img', 'seoulartscenter', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" alt="예술의전당 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">예술의전당</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_228/8qKKK_1667890025845B0JkH_JPEG/1667890025825.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트엠콘서트 (네이버 공연 live beta ─ 채널)]]></title>
