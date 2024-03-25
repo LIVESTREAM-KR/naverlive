@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 23:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 01:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -244,7 +244,7 @@
             <pubDate>Mon, 18 Mar 2024 01:33:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/daelimmuseum" onclick="nclk(this, 'channel.img', 'daelimmuseum', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20150610_65/ZFfFJ_1433926641000EMM9G_JPEG/1433926640974.jpg" alt="대림미술관ㅣ디뮤지엄 이미지">
 										</div>
