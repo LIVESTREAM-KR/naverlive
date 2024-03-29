@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 23:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 01:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,6 +92,42 @@
             <pubDate>Thu, 21 Mar 2024 07:38:13 GMT</pubDate>
             <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/seoulphil</link>
+            <guid>https://tv.naver.com/seoulphil</guid>
+            <pubDate>Thu, 04 Jan 2024 01:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulphil" onclick="nclk(this, 'channel.img', 'seoulphil', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" alt="서울시립교향악단 SPO TV 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">서울시립교향악단 SPO TV</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/snart</link>
+            <guid>https://tv.naver.com/snart</guid>
+            <pubDate>Fri, 05 Jan 2024 09:38:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240223_268/X2VlH_17086493348280JEXf_PNG/1708649334824.png" alt="성남문화재단  이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">성남문화재단 </p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240223_268/X2VlH_17086493348280JEXf_PNG/1708649334824.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한경 글로벌마켓 (네이버 공연 live beta ─ 채널)]]></title>
@@ -256,24 +292,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210507_250/JWr3N_1620363415518hQ5FM_JPEG/1620363415504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성남문화재단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/snart</link>
-            <guid>https://tv.naver.com/snart</guid>
-            <pubDate>Fri, 05 Jan 2024 09:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/snart" onclick="nclk(this, 'channel.img', 'snart', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20240223_268/X2VlH_17086493348280JEXf_PNG/1708649334824.png" alt="성남문화재단  이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">성남문화재단 </p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240223_268/X2VlH_17086493348280JEXf_PNG/1708649334824.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[토마토클래식 (네이버 공연 live beta ─ 채널)]]></title>
             <link>https://tv.naver.com/tomatoclassictv</link>
             <guid>https://tv.naver.com/tomatoclassictv</guid>
@@ -380,24 +398,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200721_253/rFrkv_1595315459183AwSFI_JPEG/1595315459160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/seoulphil</link>
-            <guid>https://tv.naver.com/seoulphil</guid>
-            <pubDate>Thu, 04 Jan 2024 01:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/seoulphil" onclick="nclk(this, 'channel.img', 'seoulphil', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" alt="서울시립교향악단 SPO TV 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울시립교향악단 SPO TV</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200526_22/YQQBT_1590469641273Is2HE_JPEG/1590469641252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립현대미술관 (네이버 공연 live beta ─ 채널)]]></title>
