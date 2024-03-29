@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 09:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 10:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,6 +92,24 @@
             <pubDate>Thu, 21 Mar 2024 07:38:13 GMT</pubDate>
             <content:encoded><![CDATA[04월 13일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240311_31/D90xh_1710142294822SGIud_JPEG/1710142294762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HJ컬쳐 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/hjculture</link>
+            <guid>https://tv.naver.com/hjculture</guid>
+            <pubDate>Fri, 29 Mar 2024 10:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">HJ컬쳐</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -434,24 +452,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20190529_155/JQ8UO_1559105002351KmO1U_JPEG/1559105002301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울예술단 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/spac1</link>
-            <guid>https://tv.naver.com/spac1</guid>
-            <pubDate>Mon, 05 Feb 2024 04:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/spac1" onclick="nclk(this, 'channel.img', 'spac1', '');" class="lnk-channel">
-									
-									<div class="img-mask">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" alt="서울예술단 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">서울예술단</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20170212_211/hBDDH_1486825201148Wnjbm_JPEG/1486825201113.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[후원
