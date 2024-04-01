@@ -4,9 +4,27 @@
         <title>네이버 공연 live beta ─ 채널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 01:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HJ컬쳐]]></title>
+            <link>https://tv.naver.com/hjculture</link>
+            <guid>https://tv.naver.com/hjculture</guid>
+            <pubDate>Fri, 29 Mar 2024 10:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">HJ컬쳐</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[금호아트홀]]></title>
             <link>https://tv.naver.com/kumhoarthall</link>
@@ -60,24 +78,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HJ컬쳐]]></title>
-            <link>https://tv.naver.com/hjculture</link>
-            <guid>https://tv.naver.com/hjculture</guid>
-            <pubDate>Fri, 29 Mar 2024 10:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">HJ컬쳐</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울시립교향악단 SPO TV]]></title>

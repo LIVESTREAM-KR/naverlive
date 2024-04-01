@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 01:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,9 +107,27 @@
 											뮤지컬 <22년2개월> 04월 15일 19:00 녹화 중계 (네이버 공연 live beta ─ HOT)]]></title>
             <link>https://tv.naver.com/l/150639</link>
             <guid>https://tv.naver.com/l/150639</guid>
-            <pubDate>Mon, 01 Apr 2024 01:40:36 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 01:40:27 GMT</pubDate>
             <content:encoded><![CDATA[04월 15일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240328_89/bGEC8_1711615944210Wkn6z_JPEG/1711615944190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HJ컬쳐 (네이버 공연 live beta ─ 채널)]]></title>
+            <link>https://tv.naver.com/hjculture</link>
+            <guid>https://tv.naver.com/hjculture</guid>
+            <pubDate>Fri, 29 Mar 2024 10:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
+									
+									<div class="img-mask point">
+										<div class="mask">
+											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
+										</div>
+									</div>
+									<div class="info-txt">
+										<p class="txt">HJ컬쳐</p>
+									</div>
+								</a>]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금호아트홀 (네이버 공연 live beta ─ 채널)]]></title>
@@ -164,24 +182,6 @@
 									</div>
 								</a>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/YfYep_1673402185616yODIb_PNG/1673402185594.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HJ컬쳐 (네이버 공연 live beta ─ 채널)]]></title>
-            <link>https://tv.naver.com/hjculture</link>
-            <guid>https://tv.naver.com/hjculture</guid>
-            <pubDate>Fri, 29 Mar 2024 10:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://tv.naver.com/hjculture" onclick="nclk(this, 'channel.img', 'hjculture', '');" class="lnk-channel">
-									
-									<div class="img-mask point">
-										<div class="mask">
-											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" alt="HJ컬쳐 이미지">
-										</div>
-									</div>
-									<div class="info-txt">
-										<p class="txt">HJ컬쳐</p>
-									</div>
-								</a>]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200824_99/Yt4Tl_1598250810964qlPVY_PNG/1598250810947.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서울시립교향악단 SPO TV (네이버 공연 live beta ─ 채널)]]></title>
@@ -503,7 +503,7 @@
 											뮤지컬 <22년2개월> 04월 15일 19:00 녹화 중계 (네이버 공연 live beta ─ 후원유료)]]></title>
             <link>https://tv.naver.com/l/150639</link>
             <guid>https://tv.naver.com/l/150639</guid>
-            <pubDate>Mon, 01 Apr 2024 01:40:45 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 01:40:27 GMT</pubDate>
             <content:encoded><![CDATA[04월 15일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240328_89/bGEC8_1711615944210Wkn6z_JPEG/1711615944190.jpg" length="0" type="image/jpg"/>
         </item>
@@ -616,7 +616,7 @@
 										뮤지컬 <22년2개월> 04월 15일 19:00 녹화 중계 (네이버 공연 live beta ─ 전체일정)]]></title>
             <link>https://tv.naver.com/l/150639</link>
             <guid>https://tv.naver.com/l/150639</guid>
-            <pubDate>Mon, 01 Apr 2024 01:40:55 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 01:40:27 GMT</pubDate>
             <content:encoded><![CDATA[04월 15일(월) 19:00]]></content:encoded>
         </item>
     </channel>
