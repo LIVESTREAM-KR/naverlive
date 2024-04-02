@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 10:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 11:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 뮤지컬 <파가니니> 가든콘서트 (네이버 공연 live beta)]]></title>
-            <link>https://tv.naver.com/l/151188</link>
-            <guid>https://tv.naver.com/l/151188</guid>
-            <pubDate>Mon, 01 Apr 2024 04:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[04월 02일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240401_284/ydyFZ_1711936074251WePOo_JPEG/1711936074221.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <미오 프라텔로> 4월 8일(월) 오후 7시 녹화 중계 (네이버 공연 live beta)]]></title>
@@ -82,14 +74,6 @@
             <pubDate>Tue, 23 Jan 2024 06:40:37 GMT</pubDate>
             <content:encoded><![CDATA[3/18, 3/25, 4/1, 4/8일 오후 7시]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20240227_152/1709005691303FxIeT_JPEG/688X386_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 뮤지컬 <파가니니> 가든콘서트 (네이버 공연 live beta ─ HOT)]]></title>
-            <link>https://tv.naver.com/l/151188</link>
-            <guid>https://tv.naver.com/l/151188</guid>
-            <pubDate>Mon, 01 Apr 2024 04:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[04월 02일(화) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240401_284/ydyFZ_1711936074251WePOo_JPEG/1711936074221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -314,7 +298,7 @@
             <pubDate>Tue, 26 Mar 2024 11:38:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://tv.naver.com/koreanationalopera" onclick="nclk(this, 'channel.img', 'koreanationalopera', '');" class="lnk-channel">
 									
-									<div class="img-mask point">
+									<div class="img-mask">
 										<div class="mask">
 											<img class="_lazyImage" src="https://phinf.pstatic.net/tvcast/20230109_269/5UCp2_1673223476190trVbg_PNG/1673223476156.png" alt="국립오페라단 이미지">
 										</div>
@@ -602,13 +586,6 @@
             <pubDate>Wed, 16 Nov 2022 18:47:28 GMT</pubDate>
             <content:encoded><![CDATA[토마토클래식]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210831_215/eLagX_1630409174516AgbMA_JPEG/1c526025-0a4e-11ec-9b63-505dacfba98a_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 뮤지컬 <파가니니> 가든콘서트 (네이버 공연 live beta ─ 전체일정)]]></title>
-            <link>https://tv.naver.com/l/151188</link>
-            <guid>https://tv.naver.com/l/151188</guid>
-            <pubDate>Mon, 01 Apr 2024 04:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[04월 02일(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
